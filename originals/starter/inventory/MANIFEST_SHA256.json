@@ -1,0 +1,121 @@
+{
+  "generated": "2026-11-05",
+  "files": [
+    {
+      "file": "READ_ME_FIRST.md",
+      "bytes": 3858,
+      "sha256": "d235adb21a08dd350485e22e2977893b65ba37932e99b77881c2b6cf3681935e"
+    },
+    {
+      "file": "docs/CODEX_FIRST_TASK.md",
+      "bytes": 3306,
+      "sha256": "33427d205a1fb1bfb965907ab958b7e851c2d8ac9d65432f0af0bf27989737a4"
+    },
+    {
+      "file": "docs/DEVELOPMENT_STATE.md",
+      "bytes": 3153,
+      "sha256": "496f7710ceb45d21e3baf4c50cafa12b03b04c42034cb5308227a2baaf3cfa6d"
+    },
+    {
+      "file": "docs/Mi_Espanol_AUDIT_AND_NEXT_ACTION_2026-11-03.md",
+      "bytes": 10144,
+      "sha256": "78480a36f4d65f15d117740a033b4812c8ca1c042bb4602b985dbde64eea0352"
+    },
+    {
+      "file": "docs/Mi_Espanol_CEFR_A1_B2_Architecture_Addendum(2)(1).md",
+      "bytes": 3901,
+      "sha256": "049b21021f03d4212a882e8ea802f23f961b5b56e0ae2e8d147810a0aeddf745"
+    },
+    {
+      "file": "docs/Mi_Espanol_MASTER_PROJECT_HANDOVER_2026-11-03.docx",
+      "bytes": 45276,
+      "sha256": "ff79e2d7361b5267f60ceb6d5ca199bc54a9b1dfd2048a8e7165a3e2bcecc8a4"
+    },
+    {
+      "file": "docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx",
+      "bytes": 65092,
+      "sha256": "552dc779e6f501f63df8e6d866b397232f1cae3d7d7eaa115d0f93764c3dddd0"
+    },
+    {
+      "file": "docs/Mi_Espanol_MASTER_TZ_v2_0_2026-11-03(1).docx",
+      "bytes": 51547,
+      "sha256": "9cbf3ea6f89db45981ce2406030ce06f993f4f9048238082274e885ed816604a"
+    },
+    {
+      "file": "reports/Mi_Espanol_STAGE04_Productive_Skills_QA_2026-11-03(1).md",
+      "bytes": 6458,
+      "sha256": "7dc99acb13f304e09dfb585eb0c60d3d972c0fa38b71de35eb9cdfa75d59afe0"
+    },
+    {
+      "file": "reports/Mi_Espanol_STAGE05_Dialogue_Curriculum_QA_2026-11-03(1).md",
+      "bytes": 6178,
+      "sha256": "5e9f50fa82f68f7a8d1edec740e21624497b9a4f45a0cf907069e0db5bf22917"
+    },
+    {
+      "file": "reports/Mi_Espanol_STAGE06_Adaptive_Learning_QA_2026-11-03(1).md",
+      "bytes": 7210,
+      "sha256": "801f7fb6eefb2f5f095e06039803d4eb47ae1e6e6dd35e18800fb7dce3de1944"
+    },
+    {
+      "file": "reports/Mi_Espanol_STAGE08_Unified_Review_QA_2026-11-03.md",
+      "bytes": 6163,
+      "sha256": "29972c29df4fc2c4c23d119eca8fb37fefdd873f4fa931f4d4d34601c07c0875"
+    },
+    {
+      "file": "reports/Mi_Espanol_STAGE10_Visual_Learning_QA_2026-11-03.md",
+      "bytes": 6374,
+      "sha256": "131147e666eadfa1274aeb7c1dc24116e3b477d15b88c281f61f91525ef3e2e4"
+    },
+    {
+      "file": "reports/Mi_Espanol_STAGE11_Mobile_Audio_Offline_QA_2026-11-03.md",
+      "bytes": 9239,
+      "sha256": "09361f6ada693723af879628b814a4c3e7688437b239b406c3be8830cda4a8a6"
+    },
+    {
+      "file": "reports/Mi_Espanol_v3_Content_Implementation_Audit_2026-11-03.md",
+      "bytes": 5951,
+      "sha256": "c86a838a56a21637839b3ce61b3f20c0731a0fb56a783c377683aca5c379eebf"
+    },
+    {
+      "file": "reports/Mi_Espanol_v3_Integrated_QA_Report_2026-11-03(1).md",
+      "bytes": 14774,
+      "sha256": "664cc5fef79ffc969efd106bc3e235e8bf4c8456542d1f9498625a717a7675dc"
+    },
+    {
+      "file": "reports/Mi_Espanol_v3_Reliability_Implementation_Report_2026-11-03(1).md",
+      "bytes": 7790,
+      "sha256": "36f3e7a63d42855002db8a1d9185e81ec589b5510192a3758c15c01f714e4555"
+    },
+    {
+      "file": "reports/Mi_Espanol_v3_Verified_Lessons_Checkpoint_2026-11-03(1).md",
+      "bytes": 4983,
+      "sha256": "06b505b024a72a84ddc651324d16077be9c7e78f5829b35fba4e923595dfc550"
+    },
+    {
+      "file": "source_candidates/Mi_Espanol_4_4_REBUILT_iPhone.html",
+      "bytes": 38852641,
+      "sha256": "02696b413cfbfbf82509b7a3049ca5c831aadbc77717282ff20656d62b5433c4"
+    },
+    {
+      "file": "source_candidates/Mi_Espanol_Integrated_Review_2026-11-02.html",
+      "bytes": 12151111,
+      "sha256": "2841c65f0df98a0608eddc9415ca389474bf48b6348b1baa69d510b061f03ebe"
+    },
+    {
+      "file": "source_candidates/Mi_Espanol_LAST_TESTABLE.html",
+      "bytes": 9894397,
+      "sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018"
+    },
+    {
+      "file": "source_candidates/Mi_Espanol_Personal_Complete_Review.html",
+      "bytes": 12142861,
+      "sha256": "09c69a5c130e14f1f58b31bd23e80c6fbe8ef547e4e250e09c29a71f745a16ac"
+    },
+    {
+      "file": "source_candidates/Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "bytes": 9868381,
+      "sha256": "54cb7d8ed3ff97c1f90a385ee9cf552e936fb028dafea08613541ba86e0e543a"
+    }
+  ],
+  "missing_requested": []
+}
