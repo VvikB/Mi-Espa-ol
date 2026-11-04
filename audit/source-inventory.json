@@ -1,0 +1,1129 @@
+[
+  {
+    "file": "originals/starter/source_candidates/Mi_Espanol_LAST_TESTABLE.html",
+    "sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018",
+    "bytes": 9894397,
+    "title": [
+      "Mi Español · Personal"
+    ],
+    "db_keys": [
+      "atlas",
+      "vocab",
+      "schemes",
+      "images",
+      "quiz",
+      "weeks"
+    ],
+    "counts": {
+      "vocab": 131,
+      "quiz": 10,
+      "grammar_sections": 16,
+      "tables": 73,
+      "schemes": 8,
+      "images": 25,
+      "weeks": 12
+    },
+    "images": [
+      {
+        "audit_id": "images/0",
+        "source_id": "GRAMMAR-01",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 225332,
+        "sha256": "5ad0efcb71c6852497147b27b99481a32d600b22895ba44eefee2ceaa522b4b3"
+      },
+      {
+        "audit_id": "images/1",
+        "source_id": "GRAMMAR-02",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 494856,
+        "sha256": "54a3708dbc3bf1ce6149dda23b6de2df103cd2f9d30100599bb1cee19ddd2216"
+      },
+      {
+        "audit_id": "images/2",
+        "source_id": "GRAMMAR-03",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 465558,
+        "sha256": "c14320b3c0b7bfc4f820144ac57f5b83810b6a71c09a196787b63b7a2e98af37"
+      },
+      {
+        "audit_id": "images/3",
+        "source_id": "GRAMMAR-04",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 421004,
+        "sha256": "f9ea6d291dca9b5c372d68cef8ef91caf6a5a9b56edd2b95ce22b71bbb09ca97"
+      },
+      {
+        "audit_id": "images/4",
+        "source_id": "GRAMMAR-05",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 417590,
+        "sha256": "88fb510004780d9f2a601e377636e1fc940da552fa33b9d09eab31ef6eeafbc3"
+      },
+      {
+        "audit_id": "images/5",
+        "source_id": "GRAMMAR-06",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 271474,
+        "sha256": "1dfae1ee6471bce20d6af72cda0183bdccf582730f02ae8a54f642af9d823ced"
+      },
+      {
+        "audit_id": "images/6",
+        "source_id": "GRAMMAR-07",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 276412,
+        "sha256": "4cd73ae5a94369a6b2f3b887093165919ba486685fce692ecee0d915b81dd8ea"
+      },
+      {
+        "audit_id": "images/7",
+        "source_id": "GRAMMAR-08",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 238588,
+        "sha256": "c5dc34f206546f56d6f6f4a12cf74fd2989c8a316fdf52f9325cb62a7007ae33"
+      },
+      {
+        "audit_id": "images/8",
+        "source_id": "GRAMMAR-09",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 218712,
+        "sha256": "4ffc8a2fdb60451402b46736e0ad58955738483810385fd392810355fe73e03e"
+      },
+      {
+        "audit_id": "images/9",
+        "source_id": "GRAMMAR-10",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 408604,
+        "sha256": "d02340a1f45a75ad04239233d6af11d9c5f7b560d32cee829c0e351a92b6b459"
+      },
+      {
+        "audit_id": "images/10",
+        "source_id": "GRAMMAR-11",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 351322,
+        "sha256": "2124908ffce3ee18f4d0ffe1a3d16a0feff8b333726d3d38be7d3fb6c4c45749"
+      },
+      {
+        "audit_id": "images/11",
+        "source_id": "GRAMMAR-12",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 441410,
+        "sha256": "afa96eceea597768d6e9375bfa4b20ec42d53472ce85fb1c8c95caacf9f9e5c3"
+      },
+      {
+        "audit_id": "images/12",
+        "source_id": "GRAMMAR-13",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 434816,
+        "sha256": "673e2917b7e11844d7fd1724574c00ff5e29bbbec65e62c38f1b14377ab160d0"
+      },
+      {
+        "audit_id": "images/13",
+        "source_id": "GRAMMAR-14",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 288572,
+        "sha256": "53234c4c7f5d277e46c033a43023cab5230bf85966b4cb7d73c23853dbb1fb80"
+      },
+      {
+        "audit_id": "images/14",
+        "source_id": "GRAMMAR-15",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 214354,
+        "sha256": "fab9187a954f30058204bfa62aa5b70a41d12db3348c3eb155927256373f5588"
+      },
+      {
+        "audit_id": "images/15",
+        "source_id": "GRAMMAR-16",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 223848,
+        "sha256": "8bcc6b7e276ff6f48f13081e2d00280b2b875e8fbae56ed038c7ec7a4fdf1092"
+      },
+      {
+        "audit_id": "images/16",
+        "source_id": 7529,
+        "group": "words",
+        "mime": "image/webp",
+        "bytes": 274032,
+        "sha256": "529bcd6e8fbbcbc44d5bb35dcb51ba57c5ff407076962e397f5c2ac97050b3aa"
+      },
+      {
+        "audit_id": "images/17",
+        "source_id": 7530,
+        "group": "words",
+        "mime": "image/webp",
+        "bytes": 229412,
+        "sha256": "8d9ff577d5973a807eed5c2259976b2fcb271f03a8ee67090ffc31aa00cc44f7"
+      },
+      {
+        "audit_id": "images/18",
+        "source_id": "NOTES-01",
+        "group": "notes",
+        "mime": "image/webp",
+        "bytes": 180268,
+        "sha256": "819608c8ea8064330cf10dc811b5f88a642cda821c462504eef5cd599893f192"
+      },
+      {
+        "audit_id": "images/19",
+        "source_id": "NOTES-02",
+        "group": "notes",
+        "mime": "image/webp",
+        "bytes": 332792,
+        "sha256": "aa765304b10741de9f195c36bfa381c0151746e3ae256824b8cdddaa1c59159c"
+      },
+      {
+        "audit_id": "images/20",
+        "source_id": "NOTES-03",
+        "group": "notes",
+        "mime": "image/webp",
+        "bytes": 209718,
+        "sha256": "6d6730fb6099c384926a94b6e3358bed160794b55c748eaca47edfde7ff9250a"
+      },
+      {
+        "audit_id": "images/21",
+        "source_id": "NOTES-04",
+        "group": "notes",
+        "mime": "image/webp",
+        "bytes": 259396,
+        "sha256": "0f821481f969baf98c6902c837624b93824a11f640dd0afe70febe29050492eb"
+      },
+      {
+        "audit_id": "images/22",
+        "source_id": "NOTES-05",
+        "group": "notes",
+        "mime": "image/webp",
+        "bytes": 141280,
+        "sha256": "428654a2ea09dc370aaa212b0feaf647dedf51314b8f91ab038c87514cd1c591"
+      },
+      {
+        "audit_id": "images/23",
+        "source_id": "NOTES-06",
+        "group": "notes",
+        "mime": "image/webp",
+        "bytes": 141830,
+        "sha256": "84b6da998ddf0974fb83a13ac6534a4887be8d6de4e3dfcd80462cf802204c74"
+      },
+      {
+        "audit_id": "images/24",
+        "source_id": "NOTES-07",
+        "group": "notes",
+        "mime": "image/webp",
+        "bytes": 162806,
+        "sha256": "bfc34171bdaff21869a96fd282768068037c8be0a890c06184e4da2740e6a217"
+      }
+    ],
+    "empty_vocab": [],
+    "duplicate_normalized_es": {},
+    "vocab_field_coverage": {
+      "cat": 131,
+      "es": 131,
+      "ex": 131,
+      "ru": 131
+    },
+    "syntax": [
+      {
+        "script": 0,
+        "status": "PASS",
+        "stderr": ""
+      }
+    ],
+    "functions": [
+      {
+        "name": "save",
+        "runtime_line": 6
+      },
+      {
+        "name": "audioInfo",
+        "runtime_line": 8
+      },
+      {
+        "name": "speak",
+        "runtime_line": 9
+      },
+      {
+        "name": "testSpeech",
+        "runtime_line": 13
+      },
+      {
+        "name": "navTo",
+        "runtime_line": 14
+      },
+      {
+        "name": "renderNav",
+        "runtime_line": 16
+      },
+      {
+        "name": "render",
+        "runtime_line": 17
+      },
+      {
+        "name": "dateKey",
+        "runtime_line": 18
+      },
+      {
+        "name": "dueCount",
+        "runtime_line": 19
+      },
+      {
+        "name": "todayHTML",
+        "runtime_line": 20
+      },
+      {
+        "name": "setLib",
+        "runtime_line": 21
+      },
+      {
+        "name": "libraryHTML",
+        "runtime_line": 22
+      },
+      {
+        "name": "tablesHTML",
+        "runtime_line": 23
+      },
+      {
+        "name": "sourcesHTML",
+        "runtime_line": 25
+      },
+      {
+        "name": "stepPage",
+        "runtime_line": 26
+      },
+      {
+        "name": "applyZoom",
+        "runtime_line": 28
+      },
+      {
+        "name": "resetZoom",
+        "runtime_line": 29
+      },
+      {
+        "name": "zoomSource",
+        "runtime_line": 30
+      },
+      {
+        "name": "initGestures",
+        "runtime_line": 31
+      },
+      {
+        "name": "resizeSource",
+        "runtime_line": 35
+      },
+      {
+        "name": "schemesHTML",
+        "runtime_line": 36
+      },
+      {
+        "name": "wordsHTML",
+        "runtime_line": 37
+      },
+      {
+        "name": "renderWordsList",
+        "runtime_line": 38
+      },
+      {
+        "name": "wordRows",
+        "runtime_line": 39
+      },
+      {
+        "name": "showWordCard",
+        "runtime_line": 40
+      },
+      {
+        "name": "updateWordCard",
+        "runtime_line": 41
+      },
+      {
+        "name": "rateWord",
+        "runtime_line": 42
+      },
+      {
+        "name": "practiceHTML",
+        "runtime_line": 43
+      },
+      {
+        "name": "normal",
+        "runtime_line": 44
+      },
+      {
+        "name": "renderQuizFeedback",
+        "runtime_line": 45
+      },
+      {
+        "name": "checkQuiz",
+        "runtime_line": 46
+      },
+      {
+        "name": "progressHTML",
+        "runtime_line": 47
+      },
+      {
+        "name": "exportProgress",
+        "runtime_line": 48
+      },
+      {
+        "name": "importProgress",
+        "runtime_line": 49
+      },
+      {
+        "name": "weeklySection",
+        "runtime_line": 54
+      },
+      {
+        "name": "weeklyQuizzes",
+        "runtime_line": 55
+      },
+      {
+        "name": "startToday",
+        "runtime_line": 56
+      },
+      {
+        "name": "startWeeklyQuiz",
+        "runtime_line": 57
+      },
+      {
+        "name": "dueWordIndices",
+        "runtime_line": 58
+      },
+      {
+        "name": "chooseWord",
+        "runtime_line": 59
+      },
+      {
+        "name": "tableIsConjugation",
+        "runtime_line": 68
+      },
+      {
+        "name": "cellTaskId",
+        "runtime_line": 69
+      },
+      {
+        "name": "verifyTableCell",
+        "runtime_line": 70
+      },
+      {
+        "name": "createTrainingTable",
+        "runtime_line": 71
+      },
+      {
+        "name": "vspot",
+        "runtime_line": 82
+      },
+      {
+        "name": "visualSVG",
+        "runtime_line": 83
+      },
+      {
+        "name": "chooseVisual",
+        "runtime_line": 88
+      },
+      {
+        "name": "visualHTML",
+        "runtime_line": 89
+      },
+      {
+        "name": "getThemePreference",
+        "runtime_line": 98
+      },
+      {
+        "name": "applyTheme",
+        "runtime_line": 99
+      },
+      {
+        "name": "setTheme",
+        "runtime_line": 100
+      },
+      {
+        "name": "openSettings",
+        "runtime_line": 101
+      },
+      {
+        "name": "closeSettings",
+        "runtime_line": 102
+      },
+      {
+        "name": "contentManifest",
+        "runtime_line": 103
+      },
+      {
+        "name": "settingsHTML",
+        "runtime_line": 104
+      },
+      {
+        "name": "exportManifest",
+        "runtime_line": 108
+      },
+      {
+        "name": "mi11SafeParse",
+        "runtime_line": 116
+      },
+      {
+        "name": "mi11IsObject",
+        "runtime_line": 117
+      },
+      {
+        "name": "mi11Clean",
+        "runtime_line": 118
+      },
+      {
+        "name": "mi11Merge",
+        "runtime_line": 131
+      },
+      {
+        "name": "mi11Hash",
+        "runtime_line": 132
+      },
+      {
+        "name": "mi11Canonical",
+        "runtime_line": 133
+      },
+      {
+        "name": "mi11ApplySettings",
+        "runtime_line": 139
+      },
+      {
+        "name": "mi11SetSetting",
+        "runtime_line": 140
+      },
+      {
+        "name": "mi11Download",
+        "runtime_line": 141
+      },
+      {
+        "name": "mi11MakeBackup",
+        "runtime_line": 142
+      },
+      {
+        "name": "mi11ValidateBackup",
+        "runtime_line": 143
+      },
+      {
+        "name": "mi11Export",
+        "runtime_line": 144
+      },
+      {
+        "name": "mi11Import",
+        "runtime_line": 145
+      },
+      {
+        "name": "mi11SvgSpot",
+        "runtime_line": 177
+      },
+      {
+        "name": "mi11SceneSVG",
+        "runtime_line": 178
+      },
+      {
+        "name": "mi11SaveSceneAttempt",
+        "runtime_line": 201
+      },
+      {
+        "name": "mi11ChooseDirection",
+        "runtime_line": 202
+      },
+      {
+        "name": "mi11StartPractice",
+        "runtime_line": 203
+      },
+      {
+        "name": "mi11NextQuestion",
+        "runtime_line": 204
+      },
+      {
+        "name": "mi11Answer",
+        "runtime_line": 205
+      },
+      {
+        "name": "mi11QuizHTML",
+        "runtime_line": 206
+      },
+      {
+        "name": "mi11Stage11Inventory",
+        "runtime_line": 234
+      },
+      {
+        "name": "mi11RecallRecords",
+        "runtime_line": 255
+      },
+      {
+        "name": "mi11RecallId",
+        "runtime_line": 256
+      },
+      {
+        "name": "mi11RecallStats",
+        "runtime_line": 257
+      },
+      {
+        "name": "mi11RecallDue",
+        "runtime_line": 258
+      },
+      {
+        "name": "mi11RecallChoose",
+        "runtime_line": 259
+      },
+      {
+        "name": "mi11RecallBegin",
+        "runtime_line": 260
+      },
+      {
+        "name": "mi11RecallReveal",
+        "runtime_line": 261
+      },
+      {
+        "name": "mi11RecallRate",
+        "runtime_line": 262
+      },
+      {
+        "name": "mi11RecallDirectionToggle",
+        "runtime_line": 268
+      },
+      {
+        "name": "mi11RecallHTML",
+        "runtime_line": 269
+      }
+    ],
+    "redeclared_functions": {},
+    "runtime_object_declarations": [
+      "NAV",
+      "tabs",
+      "GROUPS",
+      "z",
+      "q",
+      "q",
+      "v",
+      "cats",
+      "ok",
+      "WEEK_TOPICS",
+      "txt",
+      "notSeen",
+      "VISUAL_DATA",
+      "spots",
+      "spots",
+      "spots",
+      "colors",
+      "glyph",
+      "modes",
+      "RELEASE_INFO",
+      "imageCounts",
+      "payload",
+      "MI11_SETTINGS_DEFAULT",
+      "mi11Settings",
+      "MI11_SCENES",
+      "choices",
+      "mi11FullSceneLabels",
+      "gaps",
+      "day"
+    ],
+    "external_script_src": [],
+    "network_url_attributes": [],
+    "runtime_sha256": "bf849e4fe01969e5ef8ffd232371eb62ea322854188d790d236434750d870ab5"
+  },
+  {
+    "file": "originals/starter/source_candidates/Mi_Espanol_Recovery_Contrast_Audio(1).html",
+    "sha256": "54cb7d8ed3ff97c1f90a385ee9cf552e936fb028dafea08613541ba86e0e543a",
+    "bytes": 9868381,
+    "title": [
+      "Mi Español · Personal"
+    ],
+    "db_keys": [
+      "atlas",
+      "vocab",
+      "schemes",
+      "images",
+      "quiz",
+      "weeks"
+    ],
+    "counts": {
+      "vocab": 131,
+      "quiz": 10,
+      "grammar_sections": 16,
+      "tables": 73,
+      "schemes": 8,
+      "images": 25,
+      "weeks": 12
+    },
+    "images": [
+      {
+        "audit_id": "images/0",
+        "source_id": "GRAMMAR-01",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 225332,
+        "sha256": "5ad0efcb71c6852497147b27b99481a32d600b22895ba44eefee2ceaa522b4b3"
+      },
+      {
+        "audit_id": "images/1",
+        "source_id": "GRAMMAR-02",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 494856,
+        "sha256": "54a3708dbc3bf1ce6149dda23b6de2df103cd2f9d30100599bb1cee19ddd2216"
+      },
+      {
+        "audit_id": "images/2",
+        "source_id": "GRAMMAR-03",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 465558,
+        "sha256": "c14320b3c0b7bfc4f820144ac57f5b83810b6a71c09a196787b63b7a2e98af37"
+      },
+      {
+        "audit_id": "images/3",
+        "source_id": "GRAMMAR-04",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 421004,
+        "sha256": "f9ea6d291dca9b5c372d68cef8ef91caf6a5a9b56edd2b95ce22b71bbb09ca97"
+      },
+      {
+        "audit_id": "images/4",
+        "source_id": "GRAMMAR-05",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 417590,
+        "sha256": "88fb510004780d9f2a601e377636e1fc940da552fa33b9d09eab31ef6eeafbc3"
+      },
+      {
+        "audit_id": "images/5",
+        "source_id": "GRAMMAR-06",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 271474,
+        "sha256": "1dfae1ee6471bce20d6af72cda0183bdccf582730f02ae8a54f642af9d823ced"
+      },
+      {
+        "audit_id": "images/6",
+        "source_id": "GRAMMAR-07",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 276412,
+        "sha256": "4cd73ae5a94369a6b2f3b887093165919ba486685fce692ecee0d915b81dd8ea"
+      },
+      {
+        "audit_id": "images/7",
+        "source_id": "GRAMMAR-08",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 238588,
+        "sha256": "c5dc34f206546f56d6f6f4a12cf74fd2989c8a316fdf52f9325cb62a7007ae33"
+      },
+      {
+        "audit_id": "images/8",
+        "source_id": "GRAMMAR-09",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 218712,
+        "sha256": "4ffc8a2fdb60451402b46736e0ad58955738483810385fd392810355fe73e03e"
+      },
+      {
+        "audit_id": "images/9",
+        "source_id": "GRAMMAR-10",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 408604,
+        "sha256": "d02340a1f45a75ad04239233d6af11d9c5f7b560d32cee829c0e351a92b6b459"
+      },
+      {
+        "audit_id": "images/10",
+        "source_id": "GRAMMAR-11",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 351322,
+        "sha256": "2124908ffce3ee18f4d0ffe1a3d16a0feff8b333726d3d38be7d3fb6c4c45749"
+      },
+      {
+        "audit_id": "images/11",
+        "source_id": "GRAMMAR-12",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 441410,
+        "sha256": "afa96eceea597768d6e9375bfa4b20ec42d53472ce85fb1c8c95caacf9f9e5c3"
+      },
+      {
+        "audit_id": "images/12",
+        "source_id": "GRAMMAR-13",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 434816,
+        "sha256": "673e2917b7e11844d7fd1724574c00ff5e29bbbec65e62c38f1b14377ab160d0"
+      },
+      {
+        "audit_id": "images/13",
+        "source_id": "GRAMMAR-14",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 288572,
+        "sha256": "53234c4c7f5d277e46c033a43023cab5230bf85966b4cb7d73c23853dbb1fb80"
+      },
+      {
+        "audit_id": "images/14",
+        "source_id": "GRAMMAR-15",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 214354,
+        "sha256": "fab9187a954f30058204bfa62aa5b70a41d12db3348c3eb155927256373f5588"
+      },
+      {
+        "audit_id": "images/15",
+        "source_id": "GRAMMAR-16",
+        "group": "grammar",
+        "mime": "image/webp",
+        "bytes": 223848,
+        "sha256": "8bcc6b7e276ff6f48f13081e2d00280b2b875e8fbae56ed038c7ec7a4fdf1092"
+      },
+      {
+        "audit_id": "images/16",
+        "source_id": 7529,
+        "group": "words",
+        "mime": "image/webp",
+        "bytes": 274032,
+        "sha256": "529bcd6e8fbbcbc44d5bb35dcb51ba57c5ff407076962e397f5c2ac97050b3aa"
+      },
+      {
+        "audit_id": "images/17",
+        "source_id": 7530,
+        "group": "words",
+        "mime": "image/webp",
+        "bytes": 229412,
+        "sha256": "8d9ff577d5973a807eed5c2259976b2fcb271f03a8ee67090ffc31aa00cc44f7"
+      },
+      {
+        "audit_id": "images/18",
+        "source_id": "NOTES-01",
+        "group": "notes",
+        "mime": "image/webp",
+        "bytes": 180268,
+        "sha256": "819608c8ea8064330cf10dc811b5f88a642cda821c462504eef5cd599893f192"
+      },
+      {
+        "audit_id": "images/19",
+        "source_id": "NOTES-02",
+        "group": "notes",
+        "mime": "image/webp",
+        "bytes": 332792,
+        "sha256": "aa765304b10741de9f195c36bfa381c0151746e3ae256824b8cdddaa1c59159c"
+      },
+      {
+        "audit_id": "images/20",
+        "source_id": "NOTES-03",
+        "group": "notes",
+        "mime": "image/webp",
+        "bytes": 209718,
+        "sha256": "6d6730fb6099c384926a94b6e3358bed160794b55c748eaca47edfde7ff9250a"
+      },
+      {
+        "audit_id": "images/21",
+        "source_id": "NOTES-04",
+        "group": "notes",
+        "mime": "image/webp",
+        "bytes": 259396,
+        "sha256": "0f821481f969baf98c6902c837624b93824a11f640dd0afe70febe29050492eb"
+      },
+      {
+        "audit_id": "images/22",
+        "source_id": "NOTES-05",
+        "group": "notes",
+        "mime": "image/webp",
+        "bytes": 141280,
+        "sha256": "428654a2ea09dc370aaa212b0feaf647dedf51314b8f91ab038c87514cd1c591"
+      },
+      {
+        "audit_id": "images/23",
+        "source_id": "NOTES-06",
+        "group": "notes",
+        "mime": "image/webp",
+        "bytes": 141830,
+        "sha256": "84b6da998ddf0974fb83a13ac6534a4887be8d6de4e3dfcd80462cf802204c74"
+      },
+      {
+        "audit_id": "images/24",
+        "source_id": "NOTES-07",
+        "group": "notes",
+        "mime": "image/webp",
+        "bytes": 162806,
+        "sha256": "bfc34171bdaff21869a96fd282768068037c8be0a890c06184e4da2740e6a217"
+      }
+    ],
+    "empty_vocab": [],
+    "duplicate_normalized_es": {},
+    "vocab_field_coverage": {
+      "cat": 131,
+      "es": 131,
+      "ex": 131,
+      "ru": 131
+    },
+    "syntax": [
+      {
+        "script": 0,
+        "status": "PASS",
+        "stderr": ""
+      }
+    ],
+    "functions": [
+      {
+        "name": "save",
+        "runtime_line": 6
+      },
+      {
+        "name": "audioInfo",
+        "runtime_line": 8
+      },
+      {
+        "name": "speak",
+        "runtime_line": 9
+      },
+      {
+        "name": "testSpeech",
+        "runtime_line": 13
+      },
+      {
+        "name": "navTo",
+        "runtime_line": 14
+      },
+      {
+        "name": "renderNav",
+        "runtime_line": 16
+      },
+      {
+        "name": "render",
+        "runtime_line": 17
+      },
+      {
+        "name": "dateKey",
+        "runtime_line": 18
+      },
+      {
+        "name": "dueCount",
+        "runtime_line": 19
+      },
+      {
+        "name": "todayHTML",
+        "runtime_line": 20
+      },
+      {
+        "name": "setLib",
+        "runtime_line": 21
+      },
+      {
+        "name": "libraryHTML",
+        "runtime_line": 22
+      },
+      {
+        "name": "tablesHTML",
+        "runtime_line": 23
+      },
+      {
+        "name": "sourcesHTML",
+        "runtime_line": 25
+      },
+      {
+        "name": "stepPage",
+        "runtime_line": 26
+      },
+      {
+        "name": "applyZoom",
+        "runtime_line": 28
+      },
+      {
+        "name": "resetZoom",
+        "runtime_line": 29
+      },
+      {
+        "name": "zoomSource",
+        "runtime_line": 30
+      },
+      {
+        "name": "initGestures",
+        "runtime_line": 31
+      },
+      {
+        "name": "resizeSource",
+        "runtime_line": 35
+      },
+      {
+        "name": "schemesHTML",
+        "runtime_line": 36
+      },
+      {
+        "name": "wordsHTML",
+        "runtime_line": 37
+      },
+      {
+        "name": "renderWordsList",
+        "runtime_line": 38
+      },
+      {
+        "name": "wordRows",
+        "runtime_line": 39
+      },
+      {
+        "name": "showWordCard",
+        "runtime_line": 40
+      },
+      {
+        "name": "updateWordCard",
+        "runtime_line": 41
+      },
+      {
+        "name": "rateWord",
+        "runtime_line": 42
+      },
+      {
+        "name": "practiceHTML",
+        "runtime_line": 43
+      },
+      {
+        "name": "normal",
+        "runtime_line": 44
+      },
+      {
+        "name": "renderQuizFeedback",
+        "runtime_line": 45
+      },
+      {
+        "name": "checkQuiz",
+        "runtime_line": 46
+      },
+      {
+        "name": "progressHTML",
+        "runtime_line": 47
+      },
+      {
+        "name": "exportProgress",
+        "runtime_line": 48
+      },
+      {
+        "name": "importProgress",
+        "runtime_line": 49
+      },
+      {
+        "name": "weeklySection",
+        "runtime_line": 54
+      },
+      {
+        "name": "weeklyQuizzes",
+        "runtime_line": 55
+      },
+      {
+        "name": "startToday",
+        "runtime_line": 56
+      },
+      {
+        "name": "startWeeklyQuiz",
+        "runtime_line": 57
+      },
+      {
+        "name": "dueWordIndices",
+        "runtime_line": 58
+      },
+      {
+        "name": "chooseWord",
+        "runtime_line": 59
+      },
+      {
+        "name": "tableIsConjugation",
+        "runtime_line": 68
+      },
+      {
+        "name": "cellTaskId",
+        "runtime_line": 69
+      },
+      {
+        "name": "verifyTableCell",
+        "runtime_line": 70
+      },
+      {
+        "name": "createTrainingTable",
+        "runtime_line": 71
+      },
+      {
+        "name": "vspot",
+        "runtime_line": 82
+      },
+      {
+        "name": "visualSVG",
+        "runtime_line": 83
+      },
+      {
+        "name": "chooseVisual",
+        "runtime_line": 88
+      },
+      {
+        "name": "visualHTML",
+        "runtime_line": 89
+      },
+      {
+        "name": "getThemePreference",
+        "runtime_line": 98
+      },
+      {
+        "name": "applyTheme",
+        "runtime_line": 99
+      },
+      {
+        "name": "setTheme",
+        "runtime_line": 100
+      },
+      {
+        "name": "openSettings",
+        "runtime_line": 101
+      },
+      {
+        "name": "closeSettings",
+        "runtime_line": 102
+      },
+      {
+        "name": "contentManifest",
+        "runtime_line": 103
+      },
+      {
+        "name": "settingsHTML",
+        "runtime_line": 104
+      },
+      {
+        "name": "exportManifest",
+        "runtime_line": 108
+      }
+    ],
+    "redeclared_functions": {},
+    "runtime_object_declarations": [
+      "NAV",
+      "tabs",
+      "GROUPS",
+      "z",
+      "q",
+      "q",
+      "v",
+      "cats",
+      "ok",
+      "WEEK_TOPICS",
+      "txt",
+      "notSeen",
+      "VISUAL_DATA",
+      "spots",
+      "spots",
+      "spots",
+      "colors",
+      "glyph",
+      "modes",
+      "RELEASE_INFO",
+      "imageCounts",
+      "payload"
+    ],
+    "external_script_src": [],
+    "network_url_attributes": [],
+    "runtime_sha256": "6cbe19e4adcb691ca120c623449151cbc99efd49837fcd96552a3d02151ee24d"
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 33,
+    "sha256": "65d2d173e918c489096debe2d07d44a034c323bcc3a9cead7ac8f5659b2f20b0"
+  },
+  {
+    "path": "Makefile",
+    "bytes": 350,
+    "sha256": "d77ae533730723a853ae04c608dfec49ae84f5a43df023d5d11731122bcf9017"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1666,
+    "sha256": "60137285315da2cb141f0ebed10cd2bc6a38c328ce2f79a99771f8a51506fa04"
+  },
+  {
+    "path": "audit/acceptance.json",
+    "bytes": 2820,
+    "sha256": "b9f10e10ed8b79c29b77e2f37511648aabcfb8075a955bf7cf20d281c039e7ea"
+  },
+  {
+    "path": "audit/browser-results.json",
+    "bytes": 46132,
+    "sha256": "2489941a3de9e2fbef3d881fe1d41d984f8dc4405f831754b322c1d9ef5bc61e"
+  },
+  {
+    "path": "audit/candidate-comparison.json",
+    "bytes": 3804,
+    "sha256": "da56c747af0e5aa4b88b723d029e23e6dce5c5a292ce50d06bd2f1f68ec3dbbd"
+  },
+  {
+    "path": "audit/entities/Mi_Espanol_LAST_TESTABLE.json",
+    "bytes": 44318,
+    "sha256": "7b378fae35c2d7e98ab0f3e5a92ee275eff2206d38a6e0df53f512e169eab5b6"
+  },
+  {
+    "path": "audit/entities/Mi_Espanol_Recovery_Contrast_Audio(1).json",
+    "bytes": 44318,
+    "sha256": "7b378fae35c2d7e98ab0f3e5a92ee275eff2206d38a6e0df53f512e169eab5b6"
+  },
+  {
+    "path": "audit/files.json",
+    "bytes": 6849,
+    "sha256": "e54c379bd66333e728eccb491c9753bb2079f71eebd8fc51381581c259ff2782"
+  },
+  {
+    "path": "audit/received-inputs.json",
+    "bytes": 893,
+    "sha256": "80d1bb6213404b6cd8abc0e0752d0635ccc7065da253d4b74b85a4d8076797da"
+  },
+  {
+    "path": "audit/reconstruction.json",
+    "bytes": 762,
+    "sha256": "3c24b484f09e10c7363e16bac3bdb9a00eb835055f248769467a0f7e07f0749f"
+  },
+  {
+    "path": "audit/requirements.json",
+    "bytes": 13746,
+    "sha256": "2fece9ef456633e0c79ca2bcee2addef6d8fff8d221b682297936f1cf11cc84b"
+  },
+  {
+    "path": "audit/runtime-code/Mi_Espanol_LAST_TESTABLE/runtime.js",
+    "bytes": 68018,
+    "sha256": "c4fb222af516ffa65b28c0426988722f21c6d60af5b6023dc295ebcdb1bacb59"
+  },
+  {
+    "path": "audit/runtime-code/Mi_Espanol_Recovery_Contrast_Audio(1)/runtime.js",
+    "bytes": 43945,
+    "sha256": "a85169d9cdbb144edecf2a11cf5adb7c69d11dd6b7b194249c8688b59a6a6016"
+  },
+  {
+    "path": "audit/runtime/Mi_Espanol_LAST_TESTABLE-images.json",
+    "bytes": 2125,
+    "sha256": "9f3e7aefff5dac5add9acc44bbc1fc60a13c24e5c758da2dc1e7ad499c9e976f"
+  },
+  {
+    "path": "audit/runtime/Mi_Espanol_LAST_TESTABLE-weeks.json",
+    "bytes": 1926,
+    "sha256": "5f2b48ad49062635c30ae22cb1ce8d61eedcd526bf3dcfc0d9aa003f5eb22d34"
+  },
+  {
+    "path": "audit/runtime/Mi_Espanol_LAST_TESTABLE.json",
+    "bytes": 541,
+    "sha256": "3d3ea9dafdf24a1565521e74e8c325f7fe2b72e618a9de96c716f4dc3f881ada"
+  },
+  {
+    "path": "audit/runtime/Mi_Espanol_Recovery_Contrast_Audio(1)-images.json",
+    "bytes": 2125,
+    "sha256": "9f3e7aefff5dac5add9acc44bbc1fc60a13c24e5c758da2dc1e7ad499c9e976f"
+  },
+  {
+    "path": "audit/runtime/Mi_Espanol_Recovery_Contrast_Audio(1)-weeks.json",
+    "bytes": 1926,
+    "sha256": "5f2b48ad49062635c30ae22cb1ce8d61eedcd526bf3dcfc0d9aa003f5eb22d34"
+  },
+  {
+    "path": "audit/runtime/Mi_Espanol_Recovery_Contrast_Audio(1).json",
+    "bytes": 508,
+    "sha256": "7b36082ee8798519de3efb036335674ec3d50b77ff1f7d629da99f58222fdb08"
+  },
+  {
+    "path": "audit/screenshots/Mi_Espanol_LAST_TESTABLE-settings-dark-390.png",
+    "bytes": 272706,
+    "sha256": "1effcdb7a9873fbf9e65db9833b4496abf892a4acb175e5d1abab91188bed8b7"
+  },
+  {
+    "path": "audit/screenshots/Mi_Espanol_LAST_TESTABLE-today-390.png",
+    "bytes": 91489,
+    "sha256": "31d8cbd970b45a4a9a4f8c3d884e1d4ad691d72848190a6f3d1cb646a7305483"
+  },
+  {
+    "path": "audit/screenshots/Mi_Espanol_Recovery_Contrast_Audio(1)-settings-dark-390.png",
+    "bytes": 168450,
+    "sha256": "5914f43d231b5a9f11d6a90492442eeabb27e4e788b232986e2617bdbc0ce2e0"
+  },
+  {
+    "path": "audit/screenshots/Mi_Espanol_Recovery_Contrast_Audio(1)-today-390.png",
+    "bytes": 91367,
+    "sha256": "923ffb00d39124762d7382f54b793c3b41847a17c659dae4ba9af79089dcd87f"
+  },
+  {
+    "path": "audit/source-inventory.json",
+    "bytes": 26446,
+    "sha256": "102521fd58997dc1dbe6252c30b771264550f7a4730a52db66c48e80cbdce551"
+  },
+  {
+    "path": "audit/source-registry.json",
+    "bytes": 3278,
+    "sha256": "544f4782d27c7a174ee6e5c1810c3979038d9de6ebd2236338c3b4ac33a25991"
+  },
+  {
+    "path": "audit/transfer-verification.json",
+    "bytes": 6580,
+    "sha256": "fc379a8744c983af273f61d199c56480107f9de47e114829a86a148049f5c67a"
+  },
+  {
+    "path": "audit/unit-results.txt",
+    "bytes": 1376,
+    "sha256": "2ec10727b5cbec5ee069d0c997b5980915f05b90aec986f8839fbe3fb21a9781"
+  },
+  {
+    "path": "docs/G0_AUDIT.md",
+    "bytes": 23230,
+    "sha256": "c3a736908854667ccd6db2e76bc4bdba77917684249580ce215610414628da39"
+  },
+  {
+    "path": "docs/RECOVERY_PLAN.md",
+    "bytes": 6030,
+    "sha256": "0e9528a7c1d96877220d16a9ffffab191b47a68bb8b29ba2e688e5b4fff9dabc"
+  },
+  {
+    "path": "docs/REQUIREMENTS_MATRIX.md",
+    "bytes": 10980,
+    "sha256": "417650ad8c242ba54d29f052b184002add586e071d9efc15976d7a8c8efc5835"
+  },
+  {
+    "path": "docs/TRANSFER.md",
+    "bytes": 3889,
+    "sha256": "9e15e76fea43b8227fd34872c44ad461a420437e16456573ec5ff47496eb693b"
+  },
+  {
+    "path": "experimental/pre-audit-draft/README.md",
+    "bytes": 1081,
+    "sha256": "a71bc7cfcdd61bee5f62125021c6e54f05e833579e2e83cb3ab72412531ea4d7"
+  },
+  {
+    "path": "experimental/pre-audit-draft/course.json",
+    "bytes": 25477,
+    "sha256": "c34d5948675417c0a7d09ced151ed0403bdb9bc7e2c245853b3f9b8693e57b03"
+  },
+  {
+    "path": "experimental/pre-audit-draft/derived/legacy.json",
+    "bytes": 9825860,
+    "sha256": "1402feeee23347dbbb3ae8ca5ef4a5419e1f16f344a13eb955786de32352ef5d"
+  },
+  {
+    "path": "experimental/pre-audit-draft/derived/scenes.json",
+    "bytes": 33887,
+    "sha256": "b18975bd2a16d83b000962a2b378a570c324dda96e300107be7657276986e6be"
+  },
+  {
+    "path": "experimental/pre-audit-draft/src/app.js",
+    "bytes": 44390,
+    "sha256": "91154246359802e0c8b10ac028f07cd0d61e2076198e7ee4c89f231aed2cebe4"
+  },
+  {
+    "path": "experimental/pre-audit-draft/src/shell.html",
+    "bytes": 1451,
+    "sha256": "980eeaf61022b98810d11d1b6a6338e03b6c9d9d20015fcae9c39c2c95a2847f"
+  },
+  {
+    "path": "experimental/pre-audit-draft/src/style.css",
+    "bytes": 11461,
+    "sha256": "cd74a6b26a5f9df8ec3887d9ce991045576bcd772f9c5daa39c6e05dd1f9d3bc"
+  },
+  {
+    "path": "originals/PRODUCT_VISION.txt",
+    "bytes": 17356,
+    "sha256": "d917d5adf1c80114f38f0c1cd308ce684eb2f3c13d98b0131a8a2eb8d5925883"
+  },
+  {
+    "path": "originals/starter/READ_ME_FIRST.md",
+    "bytes": 3858,
+    "sha256": "d235adb21a08dd350485e22e2977893b65ba37932e99b77881c2b6cf3681935e"
+  },
+  {
+    "path": "originals/starter/docs/CODEX_FIRST_TASK.md",
+    "bytes": 3306,
+    "sha256": "33427d205a1fb1bfb965907ab958b7e851c2d8ac9d65432f0af0bf27989737a4"
+  },
+  {
+    "path": "originals/starter/docs/DEVELOPMENT_STATE.md",
+    "bytes": 3153,
+    "sha256": "496f7710ceb45d21e3baf4c50cafa12b03b04c42034cb5308227a2baaf3cfa6d"
+  },
+  {
+    "path": "originals/starter/docs/Mi_Espanol_AUDIT_AND_NEXT_ACTION_2026-11-03.md",
+    "bytes": 10144,
+    "sha256": "78480a36f4d65f15d117740a033b4812c8ca1c042bb4602b985dbde64eea0352"
+  },
+  {
+    "path": "originals/starter/docs/Mi_Espanol_CEFR_A1_B2_Architecture_Addendum(2)(1).md",
+    "bytes": 3901,
+    "sha256": "049b21021f03d4212a882e8ea802f23f961b5b56e0ae2e8d147810a0aeddf745"
+  },
+  {
+    "path": "originals/starter/docs/Mi_Espanol_MASTER_PROJECT_HANDOVER_2026-11-03.docx",
+    "bytes": 45276,
+    "sha256": "ff79e2d7361b5267f60ceb6d5ca199bc54a9b1dfd2048a8e7165a3e2bcecc8a4"
+  },
+  {
+    "path": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx",
+    "bytes": 65092,
+    "sha256": "552dc779e6f501f63df8e6d866b397232f1cae3d7d7eaa115d0f93764c3dddd0"
+  },
+  {
+    "path": "originals/starter/docs/Mi_Espanol_MASTER_TZ_v2_0_2026-11-03(1).docx",
+    "bytes": 51547,
+    "sha256": "9cbf3ea6f89db45981ce2406030ce06f993f4f9048238082274e885ed816604a"
+  },
+  {
+    "path": "originals/starter/inventory/MANIFEST_SHA256.json",
+    "bytes": 4455,
+    "sha256": "5fdd2ae38a04c8e7b1d0a77fffcc8279f50344dea3c4022e6b0b3391c0a3371e"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_STAGE04_Productive_Skills_QA_2026-11-03(1).md",
+    "bytes": 6458,
+    "sha256": "7dc99acb13f304e09dfb585eb0c60d3d972c0fa38b71de35eb9cdfa75d59afe0"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_STAGE05_Dialogue_Curriculum_QA_2026-11-03(1).md",
+    "bytes": 6178,
+    "sha256": "5e9f50fa82f68f7a8d1edec740e21624497b9a4f45a0cf907069e0db5bf22917"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_STAGE06_Adaptive_Learning_QA_2026-11-03(1).md",
+    "bytes": 7210,
+    "sha256": "801f7fb6eefb2f5f095e06039803d4eb47ae1e6e6dd35e18800fb7dce3de1944"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_STAGE08_Unified_Review_QA_2026-11-03.md",
+    "bytes": 6163,
+    "sha256": "29972c29df4fc2c4c23d119eca8fb37fefdd873f4fa931f4d4d34601c07c0875"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_STAGE10_Visual_Learning_QA_2026-11-03.md",
+    "bytes": 6374,
+    "sha256": "131147e666eadfa1274aeb7c1dc24116e3b477d15b88c281f61f91525ef3e2e4"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_STAGE11_Mobile_Audio_Offline_QA_2026-11-03.md",
+    "bytes": 9239,
+    "sha256": "09361f6ada693723af879628b814a4c3e7688437b239b406c3be8830cda4a8a6"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_v3_Content_Implementation_Audit_2026-11-03.md",
+    "bytes": 5951,
+    "sha256": "c86a838a56a21637839b3ce61b3f20c0731a0fb56a783c377683aca5c379eebf"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_v3_Integrated_QA_Report_2026-11-03(1).md",
+    "bytes": 14774,
+    "sha256": "664cc5fef79ffc969efd106bc3e235e8bf4c8456542d1f9498625a717a7675dc"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_v3_Reliability_Implementation_Report_2026-11-03(1).md",
+    "bytes": 7790,
+    "sha256": "36f3e7a63d42855002db8a1d9185e81ec589b5510192a3758c15c01f714e4555"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_v3_Verified_Lessons_Checkpoint_2026-11-03(1).md",
+    "bytes": 4983,
+    "sha256": "06b505b024a72a84ddc651324d16077be9c7e78f5829b35fba4e923595dfc550"
+  },
+  {
+    "path": "originals/starter/source_candidates/Mi_Espanol_LAST_TESTABLE.html",
+    "bytes": 9894397,
+    "sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018"
+  },
+  {
+    "path": "originals/starter/source_candidates/Mi_Espanol_Recovery_Contrast_Audio(1).html",
+    "bytes": 9868381,
+    "sha256": "54cb7d8ed3ff97c1f90a385ee9cf552e936fb028dafea08613541ba86e0e543a"
+  },
+  {
+    "path": "requirements-audit.txt",
+    "bytes": 19,
+    "sha256": "cfa2186c0470feac813f1ac67c71e54a53021ec949026946255874958d245e82"
+  },
+  {
+    "path": "tests/test_audit.py",
+    "bytes": 2007,
+    "sha256": "c3aba4639f744f6efde8dbb37833026835ce726e84990c3a7d04e7218a6802e5"
+  },
+  {
+    "path": "tests/test_transfer.py",
+    "bytes": 1076,
+    "sha256": "614eec38fb4c1d40d4825d57d206b04f6681c624cd6f543668a25b6899be7a9f"
+  },
+  {
+    "path": "tools/audit.py",
+    "bytes": 8532,
+    "sha256": "e678f5b34087ab417422d773b53920a18efa03c36469132f71325cd6c7a652da"
+  },
+  {
+    "path": "tools/browser_audit.py",
+    "bytes": 17390,
+    "sha256": "87ef0cb3fffd4528a7d4ae874c19a501a82032cb904925c93cc5e75e7c2c3f55"
+  },
+  {
+    "path": "tools/project_manifest.py",
+    "bytes": 638,
+    "sha256": "44431ce84ee5d99a0276094b6b099bcdafec72ac2f65cdff6e66bacab42570f2"
+  },
+  {
+    "path": "tools/requirements_registry.py",
+    "bytes": 12947,
+    "sha256": "38bd0ce7bdae669bc651965d18797db62c8888f68ee3cbec11524a48fdf04431"
+  },
+  {
+    "path": "tools/transfer_parts.py",
+    "bytes": 2246,
+    "sha256": "b1f145d1fef7d46941449903f56a9ae0402aee2abaeafa6eccd3b84a17987dab"
+  }
+]

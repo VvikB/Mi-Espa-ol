@@ -1,0 +1,220 @@
+[
+  {
+    "id": "APP-01",
+    "requirement": "Пять вкладок и мобильная навигация",
+    "status": "PARTIAL",
+    "code_evidence": "NAV, navTo, renderNav, render",
+    "browser_test_ids": [
+      "nav_light_320_today",
+      "nav_dark_430_progress"
+    ],
+    "limitations": "Все 5 экранов проверены в Chromium на 320/375/390/430, обе темы. Нет полной проверки перекрытий, клавиатуры, Safari.",
+    "physical_iPhone": "NOT_TESTED",
+    "regression_status": "NOT_ESTABLISHED_AGAINST_UNDELIVERED_CANDIDATES",
+    "spec_source": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx"
+  },
+  {
+    "id": "APP-02",
+    "requirement": "Диагностика, 12 недель, 10/20/30 минут",
+    "status": "PARTIAL_WITH_DEFECT",
+    "code_evidence": "DB.weeks, WEEK_TOPICS, weeklySection, weeklyQuizzes, startToday",
+    "browser_test_ids": [
+      "week1_route_ser_estar"
+    ],
+    "limitations": "12 подписей недель есть; первая ведёт в произношение вместо ser/estar. Многокомпонентная диагностика, связанный курс и 3 длительности в проверенных исходниках не найдены.",
+    "physical_iPhone": "NOT_TESTED",
+    "regression_status": "NOT_ESTABLISHED_AGAINST_UNDELIVERED_CANDIDATES",
+    "spec_source": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx"
+  },
+  {
+    "id": "APP-03",
+    "requirement": "Урок с ID, связями, шагами и возобновлением",
+    "status": "NOT_FOUND_IN_DELIVERED_CANDIDATES",
+    "code_evidence": "DB keys: atlas,vocab,schemes,images,quiz,weeks; todayHTML",
+    "browser_test_ids": [
+      "runtime_inventory"
+    ],
+    "limitations": "Модель Lesson/компетенций, 84 dayPlans, 36 содержательных уроков, 24 повторения, 12 контролей и 12 ситуаций не найдены. Не распространяется на ещё не доставленные HTML. Черновик исключён.",
+    "physical_iPhone": "NOT_TESTED",
+    "regression_status": "NOT_ESTABLISHED_AGAINST_UNDELIVERED_CANDIDATES",
+    "spec_source": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx"
+  },
+  {
+    "id": "APP-04",
+    "requirement": "16 оригиналов и полная цифровая грамматика",
+    "status": "PARTIAL",
+    "code_evidence": "DB.atlas[0..15], DB.images[group=grammar], tablesHTML",
+    "browser_test_ids": [
+      "all_25_images_decode"
+    ],
+    "limitations": "16 встроенных страниц и 73 таблицы есть; первичные PDF и построчная матрица переноса отсутствуют. Содержательная вычитка не выполнена.",
+    "physical_iPhone": "NOT_TESTED",
+    "regression_status": "NOT_ESTABLISHED_AGAINST_UNDELIVERED_CANDIDATES",
+    "spec_source": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx"
+  },
+  {
+    "id": "APP-05",
+    "requirement": "Тренажёр таблиц с акцентами и ID формы",
+    "status": "PRESENT_BUT_DEFECTIVE",
+    "code_evidence": "tableIsConjugation, createTrainingTable, verifyTableCell, cellTaskId",
+    "browser_test_ids": [
+      "table_form_handlers_compile",
+      "written_accent_negative",
+      "written_accent_positive"
+    ],
+    "limitations": "Акцент-чувствительная проверка письменного quiz работает. 54 DOM-обработчика в первой подходящей тренировочной таблице синтаксически повреждены. Это не 54 разные учебные ячейки.",
+    "physical_iPhone": "NOT_TESTED",
+    "regression_status": "NOT_ESTABLISHED_AGAINST_UNDELIVERED_CANDIDATES",
+    "spec_source": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx"
+  },
+  {
+    "id": "APP-06",
+    "requirement": "Единый полный словарь со стабильными ID",
+    "status": "PARTIAL",
+    "code_evidence": "DB.vocab[0..130], wordsHTML, wordRows; LAST: mi11RecallRecords",
+    "browser_test_ids": [
+      "runtime_inventory",
+      "dictionary_audio_all_rows"
+    ],
+    "limitations": "131 непустая запись es/ru/ex/cat без дубликатов нормализованного es; нет исторических id/level/sourcePage/pos. 55 подписей сцен — отдельная структура, не ещё 55 записей DB.vocab. Полный перенос двух листов не проверен.",
+    "physical_iPhone": "NOT_TESTED",
+    "regression_status": "NOT_ESTABLISHED_AGAINST_UNDELIVERED_CANDIDATES",
+    "spec_source": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx"
+  },
+  {
+    "id": "APP-07",
+    "requirement": "Единый надёжный сервис аудио",
+    "status": "PRESENT_BUT_DEFECTIVE",
+    "code_evidence": "speak, testSpeech, wordRows, updateWordCard; LAST: mi11RecallHTML",
+    "browser_test_ids": [
+      "dictionary_audio_all_rows",
+      "legacy_card_audio_click",
+      "active_recall_audio_click",
+      "speech_service_invocation_mocked",
+      "missing_TTS_reports_unavailable"
+    ],
+    "limitations": "Прямой вызов сервиса передаёт текст в mock speechSynthesis; реальные кнопки словаря и карточки повреждены кавычками. Нет доказательства слышимости, полноты voiceschanged/сервисных событий или аудирования по ТЗ.",
+    "physical_iPhone": "NOT_TESTED",
+    "regression_status": "NOT_ESTABLISHED_AGAINST_UNDELIVERED_CANDIDATES",
+    "spec_source": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx"
+  },
+  {
+    "id": "APP-08",
+    "requirement": "Приоритетная очередь интервального повторения",
+    "status": "PARTIAL_WITH_DEFECT",
+    "code_evidence": "dueWordIndices, chooseWord, rateWord; LAST: mi11RecallChoose, mi11RecallRate",
+    "browser_test_ids": [
+      "legacy_due_before_new",
+      "active_recall_due_before_unseen",
+      "active_recall_failure_delays_one_minute"
+    ],
+    "limitations": "Старая очередь берёт просроченные раньше новых; новая miRecall11 делает наоборот. Существуют раздельные namespaces vocab и miRecall11, сквозная миграция не доказана.",
+    "physical_iPhone": "NOT_TESTED",
+    "regression_status": "NOT_ESTABLISHED_AGAINST_UNDELIVERED_CANDIDATES",
+    "spec_source": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx"
+  },
+  {
+    "id": "APP-09",
+    "requirement": "Шесть типов практики, чтение, слушание, речь",
+    "status": "PARTIAL",
+    "code_evidence": "DB.quiz[0..9], checkQuiz, schemesHTML, visualHTML",
+    "browser_test_ids": [
+      "written_accent_positive",
+      "scene_body_quiz_records"
+    ],
+    "limitations": "Есть 10 письменных заданий, таблицы, сохранение своей фразы в схемах, визуальная практика (LAST). Содержательные тексты, аудиовопросы, 12 диалогов и комплексная модель по уровням не найдены в этих двух HTML.",
+    "physical_iPhone": "NOT_TESTED",
+    "regression_status": "NOT_ESTABLISHED_AGAINST_UNDELIVERED_CANDIDATES",
+    "spec_source": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx"
+  },
+  {
+    "id": "APP-10",
+    "requirement": "Шесть интерактивных визуальных сцен",
+    "status": "PARTIAL",
+    "code_evidence": "VISUAL_DATA, visualSVG; LAST: MI11_SCENES, mi11SceneSVG, mi11QuizHTML",
+    "browser_test_ids": [
+      "scene_body_renders",
+      "scene_kitchen_quiz_records",
+      "scene_clothing_quiz_records"
+    ],
+    "limitations": "Recovery: 4 сцены/39 подписей. LAST: 6 сцен/55 подписей, отрисовка и запись результата квиза проверены. Оригинальность Stage10, художественная приёмка, тач-зоны всех SVG и iPhone не подтверждены.",
+    "physical_iPhone": "NOT_TESTED",
+    "regression_status": "NOT_ESTABLISHED_AGAINST_UNDELIVERED_CANDIDATES",
+    "spec_source": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx"
+  },
+  {
+    "id": "APP-11",
+    "requirement": "25 исходных изображений, pinch/pan 1–6×",
+    "status": "PARTIAL_NOT_DEVICE_VERIFIED",
+    "code_evidence": "DB.images, sourcesHTML, initGestures, zoomSource, resetZoom",
+    "browser_test_ids": [
+      "all_25_images_decode",
+      "physical_iPhone_audio_pinch_persistence"
+    ],
+    "limitations": "25 data URL декодированы; хэши байтов равны в обоих HTML. Показ без обрезки и жесты на устройстве не приняты. 8 схем ссылаются на старые числовые IDs, не совпадающие с NOTES-01..07.",
+    "physical_iPhone": "NOT_TESTED",
+    "regression_status": "NOT_ESTABLISHED_AGAINST_UNDELIVERED_CANDIDATES",
+    "spec_source": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx"
+  },
+  {
+    "id": "APP-12",
+    "requirement": "Прогресс, темы, доступность, настройки",
+    "status": "PARTIAL",
+    "code_evidence": "progressHTML, setTheme, settingsHTML; LAST: mi11SetSetting",
+    "browser_test_ids": [
+      "nav_dark_390_progress",
+      "dark_settings_button_contrast_AA",
+      "settings_touch_targets_44px"
+    ],
+    "limitations": "Светлая/тёмная/системная тема и счётчики есть. Проверенный контраст кнопок настроек проходит, некоторые цели ниже 44 px. Нет полной доказательной модели шести навыков.",
+    "physical_iPhone": "NOT_TESTED",
+    "regression_status": "NOT_ESTABLISHED_AGAINST_UNDELIVERED_CANDIDATES",
+    "spec_source": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx"
+  },
+  {
+    "id": "APP-13",
+    "requirement": "Версионированное хранение и безопасные миграции",
+    "status": "PARTIAL_WITH_DEFECT",
+    "code_evidence": "STORE, exportProgress/importProgress; LAST: mi11Clean, mi11Merge, mi11MakeBackup, mi11ValidateBackup",
+    "browser_test_ids": [
+      "backup_ui_roundtrip_progress",
+      "backup_repeated_same_file_idempotent",
+      "backup_checksum_rejects_tampering",
+      "backup_rejects_invalid_state_schema",
+      "backup_preserves_newer_progress",
+      "backup_includes_separate_settings"
+    ],
+    "limitations": "LAST: экспорт v2 с FNV1a32, чистка prototype-ключей и UI round-trip работают. Валидация схемы неполна; старый импорт перезаписывает новые значения; отдельные настройки не экспортируются. Идемпотентность одного файла не равна корректной миграции всех версий.",
+    "physical_iPhone": "NOT_TESTED",
+    "regression_status": "NOT_ESTABLISHED_AGAINST_UNDELIVERED_CANDIDATES",
+    "spec_source": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx"
+  },
+  {
+    "id": "APP-14",
+    "requirement": "Паспорт и реестр ID/изменений/QA",
+    "status": "PARTIAL",
+    "code_evidence": "RELEASE_INFO, contentManifest, exportManifest; LAST: mi11Stage11Inventory",
+    "browser_test_ids": [
+      "runtime_inventory"
+    ],
+    "limitations": "Паспорт считает массивы. Нет полного исторического ID manifest и автоматического diff всех типов. Новый audit/* — инструменты текущего аудита, не восстановленный паспорт приложения.",
+    "physical_iPhone": "NOT_TESTED",
+    "regression_status": "NOT_ESTABLISHED_AGAINST_UNDELIVERED_CANDIDATES",
+    "spec_source": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx"
+  },
+  {
+    "id": "APP-15",
+    "requirement": "Офлайн, доступность и приватность",
+    "status": "PARTIAL_NOT_DEVICE_VERIFIED",
+    "code_evidence": "embedded DB/images/CSS/JS; initGestures; settingsHTML",
+    "browser_test_ids": [
+      "no_remote_asset_requests_during_test",
+      "settings_touch_targets_44px",
+      "local_file_open"
+    ],
+    "limitations": "В HTTP-тестах нет внешних запросов ресурсов; звуковой вывод замокан. file:// блокируется политикой Chromium, офлайн-файл Safari не проверен. Нет полной клавиатурной/контрастной экспертизы всех экранов.",
+    "physical_iPhone": "NOT_TESTED",
+    "regression_status": "NOT_ESTABLISHED_AGAINST_UNDELIVERED_CANDIDATES",
+    "spec_source": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx"
+  }
+]

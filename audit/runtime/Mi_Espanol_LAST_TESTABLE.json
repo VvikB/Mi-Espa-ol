@@ -1,0 +1,30 @@
+{
+  "sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018",
+  "inventory": {
+    "db": {
+      "sections": 16,
+      "tables": 73,
+      "words": 131,
+      "schemes": 8,
+      "exercises": 10,
+      "weeks": 12,
+      "images": 25,
+      "groups": {
+        "grammar": 16,
+        "words": 2,
+        "notes": 7
+      }
+    },
+    "scenes": [
+      "body",
+      "house",
+      "street",
+      "feel",
+      "kitchen",
+      "clothing"
+    ],
+    "sceneItems": 55,
+    "hasRecall": true,
+    "hasBackupV2": true
+  }
+}

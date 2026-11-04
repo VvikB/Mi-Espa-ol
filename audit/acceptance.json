@@ -1,0 +1,102 @@
+[
+  {
+    "id": "Q-01",
+    "status": "PARTIAL",
+    "evidence": "DB.vocab counts/content hashes equal in two candidates; historical stable IDs absent"
+  },
+  {
+    "id": "Q-02",
+    "status": "BLOCKED",
+    "evidence": "Only 10 quiz records available; historical 45 not delivered/identified"
+  },
+  {
+    "id": "Q-03",
+    "status": "PARTIAL",
+    "evidence": "25 images decode and byte hashes match; no uncropped source comparison"
+  },
+  {
+    "id": "Q-04",
+    "status": "NOT_FOUND_IN_DELIVERED_CANDIDATES",
+    "evidence": "12 substantive dialogues not found"
+  },
+  {
+    "id": "Q-05",
+    "status": "FAIL",
+    "evidence": "dictionary_audio_all_rows; legacy_card_audio_click; active_recall_audio_click"
+  },
+  {
+    "id": "Q-06",
+    "status": "NOT_TESTED",
+    "evidence": "Physical Safari audibility unavailable"
+  },
+  {
+    "id": "Q-07",
+    "status": "PARTIAL",
+    "evidence": "Dark settings button contrast tested; not complete contrast review of five tabs"
+  },
+  {
+    "id": "Q-08",
+    "status": "NOT_FOUND_IN_DELIVERED_CANDIDATES",
+    "evidence": "No validated level-dependent curriculum/profile planner"
+  },
+  {
+    "id": "Q-09",
+    "status": "FAIL",
+    "evidence": "Quiz accent tests PASS; generated table DOM handlers fail syntax"
+  },
+  {
+    "id": "Q-10",
+    "status": "FAIL",
+    "evidence": "Legacy due selection PASS; new active recall selects unseen before overdue"
+  },
+  {
+    "id": "Q-11",
+    "status": "PARTIAL",
+    "evidence": "Progress UI round-trip PASS; separate settings excluded"
+  },
+  {
+    "id": "Q-12",
+    "status": "PARTIAL_WITH_DEFECT",
+    "evidence": "v1/v2 helpers exist; repeated identical import PASS; incoming old values overwrite current"
+  },
+  {
+    "id": "Q-13",
+    "status": "NOT_FOUND_IN_DELIVERED_CANDIDATES",
+    "evidence": "No 84 dayPlans with content links"
+  },
+  {
+    "id": "Q-14",
+    "status": "NOT_TESTED",
+    "evidence": "16-page row-by-row transcription not performed"
+  },
+  {
+    "id": "Q-15",
+    "status": "NOT_TESTED",
+    "evidence": "2 vocabulary pages not exhaustively transcribed/compared"
+  },
+  {
+    "id": "Q-16",
+    "status": "FAIL",
+    "evidence": "8 scheme references do not resolve to NOTES-01..07"
+  },
+  {
+    "id": "Q-17",
+    "status": "NOT_TESTED",
+    "evidence": "No physical Safari pinch/pan test"
+  },
+  {
+    "id": "Q-18",
+    "status": "PARTIAL_WITH_DEFECT",
+    "evidence": "Scene renders/quizzes exist; complete SVG touch audit unrun; small settings buttons confirmed"
+  },
+  {
+    "id": "Q-19",
+    "status": "PARTIAL",
+    "evidence": "Missing speechSynthesis reports unsupported in current browser model; no physical fallback acceptance"
+  },
+  {
+    "id": "Q-20",
+    "status": "PARTIAL",
+    "evidence": "Computed counts exist; historical stable-ID/no-loss gate missing; current audit tools are new"
+  }
+]

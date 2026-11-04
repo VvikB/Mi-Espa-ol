@@ -1,0 +1,94 @@
+{
+  "order": [
+    "originals/starter/source_candidates/Mi_Espanol_LAST_TESTABLE.html",
+    "originals/starter/source_candidates/Mi_Espanol_Recovery_Contrast_Audio(1).html"
+  ],
+  "DB_comparison": {
+    "atlas": {
+      "identical": true,
+      "left_sha256": "f56512fc8f641e0813ee5d2be5444caaff75b75cf64f0fb93b6eadb8c0e37fd2",
+      "right_sha256": "f56512fc8f641e0813ee5d2be5444caaff75b75cf64f0fb93b6eadb8c0e37fd2"
+    },
+    "vocab": {
+      "identical": true,
+      "left_sha256": "7f50c4560d8293d40c7b70067c715af7828ddfb0604f021117f126732fe74bef",
+      "right_sha256": "7f50c4560d8293d40c7b70067c715af7828ddfb0604f021117f126732fe74bef"
+    },
+    "schemes": {
+      "identical": true,
+      "left_sha256": "88da28fe7ddcbe2b62d85678666dec7b4340d546f8c81e8d916c04e6cd4ab6de",
+      "right_sha256": "88da28fe7ddcbe2b62d85678666dec7b4340d546f8c81e8d916c04e6cd4ab6de"
+    },
+    "images": {
+      "identical": true,
+      "left_sha256": "5d6a82c8a82ae20a2ab05e6fdaef3677497e1b4fabffd7a8e8131b975385058f",
+      "right_sha256": "5d6a82c8a82ae20a2ab05e6fdaef3677497e1b4fabffd7a8e8131b975385058f"
+    },
+    "quiz": {
+      "identical": true,
+      "left_sha256": "18b34c3e70936b6c215d616f27f5ce0b22429ac4af1a84e9ae1d941cf79eb048",
+      "right_sha256": "18b34c3e70936b6c215d616f27f5ce0b22429ac4af1a84e9ae1d941cf79eb048"
+    },
+    "weeks": {
+      "identical": true,
+      "left_sha256": "4f6ab65dccdb0d05ba9d4261198f496b9e51582e67725fad32afed3ff61708c2",
+      "right_sha256": "4f6ab65dccdb0d05ba9d4261198f496b9e51582e67725fad32afed3ff61708c2"
+    }
+  },
+  "all_DB_equal": true,
+  "historical_reports": {
+    "Mi_Espanol_STAGE05_Dialogue_Curriculum_QA_2026-11-03(1).md": {
+      "classification": "HISTORICAL_NOT_CURRENT_QA",
+      "referenced_sha256": []
+    },
+    "Mi_Espanol_v3_Reliability_Implementation_Report_2026-11-03(1).md": {
+      "classification": "HISTORICAL_NOT_CURRENT_QA",
+      "referenced_sha256": []
+    },
+    "Mi_Espanol_v3_Verified_Lessons_Checkpoint_2026-11-03(1).md": {
+      "classification": "HISTORICAL_NOT_CURRENT_QA",
+      "referenced_sha256": []
+    },
+    "Mi_Espanol_STAGE04_Productive_Skills_QA_2026-11-03(1).md": {
+      "classification": "HISTORICAL_NOT_CURRENT_QA",
+      "referenced_sha256": []
+    },
+    "Mi_Espanol_STAGE11_Mobile_Audio_Offline_QA_2026-11-03.md": {
+      "classification": "HISTORICAL_NOT_CURRENT_QA",
+      "referenced_sha256": [
+        "889d76e1aa66cfc0f6ea044c53dafab5f14dfb35ab717f3481aeed42bc194dd7",
+        "bd8bbd2b3d410590115511d4d7078b97ca82879c723e7b7ccadf5ccfff0bc1ec"
+      ]
+    },
+    "Mi_Espanol_STAGE10_Visual_Learning_QA_2026-11-03.md": {
+      "classification": "HISTORICAL_NOT_CURRENT_QA",
+      "referenced_sha256": [
+        "bd8bbd2b3d410590115511d4d7078b97ca82879c723e7b7ccadf5ccfff0bc1ec",
+        "f582a55b0909eee377b1b9103aa504980e3306a729b97a6e7e0a6b7dfe35fd63"
+      ]
+    },
+    "Mi_Espanol_v3_Integrated_QA_Report_2026-11-03(1).md": {
+      "classification": "HISTORICAL_NOT_CURRENT_QA",
+      "referenced_sha256": [
+        "54cb7d8ed3ff97c1f90a385ee9cf552e936fb028dafea08613541ba86e0e543a"
+      ]
+    },
+    "Mi_Espanol_v3_Content_Implementation_Audit_2026-11-03.md": {
+      "classification": "HISTORICAL_NOT_CURRENT_QA",
+      "referenced_sha256": []
+    },
+    "Mi_Espanol_STAGE08_Unified_Review_QA_2026-11-03.md": {
+      "classification": "HISTORICAL_NOT_CURRENT_QA",
+      "referenced_sha256": [
+        "35b4d16cdc9a0e2f06fafa574c58d2d91ed62800eb645cd67470886558485d5a"
+      ]
+    },
+    "Mi_Espanol_STAGE06_Adaptive_Learning_QA_2026-11-03(1).md": {
+      "classification": "HISTORICAL_NOT_CURRENT_QA",
+      "referenced_sha256": [
+        "458f45a1ac6c6ca7734e0010aa2e56fff3502011ba7e55b61e7ce7c3be726b5d",
+        "e83d39675ccdb669873cf6cb0cb17c75b74c8911a08c3e15681d70a635ffaa47"
+      ]
+    }
+  }
+}

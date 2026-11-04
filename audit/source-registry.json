@@ -1,0 +1,98 @@
+[
+  {
+    "id": "S01",
+    "source": "16 страниц личной грамматики",
+    "availability": "EMBEDDED_IMAGES_ONLY",
+    "evidence": "16 images group=grammar; standalone PDF not supplied",
+    "page_by_page_status": "NOT_VERIFIED",
+    "license_status": "NOT_VERIFIED"
+  },
+  {
+    "id": "S02",
+    "source": "7 страниц личных конспектов",
+    "availability": "EMBEDDED_IMAGES_ONLY",
+    "evidence": "7 images group=notes; standalone PDF not supplied",
+    "page_by_page_status": "NOT_VERIFIED",
+    "license_status": "NOT_VERIFIED"
+  },
+  {
+    "id": "S03",
+    "source": "IMG_7529 и IMG_7530",
+    "availability": "EMBEDDED_IMAGES_ONLY",
+    "evidence": "2 images group=words; separate original photos not supplied",
+    "page_by_page_status": "NOT_VERIFIED",
+    "license_status": "NOT_VERIFIED"
+  },
+  {
+    "id": "S04",
+    "source": "Тамайо",
+    "availability": "NOT_DELIVERED",
+    "evidence": "Mentioned in specification/reports only; no page audit claimed",
+    "page_by_page_status": "NOT_VERIFIED",
+    "license_status": "NOT_VERIFIED"
+  },
+  {
+    "id": "S05",
+    "source": "Ларионова/Чибисова",
+    "availability": "NOT_DELIVERED",
+    "evidence": "Mentioned in specification/reports only; no page audit claimed",
+    "page_by_page_status": "NOT_VERIFIED",
+    "license_status": "NOT_VERIFIED"
+  },
+  {
+    "id": "S06",
+    "source": "Погадаева",
+    "availability": "NOT_DELIVERED",
+    "evidence": "Mentioned in specification/reports only; no page audit claimed",
+    "page_by_page_status": "NOT_VERIFIED",
+    "license_status": "NOT_VERIFIED"
+  },
+  {
+    "id": "S07",
+    "source": "Бёрингер",
+    "availability": "NOT_DELIVERED",
+    "evidence": "Mentioned in specification/reports only; no page audit claimed",
+    "page_by_page_status": "NOT_VERIFIED",
+    "license_status": "NOT_VERIFIED"
+  },
+  {
+    "id": "S08",
+    "source": "Сиснерос",
+    "availability": "NOT_DELIVERED",
+    "evidence": "Mentioned in specification/reports only; no page audit claimed",
+    "page_by_page_status": "NOT_VERIFIED",
+    "license_status": "NOT_VERIFIED"
+  },
+  {
+    "id": "S09",
+    "source": "Канонич",
+    "availability": "NOT_DELIVERED",
+    "evidence": "Mentioned in specification/reports only; no page audit claimed",
+    "page_by_page_status": "NOT_VERIFIED",
+    "license_status": "NOT_VERIFIED"
+  },
+  {
+    "id": "S10",
+    "source": "Невский/Гилянов",
+    "availability": "NOT_DELIVERED",
+    "evidence": "Mentioned in specification/reports only; no page audit claimed",
+    "page_by_page_status": "NOT_VERIFIED",
+    "license_status": "NOT_VERIFIED"
+  },
+  {
+    "id": "S11",
+    "source": "don Quijote / dQbrochure_2.pdf",
+    "availability": "NOT_DELIVERED",
+    "evidence": "Mentioned in specification/reports only; no page audit claimed",
+    "page_by_page_status": "NOT_VERIFIED",
+    "license_status": "NOT_VERIFIED"
+  },
+  {
+    "id": "S12",
+    "source": "PRISMA и другие ранее показанные материалы",
+    "availability": "NOT_DELIVERED",
+    "evidence": "Mentioned in specification/reports only; no page audit claimed",
+    "page_by_page_status": "NOT_VERIFIED",
+    "license_status": "NOT_VERIFIED"
+  }
+]

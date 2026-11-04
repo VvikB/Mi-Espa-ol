@@ -1,0 +1,23 @@
+[
+  {
+    "name": "MI_ESPANOL_CODEX_STARTER_2026-11-05.zip",
+    "workspace_path": "/workspace/attachments/558198b3-14f1-4c42-866c-3a448e14c269/MI_ESPANOL_CODEX_STARTER_2026-11-05.zip",
+    "bytes": 15072822,
+    "sha256": "28301b444c13ee70e63f713938a7833282d67fc20582df4d223010d0fcc79814",
+    "status": "RECEIVED_UNCHANGED"
+  },
+  {
+    "name": "Вставленный текст.txt",
+    "workspace_path": "/workspace/attachments/b03ddd4d-94a7-4be5-a64e-306b13617779/Вставленный текст.txt",
+    "bytes": 17356,
+    "sha256": "d917d5adf1c80114f38f0c1cd308ce684eb2f3c13d98b0131a8a2eb8d5925883",
+    "status": "RECEIVED_UNCHANGED"
+  },
+  {
+    "name": "MI_ESPANOL_CODEX_ALL_AVAILABLE_HTML_2026-11-05.zip",
+    "sediment_id": "file_0000000019d08210a8f9fe3e7aa45091",
+    "bytes": null,
+    "sha256": null,
+    "status": "TRANSFER_LIMIT_32_MIB_NOT_READ_NOT_DECLARED_LOST"
+  }
+]

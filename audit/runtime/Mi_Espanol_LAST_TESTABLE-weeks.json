@@ -1,0 +1,96 @@
+[
+  {
+    "week": 1,
+    "title": "Основа речи",
+    "grammar": "Произношение и ударение",
+    "quizzes": []
+  },
+  {
+    "week": 2,
+    "title": "Повседневная жизнь",
+    "grammar": "Род, число, артикли",
+    "quizzes": []
+  },
+  {
+    "week": 3,
+    "title": "Прошедшее I",
+    "grammar": "Употребление артиклей",
+    "quizzes": []
+  },
+  {
+    "week": 4,
+    "title": "Прошедшее II",
+    "grammar": "Прилагательные и сравнение",
+    "quizzes": []
+  },
+  {
+    "week": 5,
+    "title": "Местоимения",
+    "grammar": "Личные местоимения",
+    "quizzes": []
+  },
+  {
+    "week": 6,
+    "title": "Будущее и планы",
+    "grammar": "Указательные местоимения",
+    "quizzes": []
+  },
+  {
+    "week": 7,
+    "title": "Свободный рассказ",
+    "grammar": "Вопросительные и неопределённые",
+    "quizzes": []
+  },
+  {
+    "week": 8,
+    "title": "Subjuntivo I",
+    "grammar": "Отрицательные и относительные",
+    "quizzes": [
+      3
+    ]
+  },
+  {
+    "week": 9,
+    "title": "Subjuntivo II",
+    "grammar": "Indicativo — главные времена",
+    "quizzes": [
+      1,
+      2,
+      6,
+      9
+    ]
+  },
+  {
+    "week": 10,
+    "title": "Аудирование B1",
+    "grammar": "Subjuntivo, condicional, imperativo",
+    "quizzes": [
+      0,
+      2,
+      6,
+      9
+    ]
+  },
+  {
+    "week": 11,
+    "title": "Разговор B1–B2",
+    "grammar": "Неправильные — indicativo",
+    "quizzes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "week": 12,
+    "title": "Итоговая практика",
+    "grammar": "Неправильные — subjuntivo",
+    "quizzes": [
+      5,
+      6
+    ]
+  }
+]

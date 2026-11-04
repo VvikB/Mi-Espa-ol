@@ -1,0 +1,1948 @@
+{
+  "run_at_utc": "2026-11-04T22:14:38.297867+00:00",
+  "browser": "155.0.8059.79",
+  "playwright": "1.62.0",
+  "target": "originals/starter/source_candidates ONLY; experimental draft EXCLUDED",
+  "audio": "speechSynthesis.speak mocked; no audibility claim",
+  "summary": {
+    "PASS": 125,
+    "FAIL": 17,
+    "NOT_TESTED": 2,
+    "BLOCKED": 2
+  },
+  "results": [
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "startup",
+      "status": "PASS",
+      "evidence": {
+        "title": "Mi Español · Personal",
+        "errors": []
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "runtime_inventory",
+      "status": "PASS",
+      "evidence": {
+        "db": {
+          "sections": 16,
+          "tables": 73,
+          "words": 131,
+          "schemes": 8,
+          "exercises": 10,
+          "weeks": 12,
+          "images": 25,
+          "groups": {
+            "grammar": 16,
+            "words": 2,
+            "notes": 7
+          }
+        },
+        "scenes": [
+          "body",
+          "house",
+          "street",
+          "feel",
+          "kitchen",
+          "clothing"
+        ],
+        "sceneItems": 55,
+        "hasRecall": true,
+        "hasBackupV2": true
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_320_today",
+      "status": "PASS",
+      "evidence": {
+        "view": "today",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_320_library",
+      "status": "PASS",
+      "evidence": {
+        "view": "library",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_320_words",
+      "status": "PASS",
+      "evidence": {
+        "view": "words",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_320_practice",
+      "status": "PASS",
+      "evidence": {
+        "view": "practice",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_320_progress",
+      "status": "PASS",
+      "evidence": {
+        "view": "progress",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_375_today",
+      "status": "PASS",
+      "evidence": {
+        "view": "today",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_375_library",
+      "status": "PASS",
+      "evidence": {
+        "view": "library",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_375_words",
+      "status": "PASS",
+      "evidence": {
+        "view": "words",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_375_practice",
+      "status": "PASS",
+      "evidence": {
+        "view": "practice",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_375_progress",
+      "status": "PASS",
+      "evidence": {
+        "view": "progress",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_390_today",
+      "status": "PASS",
+      "evidence": {
+        "view": "today",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_390_library",
+      "status": "PASS",
+      "evidence": {
+        "view": "library",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_390_words",
+      "status": "PASS",
+      "evidence": {
+        "view": "words",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_390_practice",
+      "status": "PASS",
+      "evidence": {
+        "view": "practice",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_390_progress",
+      "status": "PASS",
+      "evidence": {
+        "view": "progress",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_430_today",
+      "status": "PASS",
+      "evidence": {
+        "view": "today",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_430_library",
+      "status": "PASS",
+      "evidence": {
+        "view": "library",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_430_words",
+      "status": "PASS",
+      "evidence": {
+        "view": "words",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_430_practice",
+      "status": "PASS",
+      "evidence": {
+        "view": "practice",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_light_430_progress",
+      "status": "PASS",
+      "evidence": {
+        "view": "progress",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_320_today",
+      "status": "PASS",
+      "evidence": {
+        "view": "today",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_320_library",
+      "status": "PASS",
+      "evidence": {
+        "view": "library",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_320_words",
+      "status": "PASS",
+      "evidence": {
+        "view": "words",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_320_practice",
+      "status": "PASS",
+      "evidence": {
+        "view": "practice",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_320_progress",
+      "status": "PASS",
+      "evidence": {
+        "view": "progress",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_375_today",
+      "status": "PASS",
+      "evidence": {
+        "view": "today",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_375_library",
+      "status": "PASS",
+      "evidence": {
+        "view": "library",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_375_words",
+      "status": "PASS",
+      "evidence": {
+        "view": "words",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_375_practice",
+      "status": "PASS",
+      "evidence": {
+        "view": "practice",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_375_progress",
+      "status": "PASS",
+      "evidence": {
+        "view": "progress",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_390_today",
+      "status": "PASS",
+      "evidence": {
+        "view": "today",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_390_library",
+      "status": "PASS",
+      "evidence": {
+        "view": "library",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_390_words",
+      "status": "PASS",
+      "evidence": {
+        "view": "words",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_390_practice",
+      "status": "PASS",
+      "evidence": {
+        "view": "practice",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_390_progress",
+      "status": "PASS",
+      "evidence": {
+        "view": "progress",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_430_today",
+      "status": "PASS",
+      "evidence": {
+        "view": "today",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_430_library",
+      "status": "PASS",
+      "evidence": {
+        "view": "library",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_430_words",
+      "status": "PASS",
+      "evidence": {
+        "view": "words",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_430_practice",
+      "status": "PASS",
+      "evidence": {
+        "view": "practice",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "nav_dark_430_progress",
+      "status": "PASS",
+      "evidence": {
+        "view": "progress",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "dictionary_audio_all_rows",
+      "status": "FAIL",
+      "evidence": {
+        "buttons_clicked": 131,
+        "speech_calls": 0,
+        "new_errors": [
+          "Unexpected end of input",
+          "Unexpected end of input",
+          "Unexpected end of input",
+          "Unexpected end of input"
+        ],
+        "new_error_count": 131,
+        "first_handler": "speak("
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "legacy_card_audio_click",
+      "status": "FAIL",
+      "evidence": {
+        "handler": "speak(",
+        "new_errors": [
+          "Unexpected end of input"
+        ]
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "legacy_due_before_new",
+      "status": "PASS",
+      "evidence": {
+        "selected": 2,
+        "expected_due_index": 2
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "written_accent_negative",
+      "status": "PASS",
+      "evidence": {
+        "i": 5,
+        "a": "saldré"
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "written_accent_positive",
+      "status": "PASS",
+      "evidence": {
+        "i": 5,
+        "a": "saldré"
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "progress_survives_http_reload",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "all_25_images_decode",
+      "status": "PASS",
+      "evidence": [
+        {
+          "id": "GRAMMAR-01",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-02",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-03",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-04",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-05",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-06",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-07",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-08",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-09",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-10",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-11",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-12",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-13",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-14",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-15",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-16",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": 7529,
+          "ok": true,
+          "width": 1321,
+          "height": 1863
+        },
+        {
+          "id": 7530,
+          "ok": true,
+          "width": 1321,
+          "height": 1863
+        },
+        {
+          "id": "NOTES-01",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "NOTES-02",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "NOTES-03",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "NOTES-04",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "NOTES-05",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "NOTES-06",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "NOTES-07",
+          "ok": true,
+          "width": 1390,
+          "height": 982
+        }
+      ]
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "scene_body_renders",
+      "status": "PASS",
+      "evidence": {
+        "svg_count": 1,
+        "items": 14
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "scene_body_quiz_records",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "scene_house_renders",
+      "status": "PASS",
+      "evidence": {
+        "svg_count": 1,
+        "items": 9
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "scene_house_quiz_records",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "scene_street_renders",
+      "status": "PASS",
+      "evidence": {
+        "svg_count": 1,
+        "items": 8
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "scene_street_quiz_records",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "scene_feel_renders",
+      "status": "PASS",
+      "evidence": {
+        "svg_count": 1,
+        "items": 8
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "scene_feel_quiz_records",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "scene_kitchen_renders",
+      "status": "PASS",
+      "evidence": {
+        "svg_count": 1,
+        "items": 8
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "scene_kitchen_quiz_records",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "scene_clothing_renders",
+      "status": "PASS",
+      "evidence": {
+        "svg_count": 1,
+        "items": 8
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "scene_clothing_quiz_records",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "table_form_handlers_compile",
+      "status": "FAIL",
+      "evidence": {
+        "handlers": 54,
+        "invalid": 54,
+        "examples": [
+          {
+            "ok": false,
+            "handler": "if(event.key==='Enter')verifyTableCell(",
+            "error": "Unexpected token '}'"
+          },
+          {
+            "ok": false,
+            "handler": "verifyTableCell(",
+            "error": "Unexpected token '}'"
+          },
+          {
+            "ok": false,
+            "handler": "this.closest('td').querySelector('.cell-feedback').textContent=",
+            "error": "Unexpected token '}'"
+          }
+        ]
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "week1_route_ser_estar",
+      "status": "FAIL",
+      "evidence": {
+        "week": 1,
+        "title": "Основа речи",
+        "grammar": "Произношение и ударение",
+        "quizzes": []
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "speech_service_invocation_mocked",
+      "status": "PASS",
+      "evidence": {
+        "text": "¡Hola! ¿Qué tal, señor?",
+        "physical_sound": "NOT_TESTED"
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "settings_touch_targets_44px",
+      "status": "FAIL",
+      "evidence": [
+        {
+          "text": "🔊 Проверить произношение",
+          "w": 232.140625,
+          "h": 42.5
+        }
+      ]
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "dark_settings_button_contrast_AA",
+      "status": "PASS",
+      "evidence": {
+        "minimum": 6.286078581135732,
+        "below_4_5": []
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "backup_ui_roundtrip_progress",
+      "status": "PASS",
+      "evidence": {
+        "format": "mi-espanol-progress-2",
+        "checksum_algorithm": "fnv1a32"
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "backup_repeated_same_file_idempotent",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "backup_checksum_rejects_tampering",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "backup_rejects_prototype_keys",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "backup_rejects_invalid_state_schema",
+      "status": "FAIL",
+      "evidence": {
+        "invalid_input": {
+          "week": 99,
+          "answers": []
+        }
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "backup_preserves_newer_progress",
+      "status": "FAIL",
+      "evidence": {
+        "merge_policy": "incoming values overwrite current values; no timestamp ordering"
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "backup_includes_separate_settings",
+      "status": "FAIL",
+      "evidence": {
+        "state_keys": [
+          "week",
+          "answers",
+          "vocab",
+          "favorites",
+          "session",
+          "miRecall11"
+        ],
+        "separate_keys": [
+          "mi-espanol-theme-v1",
+          "mi-espanol-recovery11-settings-v1"
+        ],
+        "scope": "full state+settings requirement not met"
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "active_recall_due_before_unseen",
+      "status": "FAIL",
+      "evidence": {
+        "due_index": 1,
+        "selected_index": 0,
+        "frozen_now": 2000
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "active_recall_grade_requires_reveal",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "active_recall_failure_delays_one_minute",
+      "status": "PASS",
+      "evidence": {
+        "steps": 0,
+        "next": 1793830529263,
+        "last": 1793830469263,
+        "attempts": 1,
+        "correct": 0
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "scheme_source_references_resolve",
+      "status": "FAIL",
+      "evidence": [
+        {
+          "name": "SER · кто я и какой я",
+          "source": 7578,
+          "matches": 0
+        },
+        {
+          "name": "ESTAR · состояние и местонахождение",
+          "source": 7577,
+          "matches": 0
+        },
+        {
+          "name": "TENER · ощущения и необходимость",
+          "source": 7575,
+          "matches": 0
+        },
+        {
+          "name": "IR · движение и планы",
+          "source": 7574,
+          "matches": 0
+        },
+        {
+          "name": "ВОПРОСЫ · как поддержать разговор",
+          "source": 7576,
+          "matches": 0
+        },
+        {
+          "name": "ВРЕМЯ · когда и как долго",
+          "source": 7579,
+          "matches": 0
+        },
+        {
+          "name": "МЕСТО · объясняю дорогу",
+          "source": 7580,
+          "matches": 0
+        },
+        {
+          "name": "УМЕНИЯ · что хорошо получается",
+          "source": 7573,
+          "matches": 0
+        }
+      ]
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "active_recall_audio_click",
+      "status": "FAIL",
+      "evidence": {
+        "handler": "speak("
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "missing_TTS_reports_unavailable",
+      "status": "PASS",
+      "evidence": {
+        "alerts": "Этот браузер не поддерживает синтез речи."
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "no_remote_asset_requests_during_test",
+      "status": "PASS",
+      "evidence": []
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "physical_iPhone_audio_pinch_persistence",
+      "status": "NOT_TESTED",
+      "evidence": "Not available in this environment"
+    },
+    {
+      "candidate": "Mi_Espanol_LAST_TESTABLE.html",
+      "test": "local_file_open",
+      "status": "BLOCKED",
+      "evidence": "Managed Chromium policy returned ERR_BLOCKED_BY_ADMINISTRATOR on file:// in prior direct attempt; HTTP used for evidence"
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "startup",
+      "status": "PASS",
+      "evidence": {
+        "title": "Mi Español · Personal",
+        "errors": []
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "runtime_inventory",
+      "status": "PASS",
+      "evidence": {
+        "db": {
+          "sections": 16,
+          "tables": 73,
+          "words": 131,
+          "schemes": 8,
+          "exercises": 10,
+          "weeks": 12,
+          "images": 25,
+          "groups": {
+            "grammar": 16,
+            "words": 2,
+            "notes": 7
+          }
+        },
+        "scenes": [
+          "body",
+          "house",
+          "street",
+          "feel"
+        ],
+        "sceneItems": 39,
+        "hasRecall": false,
+        "hasBackupV2": false
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_320_today",
+      "status": "PASS",
+      "evidence": {
+        "view": "today",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_320_library",
+      "status": "PASS",
+      "evidence": {
+        "view": "library",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_320_words",
+      "status": "PASS",
+      "evidence": {
+        "view": "words",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_320_practice",
+      "status": "PASS",
+      "evidence": {
+        "view": "practice",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_320_progress",
+      "status": "PASS",
+      "evidence": {
+        "view": "progress",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_375_today",
+      "status": "PASS",
+      "evidence": {
+        "view": "today",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_375_library",
+      "status": "PASS",
+      "evidence": {
+        "view": "library",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_375_words",
+      "status": "PASS",
+      "evidence": {
+        "view": "words",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_375_practice",
+      "status": "PASS",
+      "evidence": {
+        "view": "practice",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_375_progress",
+      "status": "PASS",
+      "evidence": {
+        "view": "progress",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_390_today",
+      "status": "PASS",
+      "evidence": {
+        "view": "today",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_390_library",
+      "status": "PASS",
+      "evidence": {
+        "view": "library",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_390_words",
+      "status": "PASS",
+      "evidence": {
+        "view": "words",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_390_practice",
+      "status": "PASS",
+      "evidence": {
+        "view": "practice",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_390_progress",
+      "status": "PASS",
+      "evidence": {
+        "view": "progress",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_430_today",
+      "status": "PASS",
+      "evidence": {
+        "view": "today",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_430_library",
+      "status": "PASS",
+      "evidence": {
+        "view": "library",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_430_words",
+      "status": "PASS",
+      "evidence": {
+        "view": "words",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_430_practice",
+      "status": "PASS",
+      "evidence": {
+        "view": "practice",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_light_430_progress",
+      "status": "PASS",
+      "evidence": {
+        "view": "progress",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_320_today",
+      "status": "PASS",
+      "evidence": {
+        "view": "today",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_320_library",
+      "status": "PASS",
+      "evidence": {
+        "view": "library",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_320_words",
+      "status": "PASS",
+      "evidence": {
+        "view": "words",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_320_practice",
+      "status": "PASS",
+      "evidence": {
+        "view": "practice",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_320_progress",
+      "status": "PASS",
+      "evidence": {
+        "view": "progress",
+        "body": 320,
+        "viewport": 320,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_375_today",
+      "status": "PASS",
+      "evidence": {
+        "view": "today",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_375_library",
+      "status": "PASS",
+      "evidence": {
+        "view": "library",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_375_words",
+      "status": "PASS",
+      "evidence": {
+        "view": "words",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_375_practice",
+      "status": "PASS",
+      "evidence": {
+        "view": "practice",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_375_progress",
+      "status": "PASS",
+      "evidence": {
+        "view": "progress",
+        "body": 375,
+        "viewport": 375,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_390_today",
+      "status": "PASS",
+      "evidence": {
+        "view": "today",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_390_library",
+      "status": "PASS",
+      "evidence": {
+        "view": "library",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_390_words",
+      "status": "PASS",
+      "evidence": {
+        "view": "words",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_390_practice",
+      "status": "PASS",
+      "evidence": {
+        "view": "practice",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_390_progress",
+      "status": "PASS",
+      "evidence": {
+        "view": "progress",
+        "body": 390,
+        "viewport": 390,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_430_today",
+      "status": "PASS",
+      "evidence": {
+        "view": "today",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_430_library",
+      "status": "PASS",
+      "evidence": {
+        "view": "library",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_430_words",
+      "status": "PASS",
+      "evidence": {
+        "view": "words",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_430_practice",
+      "status": "PASS",
+      "evidence": {
+        "view": "practice",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "nav_dark_430_progress",
+      "status": "PASS",
+      "evidence": {
+        "view": "progress",
+        "body": 430,
+        "viewport": 430,
+        "nav": 5
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "dictionary_audio_all_rows",
+      "status": "FAIL",
+      "evidence": {
+        "buttons_clicked": 131,
+        "speech_calls": 0,
+        "new_errors": [
+          "Unexpected end of input",
+          "Unexpected end of input",
+          "Unexpected end of input",
+          "Unexpected end of input"
+        ],
+        "new_error_count": 131,
+        "first_handler": "speak("
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "legacy_card_audio_click",
+      "status": "FAIL",
+      "evidence": {
+        "handler": "speak(",
+        "new_errors": [
+          "Unexpected end of input"
+        ]
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "legacy_due_before_new",
+      "status": "PASS",
+      "evidence": {
+        "selected": 2,
+        "expected_due_index": 2
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "written_accent_negative",
+      "status": "PASS",
+      "evidence": {
+        "i": 5,
+        "a": "saldré"
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "written_accent_positive",
+      "status": "PASS",
+      "evidence": {
+        "i": 5,
+        "a": "saldré"
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "progress_survives_http_reload",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "all_25_images_decode",
+      "status": "PASS",
+      "evidence": [
+        {
+          "id": "GRAMMAR-01",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-02",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-03",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-04",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-05",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-06",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-07",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-08",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-09",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-10",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-11",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-12",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-13",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-14",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-15",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "GRAMMAR-16",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": 7529,
+          "ok": true,
+          "width": 1321,
+          "height": 1863
+        },
+        {
+          "id": 7530,
+          "ok": true,
+          "width": 1321,
+          "height": 1863
+        },
+        {
+          "id": "NOTES-01",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "NOTES-02",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "NOTES-03",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "NOTES-04",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "NOTES-05",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "NOTES-06",
+          "ok": true,
+          "width": 982,
+          "height": 1390
+        },
+        {
+          "id": "NOTES-07",
+          "ok": true,
+          "width": 1390,
+          "height": 982
+        }
+      ]
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "scene_body_renders",
+      "status": "PASS",
+      "evidence": {
+        "svg_count": 1,
+        "items": 14
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "scene_house_renders",
+      "status": "PASS",
+      "evidence": {
+        "svg_count": 1,
+        "items": 9
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "scene_street_renders",
+      "status": "PASS",
+      "evidence": {
+        "svg_count": 1,
+        "items": 8
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "scene_feel_renders",
+      "status": "PASS",
+      "evidence": {
+        "svg_count": 1,
+        "items": 8
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "table_form_handlers_compile",
+      "status": "FAIL",
+      "evidence": {
+        "handlers": 54,
+        "invalid": 54,
+        "examples": [
+          {
+            "ok": false,
+            "handler": "if(event.key==='Enter')verifyTableCell(",
+            "error": "Unexpected token '}'"
+          },
+          {
+            "ok": false,
+            "handler": "verifyTableCell(",
+            "error": "Unexpected token '}'"
+          },
+          {
+            "ok": false,
+            "handler": "this.closest('td').querySelector('.cell-feedback').textContent=",
+            "error": "Unexpected token '}'"
+          }
+        ]
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "week1_route_ser_estar",
+      "status": "FAIL",
+      "evidence": {
+        "week": 1,
+        "title": "Основа речи",
+        "grammar": "Произношение и ударение",
+        "quizzes": []
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "speech_service_invocation_mocked",
+      "status": "PASS",
+      "evidence": {
+        "text": "¡Hola! ¿Qué tal, señor?",
+        "physical_sound": "NOT_TESTED"
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "settings_touch_targets_44px",
+      "status": "FAIL",
+      "evidence": [
+        {
+          "text": "← Назад к прогрессу",
+          "w": 172.515625,
+          "h": 42.5
+        },
+        {
+          "text": "☀ Восстановить светлую тему",
+          "w": 243.484375,
+          "h": 42.5
+        },
+        {
+          "text": "🔊 Проверить произношение",
+          "w": 232.140625,
+          "h": 42.5
+        },
+        {
+          "text": "■ Стоп",
+          "w": 73.234375,
+          "h": 42.5
+        },
+        {
+          "text": "Сохранить паспорт (JSON)",
+          "w": 214.1875,
+          "h": 42.5
+        }
+      ]
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "dark_settings_button_contrast_AA",
+      "status": "PASS",
+      "evidence": {
+        "minimum": 6.286078581135732,
+        "below_4_5": []
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "backup_v1_ui_roundtrip_progress",
+      "status": "PASS",
+      "evidence": {
+        "checksum": "ABSENT",
+        "settings": "NOT_INCLUDED"
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "scheme_source_references_resolve",
+      "status": "FAIL",
+      "evidence": [
+        {
+          "name": "SER · кто я и какой я",
+          "source": 7578,
+          "matches": 0
+        },
+        {
+          "name": "ESTAR · состояние и местонахождение",
+          "source": 7577,
+          "matches": 0
+        },
+        {
+          "name": "TENER · ощущения и необходимость",
+          "source": 7575,
+          "matches": 0
+        },
+        {
+          "name": "IR · движение и планы",
+          "source": 7574,
+          "matches": 0
+        },
+        {
+          "name": "ВОПРОСЫ · как поддержать разговор",
+          "source": 7576,
+          "matches": 0
+        },
+        {
+          "name": "ВРЕМЯ · когда и как долго",
+          "source": 7579,
+          "matches": 0
+        },
+        {
+          "name": "МЕСТО · объясняю дорогу",
+          "source": 7580,
+          "matches": 0
+        },
+        {
+          "name": "УМЕНИЯ · что хорошо получается",
+          "source": 7573,
+          "matches": 0
+        }
+      ]
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "missing_TTS_reports_unavailable",
+      "status": "PASS",
+      "evidence": {
+        "alerts": "Этот браузер не поддерживает синтез речи."
+      }
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "no_remote_asset_requests_during_test",
+      "status": "PASS",
+      "evidence": []
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "physical_iPhone_audio_pinch_persistence",
+      "status": "NOT_TESTED",
+      "evidence": "Not available in this environment"
+    },
+    {
+      "candidate": "Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "test": "local_file_open",
+      "status": "BLOCKED",
+      "evidence": "Managed Chromium policy returned ERR_BLOCKED_BY_ADMINISTRATOR on file:// in prior direct attempt; HTTP used for evidence"
+    }
+  ]
+}

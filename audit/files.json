@@ -1,0 +1,176 @@
+[
+  {
+    "path": "originals/PRODUCT_VISION.txt",
+    "bytes": 17356,
+    "sha256": "d917d5adf1c80114f38f0c1cd308ce684eb2f3c13d98b0131a8a2eb8d5925883",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/READ_ME_FIRST.md",
+    "bytes": 3858,
+    "sha256": "d235adb21a08dd350485e22e2977893b65ba37932e99b77881c2b6cf3681935e",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/docs/CODEX_FIRST_TASK.md",
+    "bytes": 3306,
+    "sha256": "33427d205a1fb1bfb965907ab958b7e851c2d8ac9d65432f0af0bf27989737a4",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/docs/DEVELOPMENT_STATE.md",
+    "bytes": 3153,
+    "sha256": "496f7710ceb45d21e3baf4c50cafa12b03b04c42034cb5308227a2baaf3cfa6d",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/docs/Mi_Espanol_AUDIT_AND_NEXT_ACTION_2026-11-03.md",
+    "bytes": 10144,
+    "sha256": "78480a36f4d65f15d117740a033b4812c8ca1c042bb4602b985dbde64eea0352",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/docs/Mi_Espanol_CEFR_A1_B2_Architecture_Addendum(2)(1).md",
+    "bytes": 3901,
+    "sha256": "049b21021f03d4212a882e8ea802f23f961b5b56e0ae2e8d147810a0aeddf745",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/docs/Mi_Espanol_MASTER_PROJECT_HANDOVER_2026-11-03.docx",
+    "bytes": 45276,
+    "sha256": "ff79e2d7361b5267f60ceb6d5ca199bc54a9b1dfd2048a8e7165a3e2bcecc8a4",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx",
+    "bytes": 65092,
+    "sha256": "552dc779e6f501f63df8e6d866b397232f1cae3d7d7eaa115d0f93764c3dddd0",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/docs/Mi_Espanol_MASTER_TZ_v2_0_2026-11-03(1).docx",
+    "bytes": 51547,
+    "sha256": "9cbf3ea6f89db45981ce2406030ce06f993f4f9048238082274e885ed816604a",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/inventory/MANIFEST_SHA256.json",
+    "bytes": 4455,
+    "sha256": "5fdd2ae38a04c8e7b1d0a77fffcc8279f50344dea3c4022e6b0b3391c0a3371e",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_STAGE04_Productive_Skills_QA_2026-11-03(1).md",
+    "bytes": 6458,
+    "sha256": "7dc99acb13f304e09dfb585eb0c60d3d972c0fa38b71de35eb9cdfa75d59afe0",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_STAGE05_Dialogue_Curriculum_QA_2026-11-03(1).md",
+    "bytes": 6178,
+    "sha256": "5e9f50fa82f68f7a8d1edec740e21624497b9a4f45a0cf907069e0db5bf22917",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_STAGE06_Adaptive_Learning_QA_2026-11-03(1).md",
+    "bytes": 7210,
+    "sha256": "801f7fb6eefb2f5f095e06039803d4eb47ae1e6e6dd35e18800fb7dce3de1944",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_STAGE08_Unified_Review_QA_2026-11-03.md",
+    "bytes": 6163,
+    "sha256": "29972c29df4fc2c4c23d119eca8fb37fefdd873f4fa931f4d4d34601c07c0875",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_STAGE10_Visual_Learning_QA_2026-11-03.md",
+    "bytes": 6374,
+    "sha256": "131147e666eadfa1274aeb7c1dc24116e3b477d15b88c281f61f91525ef3e2e4",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_STAGE11_Mobile_Audio_Offline_QA_2026-11-03.md",
+    "bytes": 9239,
+    "sha256": "09361f6ada693723af879628b814a4c3e7688437b239b406c3be8830cda4a8a6",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_v3_Content_Implementation_Audit_2026-11-03.md",
+    "bytes": 5951,
+    "sha256": "c86a838a56a21637839b3ce61b3f20c0731a0fb56a783c377683aca5c379eebf",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_v3_Integrated_QA_Report_2026-11-03(1).md",
+    "bytes": 14774,
+    "sha256": "664cc5fef79ffc969efd106bc3e235e8bf4c8456542d1f9498625a717a7675dc",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_v3_Reliability_Implementation_Report_2026-11-03(1).md",
+    "bytes": 7790,
+    "sha256": "36f3e7a63d42855002db8a1d9185e81ec589b5510192a3758c15c01f714e4555",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/reports/Mi_Espanol_v3_Verified_Lessons_Checkpoint_2026-11-03(1).md",
+    "bytes": 4983,
+    "sha256": "06b505b024a72a84ddc651324d16077be9c7e78f5829b35fba4e923595dfc550",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/source_candidates/Mi_Espanol_LAST_TESTABLE.html",
+    "bytes": 9894397,
+    "sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "originals/starter/source_candidates/Mi_Espanol_Recovery_Contrast_Audio(1).html",
+    "bytes": 9868381,
+    "sha256": "54cb7d8ed3ff97c1f90a385ee9cf552e936fb028dafea08613541ba86e0e543a",
+    "classification": "supplied_immutable"
+  },
+  {
+    "path": "experimental/pre-audit-draft/README.md",
+    "bytes": 1081,
+    "sha256": "a71bc7cfcdd61bee5f62125021c6e54f05e833579e2e83cb3ab72412531ea4d7",
+    "classification": "new_unverified_draft_not_recovered"
+  },
+  {
+    "path": "experimental/pre-audit-draft/course.json",
+    "bytes": 25477,
+    "sha256": "c34d5948675417c0a7d09ced151ed0403bdb9bc7e2c245853b3f9b8693e57b03",
+    "classification": "new_unverified_draft_not_recovered"
+  },
+  {
+    "path": "experimental/pre-audit-draft/derived/legacy.json",
+    "bytes": 9825860,
+    "sha256": "1402feeee23347dbbb3ae8ca5ef4a5419e1f16f344a13eb955786de32352ef5d",
+    "classification": "new_unverified_draft_not_recovered"
+  },
+  {
+    "path": "experimental/pre-audit-draft/derived/scenes.json",
+    "bytes": 33887,
+    "sha256": "b18975bd2a16d83b000962a2b378a570c324dda96e300107be7657276986e6be",
+    "classification": "new_unverified_draft_not_recovered"
+  },
+  {
+    "path": "experimental/pre-audit-draft/src/app.js",
+    "bytes": 44390,
+    "sha256": "91154246359802e0c8b10ac028f07cd0d61e2076198e7ee4c89f231aed2cebe4",
+    "classification": "new_unverified_draft_not_recovered"
+  },
+  {
+    "path": "experimental/pre-audit-draft/src/shell.html",
+    "bytes": 1451,
+    "sha256": "980eeaf61022b98810d11d1b6a6338e03b6c9d9d20015fcae9c39c2c95a2847f",
+    "classification": "new_unverified_draft_not_recovered"
+  },
+  {
+    "path": "experimental/pre-audit-draft/src/style.css",
+    "bytes": 11461,
+    "sha256": "cd74a6b26a5f9df8ec3887d9ce991045576bcd772f9c5daa39c6e05dd1f9d3bc",
+    "classification": "new_unverified_draft_not_recovered"
+  }
+]

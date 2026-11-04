@@ -1,0 +1,18 @@
+[
+  {
+    "source": "originals/starter/source_candidates/Mi_Espanol_LAST_TESTABLE.html",
+    "sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018",
+    "reconstructed_sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018",
+    "parts": 3,
+    "status": "PASS",
+    "purpose": "BYTE_IDENTICAL_AUDIT_RECONSTRUCTION_NOT_RELEASE"
+  },
+  {
+    "source": "originals/starter/source_candidates/Mi_Espanol_Recovery_Contrast_Audio(1).html",
+    "sha256": "54cb7d8ed3ff97c1f90a385ee9cf552e936fb028dafea08613541ba86e0e543a",
+    "reconstructed_sha256": "54cb7d8ed3ff97c1f90a385ee9cf552e936fb028dafea08613541ba86e0e543a",
+    "parts": 3,
+    "status": "PASS",
+    "purpose": "BYTE_IDENTICAL_AUDIT_RECONSTRUCTION_NOT_RELEASE"
+  }
+]

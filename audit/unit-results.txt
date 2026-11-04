@@ -1,0 +1,17 @@
+python tools/audit.py
+Transfer integrity: 20 PASS, 0 FAIL, 3 not delivered in STARTER
+Mi_Espanol_LAST_TESTABLE.html {'vocab': 131, 'quiz': 10, 'grammar_sections': 16, 'tables': 73, 'schemes': 8, 'images': 25, 'weeks': 12} syntax: ['PASS']
+Mi_Espanol_Recovery_Contrast_Audio(1).html {'vocab': 131, 'quiz': 10, 'grammar_sections': 16, 'tables': 73, 'schemes': 8, 'images': 25, 'weeks': 12} syntax: ['PASS']
+DB byte-independent content comparison: True
+Reconstruction: byte-identical audit artifacts only; NO final build produced
+python -m unittest discover -s tests -v
+test_all_supplied_artifacts_match_transfer_hashes (test_audit.EvidenceIntegrity.test_all_supplied_artifacts_match_transfer_hashes) ... ok
+test_candidate_data_are_identical_not_additive (test_audit.EvidenceIntegrity.test_candidate_data_are_identical_not_additive) ... ok
+test_frozen_sources_unchanged_since_first_git_commit (test_audit.EvidenceIntegrity.test_frozen_sources_unchanged_since_first_git_commit) ... ok
+test_reconstruction_preserves_exact_original_bytes (test_audit.EvidenceIntegrity.test_reconstruction_preserves_exact_original_bytes) ... ok
+test_roundtrip_and_corrupt_part_rejection_without_overwrite (test_transfer.TransferTests.test_roundtrip_and_corrupt_part_rejection_without_overwrite) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 1.069s
+
+OK
