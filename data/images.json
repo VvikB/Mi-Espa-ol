@@ -1,0 +1,231 @@
+[
+  {
+    "file": "assets/pages/GRAMMAR-01.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "5ad0efcb71c6852497147b27b99481a32d600b22895ba44eefee2ceaa522b4b3",
+    "fields": {
+      "id": "GRAMMAR-01",
+      "group": "grammar"
+    }
+  },
+  {
+    "file": "assets/pages/GRAMMAR-02.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "54a3708dbc3bf1ce6149dda23b6de2df103cd2f9d30100599bb1cee19ddd2216",
+    "fields": {
+      "id": "GRAMMAR-02",
+      "group": "grammar"
+    }
+  },
+  {
+    "file": "assets/pages/GRAMMAR-03.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "c14320b3c0b7bfc4f820144ac57f5b83810b6a71c09a196787b63b7a2e98af37",
+    "fields": {
+      "id": "GRAMMAR-03",
+      "group": "grammar"
+    }
+  },
+  {
+    "file": "assets/pages/GRAMMAR-04.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "f9ea6d291dca9b5c372d68cef8ef91caf6a5a9b56edd2b95ce22b71bbb09ca97",
+    "fields": {
+      "id": "GRAMMAR-04",
+      "group": "grammar"
+    }
+  },
+  {
+    "file": "assets/pages/GRAMMAR-05.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "88fb510004780d9f2a601e377636e1fc940da552fa33b9d09eab31ef6eeafbc3",
+    "fields": {
+      "id": "GRAMMAR-05",
+      "group": "grammar"
+    }
+  },
+  {
+    "file": "assets/pages/GRAMMAR-06.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "1dfae1ee6471bce20d6af72cda0183bdccf582730f02ae8a54f642af9d823ced",
+    "fields": {
+      "id": "GRAMMAR-06",
+      "group": "grammar"
+    }
+  },
+  {
+    "file": "assets/pages/GRAMMAR-07.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "4cd73ae5a94369a6b2f3b887093165919ba486685fce692ecee0d915b81dd8ea",
+    "fields": {
+      "id": "GRAMMAR-07",
+      "group": "grammar"
+    }
+  },
+  {
+    "file": "assets/pages/GRAMMAR-08.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "c5dc34f206546f56d6f6f4a12cf74fd2989c8a316fdf52f9325cb62a7007ae33",
+    "fields": {
+      "id": "GRAMMAR-08",
+      "group": "grammar"
+    }
+  },
+  {
+    "file": "assets/pages/GRAMMAR-09.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "4ffc8a2fdb60451402b46736e0ad58955738483810385fd392810355fe73e03e",
+    "fields": {
+      "id": "GRAMMAR-09",
+      "group": "grammar"
+    }
+  },
+  {
+    "file": "assets/pages/GRAMMAR-10.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "d02340a1f45a75ad04239233d6af11d9c5f7b560d32cee829c0e351a92b6b459",
+    "fields": {
+      "id": "GRAMMAR-10",
+      "group": "grammar"
+    }
+  },
+  {
+    "file": "assets/pages/GRAMMAR-11.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "2124908ffce3ee18f4d0ffe1a3d16a0feff8b333726d3d38be7d3fb6c4c45749",
+    "fields": {
+      "id": "GRAMMAR-11",
+      "group": "grammar"
+    }
+  },
+  {
+    "file": "assets/pages/GRAMMAR-12.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "afa96eceea597768d6e9375bfa4b20ec42d53472ce85fb1c8c95caacf9f9e5c3",
+    "fields": {
+      "id": "GRAMMAR-12",
+      "group": "grammar"
+    }
+  },
+  {
+    "file": "assets/pages/GRAMMAR-13.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "673e2917b7e11844d7fd1724574c00ff5e29bbbec65e62c38f1b14377ab160d0",
+    "fields": {
+      "id": "GRAMMAR-13",
+      "group": "grammar"
+    }
+  },
+  {
+    "file": "assets/pages/GRAMMAR-14.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "53234c4c7f5d277e46c033a43023cab5230bf85966b4cb7d73c23853dbb1fb80",
+    "fields": {
+      "id": "GRAMMAR-14",
+      "group": "grammar"
+    }
+  },
+  {
+    "file": "assets/pages/GRAMMAR-15.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "fab9187a954f30058204bfa62aa5b70a41d12db3348c3eb155927256373f5588",
+    "fields": {
+      "id": "GRAMMAR-15",
+      "group": "grammar"
+    }
+  },
+  {
+    "file": "assets/pages/GRAMMAR-16.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "8bcc6b7e276ff6f48f13081e2d00280b2b875e8fbae56ed038c7ec7a4fdf1092",
+    "fields": {
+      "id": "GRAMMAR-16",
+      "group": "grammar"
+    }
+  },
+  {
+    "file": "assets/pages/7529.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "529bcd6e8fbbcbc44d5bb35dcb51ba57c5ff407076962e397f5c2ac97050b3aa",
+    "fields": {
+      "id": 7529,
+      "group": "words",
+      "w": 1321,
+      "h": 1863
+    }
+  },
+  {
+    "file": "assets/pages/7530.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "8d9ff577d5973a807eed5c2259976b2fcb271f03a8ee67090ffc31aa00cc44f7",
+    "fields": {
+      "id": 7530,
+      "group": "words",
+      "w": 1321,
+      "h": 1863
+    }
+  },
+  {
+    "file": "assets/pages/NOTES-01.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "819608c8ea8064330cf10dc811b5f88a642cda821c462504eef5cd599893f192",
+    "fields": {
+      "id": "NOTES-01",
+      "group": "notes"
+    }
+  },
+  {
+    "file": "assets/pages/NOTES-02.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "aa765304b10741de9f195c36bfa381c0151746e3ae256824b8cdddaa1c59159c",
+    "fields": {
+      "id": "NOTES-02",
+      "group": "notes"
+    }
+  },
+  {
+    "file": "assets/pages/NOTES-03.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "6d6730fb6099c384926a94b6e3358bed160794b55c748eaca47edfde7ff9250a",
+    "fields": {
+      "id": "NOTES-03",
+      "group": "notes"
+    }
+  },
+  {
+    "file": "assets/pages/NOTES-04.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "0f821481f969baf98c6902c837624b93824a11f640dd0afe70febe29050492eb",
+    "fields": {
+      "id": "NOTES-04",
+      "group": "notes"
+    }
+  },
+  {
+    "file": "assets/pages/NOTES-05.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "428654a2ea09dc370aaa212b0feaf647dedf51314b8f91ab038c87514cd1c591",
+    "fields": {
+      "id": "NOTES-05",
+      "group": "notes"
+    }
+  },
+  {
+    "file": "assets/pages/NOTES-06.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "84b6da998ddf0974fb83a13ac6534a4887be8d6de4e3dfcd80462cf802204c74",
+    "fields": {
+      "id": "NOTES-06",
+      "group": "notes"
+    }
+  },
+  {
+    "file": "assets/pages/NOTES-07.webp",
+    "data_url_header": "data:image/webp;base64",
+    "sha256": "bfc34171bdaff21869a96fd282768068037c8be0a890c06184e4da2740e6a217",
+    "fields": {
+      "id": "NOTES-07",
+      "group": "notes"
+    }
+  }
+]

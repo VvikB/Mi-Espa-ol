@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1,viewport-fit=cover" name="viewport"/><meta content="#f6f7fa" name="theme-color"/><title>Mi Español · Personal</title><style>
+:root{--ink:#16263b;--sub:#64748b;--paper:#f5f7fb;--white:#fff;--blue:#245c9e;--border:#e0e6ef;--teal:#168477}*{box-sizing:border-box}body{margin:0;background:var(--paper);font:15px/1.5 -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;color:var(--ink)}button,input,select{font:inherit}button{cursor:pointer}main{max-width:850px;margin:auto;padding:16px 16px 110px}.hero{background:#173a61;color:white;padding:24px;border-radius:24px;margin:12px 0 18px}.hero h1{margin:0;font-size:30px}.hero small{opacity:.84}.panel{background:white;border:1px solid var(--border);border-radius:18px;padding:17px;margin:12px 0;box-shadow:0 2px 10px #10213b09}.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.between{justify-content:space-between}.muted{color:var(--sub)}h2{font-size:23px;margin:10px 0}h3{font-size:18px;margin:8px 0}p{margin:8px 0}button,.btn{border:1px solid #ccd6e3;border-radius:11px;background:white;color:var(--ink);padding:9px 12px;min-height:42px}button.primary{background:var(--blue);color:white;border-color:var(--blue)}button.active{background:#dceafb;border-color:#9bbce0}button:disabled{opacity:.4}input,select{border:1px solid #cfd8e4;padding:12px;border-radius:10px;max-width:100%;background:white;color:#17263a}.field{width:100%;margin:8px 0}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.grid.three{grid-template-columns:repeat(3,minmax(0,1fr))}.metric{background:#edf4fc;border-radius:14px;padding:15px}.metric strong{font-size:22px}.nav{position:fixed;bottom:0;left:0;right:0;background:#fff;border-top:1px solid var(--border);display:grid;grid-template-columns:repeat(5,1fr);z-index:9;padding-bottom:env(safe-area-inset-bottom)}.nav button{border:0;border-radius:0;font-size:11px;padding:11px 1px;min-height:60px}.nav button span{display:block;font-size:20px}.nav button.active{color:var(--blue);background:#ecf3fc}.subnav{display:flex;gap:7px;overflow:auto;padding-bottom:5px}.subnav button{white-space:nowrap}.tablewrap{overflow:auto;border-radius:12px;border:1px solid var(--border);margin-top:10px}table{border-collapse:collapse;width:100%;font-size:14px;min-width:360px}td,th{border-bottom:1px solid #e9eef5;padding:10px 9px;text-align:left;vertical-align:top;white-space:pre-wrap}th{background:#f0f5fc;color:#294965}td button{padding:7px 10px;min-height:32px}.cellhidden{background:#e7f1ff;color:#225c93}.sourcearea{background:#e4e7ea;border-radius:12px;overflow:auto;height:62vh;touch-action:pan-x pan-y}.sourcearea img{display:block;margin:auto;max-width:none;transform-origin:top left}.warning{border-left:3px solid #bf8d42;padding:9px 12px;background:#fff7e7;border-radius:7px;font-size:13px}.answer{border-radius:10px;padding:11px;background:#eef8f4}.week{border:1px solid #dce5ee;border-radius:13px;padding:13px;margin:8px 0;background:white}.week.active{border:2px solid var(--blue);background:#edf5ff}.pill{background:#e7f0fa;color:#285782;border-radius:30px;padding:4px 9px;font-size:12px}.divider{border:0;border-top:1px solid #e6ebf3;margin:14px 0}.lesson{background:#f5f8ff;padding:12px;border-radius:12px;margin:10px 0}.dot{width:9px;height:9px;border-radius:50%;background:#1b927c;display:inline-block}.studycell{width:100%;text-align:center;word-break:break-word}.floating{position:sticky;top:6px;z-index:2;background:#ffffffed;padding:8px;border-radius:12px}.error{color:#a13c35}.success{color:#19765f}@media(max-width:410px){main{padding:10px 11px 100px}.panel{padding:13px}.hero{padding:18px}h2{font-size:21px}.grid{grid-template-columns:1fr 1fr}td,th{padding:8px 6px;font-size:13px}}
+
+.form-task{display:grid;gap:6px;min-width:155px;padding:8px 0}.form-task input{width:100%;min-width:115px}.form-task button{min-height:34px;font-size:13px}.cell-feedback{font-size:13px}.cell-feedback.correct{color:#126e4e}.cell-feedback.incorrect{color:#ad3441}details summary{cursor:pointer;color:#245c9e;font-weight:600}.sourcearea{touch-action:pan-x pan-y} button:focus-visible,input:focus-visible{outline:3px solid #e6a451;outline-offset:2px}@media(max-width:420px){main{padding:12px 12px 105px}.hero{padding:18px}.panel{padding:14px}.nav button{font-size:10px}.grid.three{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.gesture-viewport{height:min(68vh,780px);min-height:360px;display:flex;align-items:center;justify-content:center;overflow:hidden;touch-action:none;overscroll-behavior:contain;user-select:none;background:#edf1f5;border:1px solid #d7e1ed;border-radius:14px;position:relative}
+.gesture-viewport img{width:auto;max-width:100%;max-height:100%;height:auto;object-fit:contain;transform-origin:center;pointer-events:none;transition:none;user-select:none;-webkit-user-drag:none}
+.visual-scene{background:linear-gradient(160deg,#eff8fc,#e7f0e8);border-radius:22px;border:1px solid #d7e6eb;padding:12px;overflow:hidden}
+.visual-scene svg{display:block;width:100%;height:auto;max-height:470px}
+.visual-scene [data-word]{cursor:pointer;outline:none}
+.visual-scene [data-word]:focus{filter:drop-shadow(0 0 5px #338ddd)}
+.visual-caption{background:#fff;border:1px solid #d7e6eb;padding:14px;border-radius:15px;margin:12px 0;min-height:82px}
+.visual-caption b{font-size:22px;color:#174d7c}
+
+/* Settings: independent of instructional data */
+body[data-theme="dark"]{--ink:#eaf1f8;--sub:#afc0d1;--paper:#101923;--white:#192634;--border:#385065;--blue:#8cbcf5;--teal:#6bd3b5;color-scheme:dark}
+body[data-theme="dark"] .hero{background:#193047}
+body[data-theme="dark"] button,body[data-theme="dark"] select,body[data-theme="dark"] input{color:var(--ink)}
+body[data-theme="dark"] .primary,body[data-theme="dark"] .nav button.active{color:white}
+body[data-theme="dark"] .warning{color:#f3dfb0;background:#413922;border-color:#6b5a2f}
+body[data-theme="dark"] .pill{color:var(--ink)}
+.settings-table{width:100%;border-collapse:collapse;font-size:14px}.settings-table td,.settings-table th{padding:9px 5px;text-align:left;border-bottom:1px solid var(--border)}
+.settings-table td:last-child{text-align:right;font-variant-numeric:tabular-nums}
+.settings-caption{font-size:13px;color:var(--sub)}.settings-actions{display:flex;gap:8px;flex-wrap:wrap}
+body[data-theme="dark"] .panel,body[data-theme="dark"] .metric,body[data-theme="dark"] .week{background:var(--white);border-color:var(--border)}
+
+/* Contrast-safe colors for both themes; override original generic white buttons */
+body[data-theme="dark"]{--ink:#edf4fb;--sub:#b7c9db;--paper:#0d1620;--white:#172636;--border:#42586c;--blue:#a8cdfb;--teal:#83e5c4;color:var(--ink);background:var(--paper)}
+body[data-theme="dark"] .panel,body[data-theme="dark"] .week,body[data-theme="dark"] .metric,body[data-theme="dark"] .lesson,body[data-theme="dark"] .tablewrap,body[data-theme="dark"] .visual-caption{background:#172636!important;color:#edf4fb!important;border-color:#42586c!important}
+body[data-theme="dark"] button,body[data-theme="dark"] .subnav button,body[data-theme="dark"] .floating button,body[data-theme="dark"] .nav button,body[data-theme="dark"] select,body[data-theme="dark"] input{background:#22364a!important;color:#edf4fb!important;border:1px solid #51677c!important;opacity:1!important;-webkit-text-fill-color:#edf4fb}
+body[data-theme="dark"] button.primary,body[data-theme="dark"] .subnav button.active,body[data-theme="dark"] .nav button.active{background:#286494!important;color:#fff!important;-webkit-text-fill-color:#fff}
+body[data-theme="dark"] .muted,body[data-theme="dark"] .settings-caption{color:#b7c9db!important}
+body[data-theme="dark"] table,body[data-theme="dark"] td,body[data-theme="dark"] th{color:#edf4fb!important;border-color:#42586c!important;background:#172636!important}
+body[data-theme="dark"] .warning{background:#493820!important;color:#ffe8c2!important;border-color:#8c673e!important}
+body[data-theme="dark"] .pill{background:#29435b!important;color:#edf4fb!important}
+body[data-theme="dark"] .visual-scene{background:#dbe9ee!important;color:#19334b!important}
+body[data-theme="dark"] .gesture-viewport{background:#213342!important}
+body[data-theme="dark"] .visual-caption b{color:#b6e0ff!important}
+body[data-theme="dark"] .success{background:#1f4e42!important;color:#d8ffed!important}
+body[data-theme="dark"] .error{background:#58303a!important;color:#ffe4e9!important}
+button:focus-visible, input:focus-visible{outline:3px solid #d59a45!important;outline-offset:2px}
+.audio-button{min-height:42px;padding:9px 13px;white-space:nowrap}
+.sound-status{min-height:20px;font-size:13px;color:var(--sub)}
+
+/* Recovery stage11 additions; user-approved original palette stays unchanged. */
+button,input,select,[role="button"]{min-height:44px}
+button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #bc8327;outline-offset:2px}
+body[data-mi11-size="large"]{font-size:17px}
+body[data-mi11-size="xlarge"]{font-size:19px}
+body[data-mi11-size="large"] .nav button{font-size:12px}
+body[data-mi11-size="xlarge"] .nav button{font-size:13px}
+body[data-mi11-reduce="yes"] *,body[data-mi11-reduce="yes"] *::before,body[data-mi11-reduce="yes"] *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+@media(max-width:390px){main{padding-left:10px;padding-right:10px}.nav button{min-width:0;overflow-wrap:anywhere}.panel{overflow-wrap:anywhere}.mi11-panel{max-width:100%}}
+@media(max-width:320px){.nav button{font-size:10px;padding-inline:0}.hero h1{font-size:25px}}
+
+.mi11-quiz .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.mi11-quiz .grid button{min-height:50px;white-space:normal}.mi11-ok{color:#227c52;font-weight:700}.mi11-visual-actions{display:flex;align-items:center;flex-wrap:wrap;gap:12px;margin-top:14px}.visual-scene svg g[role="button"]:focus{outline:3px solid #d69c27;outline-offset:2px}@media(max-width:390px){.mi11-quiz .grid{grid-template-columns:1fr}}
+
+</style><style> .mi11-recall{margin-top:18px}.mi11-recall-card{border:1px solid var(--line,#d5dae0);border-radius:16px;padding:20px;text-align:center;margin:12px 0}.mi11-recall-prompt{font-size:clamp(1.3rem,4.8vw,2rem);font-weight:650;overflow-wrap:anywhere}.mi11-recall-answer{font-size:1.2rem}.mi11-recall-actions{display:flex;gap:12px;flex-wrap:wrap}.mi11-recall-actions button{min-height:44px;flex:1}@media(max-width:360px){.mi11-recall-actions{flex-direction:column}}</style></head><body><main><header class="hero"><small>Персональная система восстановления испанского</small><h1>Mi Español</h1><div>Aprendo · Recuerdo · Hablo</div></header><div id="app"></div></main><nav class="nav" id="nav"></nav><script>/* BUILD:DATA */
+/* BUILD:CODE */</script></body></html>

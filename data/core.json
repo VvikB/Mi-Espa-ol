@@ -1,0 +1,4158 @@
+{
+  "atlas": [
+    [
+      "Произношение и ударение",
+      [
+        [
+          "Правила чтения",
+          [
+            "Сочетание",
+            "Произношение / правило",
+            "Пример"
+          ],
+          [
+            [
+              "h",
+              "не произносится",
+              "hola"
+            ],
+            [
+              "j",
+              "глухой заднеязычный звук",
+              "jamón"
+            ],
+            [
+              "ñ",
+              "палатальный носовой",
+              "año"
+            ],
+            [
+              "qu + e/i",
+              "звук k, u не читается",
+              "queso / quince"
+            ],
+            [
+              "rr",
+              "сильный дрожащий r",
+              "perro"
+            ],
+            [
+              "ch",
+              "звук ch",
+              "chico"
+            ]
+          ]
+        ],
+        [
+          "Ударение",
+          [
+            "Окончание",
+            "Правило",
+            "Пример"
+          ],
+          [
+            [
+              "Гласная, n, s",
+              "обычно предпоследний слог",
+              "casa, hablan"
+            ],
+            [
+              "Другая согласная",
+              "обычно последний слог",
+              "papel, ciudad"
+            ],
+            [
+              "Знак ударения",
+              "переопределяет правило",
+              "café, lápiz"
+            ]
+          ]
+        ],
+        [
+          "Современное написание (уточнение к старому пособию)",
+          [
+            "Правило",
+            "Современный вариант",
+            "Пример"
+          ],
+          [
+            [
+              "Ударения в заглавных",
+              "Сохраняются",
+              "ÁLVARO, MÉXICO"
+            ],
+            [
+              "Союз между числами",
+              "Пишется o без ударения",
+              "3 o 4 veces"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "Род, число, артикли",
+      [
+        [
+          "Род и число существительных",
+          [
+            "Тип",
+            "Пример",
+            "Множественное"
+          ],
+          [
+            [
+              "-o / часто муж.",
+              "el libro",
+              "los libros"
+            ],
+            [
+              "-a / часто жен.",
+              "la mesa",
+              "las mesas"
+            ],
+            [
+              "согласная",
+              "el papel",
+              "los papeles"
+            ],
+            [
+              "-z → -ces",
+              "la luz",
+              "las luces"
+            ]
+          ]
+        ],
+        [
+          "Артикли: все формы (стр. 2 оригинала)",
+          [
+            "Род",
+            "Определённый: ед.",
+            "Определённый: мн.",
+            "Неопределённый: ед.",
+            "Неопределённый: мн."
+          ],
+          [
+            [
+              "Мужской",
+              "el",
+              "los",
+              "un",
+              "unos"
+            ],
+            [
+              "Женский",
+              "la",
+              "las",
+              "una",
+              "unas"
+            ]
+          ]
+        ],
+        [
+          "Множественное число существительных",
+          [
+            "Форма",
+            "Правило",
+            "Ед. число",
+            "Мн. число"
+          ],
+          [
+            [
+              "На гласную",
+              "обычно +s",
+              "la mesa",
+              "las mesas"
+            ],
+            [
+              "На согласную",
+              "обычно +es",
+              "el papel",
+              "los papeles"
+            ],
+            [
+              "-z",
+              "z → c + es",
+              "la luz",
+              "las luces"
+            ],
+            [
+              "-ión",
+              "ударение может меняться",
+              "la canción",
+              "las canciones"
+            ]
+          ]
+        ],
+        [
+          "Сочетание de + el / a + el",
+          [
+            "Конструкция",
+            "Результат",
+            "Пример"
+          ],
+          [
+            [
+              "a + el",
+              "al",
+              "Voy al cine."
+            ],
+            [
+              "de + el",
+              "del",
+              "Vengo del mercado."
+            ],
+            [
+              "a + El (название)",
+              "a El",
+              "Viajó a El Salvador."
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "Употребление артиклей",
+      [
+        [
+          "Артикль в типовых конструкциях",
+          [
+            "Контекст",
+            "Пример",
+            "Комментарий"
+          ],
+          [
+            [
+              "О конкретном предмете",
+              "El libro está aquí.",
+              "известный предмет"
+            ],
+            [
+              "Профессия после ser",
+              "Soy médico.",
+              "без артикля в нейтральной конструкции"
+            ],
+            [
+              "День недели",
+              "El lunes trabajo.",
+              "el + день"
+            ],
+            [
+              "Слияние",
+              "a + el = al; de + el = del",
+              "кроме собственных названий, где El является частью имени (El Salvador)"
+            ]
+          ]
+        ],
+        [
+          "Прилагательное",
+          [
+            "Род и число",
+            "Пример"
+          ],
+          [
+            [
+              "-o → -a",
+              "bonito / bonita"
+            ],
+            [
+              "Множественное",
+              "bonitos / bonitas"
+            ],
+            [
+              "apócope",
+              "bueno → buen amigo"
+            ]
+          ]
+        ],
+        [
+          "Когда употребляется определённый артикль",
+          [
+            "Ситуация",
+            "Пример",
+            "Комментарий"
+          ],
+          [
+            [
+              "Известный предмет",
+              "El libro está sobre la mesa.",
+              "Книга уже определена ситуацией"
+            ],
+            [
+              "Названия дней недели",
+              "El lunes trabajo.",
+              "Регулярный день; без артикля после ser: Hoy es lunes"
+            ],
+            [
+              "Обобщение класса",
+              "Los perros son animales domésticos.",
+              "Общий класс"
+            ],
+            [
+              "Части тела в типовых конструкциях",
+              "Me duele la cabeza.",
+              "Обычно определённый артикль вместо притяжательного"
+            ]
+          ]
+        ],
+        [
+          "Когда артикль обычно отсутствует",
+          [
+            "Контекст",
+            "Пример",
+            "Примечание"
+          ],
+          [
+            [
+              "Профессия после ser",
+              "Soy profesor.",
+              "При характеристике возможен неопределённый артикль"
+            ],
+            [
+              "Неисчисляемый объект в общем значении",
+              "Bebo agua.",
+              "В определённом контексте: Bebo el agua del vaso"
+            ],
+            [
+              "Наречное выражение",
+              "Estoy en casa.",
+              "Устойчивое выражение"
+            ]
+          ]
+        ],
+        [
+          "Артикль перед существительным и прилагательным",
+          [
+            "Тип",
+            "Мужской род",
+            "Женский род"
+          ],
+          [
+            [
+              "Обычное согласование",
+              "un libro nuevo",
+              "una casa nueva"
+            ],
+            [
+              "Прилагательное перед существительным",
+              "un buen amigo",
+              "una buena amiga"
+            ],
+            [
+              "Единственное число, ударное a-/ha-",
+              "el agua fría",
+              "el agua fría (существительное женского рода)"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "Прилагательные и сравнение",
+      [
+        [
+          "Степени сравнения",
+          [
+            "Тип",
+            "Шаблон",
+            "Пример"
+          ],
+          [
+            [
+              "Сравнение",
+              "más + adjetivo + que",
+              "más alto que"
+            ],
+            [
+              "Равенство",
+              "tan + adjetivo + como",
+              "tan alto como"
+            ],
+            [
+              "Превосходная",
+              "el/la más + adjetivo",
+              "la más grande"
+            ],
+            [
+              "Исключения",
+              "bueno→mejor; malo→peor",
+              "mejor que"
+            ]
+          ]
+        ],
+        [
+          "Притяжательные прилагательные",
+          [
+            "Лицо",
+            "Единственное",
+            "Множественное"
+          ],
+          [
+            [
+              "yo",
+              "mi",
+              "mis"
+            ],
+            [
+              "tú",
+              "tu",
+              "tus"
+            ],
+            [
+              "él/ella/usted",
+              "su",
+              "sus"
+            ],
+            [
+              "nosotros",
+              "nuestro/a",
+              "nuestros/as"
+            ],
+            [
+              "vosotros",
+              "vuestro/a",
+              "vuestros/as"
+            ]
+          ]
+        ],
+        [
+          "Прилагательные: согласование по роду и числу",
+          [
+            "Модель",
+            "Муж. ед.",
+            "Жен. ед.",
+            "Муж. мн.",
+            "Жен. мн."
+          ],
+          [
+            [
+              "-o / -a",
+              "alto",
+              "alta",
+              "altos",
+              "altas"
+            ],
+            [
+              "-e",
+              "interesante",
+              "interesante",
+              "interesantes",
+              "interesantes"
+            ],
+            [
+              "Согласная",
+              "español",
+              "española",
+              "españoles",
+              "españolas"
+            ]
+          ]
+        ],
+        [
+          "Сравнение прилагательных",
+          [
+            "Степень",
+            "Модель",
+            "Пример",
+            "Перевод"
+          ],
+          [
+            [
+              "Равенство",
+              "tan + adjetivo + como",
+              "Ana es tan alta como Luis.",
+              "Ана такая же высокая, как Луис"
+            ],
+            [
+              "Сравнительная",
+              "más + adjetivo + que",
+              "Ana es más alta que Luis.",
+              "Ана выше Луиса"
+            ],
+            [
+              "Сравнительная",
+              "menos + adjetivo + que",
+              "Luis es menos alto que Ana.",
+              "Луис менее высокий, чем Ана"
+            ],
+            [
+              "Превосходная",
+              "el/la + más + adjetivo + de",
+              "Ana es la más alta de la clase.",
+              "Ана самая высокая в классе"
+            ]
+          ]
+        ],
+        [
+          "Особые сравнительные формы",
+          [
+            "Положительная",
+            "Сравнительная",
+            "Пример"
+          ],
+          [
+            [
+              "bueno",
+              "mejor",
+              "Este libro es mejor."
+            ],
+            [
+              "malo",
+              "peor",
+              "Este camino es peor."
+            ],
+            [
+              "grande (возраст / статус)",
+              "mayor",
+              "Mi hermano es mayor que yo."
+            ],
+            [
+              "pequeño (возраст / статус)",
+              "menor",
+              "Mi hermana es menor que yo."
+            ]
+          ]
+        ],
+        [
+          "Притяжательные прилагательные: краткие формы",
+          [
+            "Лицо",
+            "Единственное",
+            "Множественное",
+            "Пример"
+          ],
+          [
+            [
+              "yo",
+              "mi",
+              "mis",
+              "mi casa / mis casas"
+            ],
+            [
+              "tú",
+              "tu",
+              "tus",
+              "tu libro / tus libros"
+            ],
+            [
+              "él/ella/usted",
+              "su",
+              "sus",
+              "su mesa / sus mesas"
+            ],
+            [
+              "nosotros",
+              "nuestro / nuestra",
+              "nuestros / nuestras",
+              "nuestra casa / nuestros amigos"
+            ],
+            [
+              "vosotros",
+              "vuestro / vuestra",
+              "vuestros / vuestras",
+              "vuestro libro / vuestras amigas"
+            ],
+            [
+              "ellos/ustedes",
+              "su",
+              "sus",
+              "su habitación / sus habitaciones"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "Личные местоимения",
+      [
+        [
+          "Подлежащие",
+          [
+            "Лицо",
+            "Единственное",
+            "Множественное"
+          ],
+          [
+            [
+              "1",
+              "yo",
+              "nosotros/as"
+            ],
+            [
+              "2",
+              "tú",
+              "vosotros/as"
+            ],
+            [
+              "3",
+              "él/ella/usted",
+              "ellos/ellas/ustedes"
+            ]
+          ]
+        ],
+        [
+          "Дополнения",
+          [
+            "Лицо",
+            "Прямое",
+            "Косвенное"
+          ],
+          [
+            [
+              "yo",
+              "me",
+              "me"
+            ],
+            [
+              "tú",
+              "te",
+              "te"
+            ],
+            [
+              "3-е лицо ед.",
+              "lo/la",
+              "le (→ se перед lo/la)"
+            ],
+            [
+              "nosotros",
+              "nos",
+              "nos"
+            ],
+            [
+              "vosotros",
+              "os",
+              "os"
+            ],
+            [
+              "3-е лицо мн.",
+              "los/las",
+              "les (→ se перед los/las)"
+            ]
+          ]
+        ],
+        [
+          "Личные местоимения: полная система подлежащих",
+          [
+            "Лицо",
+            "Единственное",
+            "Множественное"
+          ],
+          [
+            [
+              "1-е",
+              "yo",
+              "nosotros / nosotras"
+            ],
+            [
+              "2-е (неформальное)",
+              "tú",
+              "vosotros / vosotras"
+            ],
+            [
+              "3-е",
+              "él / ella",
+              "ellos / ellas"
+            ],
+            [
+              "Вежливое обращение",
+              "usted",
+              "ustedes"
+            ]
+          ]
+        ],
+        [
+          "Прямое и косвенное дополнение",
+          [
+            "Лицо",
+            "Прямое (кого? что?)",
+            "Косвенное (кому?)"
+          ],
+          [
+            [
+              "yo",
+              "me",
+              "me"
+            ],
+            [
+              "tú",
+              "te",
+              "te"
+            ],
+            [
+              "él / ella / usted",
+              "lo / la",
+              "le"
+            ],
+            [
+              "nosotros",
+              "nos",
+              "nos"
+            ],
+            [
+              "vosotros",
+              "os",
+              "os"
+            ],
+            [
+              "ellos / ellas / ustedes",
+              "los / las",
+              "les"
+            ]
+          ]
+        ],
+        [
+          "Порядок дополнений и замена le → se",
+          [
+            "Схема",
+            "Пример",
+            "Объяснение"
+          ],
+          [
+            [
+              "косвенное + прямое",
+              "Te lo doy.",
+              "Я тебе это даю"
+            ],
+            [
+              "le/les + lo/la/los/las → se",
+              "Se lo doy.",
+              "Я даю это ему, ей или им"
+            ],
+            [
+              "инфинитив",
+              "Voy a dártelo. / Te lo voy a dar.",
+              "Обе позиции допустимы"
+            ],
+            [
+              "утвердительный императив",
+              "Dámelo.",
+              "Местоимения присоединяются после глагола"
+            ],
+            [
+              "отрицательный императив",
+              "No me lo des.",
+              "Местоимения ставятся до глагола"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "Указательные местоимения",
+      [
+        [
+          "Указательные формы",
+          [
+            "Расстояние",
+            "Муж. ед.",
+            "Жен. ед.",
+            "Мн. муж.",
+            "Мн. жен."
+          ],
+          [
+            [
+              "Здесь",
+              "este",
+              "esta",
+              "estos",
+              "estas"
+            ],
+            [
+              "Там у собеседника",
+              "ese",
+              "esa",
+              "esos",
+              "esas"
+            ],
+            [
+              "Вдали",
+              "aquel",
+              "aquella",
+              "aquellos",
+              "aquellas"
+            ]
+          ]
+        ],
+        [
+          "Нейтральные формы",
+          [
+            "Близко",
+            "Средне",
+            "Далеко"
+          ],
+          [
+            [
+              "esto",
+              "eso",
+              "aquello"
+            ]
+          ]
+        ],
+        [
+          "Указательные: расстояние, род и число",
+          [
+            "Удалённость",
+            "Муж. ед.",
+            "Жен. ед.",
+            "Муж. мн.",
+            "Жен. мн.",
+            "Нейтральное"
+          ],
+          [
+            [
+              "близко к говорящему",
+              "este",
+              "esta",
+              "estos",
+              "estas",
+              "esto"
+            ],
+            [
+              "около собеседника / средняя",
+              "ese",
+              "esa",
+              "esos",
+              "esas",
+              "eso"
+            ],
+            [
+              "далеко от обоих",
+              "aquel",
+              "aquella",
+              "aquellos",
+              "aquellas",
+              "aquello"
+            ]
+          ]
+        ],
+        [
+          "Указательные местоимения: современное написание",
+          [
+            "Форма",
+            "Пример",
+            "Правило"
+          ],
+          [
+            [
+              "este / ese / aquel",
+              "Prefiero este.",
+              "Указательные местоимения обычно пишутся без тильды"
+            ],
+            [
+              "esto / eso / aquello",
+              "¿Qué es eso?",
+              "Нейтральные формы никогда не имеют тильды"
+            ],
+            [
+              "esta / estas",
+              "Esta es mi casa.",
+              "Согласование с родом и числом"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "Вопросительные и неопределённые",
+      [
+        [
+          "Вопросительные",
+          [
+            "Слово",
+            "Значение",
+            "Пример"
+          ],
+          [
+            [
+              "qué",
+              "что / какой",
+              "¿Qué quieres?"
+            ],
+            [
+              "quién",
+              "кто",
+              "¿Quién es?"
+            ],
+            [
+              "cuándo",
+              "когда",
+              "¿Cuándo vienes?"
+            ],
+            [
+              "dónde",
+              "где",
+              "¿Dónde vives?"
+            ],
+            [
+              "cuánto",
+              "сколько",
+              "¿Cuánto cuesta?"
+            ],
+            [
+              "por qué",
+              "почему",
+              "¿Por qué?"
+            ]
+          ]
+        ],
+        [
+          "Неопределённые",
+          [
+            "Пара",
+            "Значение"
+          ],
+          [
+            [
+              "alguien / nadie",
+              "кто-то / никто"
+            ],
+            [
+              "algo / nada",
+              "что-то / ничего"
+            ],
+            [
+              "alguno / ninguno",
+              "какой-нибудь / никакой"
+            ],
+            [
+              "todo / cada",
+              "всё / каждый"
+            ]
+          ]
+        ],
+        [
+          "Вопросительные: самостоятельные формы",
+          [
+            "Вопросительное",
+            "Значение",
+            "Пример"
+          ],
+          [
+            [
+              "qué",
+              "что / какой",
+              "¿Qué quieres?"
+            ],
+            [
+              "quién / quiénes",
+              "кто",
+              "¿Quién ha venido?"
+            ],
+            [
+              "cuál / cuáles",
+              "какой из / который",
+              "¿Cuál prefieres?"
+            ],
+            [
+              "cuánto / cuánta / cuántos / cuántas",
+              "сколько",
+              "¿Cuántos libros tienes?"
+            ],
+            [
+              "dónde / adónde",
+              "где / куда",
+              "¿Adónde vas?"
+            ],
+            [
+              "cuándo / cómo / por qué",
+              "когда / как / почему",
+              "¿Por qué estudias español?"
+            ]
+          ]
+        ],
+        [
+          "Неопределённые слова: значение и согласование",
+          [
+            "Форма",
+            "Значение",
+            "Пример"
+          ],
+          [
+            [
+              "alguien",
+              "кто-то",
+              "Alguien ha llamado."
+            ],
+            [
+              "algo",
+              "что-то",
+              "Quiero algo de comer."
+            ],
+            [
+              "algún / alguna / algunos / algunas",
+              "какой-то / некоторые",
+              "¿Tienes algún libro?"
+            ],
+            [
+              "ningún / ninguna",
+              "ни один / ни одна",
+              "No tengo ningún problema."
+            ],
+            [
+              "cualquier / cualquiera",
+              "любой",
+              "Puedes venir cualquier día."
+            ],
+            [
+              "todo / toda / todos / todas",
+              "весь / все",
+              "Todos los días estudio."
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "Отрицательные и относительные",
+      [
+        [
+          "Отрицания",
+          [
+            "Форма",
+            "Пример",
+            "Примечание"
+          ],
+          [
+            [
+              "no",
+              "No sé.",
+              "отрицание перед глаголом"
+            ],
+            [
+              "nadie",
+              "No conozco a nadie.",
+              "после глагола требует no"
+            ],
+            [
+              "nunca",
+              "Nunca voy. / No voy nunca.",
+              "позиция влияет на no"
+            ],
+            [
+              "tampoco",
+              "Yo tampoco.",
+              "тоже не"
+            ]
+          ]
+        ],
+        [
+          "Относительные формы",
+          [
+            "Форма",
+            "Пример"
+          ],
+          [
+            [
+              "que",
+              "la persona que conozco"
+            ],
+            [
+              "quien / quienes",
+              "la amiga con quien hablo"
+            ],
+            [
+              "donde",
+              "la ciudad donde vivo"
+            ],
+            [
+              "cuyo/a",
+              "el autor cuyo libro leí"
+            ]
+          ]
+        ],
+        [
+          "Отрицания: позиции слова no",
+          [
+            "Конструкция",
+            "Пример",
+            "Смысл"
+          ],
+          [
+            [
+              "no + verbo + nadie",
+              "No conozco a nadie.",
+              "Я никого не знаю"
+            ],
+            [
+              "nadie + verbo",
+              "Nadie ha venido.",
+              "Никто не пришёл; no не нужно"
+            ],
+            [
+              "no + verbo + nada",
+              "No veo nada.",
+              "Я ничего не вижу"
+            ],
+            [
+              "nunca + verbo",
+              "Nunca fumo.",
+              "Я никогда не курю"
+            ],
+            [
+              "no + verbo + nunca",
+              "No fumo nunca.",
+              "Та же отрицательная идея"
+            ],
+            [
+              "ni ... ni ...",
+              "Ni Juan ni Ana vienen.",
+              "Ни Хуан, ни Ана не приходят"
+            ]
+          ]
+        ],
+        [
+          "Относительные местоимения: с примерами",
+          [
+            "Форма",
+            "Когда используется",
+            "Пример"
+          ],
+          [
+            [
+              "que",
+              "люди и предметы",
+              "El libro que leo es interesante."
+            ],
+            [
+              "quien / quienes",
+              "люди, часто после предлога",
+              "La mujer con quien hablé es médica."
+            ],
+            [
+              "el que / la que / los que / las que",
+              "с артиклем, в том числе после предлога",
+              "La casa en la que vivo es pequeña."
+            ],
+            [
+              "lo que",
+              "то, что (без названного существительного)",
+              "No entiendo lo que dices."
+            ],
+            [
+              "cuyo / cuya / cuyos / cuyas",
+              "принадлежность; согласуется с последующим существительным",
+              "El autor cuya novela leí vino ayer."
+            ],
+            [
+              "donde",
+              "место",
+              "Este es el lugar donde nací."
+            ]
+          ]
+        ],
+        [
+          "Возвратные местоимения",
+          [
+            "Лицо",
+            "Местоимение",
+            "Пример"
+          ],
+          [
+            [
+              "yo",
+              "me",
+              "Me levanto temprano."
+            ],
+            [
+              "tú",
+              "te",
+              "Te duchas."
+            ],
+            [
+              "él / ella / usted",
+              "se",
+              "Se llama Ana."
+            ],
+            [
+              "nosotros",
+              "nos",
+              "Nos acostamos."
+            ],
+            [
+              "vosotros",
+              "os",
+              "Os levantáis."
+            ],
+            [
+              "ellos / ustedes",
+              "se",
+              "Se despiertan."
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "Indicativo — главные времена",
+      [
+        [
+          "Presente regular",
+          [
+            "Лицо",
+            "hablar",
+            "comer",
+            "vivir"
+          ],
+          [
+            [
+              "yo",
+              "hablo",
+              "como",
+              "vivo"
+            ],
+            [
+              "tú",
+              "hablas",
+              "comes",
+              "vives"
+            ],
+            [
+              "él/ella",
+              "habla",
+              "come",
+              "vive"
+            ],
+            [
+              "nosotros",
+              "hablamos",
+              "comemos",
+              "vivimos"
+            ],
+            [
+              "vosotros",
+              "habláis",
+              "coméis",
+              "vivís"
+            ],
+            [
+              "ellos",
+              "hablan",
+              "comen",
+              "viven"
+            ]
+          ]
+        ],
+        [
+          "Indefinido regular",
+          [
+            "Лицо",
+            "hablar",
+            "comer",
+            "vivir"
+          ],
+          [
+            [
+              "yo",
+              "hablé",
+              "comí",
+              "viví"
+            ],
+            [
+              "tú",
+              "hablaste",
+              "comiste",
+              "viviste"
+            ],
+            [
+              "él/ella",
+              "habló",
+              "comió",
+              "vivió"
+            ],
+            [
+              "nosotros",
+              "hablamos",
+              "comimos",
+              "vivimos"
+            ],
+            [
+              "vosotros",
+              "hablasteis",
+              "comisteis",
+              "vivisteis"
+            ],
+            [
+              "ellos",
+              "hablaron",
+              "comieron",
+              "vivieron"
+            ]
+          ]
+        ],
+        [
+          "Imperfecto regular",
+          [
+            "Лицо",
+            "hablar",
+            "comer / vivir"
+          ],
+          [
+            [
+              "yo",
+              "hablaba",
+              "comía / vivía"
+            ],
+            [
+              "tú",
+              "hablabas",
+              "comías / vivías"
+            ],
+            [
+              "él/ella",
+              "hablaba",
+              "comía / vivía"
+            ],
+            [
+              "nosotros",
+              "hablábamos",
+              "comíamos / vivíamos"
+            ],
+            [
+              "vosotros",
+              "hablabais",
+              "comíais / vivíais"
+            ],
+            [
+              "ellos",
+              "hablaban",
+              "comían / vivían"
+            ]
+          ]
+        ],
+        [
+          "Pretérito Perfecto Compuesto: регулярные",
+          [
+            "Лицо",
+            "hablar",
+            "comer",
+            "vivir"
+          ],
+          [
+            [
+              "yo",
+              "he hablado",
+              "he comido",
+              "he vivido"
+            ],
+            [
+              "tú",
+              "has hablado",
+              "has comido",
+              "has vivido"
+            ],
+            [
+              "él/ella/usted",
+              "ha hablado",
+              "ha comido",
+              "ha vivido"
+            ],
+            [
+              "nosotros",
+              "hemos hablado",
+              "hemos comido",
+              "hemos vivido"
+            ],
+            [
+              "vosotros",
+              "habéis hablado",
+              "habéis comido",
+              "habéis vivido"
+            ],
+            [
+              "ellos/ustedes",
+              "han hablado",
+              "han comido",
+              "han vivido"
+            ]
+          ]
+        ],
+        [
+          "Pretérito Pluscuamperfecto: регулярные",
+          [
+            "Лицо",
+            "hablar",
+            "comer"
+          ],
+          [
+            [
+              "yo",
+              "había hablado",
+              "había comido"
+            ],
+            [
+              "tú",
+              "habías hablado",
+              "habías comido"
+            ],
+            [
+              "él/ella/usted",
+              "había hablado",
+              "había comido"
+            ],
+            [
+              "nosotros",
+              "habíamos hablado",
+              "habíamos comido"
+            ],
+            [
+              "vosotros",
+              "habíais hablado",
+              "habíais comido"
+            ],
+            [
+              "ellos/ustedes",
+              "habían hablado",
+              "habían comido"
+            ]
+          ]
+        ],
+        [
+          "Futuro simple: регулярные",
+          [
+            "Лицо",
+            "hablar",
+            "comer",
+            "vivir"
+          ],
+          [
+            [
+              "yo",
+              "hablaré",
+              "comeré",
+              "viviré"
+            ],
+            [
+              "tú",
+              "hablarás",
+              "comerás",
+              "vivirás"
+            ],
+            [
+              "él/ella/usted",
+              "hablará",
+              "comerá",
+              "vivirá"
+            ],
+            [
+              "nosotros",
+              "hablaremos",
+              "comeremos",
+              "viviremos"
+            ],
+            [
+              "vosotros",
+              "hablaréis",
+              "comeréis",
+              "viviréis"
+            ],
+            [
+              "ellos/ustedes",
+              "hablarán",
+              "comerán",
+              "vivirán"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "Subjuntivo, condicional, imperativo",
+      [
+        [
+          "Presente de subjuntivo",
+          [
+            "Лицо",
+            "hablar",
+            "comer",
+            "vivir"
+          ],
+          [
+            [
+              "yo",
+              "hable",
+              "coma",
+              "viva"
+            ],
+            [
+              "tú",
+              "hables",
+              "comas",
+              "vivas"
+            ],
+            [
+              "él/ella",
+              "hable",
+              "coma",
+              "viva"
+            ],
+            [
+              "nosotros",
+              "hablemos",
+              "comamos",
+              "vivamos"
+            ],
+            [
+              "vosotros",
+              "habléis",
+              "comáis",
+              "viváis"
+            ],
+            [
+              "ellos",
+              "hablen",
+              "coman",
+              "vivan"
+            ]
+          ]
+        ],
+        [
+          "Condicional simple",
+          [
+            "Лицо",
+            "hablar",
+            "comer"
+          ],
+          [
+            [
+              "yo",
+              "hablaría",
+              "comería"
+            ],
+            [
+              "tú",
+              "hablarías",
+              "comerías"
+            ],
+            [
+              "él/ella",
+              "hablaría",
+              "comería"
+            ],
+            [
+              "nosotros",
+              "hablaríamos",
+              "comeríamos"
+            ],
+            [
+              "vosotros",
+              "hablaríais",
+              "comeríais"
+            ],
+            [
+              "ellos",
+              "hablarían",
+              "comerían"
+            ]
+          ]
+        ],
+        [
+          "Императив: tú",
+          [
+            "Глагол",
+            "Утвердительно",
+            "Отрицательно"
+          ],
+          [
+            [
+              "hablar",
+              "habla",
+              "no hables"
+            ],
+            [
+              "comer",
+              "come",
+              "no comas"
+            ],
+            [
+              "vivir",
+              "vive",
+              "no vivas"
+            ],
+            [
+              "ir",
+              "ve",
+              "no vayas"
+            ]
+          ]
+        ],
+        [
+          "Imperfecto de Subjuntivo: formas en -ra",
+          [
+            "Лицо",
+            "hablar",
+            "comer",
+            "vivir"
+          ],
+          [
+            [
+              "yo",
+              "hablara",
+              "comiera",
+              "viviera"
+            ],
+            [
+              "tú",
+              "hablaras",
+              "comieras",
+              "vivieras"
+            ],
+            [
+              "él/ella/usted",
+              "hablara",
+              "comiera",
+              "viviera"
+            ],
+            [
+              "nosotros",
+              "habláramos",
+              "comiéramos",
+              "viviéramos"
+            ],
+            [
+              "vosotros",
+              "hablarais",
+              "comierais",
+              "vivierais"
+            ],
+            [
+              "ellos/ustedes",
+              "hablaran",
+              "comieran",
+              "vivieran"
+            ]
+          ]
+        ],
+        [
+          "Imperfecto de Subjuntivo: formas en -se",
+          [
+            "Лицо",
+            "hablar",
+            "comer",
+            "vivir"
+          ],
+          [
+            [
+              "yo",
+              "hablase",
+              "comiese",
+              "viviese"
+            ],
+            [
+              "tú",
+              "hablases",
+              "comieses",
+              "vivieses"
+            ],
+            [
+              "él/ella/usted",
+              "hablase",
+              "comiese",
+              "viviese"
+            ],
+            [
+              "nosotros",
+              "hablásemos",
+              "comiésemos",
+              "viviésemos"
+            ],
+            [
+              "vosotros",
+              "hablaseis",
+              "comieseis",
+              "vivieseis"
+            ],
+            [
+              "ellos/ustedes",
+              "hablasen",
+              "comiesen",
+              "viviesen"
+            ]
+          ]
+        ],
+        [
+          "Imperativo: positivo y negativo",
+          [
+            "Лицо",
+            "hablar +",
+            "hablar −",
+            "comer +",
+            "comer −"
+          ],
+          [
+            [
+              "tú",
+              "habla",
+              "no hables",
+              "come",
+              "no comas"
+            ],
+            [
+              "usted",
+              "hable",
+              "no hable",
+              "coma",
+              "no coma"
+            ],
+            [
+              "nosotros",
+              "hablemos",
+              "no hablemos",
+              "comamos",
+              "no comamos"
+            ],
+            [
+              "vosotros",
+              "hablad",
+              "no habléis",
+              "comed",
+              "no comáis"
+            ],
+            [
+              "ustedes",
+              "hablen",
+              "no hablen",
+              "coman",
+              "no coman"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "Неправильные — indicativo",
+      [
+        [
+          "Presente: ser, estar, ir",
+          [
+            "Лицо",
+            "ser",
+            "estar",
+            "ir"
+          ],
+          [
+            [
+              "yo",
+              "soy",
+              "estoy",
+              "voy"
+            ],
+            [
+              "tú",
+              "eres",
+              "estás",
+              "vas"
+            ],
+            [
+              "él/ella",
+              "es",
+              "está",
+              "va"
+            ],
+            [
+              "nosotros",
+              "somos",
+              "estamos",
+              "vamos"
+            ],
+            [
+              "vosotros",
+              "sois",
+              "estáis",
+              "vais"
+            ],
+            [
+              "ellos",
+              "son",
+              "están",
+              "van"
+            ]
+          ]
+        ],
+        [
+          "Indefinido: ser/ir, tener, hacer",
+          [
+            "Лицо",
+            "ser / ir",
+            "tener",
+            "hacer"
+          ],
+          [
+            [
+              "yo",
+              "fui",
+              "tuve",
+              "hice"
+            ],
+            [
+              "tú",
+              "fuiste",
+              "tuviste",
+              "hiciste"
+            ],
+            [
+              "él/ella",
+              "fue",
+              "tuvo",
+              "hizo"
+            ],
+            [
+              "nosotros",
+              "fuimos",
+              "tuvimos",
+              "hicimos"
+            ],
+            [
+              "vosotros",
+              "fuisteis",
+              "tuvisteis",
+              "hicisteis"
+            ],
+            [
+              "ellos",
+              "fueron",
+              "tuvieron",
+              "hicieron"
+            ]
+          ]
+        ],
+        [
+          "Presente: tener, hacer, poder, venir",
+          [
+            "Лицо",
+            "tener",
+            "hacer",
+            "poder",
+            "venir"
+          ],
+          [
+            [
+              "yo",
+              "tengo",
+              "hago",
+              "puedo",
+              "vengo"
+            ],
+            [
+              "tú",
+              "tienes",
+              "haces",
+              "puedes",
+              "vienes"
+            ],
+            [
+              "él/ella/usted",
+              "tiene",
+              "hace",
+              "puede",
+              "viene"
+            ],
+            [
+              "nosotros",
+              "tenemos",
+              "hacemos",
+              "podemos",
+              "venimos"
+            ],
+            [
+              "vosotros",
+              "tenéis",
+              "hacéis",
+              "podéis",
+              "venís"
+            ],
+            [
+              "ellos/ustedes",
+              "tienen",
+              "hacen",
+              "pueden",
+              "vienen"
+            ]
+          ]
+        ],
+        [
+          "Indefinido: poder, poner, decir, venir",
+          [
+            "Лицо",
+            "poder",
+            "poner",
+            "decir",
+            "venir"
+          ],
+          [
+            [
+              "yo",
+              "pude",
+              "puse",
+              "dije",
+              "vine"
+            ],
+            [
+              "tú",
+              "pudiste",
+              "pusiste",
+              "dijiste",
+              "viniste"
+            ],
+            [
+              "él/ella/usted",
+              "pudo",
+              "puso",
+              "dijo",
+              "vino"
+            ],
+            [
+              "nosotros",
+              "pudimos",
+              "pusimos",
+              "dijimos",
+              "vinimos"
+            ],
+            [
+              "vosotros",
+              "pudisteis",
+              "pusisteis",
+              "dijisteis",
+              "vinisteis"
+            ],
+            [
+              "ellos/ustedes",
+              "pudieron",
+              "pusieron",
+              "dijeron",
+              "vinieron"
+            ]
+          ]
+        ],
+        [
+          "Imperfecto: ser, ir, ver",
+          [
+            "Лицо",
+            "ser",
+            "ir",
+            "ver"
+          ],
+          [
+            [
+              "yo",
+              "era",
+              "iba",
+              "veía"
+            ],
+            [
+              "tú",
+              "eras",
+              "ibas",
+              "veías"
+            ],
+            [
+              "él/ella/usted",
+              "era",
+              "iba",
+              "veía"
+            ],
+            [
+              "nosotros",
+              "éramos",
+              "íbamos",
+              "veíamos"
+            ],
+            [
+              "vosotros",
+              "erais",
+              "ibais",
+              "veíais"
+            ],
+            [
+              "ellos/ustedes",
+              "eran",
+              "iban",
+              "veían"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "Неправильные — subjuntivo",
+      [
+        [
+          "Presente de subjuntivo irregular",
+          [
+            "Лицо",
+            "ser",
+            "ir",
+            "estar",
+            "saber"
+          ],
+          [
+            [
+              "yo",
+              "sea",
+              "vaya",
+              "esté",
+              "sepa"
+            ],
+            [
+              "tú",
+              "seas",
+              "vayas",
+              "estés",
+              "sepas"
+            ],
+            [
+              "él/ella",
+              "sea",
+              "vaya",
+              "esté",
+              "sepa"
+            ],
+            [
+              "nosotros",
+              "seamos",
+              "vayamos",
+              "estemos",
+              "sepamos"
+            ],
+            [
+              "vosotros",
+              "seáis",
+              "vayáis",
+              "estéis",
+              "sepáis"
+            ],
+            [
+              "ellos",
+              "sean",
+              "vayan",
+              "estén",
+              "sepan"
+            ]
+          ]
+        ],
+        [
+          "Imperfecto de subjuntivo (пример)",
+          [
+            "Лицо",
+            "tener",
+            "hablar"
+          ],
+          [
+            [
+              "yo",
+              "tuviera",
+              "hablara"
+            ],
+            [
+              "tú",
+              "tuvieras",
+              "hablaras"
+            ],
+            [
+              "él/ella",
+              "tuviera",
+              "hablara"
+            ],
+            [
+              "nosotros",
+              "tuviéramos",
+              "habláramos"
+            ],
+            [
+              "vosotros",
+              "tuvierais",
+              "hablarais"
+            ],
+            [
+              "ellos",
+              "tuvieran",
+              "hablaran"
+            ]
+          ]
+        ],
+        [
+          "Presente de Subjuntivo: tener, ir, ser",
+          [
+            "Лицо",
+            "tener",
+            "ir",
+            "ser"
+          ],
+          [
+            [
+              "yo",
+              "tenga",
+              "vaya",
+              "sea"
+            ],
+            [
+              "tú",
+              "tengas",
+              "vayas",
+              "seas"
+            ],
+            [
+              "él/ella/usted",
+              "tenga",
+              "vaya",
+              "sea"
+            ],
+            [
+              "nosotros",
+              "tengamos",
+              "vayamos",
+              "seamos"
+            ],
+            [
+              "vosotros",
+              "tengáis",
+              "vayáis",
+              "seáis"
+            ],
+            [
+              "ellos/ustedes",
+              "tengan",
+              "vayan",
+              "sean"
+            ]
+          ]
+        ],
+        [
+          "Imperfecto de Subjuntivo: tener, hacer, ir/ser",
+          [
+            "Лицо",
+            "tener",
+            "hacer",
+            "ir/ser"
+          ],
+          [
+            [
+              "yo",
+              "tuviera",
+              "hiciera",
+              "fuera"
+            ],
+            [
+              "tú",
+              "tuvieras",
+              "hicieras",
+              "fueras"
+            ],
+            [
+              "él/ella/usted",
+              "tuviera",
+              "hiciera",
+              "fuera"
+            ],
+            [
+              "nosotros",
+              "tuviéramos",
+              "hiciéramos",
+              "fuéramos"
+            ],
+            [
+              "vosotros",
+              "tuvierais",
+              "hicierais",
+              "fuerais"
+            ],
+            [
+              "ellos/ustedes",
+              "tuvieran",
+              "hicieran",
+              "fueran"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "Condicional и imperativo неправильных",
+      [
+        [
+          "Condicional: неправильные основы",
+          [
+            "Infinitivo",
+            "Основа",
+            "yo condicional"
+          ],
+          [
+            [
+              "tener",
+              "tendr-",
+              "tendría"
+            ],
+            [
+              "poner",
+              "pondr-",
+              "pondría"
+            ],
+            [
+              "salir",
+              "saldr-",
+              "saldría"
+            ],
+            [
+              "hacer",
+              "har-",
+              "haría"
+            ],
+            [
+              "decir",
+              "dir-",
+              "diría"
+            ],
+            [
+              "poder",
+              "podr-",
+              "podría"
+            ]
+          ]
+        ],
+        [
+          "Imperativo tú: частые исключения",
+          [
+            "Глагол",
+            "Утвердительная форма",
+            "Отрицательная форма"
+          ],
+          [
+            [
+              "decir",
+              "di",
+              "no digas"
+            ],
+            [
+              "hacer",
+              "haz",
+              "no hagas"
+            ],
+            [
+              "poner",
+              "pon",
+              "no pongas"
+            ],
+            [
+              "salir",
+              "sal",
+              "no salgas"
+            ],
+            [
+              "tener",
+              "ten",
+              "no tengas"
+            ],
+            [
+              "venir",
+              "ven",
+              "no vengas"
+            ]
+          ]
+        ],
+        [
+          "Condicional simple: tener, hacer, decir",
+          [
+            "Лицо",
+            "tener",
+            "hacer",
+            "decir"
+          ],
+          [
+            [
+              "yo",
+              "tendría",
+              "haría",
+              "diría"
+            ],
+            [
+              "tú",
+              "tendrías",
+              "harías",
+              "dirías"
+            ],
+            [
+              "él/ella/usted",
+              "tendría",
+              "haría",
+              "diría"
+            ],
+            [
+              "nosotros",
+              "tendríamos",
+              "haríamos",
+              "diríamos"
+            ],
+            [
+              "vosotros",
+              "tendríais",
+              "haríais",
+              "diríais"
+            ],
+            [
+              "ellos/ustedes",
+              "tendrían",
+              "harían",
+              "dirían"
+            ]
+          ]
+        ],
+        [
+          "Imperativo: ir, tener, hacer",
+          [
+            "Лицо",
+            "ir +",
+            "ir −",
+            "tener +",
+            "tener −",
+            "hacer +",
+            "hacer −"
+          ],
+          [
+            [
+              "tú",
+              "ve",
+              "no vayas",
+              "ten",
+              "no tengas",
+              "haz",
+              "no hagas"
+            ],
+            [
+              "usted",
+              "vaya",
+              "no vaya",
+              "tenga",
+              "no tenga",
+              "haga",
+              "no haga"
+            ],
+            [
+              "nosotros",
+              "vayamos",
+              "no vayamos",
+              "tengamos",
+              "no tengamos",
+              "hagamos",
+              "no hagamos"
+            ],
+            [
+              "vosotros",
+              "id",
+              "no vayáis",
+              "tened",
+              "no tengáis",
+              "haced",
+              "no hagáis"
+            ],
+            [
+              "ustedes",
+              "vayan",
+              "no vayan",
+              "tengan",
+              "no tengan",
+              "hagan",
+              "no hagan"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "Страдательный залог",
+      [
+        [
+          "Voz pasiva",
+          [
+            "Время",
+            "Форма",
+            "Пример"
+          ],
+          [
+            [
+              "Presente",
+              "ser + participio",
+              "La carta es enviada cada lunes."
+            ],
+            [
+              "Indefinido",
+              "fue + participio",
+              "El libro fue publicado."
+            ],
+            [
+              "Perfecto",
+              "ha sido + participio",
+              "La casa ha sido vendida."
+            ],
+            [
+              "Pasiva refleja",
+              "se + verbo",
+              "Se venden pisos."
+            ]
+          ]
+        ],
+        [
+          "Согласование причастия",
+          [
+            "Род / число",
+            "Пример"
+          ],
+          [
+            [
+              "муж. ед.",
+              "fue comprado"
+            ],
+            [
+              "жен. ед.",
+              "fue comprada"
+            ],
+            [
+              "муж. мн.",
+              "fueron comprados"
+            ],
+            [
+              "жен. мн.",
+              "fueron compradas"
+            ]
+          ]
+        ],
+        [
+          "Voz pasiva: согласование с подлежащим",
+          [
+            "Подлежащее",
+            "Форма ser",
+            "Причастие",
+            "Пример"
+          ],
+          [
+            [
+              "la carta",
+              "es",
+              "enviada",
+              "La carta es enviada cada lunes."
+            ],
+            [
+              "las cartas",
+              "son",
+              "enviadas",
+              "Las cartas son enviadas cada lunes."
+            ],
+            [
+              "el puente",
+              "fue",
+              "construido",
+              "El puente fue construido en 1990."
+            ],
+            [
+              "los puentes",
+              "fueron",
+              "construidos",
+              "Los puentes fueron construidos en 1990."
+            ]
+          ]
+        ],
+        [
+          "Pasiva refleja и estar + participio",
+          [
+            "Конструкция",
+            "Пример",
+            "Объяснение"
+          ],
+          [
+            [
+              "se + verbo (согласование)",
+              "Se venden pisos.",
+              "Продаются квартиры"
+            ],
+            [
+              "se + verbo singular",
+              "Se vende una casa.",
+              "Продаётся дом"
+            ],
+            [
+              "estar + participio",
+              "La puerta está cerrada.",
+              "Состояние, а не событие"
+            ],
+            [
+              "ser + participio",
+              "La puerta fue cerrada por Ana.",
+              "Действие в страдательном залоге"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "Неличные формы, наречия",
+      [
+        [
+          "Infinitivo, gerundio, participio",
+          [
+            "Глагол",
+            "Infinitivo",
+            "Gerundio",
+            "Participio"
+          ],
+          [
+            [
+              "hablar",
+              "hablar",
+              "hablando",
+              "hablado"
+            ],
+            [
+              "comer",
+              "comer",
+              "comiendo",
+              "comido"
+            ],
+            [
+              "vivir",
+              "vivir",
+              "viviendo",
+              "vivido"
+            ],
+            [
+              "hacer",
+              "hacer",
+              "haciendo",
+              "hecho"
+            ],
+            [
+              "escribir",
+              "escribir",
+              "escribiendo",
+              "escrito"
+            ]
+          ]
+        ],
+        [
+          "Степени сравнения наречий",
+          [
+            "Тип",
+            "Пример"
+          ],
+          [
+            [
+              "Положительная",
+              "rápidamente"
+            ],
+            [
+              "Сравнительная",
+              "más rápidamente que"
+            ],
+            [
+              "Превосходная",
+              "lo más rápidamente posible"
+            ]
+          ]
+        ],
+        [
+          "Причастия: частые исключения",
+          [
+            "Инфинитив",
+            "Причастие",
+            "Пример"
+          ],
+          [
+            [
+              "abrir",
+              "abierto",
+              "He abierto la puerta."
+            ],
+            [
+              "decir",
+              "dicho",
+              "Me lo han dicho."
+            ],
+            [
+              "escribir",
+              "escrito",
+              "He escrito un mensaje."
+            ],
+            [
+              "hacer",
+              "hecho",
+              "Ya está hecho."
+            ],
+            [
+              "poner",
+              "puesto",
+              "He puesto la mesa."
+            ],
+            [
+              "ver",
+              "visto",
+              "No lo he visto."
+            ],
+            [
+              "volver",
+              "vuelto",
+              "Ha vuelto tarde."
+            ],
+            [
+              "romper",
+              "roto",
+              "Se ha roto el vaso."
+            ]
+          ]
+        ],
+        [
+          "Герундий: формы и использование",
+          [
+            "Глагол",
+            "Герундий",
+            "Пример"
+          ],
+          [
+            [
+              "hablar",
+              "hablando",
+              "Estoy hablando."
+            ],
+            [
+              "comer",
+              "comiendo",
+              "Estamos comiendo."
+            ],
+            [
+              "vivir",
+              "viviendo",
+              "Sigue viviendo en Madrid."
+            ],
+            [
+              "ir",
+              "yendo",
+              "Estoy yendo al trabajo."
+            ],
+            [
+              "leer",
+              "leyendo",
+              "Estoy leyendo."
+            ],
+            [
+              "dormir",
+              "durmiendo",
+              "El niño está durmiendo."
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "Числительные",
+      [
+        [
+          "Количественные",
+          [
+            "Число",
+            "Испанский"
+          ],
+          [
+            [
+              "0",
+              "cero"
+            ],
+            [
+              "1",
+              "uno / una"
+            ],
+            [
+              "10",
+              "diez"
+            ],
+            [
+              "16",
+              "dieciséis"
+            ],
+            [
+              "21",
+              "veintiuno"
+            ],
+            [
+              "30",
+              "treinta"
+            ],
+            [
+              "100",
+              "cien / ciento"
+            ],
+            [
+              "1000",
+              "mil"
+            ],
+            [
+              "1 000 000",
+              "un millón"
+            ]
+          ]
+        ],
+        [
+          "Порядковые",
+          [
+            "Число",
+            "Испанский"
+          ],
+          [
+            [
+              "1",
+              "primero / primera"
+            ],
+            [
+              "2",
+              "segundo / segunda"
+            ],
+            [
+              "3",
+              "tercero / tercera"
+            ],
+            [
+              "4",
+              "cuarto / cuarta"
+            ],
+            [
+              "5",
+              "quinto / quinta"
+            ],
+            [
+              "10",
+              "décimo / décima"
+            ]
+          ]
+        ],
+        [
+          "Порядковые числительные 1–10",
+          [
+            "Цифра",
+            "Мужской род",
+            "Женский род"
+          ],
+          [
+            [
+              "1",
+              "primero",
+              "primera"
+            ],
+            [
+              "2",
+              "segundo",
+              "segunda"
+            ],
+            [
+              "3",
+              "tercero",
+              "tercera"
+            ],
+            [
+              "4",
+              "cuarto",
+              "cuarta"
+            ],
+            [
+              "5",
+              "quinto",
+              "quinta"
+            ],
+            [
+              "6",
+              "sexto",
+              "sexta"
+            ],
+            [
+              "7",
+              "séptimo",
+              "séptima"
+            ],
+            [
+              "8",
+              "octavo",
+              "octava"
+            ],
+            [
+              "9",
+              "noveno",
+              "novena"
+            ],
+            [
+              "10",
+              "décimo",
+              "décima"
+            ]
+          ]
+        ],
+        [
+          "Числительные: согласование перед существительным",
+          [
+            "Форма",
+            "Пример",
+            "Примечание"
+          ],
+          [
+            [
+              "uno → un",
+              "un libro",
+              "Перед мужским существительным"
+            ],
+            [
+              "una",
+              "una casa",
+              "Перед женским существительным"
+            ],
+            [
+              "veintiuno → veintiún",
+              "veintiún libros",
+              "Перед мужским существительным"
+            ],
+            [
+              "veintiuna",
+              "veintiuna casas",
+              "Согласование в женском роде"
+            ],
+            [
+              "ciento → cien",
+              "cien personas",
+              "Перед существительным, также перед mil/millones"
+            ],
+            [
+              "doscientos / doscientas",
+              "doscientas páginas",
+              "Согласование сотен по роду"
+            ]
+          ]
+        ]
+      ]
+    ]
+  ],
+  "vocab": [
+    {
+      "es": "hola",
+      "ru": "привет",
+      "ex": "¡Hola! ¿Qué tal?",
+      "cat": "Общение"
+    },
+    {
+      "es": "buenos días",
+      "ru": "доброе утро",
+      "ex": "Buenos días, ¿cómo está?",
+      "cat": "Общение"
+    },
+    {
+      "es": "buenas tardes",
+      "ru": "добрый день",
+      "ex": "Buenas tardes a todos.",
+      "cat": "Общение"
+    },
+    {
+      "es": "buenas noches",
+      "ru": "добрый вечер / спокойной ночи",
+      "ex": "Buenas noches, hasta mañana.",
+      "cat": "Общение"
+    },
+    {
+      "es": "gracias",
+      "ru": "спасибо",
+      "ex": "Muchas gracias por todo.",
+      "cat": "Общение"
+    },
+    {
+      "es": "por favor",
+      "ru": "пожалуйста",
+      "ex": "Un café, por favor.",
+      "cat": "Общение"
+    },
+    {
+      "es": "perdón",
+      "ru": "извините",
+      "ex": "Perdón, ¿dónde está la estación?",
+      "cat": "Общение"
+    },
+    {
+      "es": "de nada",
+      "ru": "не за что",
+      "ex": "¡De nada!",
+      "cat": "Общение"
+    },
+    {
+      "es": "¿qué tal?",
+      "ru": "как дела?",
+      "ex": "Hola, ¿qué tal?",
+      "cat": "Общение"
+    },
+    {
+      "es": "no entiendo",
+      "ru": "не понимаю",
+      "ex": "Perdón, no entiendo.",
+      "cat": "Общение"
+    },
+    {
+      "es": "¿puedes repetir?",
+      "ru": "можешь повторить?",
+      "ex": "¿Puedes repetir más despacio?",
+      "cat": "Общение"
+    },
+    {
+      "es": "más despacio",
+      "ru": "помедленнее",
+      "ex": "Habla más despacio, por favor.",
+      "cat": "Общение"
+    },
+    {
+      "es": "necesito",
+      "ru": "мне нужно",
+      "ex": "Necesito ayuda.",
+      "cat": "Общение"
+    },
+    {
+      "es": "quiero",
+      "ru": "я хочу",
+      "ex": "Quiero aprender español.",
+      "cat": "Общение"
+    },
+    {
+      "es": "me gustaría",
+      "ru": "я бы хотел",
+      "ex": "Me gustaría reservar una mesa.",
+      "cat": "Общение"
+    },
+    {
+      "es": "¿cuánto cuesta?",
+      "ru": "сколько стоит?",
+      "ex": "¿Cuánto cuesta esto?",
+      "cat": "Покупки"
+    },
+    {
+      "es": "¿dónde está…?",
+      "ru": "где находится…?",
+      "ex": "¿Dónde está el baño?",
+      "cat": "Город"
+    },
+    {
+      "es": "la calle",
+      "ru": "улица",
+      "ex": "La calle está cerca.",
+      "cat": "Город"
+    },
+    {
+      "es": "la ciudad",
+      "ru": "город",
+      "ex": "Es una ciudad grande.",
+      "cat": "Город"
+    },
+    {
+      "es": "la estación",
+      "ru": "станция",
+      "ex": "La estación está lejos.",
+      "cat": "Город"
+    },
+    {
+      "es": "el billete",
+      "ru": "билет",
+      "ex": "Necesito un billete.",
+      "cat": "Город"
+    },
+    {
+      "es": "la izquierda",
+      "ru": "налево / левая сторона",
+      "ex": "Gira a la izquierda.",
+      "cat": "Город"
+    },
+    {
+      "es": "la derecha",
+      "ru": "направо / правая сторона",
+      "ex": "Gira a la derecha.",
+      "cat": "Город"
+    },
+    {
+      "es": "cerca",
+      "ru": "близко",
+      "ex": "Está muy cerca.",
+      "cat": "Город"
+    },
+    {
+      "es": "lejos",
+      "ru": "далеко",
+      "ex": "No está lejos.",
+      "cat": "Город"
+    },
+    {
+      "es": "el trabajo",
+      "ru": "работа",
+      "ex": "Voy al trabajo.",
+      "cat": "Работа"
+    },
+    {
+      "es": "la reunión",
+      "ru": "встреча / совещание",
+      "ex": "Tengo una reunión mañana.",
+      "cat": "Работа"
+    },
+    {
+      "es": "el proyecto",
+      "ru": "проект",
+      "ex": "Estamos trabajando en un proyecto.",
+      "cat": "Работа"
+    },
+    {
+      "es": "el contrato",
+      "ru": "договор",
+      "ex": "Tenemos que revisar el contrato.",
+      "cat": "Работа"
+    },
+    {
+      "es": "el documento",
+      "ru": "документ",
+      "ex": "Envíame el documento.",
+      "cat": "Работа"
+    },
+    {
+      "es": "el correo",
+      "ru": "почта / письмо",
+      "ex": "Te envío un correo.",
+      "cat": "Работа"
+    },
+    {
+      "es": "el cliente",
+      "ru": "клиент",
+      "ex": "El cliente está esperando.",
+      "cat": "Работа"
+    },
+    {
+      "es": "el presupuesto",
+      "ru": "бюджет / смета",
+      "ex": "Necesitamos un presupuesto.",
+      "cat": "Работа"
+    },
+    {
+      "es": "la factura",
+      "ru": "счёт-фактура",
+      "ex": "¿Puede enviarme la factura?",
+      "cat": "Работа"
+    },
+    {
+      "es": "el plazo",
+      "ru": "срок",
+      "ex": "¿Cuál es el plazo?",
+      "cat": "Работа"
+    },
+    {
+      "es": "la casa",
+      "ru": "дом",
+      "ex": "Estoy en casa.",
+      "cat": "Дом"
+    },
+    {
+      "es": "la familia",
+      "ru": "семья",
+      "ex": "Mi familia es grande.",
+      "cat": "Дом"
+    },
+    {
+      "es": "el hijo",
+      "ru": "сын",
+      "ex": "Mi hijo estudia.",
+      "cat": "Дом"
+    },
+    {
+      "es": "la comida",
+      "ru": "еда",
+      "ex": "La comida está rica.",
+      "cat": "Еда"
+    },
+    {
+      "es": "el agua",
+      "ru": "вода",
+      "ex": "Quiero agua, por favor.",
+      "cat": "Еда"
+    },
+    {
+      "es": "el pan",
+      "ru": "хлеб",
+      "ex": "¿Tienen pan?",
+      "cat": "Еда"
+    },
+    {
+      "es": "el café",
+      "ru": "кофе",
+      "ex": "Un café con leche.",
+      "cat": "Еда"
+    },
+    {
+      "es": "el desayuno",
+      "ru": "завтрак",
+      "ex": "El desayuno está incluido.",
+      "cat": "Еда"
+    },
+    {
+      "es": "la cuenta",
+      "ru": "счёт",
+      "ex": "La cuenta, por favor.",
+      "cat": "Еда"
+    },
+    {
+      "es": "una mesa",
+      "ru": "столик",
+      "ex": "Una mesa para dos, por favor.",
+      "cat": "Еда"
+    },
+    {
+      "es": "sin",
+      "ru": "без",
+      "ex": "Un café sin azúcar.",
+      "cat": "Еда"
+    },
+    {
+      "es": "con",
+      "ru": "с",
+      "ex": "Agua con gas.",
+      "cat": "Еда"
+    },
+    {
+      "es": "hoy",
+      "ru": "сегодня",
+      "ex": "Hoy tengo tiempo.",
+      "cat": "Время"
+    },
+    {
+      "es": "ayer",
+      "ru": "вчера",
+      "ex": "Ayer trabajé.",
+      "cat": "Время"
+    },
+    {
+      "es": "mañana",
+      "ru": "завтра / утро",
+      "ex": "Mañana voy a estudiar.",
+      "cat": "Время"
+    },
+    {
+      "es": "ahora",
+      "ru": "сейчас",
+      "ex": "Ahora estoy ocupado.",
+      "cat": "Время"
+    },
+    {
+      "es": "siempre",
+      "ru": "всегда",
+      "ex": "Siempre estudio por la mañana.",
+      "cat": "Время"
+    },
+    {
+      "es": "nunca",
+      "ru": "никогда",
+      "ex": "Nunca es tarde.",
+      "cat": "Время"
+    },
+    {
+      "es": "a veces",
+      "ru": "иногда",
+      "ex": "A veces leo en español.",
+      "cat": "Время"
+    },
+    {
+      "es": "antes",
+      "ru": "раньше / до",
+      "ex": "Antes vivía aquí.",
+      "cat": "Время"
+    },
+    {
+      "es": "después",
+      "ru": "после / потом",
+      "ex": "Después hablamos.",
+      "cat": "Время"
+    },
+    {
+      "es": "bien",
+      "ru": "хорошо",
+      "ex": "Estoy bien, gracias.",
+      "cat": "Общение"
+    },
+    {
+      "es": "mal",
+      "ru": "плохо",
+      "ex": "Hoy me siento mal.",
+      "cat": "Общение"
+    },
+    {
+      "es": "rápido",
+      "ru": "быстро",
+      "ex": "Hablas muy rápido.",
+      "cat": "Общение"
+    },
+    {
+      "es": "fácil",
+      "ru": "легко",
+      "ex": "Es fácil de entender.",
+      "cat": "Общение"
+    },
+    {
+      "es": "difícil",
+      "ru": "трудно",
+      "ex": "Esta pregunta es difícil.",
+      "cat": "Общение"
+    },
+    {
+      "es": "importante",
+      "ru": "важно / важный",
+      "ex": "Es muy importante.",
+      "cat": "Общение"
+    },
+    {
+      "es": "el tiempo",
+      "ru": "время / погода",
+      "ex": "No tengo tiempo.",
+      "cat": "Время"
+    },
+    {
+      "es": "el dinero",
+      "ru": "деньги",
+      "ex": "No tengo dinero en efectivo.",
+      "cat": "Покупки"
+    },
+    {
+      "es": "pagar",
+      "ru": "платить",
+      "ex": "¿Puedo pagar con tarjeta?",
+      "cat": "Покупки"
+    },
+    {
+      "es": "comprar",
+      "ru": "покупать",
+      "ex": "Quiero comprar esto.",
+      "cat": "Покупки"
+    },
+    {
+      "es": "buscar",
+      "ru": "искать",
+      "ex": "Estoy buscando una dirección.",
+      "cat": "Город"
+    },
+    {
+      "es": "entender",
+      "ru": "понимать",
+      "ex": "No entiendo la pregunta.",
+      "cat": "Общение"
+    },
+    {
+      "es": "recordar",
+      "ru": "помнить",
+      "ex": "No recuerdo la palabra.",
+      "cat": "Общение"
+    },
+    {
+      "es": "olvidar",
+      "ru": "забывать",
+      "ex": "He olvidado su nombre.",
+      "cat": "Общение"
+    },
+    {
+      "es": "aprender",
+      "ru": "учить / изучать",
+      "ex": "Estoy aprendiendo español.",
+      "cat": "Общение"
+    },
+    {
+      "es": "hablar",
+      "ru": "говорить",
+      "ex": "Quiero hablar mejor.",
+      "cat": "Общение"
+    },
+    {
+      "es": "escuchar",
+      "ru": "слушать",
+      "ex": "Escucho un pódcast.",
+      "cat": "Общение"
+    },
+    {
+      "es": "leer",
+      "ru": "читать",
+      "ex": "Leo un poco cada día.",
+      "cat": "Общение"
+    },
+    {
+      "es": "escribir",
+      "ru": "писать",
+      "ex": "Escribo frases cortas.",
+      "cat": "Общение"
+    },
+    {
+      "es": "viajar",
+      "ru": "путешествовать",
+      "ex": "Me gusta viajar.",
+      "cat": "Город"
+    },
+    {
+      "es": "volver",
+      "ru": "возвращаться",
+      "ex": "Vuelvo el lunes.",
+      "cat": "Город"
+    },
+    {
+      "es": "salir",
+      "ru": "выходить",
+      "ex": "Tengo que salir.",
+      "cat": "Город"
+    },
+    {
+      "es": "entrar",
+      "ru": "входить",
+      "ex": "¿Puedo entrar?",
+      "cat": "Город"
+    },
+    {
+      "es": "ayudar",
+      "ru": "помогать",
+      "ex": "¿Puedes ayudarme?",
+      "cat": "Общение"
+    },
+    {
+      "es": "pensar",
+      "ru": "думать",
+      "ex": "Tengo que pensarlo.",
+      "cat": "Общение"
+    },
+    {
+      "es": "creer",
+      "ru": "считать / верить",
+      "ex": "Creo que sí.",
+      "cat": "Общение"
+    },
+    {
+      "es": "saber",
+      "ru": "знать (факт/уметь)",
+      "ex": "No sé.",
+      "cat": "Общение"
+    },
+    {
+      "es": "conocer",
+      "ru": "знать (быть знакомым)",
+      "ex": "Conozco Madrid.",
+      "cat": "Город"
+    },
+    {
+      "es": "hacer",
+      "ru": "делать",
+      "ex": "¿Qué hacemos ahora?",
+      "cat": "Общение"
+    },
+    {
+      "es": "tener",
+      "ru": "иметь",
+      "ex": "Tengo una idea.",
+      "cat": "Общение"
+    },
+    {
+      "es": "estar",
+      "ru": "быть, находиться",
+      "ex": "Estoy aquí.",
+      "cat": "Общение"
+    },
+    {
+      "es": "ser",
+      "ru": "быть (сущность)",
+      "ex": "Soy estudiante.",
+      "cat": "Общение"
+    },
+    {
+      "es": "ir",
+      "ru": "идти / ехать",
+      "ex": "Voy al centro.",
+      "cat": "Город"
+    },
+    {
+      "es": "poder",
+      "ru": "мочь",
+      "ex": "¿Puedes venir?",
+      "cat": "Общение"
+    },
+    {
+      "es": "querer",
+      "ru": "хотеть",
+      "ex": "Quiero descansar.",
+      "cat": "Общение"
+    },
+    {
+      "es": "porque",
+      "ru": "потому что",
+      "ex": "No voy porque trabajo.",
+      "cat": "Связки"
+    },
+    {
+      "es": "pero",
+      "ru": "но",
+      "ex": "Quiero ir, pero no puedo.",
+      "cat": "Связки"
+    },
+    {
+      "es": "aunque",
+      "ru": "хотя",
+      "ex": "Aunque llueve, salgo.",
+      "cat": "Связки"
+    },
+    {
+      "es": "entonces",
+      "ru": "тогда",
+      "ex": "Entonces hablamos mañana.",
+      "cat": "Связки"
+    },
+    {
+      "es": "además",
+      "ru": "кроме того",
+      "ex": "Además, tengo otra idea.",
+      "cat": "Связки"
+    },
+    {
+      "es": "sin embargo",
+      "ru": "однако",
+      "ex": "Sin embargo, es posible.",
+      "cat": "Связки"
+    },
+    {
+      "es": "por eso",
+      "ru": "поэтому",
+      "ex": "Por eso estudio español.",
+      "cat": "Связки"
+    },
+    {
+      "es": "las sandalias",
+      "ru": "босоножки",
+      "ex": "",
+      "cat": "Одежда"
+    },
+    {
+      "es": "los calcetines",
+      "ru": "носки",
+      "ex": "",
+      "cat": "Одежда"
+    },
+    {
+      "es": "el sostén",
+      "ru": "бюстгальтер",
+      "ex": "",
+      "cat": "Одежда"
+    },
+    {
+      "es": "el cinturón",
+      "ru": "ремень",
+      "ex": "",
+      "cat": "Одежда"
+    },
+    {
+      "es": "los vaqueros",
+      "ru": "джинсы",
+      "ex": "",
+      "cat": "Одежда"
+    },
+    {
+      "es": "el paraguas",
+      "ru": "зонт",
+      "ex": "",
+      "cat": "Одежда"
+    },
+    {
+      "es": "el abrigo",
+      "ru": "пальто",
+      "ex": "",
+      "cat": "Одежда"
+    },
+    {
+      "es": "la camiseta",
+      "ru": "футболка",
+      "ex": "",
+      "cat": "Одежда"
+    },
+    {
+      "es": "la chaqueta",
+      "ru": "куртка",
+      "ex": "",
+      "cat": "Одежда"
+    },
+    {
+      "es": "la bufanda",
+      "ru": "шарф",
+      "ex": "",
+      "cat": "Одежда"
+    },
+    {
+      "es": "la corbata",
+      "ru": "галстук",
+      "ex": "",
+      "cat": "Одежда"
+    },
+    {
+      "es": "la camisa",
+      "ru": "рубашка",
+      "ex": "",
+      "cat": "Одежда"
+    },
+    {
+      "es": "la falda",
+      "ru": "юбка",
+      "ex": "",
+      "cat": "Одежда"
+    },
+    {
+      "es": "el sombrero",
+      "ru": "шляпа",
+      "ex": "",
+      "cat": "Одежда"
+    },
+    {
+      "es": "las gafas",
+      "ru": "очки",
+      "ex": "",
+      "cat": "Одежда"
+    },
+    {
+      "es": "la etiqueta",
+      "ru": "этикетка",
+      "ex": "",
+      "cat": "Покупки"
+    },
+    {
+      "es": "el cajero",
+      "ru": "кассир",
+      "ex": "",
+      "cat": "Покупки"
+    },
+    {
+      "es": "el precio",
+      "ru": "цена",
+      "ex": "",
+      "cat": "Покупки"
+    },
+    {
+      "es": "la tarjeta de crédito",
+      "ru": "кредитная карта",
+      "ex": "",
+      "cat": "Покупки"
+    },
+    {
+      "es": "el efectivo",
+      "ru": "наличные",
+      "ex": "",
+      "cat": "Покупки"
+    },
+    {
+      "es": "las rebajas",
+      "ru": "распродажа",
+      "ex": "",
+      "cat": "Покупки"
+    },
+    {
+      "es": "los gastos",
+      "ru": "расходы",
+      "ex": "",
+      "cat": "Покупки"
+    },
+    {
+      "es": "la farmacia",
+      "ru": "аптека",
+      "ex": "",
+      "cat": "Город"
+    },
+    {
+      "es": "la panadería",
+      "ru": "пекарня",
+      "ex": "",
+      "cat": "Город"
+    },
+    {
+      "es": "el sueldo",
+      "ru": "зарплата",
+      "ex": "",
+      "cat": "Работа"
+    },
+    {
+      "es": "el jefe",
+      "ru": "начальник",
+      "ex": "",
+      "cat": "Работа"
+    },
+    {
+      "es": "el horario",
+      "ru": "расписание",
+      "ex": "",
+      "cat": "Работа"
+    },
+    {
+      "es": "la enfermedad",
+      "ru": "болезнь",
+      "ex": "",
+      "cat": "Здоровье"
+    },
+    {
+      "es": "la medicina",
+      "ru": "лекарство",
+      "ex": "",
+      "cat": "Здоровье"
+    },
+    {
+      "es": "el médico",
+      "ru": "врач",
+      "ex": "",
+      "cat": "Здоровье"
+    },
+    {
+      "es": "la salud",
+      "ru": "здоровье",
+      "ex": "",
+      "cat": "Здоровье"
+    },
+    {
+      "es": "el deporte",
+      "ru": "спорт",
+      "ex": "",
+      "cat": "Досуг"
+    },
+    {
+      "es": "la natación",
+      "ru": "плавание",
+      "ex": "",
+      "cat": "Досуг"
+    }
+  ],
+  "schemes": [
+    {
+      "name": "SER · кто я и какой я",
+      "source": 7578,
+      "rule": "Ser — личность, профессия, происхождение, свойства и определение; для временного состояния часто используют estar.",
+      "rows": [
+        [
+          "yo",
+          "soy"
+        ],
+        [
+          "tú",
+          "eres"
+        ],
+        [
+          "él / ella / usted",
+          "es"
+        ],
+        [
+          "nosotros",
+          "somos"
+        ],
+        [
+          "vosotros",
+          "sois"
+        ],
+        [
+          "ellos / ustedes",
+          "son"
+        ]
+      ],
+      "examples": [
+        [
+          "Soy de Rusia.",
+          "Я из России."
+        ],
+        [
+          "Soy ingeniero.",
+          "Я инженер."
+        ],
+        [
+          "Es importante practicar.",
+          "Важно практиковаться."
+        ],
+        [
+          "Somos amigos.",
+          "Мы друзья."
+        ]
+      ],
+      "quiz": [
+        [
+          "Мы друзья.",
+          "Somos amigos."
+        ],
+        [
+          "Я из России.",
+          "Soy de Rusia."
+        ]
+      ]
+    },
+    {
+      "name": "ESTAR · состояние и местонахождение",
+      "source": 7577,
+      "rule": "Estar — местонахождение, состояние и действие в процессе: estar + gerundio. Некоторые прилагательные меняют значение с ser/estar.",
+      "rows": [
+        [
+          "yo",
+          "estoy"
+        ],
+        [
+          "tú",
+          "estás"
+        ],
+        [
+          "él / ella",
+          "está"
+        ],
+        [
+          "nosotros",
+          "estamos"
+        ],
+        [
+          "vosotros",
+          "estáis"
+        ],
+        [
+          "ellos",
+          "están"
+        ]
+      ],
+      "examples": [
+        [
+          "Estoy cansado.",
+          "Я устал."
+        ],
+        [
+          "Estamos en casa.",
+          "Мы дома."
+        ],
+        [
+          "Estoy aprendiendo español.",
+          "Я сейчас изучаю испанский."
+        ],
+        [
+          "La puerta está abierta.",
+          "Дверь открыта."
+        ]
+      ],
+      "quiz": [
+        [
+          "Я дома.",
+          "Estoy en casa."
+        ],
+        [
+          "Я сейчас читаю.",
+          "Estoy leyendo."
+        ]
+      ]
+    },
+    {
+      "name": "TENER · ощущения и необходимость",
+      "source": 7575,
+      "rule": "Tener + существительное выражает возраст, ощущения, потребности и состояния; tener que + infinitivo — личная необходимость.",
+      "rows": [
+        [
+          "yo",
+          "tengo"
+        ],
+        [
+          "tú",
+          "tienes"
+        ],
+        [
+          "él / ella",
+          "tiene"
+        ],
+        [
+          "nosotros",
+          "tenemos"
+        ],
+        [
+          "vosotros",
+          "tenéis"
+        ],
+        [
+          "ellos",
+          "tienen"
+        ]
+      ],
+      "examples": [
+        [
+          "Tengo hambre / sed.",
+          "Я голоден / хочу пить."
+        ],
+        [
+          "Tengo sueño / frío / calor.",
+          "Хочу спать / мне холодно / жарко."
+        ],
+        [
+          "Tengo prisa / miedo / razón.",
+          "Спешу / боюсь / прав."
+        ],
+        [
+          "Tengo que salir.",
+          "Мне нужно уйти."
+        ]
+      ],
+      "quiz": [
+        [
+          "Мне нужно работать.",
+          "Tengo que trabajar."
+        ],
+        [
+          "Я хочу пить.",
+          "Tengo sed."
+        ]
+      ]
+    },
+    {
+      "name": "IR · движение и планы",
+      "source": 7574,
+      "rule": "Ir + a + место — направление; ir a + infinitivo — намерение или ближайшее будущее.",
+      "rows": [
+        [
+          "yo",
+          "voy"
+        ],
+        [
+          "tú",
+          "vas"
+        ],
+        [
+          "él / ella",
+          "va"
+        ],
+        [
+          "nosotros",
+          "vamos"
+        ],
+        [
+          "vosotros",
+          "vais"
+        ],
+        [
+          "ellos",
+          "van"
+        ]
+      ],
+      "examples": [
+        [
+          "Voy a Valencia.",
+          "Я еду в Валенсию."
+        ],
+        [
+          "Vamos al centro.",
+          "Мы идём в центр."
+        ],
+        [
+          "Voy a llamar mañana.",
+          "Я собираюсь позвонить завтра."
+        ],
+        [
+          "¿Adónde vas?",
+          "Куда ты идёшь?"
+        ]
+      ],
+      "quiz": [
+        [
+          "Мы собираемся учиться.",
+          "Vamos a estudiar."
+        ],
+        [
+          "Я иду домой.",
+          "Voy a casa."
+        ]
+      ]
+    },
+    {
+      "name": "ВОПРОСЫ · как поддержать разговор",
+      "source": 7576,
+      "rule": "У вопросительных слов в вопросах пишутся ударения: qué, quién, cuál, cómo, cuándo, dónde, por qué, cuánto.",
+      "rows": [
+        [
+          "¿Qué?",
+          "Что?"
+        ],
+        [
+          "¿Quién?",
+          "Кто?"
+        ],
+        [
+          "¿Dónde? / ¿Adónde?",
+          "Где? / Куда?"
+        ],
+        [
+          "¿Cuándo? / ¿Cómo?",
+          "Когда? / Как?"
+        ],
+        [
+          "¿Por qué?",
+          "Почему?"
+        ],
+        [
+          "¿Cuánto cuesta?",
+          "Сколько стоит?"
+        ]
+      ],
+      "examples": [
+        [
+          "¿Qué quieres hacer?",
+          "Что ты хочешь сделать?"
+        ],
+        [
+          "¿Dónde vives?",
+          "Где ты живёшь?"
+        ],
+        [
+          "¿Por qué estudias español?",
+          "Почему ты учишь испанский?"
+        ]
+      ],
+      "quiz": [
+        [
+          "Где ты живёшь?",
+          "¿Dónde vives?"
+        ],
+        [
+          "Сколько это стоит?",
+          "¿Cuánto cuesta?"
+        ]
+      ]
+    },
+    {
+      "name": "ВРЕМЯ · когда и как долго",
+      "source": 7579,
+      "rule": "Para — цель или срок; desde — начиная с момента; desde hace — длительность продолжающегося действия; hace — сколько времени назад.",
+      "rows": [
+        [
+          "a las tres",
+          "в три часа"
+        ],
+        [
+          "de lunes a viernes",
+          "с понедельника по пятницу"
+        ],
+        [
+          "desde enero",
+          "с января"
+        ],
+        [
+          "desde hace dos años",
+          "уже два года"
+        ],
+        [
+          "hace una hora",
+          "час назад"
+        ],
+        [
+          "por la mañana",
+          "утром"
+        ]
+      ],
+      "examples": [
+        [
+          "Trabajo de nueve a seis.",
+          "Работаю с девяти до шести."
+        ],
+        [
+          "Vivo aquí desde hace dos años.",
+          "Живу здесь уже два года."
+        ],
+        [
+          "Llegué hace una hora.",
+          "Я приехал час назад."
+        ]
+      ],
+      "quiz": [
+        [
+          "Я приехал час назад.",
+          "Llegué hace una hora."
+        ],
+        [
+          "Утром.",
+          "Por la mañana."
+        ]
+      ]
+    },
+    {
+      "name": "МЕСТО · объясняю дорогу",
+      "source": 7580,
+      "rule": "Предлоги места обычно требуют дополнения: delante de, detrás de, al lado de, cerca de, lejos de, encima de, debajo de.",
+      "rows": [
+        [
+          "delante de / detrás de",
+          "перед / позади"
+        ],
+        [
+          "a la izquierda de / a la derecha de",
+          "слева от / справа от"
+        ],
+        [
+          "al lado de",
+          "рядом с"
+        ],
+        [
+          "enfrente de",
+          "напротив"
+        ],
+        [
+          "encima de / debajo de",
+          "над / под"
+        ],
+        [
+          "entre",
+          "между"
+        ]
+      ],
+      "examples": [
+        [
+          "El banco está al lado de la farmacia.",
+          "Банк рядом с аптекой."
+        ],
+        [
+          "La mesa está delante de la ventana.",
+          "Стол перед окном."
+        ]
+      ],
+      "quiz": [
+        [
+          "Банк рядом с аптекой.",
+          "El banco está al lado de la farmacia."
+        ]
+      ]
+    },
+    {
+      "name": "УМЕНИЯ · что хорошо получается",
+      "source": 7573,
+      "rule": "Dársele bien/mal algo — что-то хорошо/плохо получается. Для hablar о навыках: se me da bien; se te da bien; se le da bien.",
+      "rows": [
+        [
+          "Se me da bien cocinar.",
+          "У меня хорошо получается готовить."
+        ],
+        [
+          "No se me dan bien los idiomas.",
+          "Я не очень способен к языкам."
+        ],
+        [
+          "¿Se te da bien nadar?",
+          "Ты хорошо плаваешь?"
+        ]
+      ],
+      "examples": [
+        [
+          "Se me da bien aprender palabras.",
+          "Мне хорошо даётся запоминание слов."
+        ],
+        [
+          "No se me da muy bien cantar.",
+          "Я не очень хорошо пою."
+        ]
+      ],
+      "quiz": [
+        [
+          "У меня хорошо получается готовить.",
+          "Se me da bien cocinar."
+        ]
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Ayer yo ___ (tener) una reunión.",
+      "a": "tuve",
+      "topic": 10,
+      "why": "Pretérito Indefinido: yo tuve — законченное событие в прошлом."
+    },
+    {
+      "q": "Cuando vivía en Valencia, ___ (ir, yo) a clase cada mañana.",
+      "a": "iba",
+      "topic": 8,
+      "why": "Imperfecto для повторявшегося действия в прошлом."
+    },
+    {
+      "q": "Espero que tú ___ (venir) mañana.",
+      "a": "vengas",
+      "topic": 9,
+      "why": "После espero que для ожидаемого события используется presente de subjuntivo."
+    },
+    {
+      "q": "No ___ (hacer, tú) eso.",
+      "a": "hagas",
+      "topic": 9,
+      "why": "Отрицательное повелительное наклонение tú: no hagas."
+    },
+    {
+      "q": "Nosotros ___ (poder) hablar ayer.",
+      "a": "pudimos",
+      "topic": 10,
+      "why": "Indefinido: nosotros pudimos."
+    },
+    {
+      "q": "Mañana ___ (salir, yo) temprano.",
+      "a": "saldré",
+      "topic": 8,
+      "why": "Futuro simple: salir → saldr-."
+    },
+    {
+      "q": "Si tuviera tiempo, ___ (viajar, yo) más.",
+      "a": "viajaría",
+      "topic": 9,
+      "why": "Условная конструкция с imperfecto de subjuntivo + condicional."
+    },
+    {
+      "q": "¿___ un banco cerca de aquí?",
+      "a": "Hay",
+      "topic": 2,
+      "why": "Hay обозначает наличие чего-либо."
+    },
+    {
+      "q": "¿Dónde ___ la estación?",
+      "a": "está",
+      "topic": 2,
+      "why": "Estar используется для местоположения."
+    },
+    {
+      "q": "Me gustaría que me ___ (ayudar, usted).",
+      "a": "ayudara",
+      "topic": 9,
+      "why": "После gustaría que используется imperfecto de subjuntivo; ayudase тоже возможно.",
+      "alt": [
+        "ayudase"
+      ]
+    }
+  ],
+  "weeks": [
+    [
+      "Основа речи",
+      "Ser, estar, tener, знакомство и вопросы"
+    ],
+    [
+      "Повседневная жизнь",
+      "Presente, дом, покупки и распорядок"
+    ],
+    [
+      "Прошедшее I",
+      "Perfecto, indefinido и воспоминания"
+    ],
+    [
+      "Прошедшее II",
+      "Imperfecto, рассказ о Валенсии"
+    ],
+    [
+      "Местоимения",
+      "Lo, la, le, se, указательные"
+    ],
+    [
+      "Будущее и планы",
+      "Ir a, futuro, condicional"
+    ],
+    [
+      "Свободный рассказ",
+      "Связки, аргументы, описание опыта"
+    ],
+    [
+      "Subjuntivo I",
+      "Желания, советы, эмоции"
+    ],
+    [
+      "Subjuntivo II",
+      "Условные конструкции и гипотезы"
+    ],
+    [
+      "Аудирование B1",
+      "Реальные бытовые ситуации"
+    ],
+    [
+      "Разговор B1–B2",
+      "Сравнение мнений и расширенные ответы"
+    ],
+    [
+      "Итоговая практика",
+      "Диалог, пересказ, ошибки и контроль"
+    ]
+  ]
+}

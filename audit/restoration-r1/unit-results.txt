@@ -1,0 +1,15 @@
+test_all_supplied_artifacts_match_transfer_hashes (test_audit.EvidenceIntegrity.test_all_supplied_artifacts_match_transfer_hashes) ... ok
+test_candidate_data_are_identical_not_additive (test_audit.EvidenceIntegrity.test_candidate_data_are_identical_not_additive) ... ok
+test_frozen_sources_unchanged_since_first_git_commit (test_audit.EvidenceIntegrity.test_frozen_sources_unchanged_since_first_git_commit) ... ok
+test_reconstruction_preserves_exact_original_bytes (test_audit.EvidenceIntegrity.test_reconstruction_preserves_exact_original_bytes) ... ok
+test_build_is_deterministic_and_no_network_dependencies_added (test_build.RestorationBuildTests.test_build_is_deterministic_and_no_network_dependencies_added) ... ok
+test_every_source_field_and_image_is_preserved (test_build.RestorationBuildTests.test_every_source_field_and_image_is_preserved) ... ok
+test_extraction_refuses_to_overwrite_edited_sources (test_build.RestorationBuildTests.test_extraction_refuses_to_overwrite_edited_sources) ... ok
+test_roundtrip_and_corrupt_part_rejection_without_overwrite (test_transfer.TransferTests.test_roundtrip_and_corrupt_part_rejection_without_overwrite) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 3.237s
+
+OK
+INTERNAL build: .audit/tmpwyliykuu/a.html data unchanged; SHA-256 e090fb785cb6c99bab4ecf19d3e18b0cb86a47c1eff960ca52c06ae2731d642e
+INTERNAL build: .audit/tmpwyliykuu/b.html data unchanged; SHA-256 e090fb785cb6c99bab4ecf19d3e18b0cb86a47c1eff960ca52c06ae2731d642e

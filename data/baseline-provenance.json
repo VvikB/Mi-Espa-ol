@@ -1,0 +1,39 @@
+{
+  "source": "originals/starter/source_candidates/Mi_Espanol_LAST_TESTABLE.html",
+  "sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018",
+  "modules": [
+    {
+      "path": "src/core.js",
+      "baseline_sha256": "975d6523f60dd1afb000c18f7525eb0ecf9c6299e5e1fa4af50fb6c8b56b7cc7"
+    },
+    {
+      "path": "src/integration.js",
+      "baseline_sha256": "009fc072efbf06eebd3e49df50c039f9f9edec4748155b83ed81aca953101e85"
+    },
+    {
+      "path": "src/visual.js",
+      "baseline_sha256": "0f35665804fe65e659a243450fb53edc3b8ac197f4f5302d84d48605f7fe7e9a"
+    },
+    {
+      "path": "src/settings.js",
+      "baseline_sha256": "4c019223aa3d3a062bd6f4190fa9be6dc574006ecaf677cea868be4956539d9c"
+    },
+    {
+      "path": "src/reliability.js",
+      "baseline_sha256": "f22fdb8a49e685014522c835bbbc504b618a5343518c26ad114495eb16c1d382"
+    },
+    {
+      "path": "src/visual-extension.js",
+      "baseline_sha256": "90adc1fe2167ff9cd29aead62add2e7c61e01e6504c6553a5e935f944e723844"
+    },
+    {
+      "path": "src/visual-practice.js",
+      "baseline_sha256": "a536ee9c32a8fcd344904a050687392130efed6b7c034a934e95738f5ed705ca"
+    },
+    {
+      "path": "src/recall.js",
+      "baseline_sha256": "c15c2156456c6d4534d88b38a7750a27bc40bab5c776883a0fc718cd183d6ebc"
+    }
+  ],
+  "data_origin": "All core entries/images copied from baseline; no added educational content"
+}

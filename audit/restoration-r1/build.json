@@ -1,0 +1,56 @@
+{
+  "classification": "INTERNAL_REPAIR_BUILD_NOT_FINAL_RELEASE",
+  "baseline_sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018",
+  "artifact_sha256": "e090fb785cb6c99bab4ecf19d3e18b0cb86a47c1eff960ca52c06ae2731d642e",
+  "data_unchanged": true,
+  "data_sha256": "119eebc3ff7339f7f40add5fc3e9b467c0469344e58ceee018793c20f3c641b9",
+  "counts": {
+    "vocab": 131,
+    "quiz": 10,
+    "tables": 73,
+    "schemes": 8,
+    "images": 25
+  },
+  "modules": [
+    {
+      "path": "src/audio.js",
+      "sha256": "99e617b2aead6dc19a064d7f67241b6b713207e4724a2fe75514a92d491b260e"
+    },
+    {
+      "path": "src/core.js",
+      "sha256": "5ea0182168122ca58133ce3ac45e11811a93bb34f97aa0009c922ce72f5493ae"
+    },
+    {
+      "path": "src/integration.js",
+      "sha256": "c53fa01ccfb0e9c96f5aca840d8b1aa68991421f38d850806ca9c857f561e141"
+    },
+    {
+      "path": "src/visual.js",
+      "sha256": "db765f9cce71592084f9ceb69b547cf56d94388c6fab9b661e23e73c2fbecd5f"
+    },
+    {
+      "path": "src/settings.js",
+      "sha256": "70682002c8ef03c08c541142fd9c1afe7782e0ae7e7eab5ea50eaa363bc328ba"
+    },
+    {
+      "path": "src/reliability.js",
+      "sha256": "f22fdb8a49e685014522c835bbbc504b618a5343518c26ad114495eb16c1d382"
+    },
+    {
+      "path": "src/visual-extension.js",
+      "sha256": "2c441c1e737a9082b0dec33bd91eff837efa7ad397ef86cc90f3005f2c58d279"
+    },
+    {
+      "path": "src/visual-practice.js",
+      "sha256": "a536ee9c32a8fcd344904a050687392130efed6b7c034a934e95738f5ed705ca"
+    },
+    {
+      "path": "src/recall.js",
+      "sha256": "ca65531eb4daa8ef8411e93a54be1e9f060ffc561657badab2ce91709b16c508"
+    },
+    {
+      "path": "src/events.js",
+      "sha256": "eea6fe982da9b8bc97dbfc55bb1d7dd9776bfaa41fd1954b345aa49806feddbd"
+    }
+  ]
+}
