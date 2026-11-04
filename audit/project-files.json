@@ -11,13 +11,18 @@
   },
   {
     "path": "README.md",
-    "bytes": 1666,
-    "sha256": "60137285315da2cb141f0ebed10cd2bc6a38c328ce2f79a99771f8a51506fa04"
+    "bytes": 2301,
+    "sha256": "40bf7a3523db2bf9c82a6e3388d65162a9a0447f5916985178f53c7876eb77ad"
   },
   {
     "path": "audit/acceptance.json",
     "bytes": 2820,
     "sha256": "b9f10e10ed8b79c29b77e2f37511648aabcfb8075a955bf7cf20d281c039e7ea"
+  },
+  {
+    "path": "audit/baseline-decision.json",
+    "bytes": 1029,
+    "sha256": "b5ce87e1eb72cd9b3009de1159517018791f5959af7615cbe7a5c9cbc4cca757"
   },
   {
     "path": "audit/browser-results.json",
@@ -58,6 +63,11 @@
     "path": "audit/requirements.json",
     "bytes": 13746,
     "sha256": "2fece9ef456633e0c79ca2bcee2addef6d8fff8d221b682297936f1cf11cc84b"
+  },
+  {
+    "path": "audit/reuploaded-verification.json",
+    "bytes": 1190,
+    "sha256": "d0e69f142f38df1ee092ab6e62161513d61e03540f5fbebb777f7433f21ba94c"
   },
   {
     "path": "audit/runtime-code/Mi_Espanol_LAST_TESTABLE/runtime.js",
@@ -141,13 +151,13 @@
   },
   {
     "path": "docs/G0_AUDIT.md",
-    "bytes": 23230,
-    "sha256": "c3a736908854667ccd6db2e76bc4bdba77917684249580ce215610414628da39"
+    "bytes": 26753,
+    "sha256": "5ad310301668f26f902f2af980d4acc5c6bb4c4b6165bdf5ff4f3a8702db558a"
   },
   {
     "path": "docs/RECOVERY_PLAN.md",
-    "bytes": 6030,
-    "sha256": "0e9528a7c1d96877220d16a9ffffab191b47a68bb8b29ba2e688e5b4fff9dabc"
+    "bytes": 9553,
+    "sha256": "934c439e8cc22bf638e6911515226c9b5a213cbce8463b52b04799a996f214f5"
   },
   {
     "path": "docs/REQUIREMENTS_MATRIX.md",
@@ -156,8 +166,8 @@
   },
   {
     "path": "docs/TRANSFER.md",
-    "bytes": 3889,
-    "sha256": "9e15e76fea43b8227fd34872c44ad461a420437e16456573ec5ff47496eb693b"
+    "bytes": 4229,
+    "sha256": "b550722c8a59e591f0cfb393a744d06b3fea1e89f6140de427e50c5861e8017d"
   },
   {
     "path": "experimental/pre-audit-draft/README.md",

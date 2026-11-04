@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-05",
+  "basis": "User confirms only two HTML candidates and CEFR addendum remain; all reuploads byte-identical to preserved copies.",
+  "source": "originals/starter/source_candidates/Mi_Espanol_LAST_TESTABLE.html",
+  "sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018",
+  "status": "SELECTED_FOR_SEPARATE_REPAIR_COPY_NOT_RELEASE_NOT_AUTHENTICATED_STAGE11",
+  "reason": "Identical DB to Recovery; additional six-scene visual practice, backup v2 and active recall. Known defects retained as evidence.",
+  "comparison_source": "originals/starter/source_candidates/Mi_Espanol_Recovery_Contrast_Audio(1).html",
+  "no_loss_counts": {
+    "vocab": 131,
+    "quiz": 10,
+    "tables": 73,
+    "schemes": 8,
+    "images": 25,
+    "scenes": 6
+  },
+  "historical_stages_1_to_11_restored": false,
+  "waiting_for_other_candidates_required": false,
+  "next_step": "Modular repair copy, fix D01/D02 then mapping, queue and backups, preserving immutable originals and auditing all content hashes."
+}

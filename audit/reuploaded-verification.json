@@ -1,0 +1,27 @@
+{
+  "user_statement": "User confirms only these three source files remain available; other materials were lost in the previous chat.",
+  "classification": "USER_REPORTED_UNAVAILABLE_NOT_INDEPENDENT_PROOF_OF_PERMANENT_DELETION",
+  "files": [
+    {
+      "uploaded_name": "Mi_Espanol_CEFR_A1_B2_Architecture_Addendum.md",
+      "bytes": 3901,
+      "sha256": "049b21021f03d4212a882e8ea802f23f961b5b56e0ae2e8d147810a0aeddf745",
+      "canonical_copy": "originals/starter/docs/Mi_Espanol_CEFR_A1_B2_Architecture_Addendum(2)(1).md",
+      "byte_identical": true
+    },
+    {
+      "uploaded_name": "Mi_Espanol_LAST_TESTABLE.html",
+      "bytes": 9894397,
+      "sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018",
+      "canonical_copy": "originals/starter/source_candidates/Mi_Espanol_LAST_TESTABLE.html",
+      "byte_identical": true
+    },
+    {
+      "uploaded_name": "Mi_Espanol_Recovery_Contrast_Audio.html",
+      "bytes": 9868381,
+      "sha256": "54cb7d8ed3ff97c1f90a385ee9cf552e936fb028dafea08613541ba86e0e543a",
+      "canonical_copy": "originals/starter/source_candidates/Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "byte_identical": true
+    }
+  ]
+}
