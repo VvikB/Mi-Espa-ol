@@ -1,0 +1,10 @@
+{
+  "classification": "PERSONAL_PILOT_R3_NOT_FINAL_RELEASE",
+  "artifact_sha256": "d5980f6d480abcc7a586c2c51cc1406ac144069eb1e8c3a988635b053e6f7c89",
+  "zip_sha256": "914a55405ebe06dc9f190a9e2d2c9f92d2e63a14348274c189de140dd5a76564",
+  "zip_bytes": 7476295,
+  "html_bytes": 10031358,
+  "archive_integrity": "PASS",
+  "physical_iPhone_R3": "RECHECK_REQUIRED",
+  "new_full_A1_B2_course": false
+}

@@ -1,8 +1,8 @@
 {
   "date": "2026-11-05",
-  "current_package": "R2",
-  "status": "IMPLEMENTED_AND_TESTED_IN_CURRENT_ENVIRONMENT_NOT_FINAL_RELEASE",
-  "artifact_sha256": "beed3e9287fa93e516425a60be804f383796badba297de670180e95c700347c0",
+  "current_package": "R3",
+  "status": "R3_TECHNICAL_LEARNING_ENGINE_TESTED_FULL_COURSE_UNACCEPTED",
+  "artifact_sha256": "d5980f6d480abcc7a586c2c51cc1406ac144069eb1e8c3a988635b053e6f7c89",
   "baseline_data_unchanged": true,
   "historical_stages_1_to_11_restored": false,
   "historical_15_stage_remainder_not_used_as_current_estimate": true,
@@ -18,18 +18,20 @@
   "remaining_gate_count": 6,
   "completion_percentage": null,
   "tests": {
-    "ui_backup": {
+    "new_ui": {
+      "PASS": 184
+    },
+    "backup_ui": {
       "PASS": 26
     },
-    "fixed_function_regression": {
+    "regression_ui": {
       "PASS": 260
     },
     "storage_unit": {
-      "PASS": 21,
-      "FAIL": 0
+      "PASS": 25
     },
     "technical_unit": {
-      "PASS": 8
+      "PASS": 11
     }
   },
   "defects_addressed_in_tested_scope": [
@@ -42,15 +44,14 @@
     "D09"
   ],
   "known_mapping_defects_open": [
-    "D03",
-    "D04"
+    "Exact source-page mapping remains UNVERIFIED; silent wrong fallback removed"
   ],
-  "next_package": "R3: route/exercise/source mapping, stable ID provenance, then transcription and missing course",
-  "physical_iPhone": "NOT_TESTED",
+  "next_package": "Broader diagnostic recommendations, review/progress integration, original viewer and remaining APP technical criteria",
+  "physical_iPhone": "R2_PARTIALLY_CONFIRMED_BY_USER_R3_RECHECK_PENDING",
   "device": {
     "model": "iPhone 13 Pro Max",
     "iOS_version": null,
-    "physical_testing": "NOT_TESTED"
+    "physical_testing": "R2_LAUNCH_AND_DICTIONARY_AUDIO_CONFIRMED_PARTIALLY; R3_PENDING"
   },
   "delivery_plan": {
     "target_sprint": [
@@ -58,8 +59,14 @@
       "2026-11-07"
     ],
     "scope": "Technical specification pass first; content completeness separately tracked, no blanket completion guarantee.",
-    "download": "downloads/Mi_Espanol_Pilot_R2.zip",
+    "download": "downloads/Mi_Espanol_Pilot_R3.zip",
     "week_plan_superseded": true
   },
-  "reported_delivery_issue": "Download from chat fails; runtime hang not established"
+  "reported_delivery_issue": "Download from chat fails; runtime hang not established",
+  "technical_counts": {
+    "catalog_ids": 261,
+    "routes": 12,
+    "day_plans": 84,
+    "scheme_exercises": 14
+  }
 }

@@ -1,0 +1,18 @@
+test_all_supplied_artifacts_match_transfer_hashes (test_audit.EvidenceIntegrity.test_all_supplied_artifacts_match_transfer_hashes) ... ok
+test_candidate_data_are_identical_not_additive (test_audit.EvidenceIntegrity.test_candidate_data_are_identical_not_additive) ... ok
+test_frozen_sources_unchanged_since_first_git_commit (test_audit.EvidenceIntegrity.test_frozen_sources_unchanged_since_first_git_commit) ... ok
+test_reconstruction_preserves_exact_original_bytes (test_audit.EvidenceIntegrity.test_reconstruction_preserves_exact_original_bytes) ... ok
+test_build_is_deterministic_and_no_network_dependencies_added (test_build.RestorationBuildTests.test_build_is_deterministic_and_no_network_dependencies_added) ... ok
+test_every_source_field_and_image_is_preserved (test_build.RestorationBuildTests.test_every_source_field_and_image_is_preserved) ... ok
+test_extraction_refuses_to_overwrite_edited_sources (test_build.RestorationBuildTests.test_extraction_refuses_to_overwrite_edited_sources) ... ok
+test_84_plans_have_explicit_source_refs_and_gaps (test_catalog.CatalogTests.test_84_plans_have_explicit_source_refs_and_gaps) ... ok
+test_all_catalog_sources_match_and_ids_are_unique (test_catalog.CatalogTests.test_all_catalog_sources_match_and_ids_are_unique) ... ok
+test_recovered_scheme_tasks_are_separate_from_main_quiz (test_catalog.CatalogTests.test_recovered_scheme_tasks_are_separate_from_main_quiz) ... ok
+test_roundtrip_and_corrupt_part_rejection_without_overwrite (test_transfer.TransferTests.test_roundtrip_and_corrupt_part_rejection_without_overwrite) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 3.833s
+
+OK
+INTERNAL build: .audit/tmpvb3_p56k/a.html data unchanged; SHA-256 d5980f6d480abcc7a586c2c51cc1406ac144069eb1e8c3a988635b053e6f7c89
+INTERNAL build: .audit/tmpvb3_p56k/b.html data unchanged; SHA-256 d5980f6d480abcc7a586c2c51cc1406ac144069eb1e8c3a988635b053e6f7c89

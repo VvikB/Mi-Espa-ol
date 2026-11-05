@@ -14,6 +14,8 @@ function handleFormAction(task, action) {
   verifyTableCell(task.dataset.cellId, task.dataset.expected, input);
 }
 document.addEventListener('click', event => {
+  const visual = event.target.closest('[data-visual-word]');
+  if(visual){chooseVisual(visual.dataset.visualWord);return;}
   const audio = event.target.closest('[data-speech]');
   if (audio) { speak(audio.dataset.speech); return; }
   const control = event.target.closest('[data-form-action]');

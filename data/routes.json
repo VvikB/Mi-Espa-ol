@@ -1,0 +1,1686 @@
+{
+  "schema": 1,
+  "classification": "New technical mapping, not recovered historical lessons",
+  "routes": [
+    {
+      "id": "week-01",
+      "week": 1,
+      "title": "Основа речи",
+      "level": "A1",
+      "goal": "Представиться и описать своё состояние",
+      "tableIds": [
+        "table-681e4fcbe1d2492f",
+        "table-51ad69d1b0694d04"
+      ],
+      "schemeIds": [
+        "scheme-ecd4457dac3a679e",
+        "scheme-a337267454817add",
+        "scheme-c4c276abb93507f8"
+      ],
+      "exerciseIds": [
+        "exercise-f916542a683bc97d"
+      ],
+      "contentGaps": [
+        "Полный тематический диалог ещё не написан"
+      ],
+      "source": "MASTER_SPECIFICATION_v3_A5; newly authored mapping of preserved materials",
+      "dayPlans": [
+        {
+          "id": "week-01-day-1",
+          "day": 1,
+          "goal": "Разобраться: Представиться и описать своё состояние",
+          "focus": "Разобраться",
+          "tableIds": [
+            "table-681e4fcbe1d2492f"
+          ],
+          "schemeIds": [
+            "scheme-ecd4457dac3a679e",
+            "scheme-a337267454817add",
+            "scheme-c4c276abb93507f8"
+          ],
+          "exerciseIds": [
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-01-day-2",
+          "day": 2,
+          "goal": "Вспомнить: Представиться и описать своё состояние",
+          "focus": "Вспомнить",
+          "tableIds": [
+            "table-51ad69d1b0694d04"
+          ],
+          "schemeIds": [
+            "scheme-ecd4457dac3a679e",
+            "scheme-a337267454817add",
+            "scheme-c4c276abb93507f8"
+          ],
+          "exerciseIds": [
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-01-day-3",
+          "day": 3,
+          "goal": "Прочитать: Представиться и описать своё состояние",
+          "focus": "Прочитать",
+          "tableIds": [
+            "table-681e4fcbe1d2492f"
+          ],
+          "schemeIds": [
+            "scheme-ecd4457dac3a679e",
+            "scheme-a337267454817add",
+            "scheme-c4c276abb93507f8"
+          ],
+          "exerciseIds": [
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-01-day-4",
+          "day": 4,
+          "goal": "Услышать: Представиться и описать своё состояние",
+          "focus": "Услышать",
+          "tableIds": [
+            "table-51ad69d1b0694d04"
+          ],
+          "schemeIds": [
+            "scheme-ecd4457dac3a679e",
+            "scheme-a337267454817add",
+            "scheme-c4c276abb93507f8"
+          ],
+          "exerciseIds": [
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-01-day-5",
+          "day": 5,
+          "goal": "Ответить: Представиться и описать своё состояние",
+          "focus": "Ответить",
+          "tableIds": [
+            "table-681e4fcbe1d2492f"
+          ],
+          "schemeIds": [
+            "scheme-ecd4457dac3a679e",
+            "scheme-a337267454817add",
+            "scheme-c4c276abb93507f8"
+          ],
+          "exerciseIds": [
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-01-day-6",
+          "day": 6,
+          "goal": "Повторить: Представиться и описать своё состояние",
+          "focus": "Повторить",
+          "tableIds": [
+            "table-51ad69d1b0694d04"
+          ],
+          "schemeIds": [
+            "scheme-ecd4457dac3a679e",
+            "scheme-a337267454817add",
+            "scheme-c4c276abb93507f8"
+          ],
+          "exerciseIds": [
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-01-day-7",
+          "day": 7,
+          "goal": "Проверить перенос: Представиться и описать своё состояние",
+          "focus": "Проверить перенос",
+          "tableIds": [
+            "table-681e4fcbe1d2492f"
+          ],
+          "schemeIds": [
+            "scheme-ecd4457dac3a679e",
+            "scheme-a337267454817add",
+            "scheme-c4c276abb93507f8"
+          ],
+          "exerciseIds": [
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        }
+      ]
+    },
+    {
+      "id": "week-02",
+      "week": 2,
+      "title": "Город и вопросы",
+      "level": "A1",
+      "goal": "Спросить дорогу, назвать время и уточнить ответ",
+      "tableIds": [
+        "table-cb9fcef0675f4162",
+        "table-fd5ca5539b89fc3f",
+        "table-726ad99f232770da"
+      ],
+      "schemeIds": [
+        "scheme-3d07fd24598470f7",
+        "scheme-a3f5b1e525f2f00f",
+        "scheme-c7f9ae704bb82084"
+      ],
+      "exerciseIds": [
+        "exercise-be1442af8efd3577",
+        "exercise-f916542a683bc97d"
+      ],
+      "contentGaps": [
+        "Полный урок по числам и времени ещё не написан"
+      ],
+      "source": "MASTER_SPECIFICATION_v3_A5; newly authored mapping of preserved materials",
+      "dayPlans": [
+        {
+          "id": "week-02-day-1",
+          "day": 1,
+          "goal": "Разобраться: Спросить дорогу, назвать время и уточнить ответ",
+          "focus": "Разобраться",
+          "tableIds": [
+            "table-cb9fcef0675f4162"
+          ],
+          "schemeIds": [
+            "scheme-3d07fd24598470f7",
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-02-day-2",
+          "day": 2,
+          "goal": "Вспомнить: Спросить дорогу, назвать время и уточнить ответ",
+          "focus": "Вспомнить",
+          "tableIds": [
+            "table-fd5ca5539b89fc3f"
+          ],
+          "schemeIds": [
+            "scheme-3d07fd24598470f7",
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-02-day-3",
+          "day": 3,
+          "goal": "Прочитать: Спросить дорогу, назвать время и уточнить ответ",
+          "focus": "Прочитать",
+          "tableIds": [
+            "table-726ad99f232770da"
+          ],
+          "schemeIds": [
+            "scheme-3d07fd24598470f7",
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-02-day-4",
+          "day": 4,
+          "goal": "Услышать: Спросить дорогу, назвать время и уточнить ответ",
+          "focus": "Услышать",
+          "tableIds": [
+            "table-cb9fcef0675f4162"
+          ],
+          "schemeIds": [
+            "scheme-3d07fd24598470f7",
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-02-day-5",
+          "day": 5,
+          "goal": "Ответить: Спросить дорогу, назвать время и уточнить ответ",
+          "focus": "Ответить",
+          "tableIds": [
+            "table-fd5ca5539b89fc3f"
+          ],
+          "schemeIds": [
+            "scheme-3d07fd24598470f7",
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-02-day-6",
+          "day": 6,
+          "goal": "Повторить: Спросить дорогу, назвать время и уточнить ответ",
+          "focus": "Повторить",
+          "tableIds": [
+            "table-726ad99f232770da"
+          ],
+          "schemeIds": [
+            "scheme-3d07fd24598470f7",
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-02-day-7",
+          "day": 7,
+          "goal": "Проверить перенос: Спросить дорогу, назвать время и уточнить ответ",
+          "focus": "Проверить перенос",
+          "tableIds": [
+            "table-cb9fcef0675f4162"
+          ],
+          "schemeIds": [
+            "scheme-3d07fd24598470f7",
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        }
+      ]
+    },
+    {
+      "id": "week-03",
+      "week": 3,
+      "title": "Мой обычный день",
+      "level": "A1–A2",
+      "goal": "Описать распорядок и привычные действия",
+      "tableIds": [
+        "table-9386ddff9a20a22d",
+        "table-a27f25b9ce85d415"
+      ],
+      "schemeIds": [],
+      "exerciseIds": [],
+      "contentGaps": [
+        "Нет связного текста и диалога о распорядке"
+      ],
+      "source": "MASTER_SPECIFICATION_v3_A5; newly authored mapping of preserved materials",
+      "dayPlans": [
+        {
+          "id": "week-03-day-1",
+          "day": 1,
+          "goal": "Разобраться: Описать распорядок и привычные действия",
+          "focus": "Разобраться",
+          "tableIds": [
+            "table-9386ddff9a20a22d"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-03-day-2",
+          "day": 2,
+          "goal": "Вспомнить: Описать распорядок и привычные действия",
+          "focus": "Вспомнить",
+          "tableIds": [
+            "table-a27f25b9ce85d415"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-03-day-3",
+          "day": 3,
+          "goal": "Прочитать: Описать распорядок и привычные действия",
+          "focus": "Прочитать",
+          "tableIds": [
+            "table-9386ddff9a20a22d"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-03-day-4",
+          "day": 4,
+          "goal": "Услышать: Описать распорядок и привычные действия",
+          "focus": "Услышать",
+          "tableIds": [
+            "table-a27f25b9ce85d415"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-03-day-5",
+          "day": 5,
+          "goal": "Ответить: Описать распорядок и привычные действия",
+          "focus": "Ответить",
+          "tableIds": [
+            "table-9386ddff9a20a22d"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-03-day-6",
+          "day": 6,
+          "goal": "Повторить: Описать распорядок и привычные действия",
+          "focus": "Повторить",
+          "tableIds": [
+            "table-a27f25b9ce85d415"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-03-day-7",
+          "day": 7,
+          "goal": "Проверить перенос: Описать распорядок и привычные действия",
+          "focus": "Проверить перенос",
+          "tableIds": [
+            "table-9386ddff9a20a22d"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        }
+      ]
+    },
+    {
+      "id": "week-04",
+      "week": 4,
+      "title": "Дом и предпочтения",
+      "level": "A2",
+      "goal": "Описать комнату и свои предпочтения",
+      "tableIds": [
+        "table-754575b2644b8c7e",
+        "table-95b95f4f869c718b"
+      ],
+      "schemeIds": [
+        "scheme-c7f9ae704bb82084"
+      ],
+      "exerciseIds": [
+        "exercise-be1442af8efd3577",
+        "exercise-f916542a683bc97d"
+      ],
+      "contentGaps": [
+        "Цифровой блок gustar ещё не готов"
+      ],
+      "source": "MASTER_SPECIFICATION_v3_A5; newly authored mapping of preserved materials",
+      "dayPlans": [
+        {
+          "id": "week-04-day-1",
+          "day": 1,
+          "goal": "Разобраться: Описать комнату и свои предпочтения",
+          "focus": "Разобраться",
+          "tableIds": [
+            "table-754575b2644b8c7e"
+          ],
+          "schemeIds": [
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-04-day-2",
+          "day": 2,
+          "goal": "Вспомнить: Описать комнату и свои предпочтения",
+          "focus": "Вспомнить",
+          "tableIds": [
+            "table-95b95f4f869c718b"
+          ],
+          "schemeIds": [
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-04-day-3",
+          "day": 3,
+          "goal": "Прочитать: Описать комнату и свои предпочтения",
+          "focus": "Прочитать",
+          "tableIds": [
+            "table-754575b2644b8c7e"
+          ],
+          "schemeIds": [
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-04-day-4",
+          "day": 4,
+          "goal": "Услышать: Описать комнату и свои предпочтения",
+          "focus": "Услышать",
+          "tableIds": [
+            "table-95b95f4f869c718b"
+          ],
+          "schemeIds": [
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-04-day-5",
+          "day": 5,
+          "goal": "Ответить: Описать комнату и свои предпочтения",
+          "focus": "Ответить",
+          "tableIds": [
+            "table-754575b2644b8c7e"
+          ],
+          "schemeIds": [
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-04-day-6",
+          "day": 6,
+          "goal": "Повторить: Описать комнату и свои предпочтения",
+          "focus": "Повторить",
+          "tableIds": [
+            "table-95b95f4f869c718b"
+          ],
+          "schemeIds": [
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-04-day-7",
+          "day": 7,
+          "goal": "Проверить перенос: Описать комнату и свои предпочтения",
+          "focus": "Проверить перенос",
+          "tableIds": [
+            "table-754575b2644b8c7e"
+          ],
+          "schemeIds": [
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        }
+      ]
+    },
+    {
+      "id": "week-05",
+      "week": 5,
+      "title": "Что произошло",
+      "level": "A2",
+      "goal": "Рассказать о завершённом событии",
+      "tableIds": [
+        "table-1236bb384b57a26a",
+        "table-474c9e518ab2eaf1",
+        "table-d715479b1dfbd09f"
+      ],
+      "schemeIds": [],
+      "exerciseIds": [
+        "exercise-159c9430c9dcff75",
+        "exercise-fc376e4f71756290"
+      ],
+      "contentGaps": [
+        "Нет связного тематического чтения/аудирования"
+      ],
+      "source": "MASTER_SPECIFICATION_v3_A5; newly authored mapping of preserved materials",
+      "dayPlans": [
+        {
+          "id": "week-05-day-1",
+          "day": 1,
+          "goal": "Разобраться: Рассказать о завершённом событии",
+          "focus": "Разобраться",
+          "tableIds": [
+            "table-1236bb384b57a26a"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-159c9430c9dcff75",
+            "exercise-fc376e4f71756290"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-05-day-2",
+          "day": 2,
+          "goal": "Вспомнить: Рассказать о завершённом событии",
+          "focus": "Вспомнить",
+          "tableIds": [
+            "table-474c9e518ab2eaf1"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-159c9430c9dcff75",
+            "exercise-fc376e4f71756290"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-05-day-3",
+          "day": 3,
+          "goal": "Прочитать: Рассказать о завершённом событии",
+          "focus": "Прочитать",
+          "tableIds": [
+            "table-d715479b1dfbd09f"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-159c9430c9dcff75",
+            "exercise-fc376e4f71756290"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-05-day-4",
+          "day": 4,
+          "goal": "Услышать: Рассказать о завершённом событии",
+          "focus": "Услышать",
+          "tableIds": [
+            "table-1236bb384b57a26a"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-159c9430c9dcff75",
+            "exercise-fc376e4f71756290"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-05-day-5",
+          "day": 5,
+          "goal": "Ответить: Рассказать о завершённом событии",
+          "focus": "Ответить",
+          "tableIds": [
+            "table-474c9e518ab2eaf1"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-159c9430c9dcff75",
+            "exercise-fc376e4f71756290"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-05-day-6",
+          "day": 6,
+          "goal": "Повторить: Рассказать о завершённом событии",
+          "focus": "Повторить",
+          "tableIds": [
+            "table-d715479b1dfbd09f"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-159c9430c9dcff75",
+            "exercise-fc376e4f71756290"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-05-day-7",
+          "day": 7,
+          "goal": "Проверить перенос: Рассказать о завершённом событии",
+          "focus": "Проверить перенос",
+          "tableIds": [
+            "table-1236bb384b57a26a"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-159c9430c9dcff75",
+            "exercise-fc376e4f71756290"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        }
+      ]
+    },
+    {
+      "id": "week-06",
+      "week": 6,
+      "title": "История с контекстом",
+      "level": "A2–B1",
+      "goal": "Отделить фон воспоминания от события",
+      "tableIds": [
+        "table-b186bba78eccbe9a",
+        "table-4da080271482a386"
+      ],
+      "schemeIds": [],
+      "exerciseIds": [
+        "exercise-c5cf020a41155f39"
+      ],
+      "contentGaps": [
+        "Нет полного текста для пересказа"
+      ],
+      "source": "MASTER_SPECIFICATION_v3_A5; newly authored mapping of preserved materials",
+      "dayPlans": [
+        {
+          "id": "week-06-day-1",
+          "day": 1,
+          "goal": "Разобраться: Отделить фон воспоминания от события",
+          "focus": "Разобраться",
+          "tableIds": [
+            "table-b186bba78eccbe9a"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-c5cf020a41155f39"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-06-day-2",
+          "day": 2,
+          "goal": "Вспомнить: Отделить фон воспоминания от события",
+          "focus": "Вспомнить",
+          "tableIds": [
+            "table-4da080271482a386"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-c5cf020a41155f39"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-06-day-3",
+          "day": 3,
+          "goal": "Прочитать: Отделить фон воспоминания от события",
+          "focus": "Прочитать",
+          "tableIds": [
+            "table-b186bba78eccbe9a"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-c5cf020a41155f39"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-06-day-4",
+          "day": 4,
+          "goal": "Услышать: Отделить фон воспоминания от события",
+          "focus": "Услышать",
+          "tableIds": [
+            "table-4da080271482a386"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-c5cf020a41155f39"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-06-day-5",
+          "day": 5,
+          "goal": "Ответить: Отделить фон воспоминания от события",
+          "focus": "Ответить",
+          "tableIds": [
+            "table-b186bba78eccbe9a"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-c5cf020a41155f39"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-06-day-6",
+          "day": 6,
+          "goal": "Повторить: Отделить фон воспоминания от события",
+          "focus": "Повторить",
+          "tableIds": [
+            "table-4da080271482a386"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-c5cf020a41155f39"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-06-day-7",
+          "day": 7,
+          "goal": "Проверить перенос: Отделить фон воспоминания от события",
+          "focus": "Проверить перенос",
+          "tableIds": [
+            "table-b186bba78eccbe9a"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-c5cf020a41155f39"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        }
+      ]
+    },
+    {
+      "id": "week-07",
+      "week": 7,
+      "title": "Планы и поездки",
+      "level": "B1",
+      "goal": "Обсудить намерение и план поездки",
+      "tableIds": [
+        "table-50f40214045fc0ed"
+      ],
+      "schemeIds": [
+        "scheme-3d07fd24598470f7"
+      ],
+      "exerciseIds": [
+        "exercise-4418d26350f7e375"
+      ],
+      "contentGaps": [
+        "Нет полноценного диалога о поездке"
+      ],
+      "source": "MASTER_SPECIFICATION_v3_A5; newly authored mapping of preserved materials",
+      "dayPlans": [
+        {
+          "id": "week-07-day-1",
+          "day": 1,
+          "goal": "Разобраться: Обсудить намерение и план поездки",
+          "focus": "Разобраться",
+          "tableIds": [
+            "table-50f40214045fc0ed"
+          ],
+          "schemeIds": [
+            "scheme-3d07fd24598470f7"
+          ],
+          "exerciseIds": [
+            "exercise-4418d26350f7e375"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-07-day-2",
+          "day": 2,
+          "goal": "Вспомнить: Обсудить намерение и план поездки",
+          "focus": "Вспомнить",
+          "tableIds": [
+            "table-50f40214045fc0ed"
+          ],
+          "schemeIds": [
+            "scheme-3d07fd24598470f7"
+          ],
+          "exerciseIds": [
+            "exercise-4418d26350f7e375"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-07-day-3",
+          "day": 3,
+          "goal": "Прочитать: Обсудить намерение и план поездки",
+          "focus": "Прочитать",
+          "tableIds": [
+            "table-50f40214045fc0ed"
+          ],
+          "schemeIds": [
+            "scheme-3d07fd24598470f7"
+          ],
+          "exerciseIds": [
+            "exercise-4418d26350f7e375"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-07-day-4",
+          "day": 4,
+          "goal": "Услышать: Обсудить намерение и план поездки",
+          "focus": "Услышать",
+          "tableIds": [
+            "table-50f40214045fc0ed"
+          ],
+          "schemeIds": [
+            "scheme-3d07fd24598470f7"
+          ],
+          "exerciseIds": [
+            "exercise-4418d26350f7e375"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-07-day-5",
+          "day": 5,
+          "goal": "Ответить: Обсудить намерение и план поездки",
+          "focus": "Ответить",
+          "tableIds": [
+            "table-50f40214045fc0ed"
+          ],
+          "schemeIds": [
+            "scheme-3d07fd24598470f7"
+          ],
+          "exerciseIds": [
+            "exercise-4418d26350f7e375"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-07-day-6",
+          "day": 6,
+          "goal": "Повторить: Обсудить намерение и план поездки",
+          "focus": "Повторить",
+          "tableIds": [
+            "table-50f40214045fc0ed"
+          ],
+          "schemeIds": [
+            "scheme-3d07fd24598470f7"
+          ],
+          "exerciseIds": [
+            "exercise-4418d26350f7e375"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-07-day-7",
+          "day": 7,
+          "goal": "Проверить перенос: Обсудить намерение и план поездки",
+          "focus": "Проверить перенос",
+          "tableIds": [
+            "table-50f40214045fc0ed"
+          ],
+          "schemeIds": [
+            "scheme-3d07fd24598470f7"
+          ],
+          "exerciseIds": [
+            "exercise-4418d26350f7e375"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        }
+      ]
+    },
+    {
+      "id": "week-08",
+      "week": 8,
+      "title": "Просьбы и советы",
+      "level": "B1",
+      "goal": "Вежливо попросить и предложить решение",
+      "tableIds": [
+        "table-98d82e724fa53839",
+        "table-9c64665d354435b9",
+        "table-e3c138e0d81d2021"
+      ],
+      "schemeIds": [],
+      "exerciseIds": [],
+      "contentGaps": [
+        "Нет тематического диалога и письменных заданий"
+      ],
+      "source": "MASTER_SPECIFICATION_v3_A5; newly authored mapping of preserved materials",
+      "dayPlans": [
+        {
+          "id": "week-08-day-1",
+          "day": 1,
+          "goal": "Разобраться: Вежливо попросить и предложить решение",
+          "focus": "Разобраться",
+          "tableIds": [
+            "table-98d82e724fa53839"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-08-day-2",
+          "day": 2,
+          "goal": "Вспомнить: Вежливо попросить и предложить решение",
+          "focus": "Вспомнить",
+          "tableIds": [
+            "table-9c64665d354435b9"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-08-day-3",
+          "day": 3,
+          "goal": "Прочитать: Вежливо попросить и предложить решение",
+          "focus": "Прочитать",
+          "tableIds": [
+            "table-e3c138e0d81d2021"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-08-day-4",
+          "day": 4,
+          "goal": "Услышать: Вежливо попросить и предложить решение",
+          "focus": "Услышать",
+          "tableIds": [
+            "table-98d82e724fa53839"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-08-day-5",
+          "day": 5,
+          "goal": "Ответить: Вежливо попросить и предложить решение",
+          "focus": "Ответить",
+          "tableIds": [
+            "table-9c64665d354435b9"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-08-day-6",
+          "day": 6,
+          "goal": "Повторить: Вежливо попросить и предложить решение",
+          "focus": "Повторить",
+          "tableIds": [
+            "table-e3c138e0d81d2021"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-08-day-7",
+          "day": 7,
+          "goal": "Проверить перенос: Вежливо попросить и предложить решение",
+          "focus": "Проверить перенос",
+          "tableIds": [
+            "table-98d82e724fa53839"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        }
+      ]
+    },
+    {
+      "id": "week-09",
+      "week": 9,
+      "title": "Желания и сомнения",
+      "level": "B1",
+      "goal": "Выразить желание и дать совет",
+      "tableIds": [
+        "table-a656e74e002e4010",
+        "table-eb315d89ba104c6a",
+        "table-45d4a7ea162e9bb6"
+      ],
+      "schemeIds": [],
+      "exerciseIds": [
+        "exercise-5120674013b9c1ae",
+        "exercise-679eaaf6a9159817"
+      ],
+      "contentGaps": [
+        "Нет полноценного тематического текста"
+      ],
+      "source": "MASTER_SPECIFICATION_v3_A5; newly authored mapping of preserved materials",
+      "dayPlans": [
+        {
+          "id": "week-09-day-1",
+          "day": 1,
+          "goal": "Разобраться: Выразить желание и дать совет",
+          "focus": "Разобраться",
+          "tableIds": [
+            "table-a656e74e002e4010"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-5120674013b9c1ae",
+            "exercise-679eaaf6a9159817"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-09-day-2",
+          "day": 2,
+          "goal": "Вспомнить: Выразить желание и дать совет",
+          "focus": "Вспомнить",
+          "tableIds": [
+            "table-eb315d89ba104c6a"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-5120674013b9c1ae",
+            "exercise-679eaaf6a9159817"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-09-day-3",
+          "day": 3,
+          "goal": "Прочитать: Выразить желание и дать совет",
+          "focus": "Прочитать",
+          "tableIds": [
+            "table-45d4a7ea162e9bb6"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-5120674013b9c1ae",
+            "exercise-679eaaf6a9159817"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-09-day-4",
+          "day": 4,
+          "goal": "Услышать: Выразить желание и дать совет",
+          "focus": "Услышать",
+          "tableIds": [
+            "table-a656e74e002e4010"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-5120674013b9c1ae",
+            "exercise-679eaaf6a9159817"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-09-day-5",
+          "day": 5,
+          "goal": "Ответить: Выразить желание и дать совет",
+          "focus": "Ответить",
+          "tableIds": [
+            "table-eb315d89ba104c6a"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-5120674013b9c1ae",
+            "exercise-679eaaf6a9159817"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-09-day-6",
+          "day": 6,
+          "goal": "Повторить: Выразить желание и дать совет",
+          "focus": "Повторить",
+          "tableIds": [
+            "table-45d4a7ea162e9bb6"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-5120674013b9c1ae",
+            "exercise-679eaaf6a9159817"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-09-day-7",
+          "day": 7,
+          "goal": "Проверить перенос: Выразить желание и дать совет",
+          "focus": "Проверить перенос",
+          "tableIds": [
+            "table-a656e74e002e4010"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-5120674013b9c1ae",
+            "exercise-679eaaf6a9159817"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        }
+      ]
+    },
+    {
+      "id": "week-10",
+      "week": 10,
+      "title": "Позиция и аргументы",
+      "level": "B1–B2",
+      "goal": "Объяснить мнение и связать доводы",
+      "tableIds": [
+        "table-e5a16e9403031c02",
+        "table-7f1693ff000479bd",
+        "table-186d5b39e0ddc83e"
+      ],
+      "schemeIds": [],
+      "exerciseIds": [
+        "exercise-6432f4a0cb2f35da",
+        "exercise-051bc4684550a4ad"
+      ],
+      "contentGaps": [
+        "Аргументация и связки требуют нового содержания"
+      ],
+      "source": "MASTER_SPECIFICATION_v3_A5; newly authored mapping of preserved materials",
+      "dayPlans": [
+        {
+          "id": "week-10-day-1",
+          "day": 1,
+          "goal": "Разобраться: Объяснить мнение и связать доводы",
+          "focus": "Разобраться",
+          "tableIds": [
+            "table-e5a16e9403031c02"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-6432f4a0cb2f35da",
+            "exercise-051bc4684550a4ad"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-10-day-2",
+          "day": 2,
+          "goal": "Вспомнить: Объяснить мнение и связать доводы",
+          "focus": "Вспомнить",
+          "tableIds": [
+            "table-7f1693ff000479bd"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-6432f4a0cb2f35da",
+            "exercise-051bc4684550a4ad"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-10-day-3",
+          "day": 3,
+          "goal": "Прочитать: Объяснить мнение и связать доводы",
+          "focus": "Прочитать",
+          "tableIds": [
+            "table-186d5b39e0ddc83e"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-6432f4a0cb2f35da",
+            "exercise-051bc4684550a4ad"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-10-day-4",
+          "day": 4,
+          "goal": "Услышать: Объяснить мнение и связать доводы",
+          "focus": "Услышать",
+          "tableIds": [
+            "table-e5a16e9403031c02"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-6432f4a0cb2f35da",
+            "exercise-051bc4684550a4ad"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-10-day-5",
+          "day": 5,
+          "goal": "Ответить: Объяснить мнение и связать доводы",
+          "focus": "Ответить",
+          "tableIds": [
+            "table-7f1693ff000479bd"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-6432f4a0cb2f35da",
+            "exercise-051bc4684550a4ad"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-10-day-6",
+          "day": 6,
+          "goal": "Повторить: Объяснить мнение и связать доводы",
+          "focus": "Повторить",
+          "tableIds": [
+            "table-186d5b39e0ddc83e"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-6432f4a0cb2f35da",
+            "exercise-051bc4684550a4ad"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-10-day-7",
+          "day": 7,
+          "goal": "Проверить перенос: Объяснить мнение и связать доводы",
+          "focus": "Проверить перенос",
+          "tableIds": [
+            "table-e5a16e9403031c02"
+          ],
+          "schemeIds": [],
+          "exerciseIds": [
+            "exercise-6432f4a0cb2f35da",
+            "exercise-051bc4684550a4ad"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        }
+      ]
+    },
+    {
+      "id": "week-11",
+      "week": 11,
+      "title": "Разговор и понимание",
+      "level": "B1–B2",
+      "goal": "Уточнить смысл и поддержать беседу",
+      "tableIds": [],
+      "schemeIds": [
+        "scheme-a3f5b1e525f2f00f",
+        "scheme-8b9e9993b64acf38",
+        "scheme-c7f9ae704bb82084"
+      ],
+      "exerciseIds": [],
+      "contentGaps": [
+        "Примеры схем — повторение основы, не принятое аудирование B1–B2"
+      ],
+      "source": "MASTER_SPECIFICATION_v3_A5; newly authored mapping of preserved materials",
+      "dayPlans": [
+        {
+          "id": "week-11-day-1",
+          "day": 1,
+          "goal": "Разобраться: Уточнить смысл и поддержать беседу",
+          "focus": "Разобраться",
+          "tableIds": [],
+          "schemeIds": [
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-8b9e9993b64acf38",
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-11-day-2",
+          "day": 2,
+          "goal": "Вспомнить: Уточнить смысл и поддержать беседу",
+          "focus": "Вспомнить",
+          "tableIds": [],
+          "schemeIds": [
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-8b9e9993b64acf38",
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-11-day-3",
+          "day": 3,
+          "goal": "Прочитать: Уточнить смысл и поддержать беседу",
+          "focus": "Прочитать",
+          "tableIds": [],
+          "schemeIds": [
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-8b9e9993b64acf38",
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-11-day-4",
+          "day": 4,
+          "goal": "Услышать: Уточнить смысл и поддержать беседу",
+          "focus": "Услышать",
+          "tableIds": [],
+          "schemeIds": [
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-8b9e9993b64acf38",
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-11-day-5",
+          "day": 5,
+          "goal": "Ответить: Уточнить смысл и поддержать беседу",
+          "focus": "Ответить",
+          "tableIds": [],
+          "schemeIds": [
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-8b9e9993b64acf38",
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-11-day-6",
+          "day": 6,
+          "goal": "Повторить: Уточнить смысл и поддержать беседу",
+          "focus": "Повторить",
+          "tableIds": [],
+          "schemeIds": [
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-8b9e9993b64acf38",
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-11-day-7",
+          "day": 7,
+          "goal": "Проверить перенос: Уточнить смысл и поддержать беседу",
+          "focus": "Проверить перенос",
+          "tableIds": [],
+          "schemeIds": [
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-8b9e9993b64acf38",
+            "scheme-c7f9ae704bb82084"
+          ],
+          "exerciseIds": [],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        }
+      ]
+    },
+    {
+      "id": "week-12",
+      "week": 12,
+      "title": "Самостоятельная практика",
+      "level": "Индивидуально",
+      "goal": "Решить жизненную задачу и найти слабые места",
+      "tableIds": [
+        "table-681e4fcbe1d2492f",
+        "table-1236bb384b57a26a",
+        "table-a656e74e002e4010"
+      ],
+      "schemeIds": [
+        "scheme-ecd4457dac3a679e",
+        "scheme-a337267454817add",
+        "scheme-c4c276abb93507f8",
+        "scheme-3d07fd24598470f7",
+        "scheme-a3f5b1e525f2f00f",
+        "scheme-8b9e9993b64acf38",
+        "scheme-c7f9ae704bb82084",
+        "scheme-1b019ec133bdf52d"
+      ],
+      "exerciseIds": [
+        "exercise-159c9430c9dcff75",
+        "exercise-c5cf020a41155f39",
+        "exercise-5120674013b9c1ae",
+        "exercise-679eaaf6a9159817",
+        "exercise-fc376e4f71756290",
+        "exercise-4418d26350f7e375",
+        "exercise-6432f4a0cb2f35da",
+        "exercise-be1442af8efd3577",
+        "exercise-f916542a683bc97d",
+        "exercise-051bc4684550a4ad"
+      ],
+      "contentGaps": [
+        "Итоговая независимая комплексная проверка ещё не написана"
+      ],
+      "source": "MASTER_SPECIFICATION_v3_A5; newly authored mapping of preserved materials",
+      "dayPlans": [
+        {
+          "id": "week-12-day-1",
+          "day": 1,
+          "goal": "Разобраться: Решить жизненную задачу и найти слабые места",
+          "focus": "Разобраться",
+          "tableIds": [
+            "table-681e4fcbe1d2492f"
+          ],
+          "schemeIds": [
+            "scheme-ecd4457dac3a679e",
+            "scheme-a337267454817add",
+            "scheme-c4c276abb93507f8",
+            "scheme-3d07fd24598470f7",
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-8b9e9993b64acf38",
+            "scheme-c7f9ae704bb82084",
+            "scheme-1b019ec133bdf52d"
+          ],
+          "exerciseIds": [
+            "exercise-159c9430c9dcff75",
+            "exercise-c5cf020a41155f39",
+            "exercise-5120674013b9c1ae",
+            "exercise-679eaaf6a9159817",
+            "exercise-fc376e4f71756290",
+            "exercise-4418d26350f7e375",
+            "exercise-6432f4a0cb2f35da",
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d",
+            "exercise-051bc4684550a4ad"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-12-day-2",
+          "day": 2,
+          "goal": "Вспомнить: Решить жизненную задачу и найти слабые места",
+          "focus": "Вспомнить",
+          "tableIds": [
+            "table-1236bb384b57a26a"
+          ],
+          "schemeIds": [
+            "scheme-ecd4457dac3a679e",
+            "scheme-a337267454817add",
+            "scheme-c4c276abb93507f8",
+            "scheme-3d07fd24598470f7",
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-8b9e9993b64acf38",
+            "scheme-c7f9ae704bb82084",
+            "scheme-1b019ec133bdf52d"
+          ],
+          "exerciseIds": [
+            "exercise-159c9430c9dcff75",
+            "exercise-c5cf020a41155f39",
+            "exercise-5120674013b9c1ae",
+            "exercise-679eaaf6a9159817",
+            "exercise-fc376e4f71756290",
+            "exercise-4418d26350f7e375",
+            "exercise-6432f4a0cb2f35da",
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d",
+            "exercise-051bc4684550a4ad"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-12-day-3",
+          "day": 3,
+          "goal": "Прочитать: Решить жизненную задачу и найти слабые места",
+          "focus": "Прочитать",
+          "tableIds": [
+            "table-a656e74e002e4010"
+          ],
+          "schemeIds": [
+            "scheme-ecd4457dac3a679e",
+            "scheme-a337267454817add",
+            "scheme-c4c276abb93507f8",
+            "scheme-3d07fd24598470f7",
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-8b9e9993b64acf38",
+            "scheme-c7f9ae704bb82084",
+            "scheme-1b019ec133bdf52d"
+          ],
+          "exerciseIds": [
+            "exercise-159c9430c9dcff75",
+            "exercise-c5cf020a41155f39",
+            "exercise-5120674013b9c1ae",
+            "exercise-679eaaf6a9159817",
+            "exercise-fc376e4f71756290",
+            "exercise-4418d26350f7e375",
+            "exercise-6432f4a0cb2f35da",
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d",
+            "exercise-051bc4684550a4ad"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-12-day-4",
+          "day": 4,
+          "goal": "Услышать: Решить жизненную задачу и найти слабые места",
+          "focus": "Услышать",
+          "tableIds": [
+            "table-681e4fcbe1d2492f"
+          ],
+          "schemeIds": [
+            "scheme-ecd4457dac3a679e",
+            "scheme-a337267454817add",
+            "scheme-c4c276abb93507f8",
+            "scheme-3d07fd24598470f7",
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-8b9e9993b64acf38",
+            "scheme-c7f9ae704bb82084",
+            "scheme-1b019ec133bdf52d"
+          ],
+          "exerciseIds": [
+            "exercise-159c9430c9dcff75",
+            "exercise-c5cf020a41155f39",
+            "exercise-5120674013b9c1ae",
+            "exercise-679eaaf6a9159817",
+            "exercise-fc376e4f71756290",
+            "exercise-4418d26350f7e375",
+            "exercise-6432f4a0cb2f35da",
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d",
+            "exercise-051bc4684550a4ad"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-12-day-5",
+          "day": 5,
+          "goal": "Ответить: Решить жизненную задачу и найти слабые места",
+          "focus": "Ответить",
+          "tableIds": [
+            "table-1236bb384b57a26a"
+          ],
+          "schemeIds": [
+            "scheme-ecd4457dac3a679e",
+            "scheme-a337267454817add",
+            "scheme-c4c276abb93507f8",
+            "scheme-3d07fd24598470f7",
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-8b9e9993b64acf38",
+            "scheme-c7f9ae704bb82084",
+            "scheme-1b019ec133bdf52d"
+          ],
+          "exerciseIds": [
+            "exercise-159c9430c9dcff75",
+            "exercise-c5cf020a41155f39",
+            "exercise-5120674013b9c1ae",
+            "exercise-679eaaf6a9159817",
+            "exercise-fc376e4f71756290",
+            "exercise-4418d26350f7e375",
+            "exercise-6432f4a0cb2f35da",
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d",
+            "exercise-051bc4684550a4ad"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-12-day-6",
+          "day": 6,
+          "goal": "Повторить: Решить жизненную задачу и найти слабые места",
+          "focus": "Повторить",
+          "tableIds": [
+            "table-a656e74e002e4010"
+          ],
+          "schemeIds": [
+            "scheme-ecd4457dac3a679e",
+            "scheme-a337267454817add",
+            "scheme-c4c276abb93507f8",
+            "scheme-3d07fd24598470f7",
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-8b9e9993b64acf38",
+            "scheme-c7f9ae704bb82084",
+            "scheme-1b019ec133bdf52d"
+          ],
+          "exerciseIds": [
+            "exercise-159c9430c9dcff75",
+            "exercise-c5cf020a41155f39",
+            "exercise-5120674013b9c1ae",
+            "exercise-679eaaf6a9159817",
+            "exercise-fc376e4f71756290",
+            "exercise-4418d26350f7e375",
+            "exercise-6432f4a0cb2f35da",
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d",
+            "exercise-051bc4684550a4ad"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        },
+        {
+          "id": "week-12-day-7",
+          "day": 7,
+          "goal": "Проверить перенос: Решить жизненную задачу и найти слабые места",
+          "focus": "Проверить перенос",
+          "tableIds": [
+            "table-681e4fcbe1d2492f"
+          ],
+          "schemeIds": [
+            "scheme-ecd4457dac3a679e",
+            "scheme-a337267454817add",
+            "scheme-c4c276abb93507f8",
+            "scheme-3d07fd24598470f7",
+            "scheme-a3f5b1e525f2f00f",
+            "scheme-8b9e9993b64acf38",
+            "scheme-c7f9ae704bb82084",
+            "scheme-1b019ec133bdf52d"
+          ],
+          "exerciseIds": [
+            "exercise-159c9430c9dcff75",
+            "exercise-c5cf020a41155f39",
+            "exercise-5120674013b9c1ae",
+            "exercise-679eaaf6a9159817",
+            "exercise-fc376e4f71756290",
+            "exercise-4418d26350f7e375",
+            "exercise-6432f4a0cb2f35da",
+            "exercise-be1442af8efd3577",
+            "exercise-f916542a683bc97d",
+            "exercise-051bc4684550a4ad"
+          ],
+          "status": "TECHNICAL_PLAN_WITH_DECLARED_CONTENT_GAPS"
+        }
+      ]
+    }
+  ]
+}

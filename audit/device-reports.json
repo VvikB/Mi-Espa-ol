@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2026-11-05",
+    "kind": "USER_REPORTED_NOT_INSTRUMENTED",
+    "artifact": "Mi_Espanol_Pilot_R2.html",
+    "device": "iPhone 13 Pro Max",
+    "iOS_version": null,
+    "opening_method": "Downloaded archive opened and HTML launched; app/container not specified",
+    "results": {
+      "archive_download": "PASS_USER_REPORTED",
+      "interactive_launch": "PASS_USER_REPORTED",
+      "dictionary_audio": "AUDIBLE_IN_USER_TESTED_ACTIONS",
+      "scheme_audio": "PARTIAL_FAILURE_USER_REPORTED",
+      "offline_mode": "NOT_TESTED",
+      "pinch_pan": "NOT_TESTED",
+      "long_term_storage": "NOT_TESTED"
+    },
+    "R3_recheck": "PENDING: entire TENER scheme, a form and two examples"
+  }
+]

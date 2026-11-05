@@ -40,7 +40,7 @@ def main():
         check('legacy_card_audio',page.evaluate('__audioCalls.length')==before+1 and page.evaluate('__audioCalls.at(-1).text')==expected)
         page.evaluate('mi11RecallBegin();mi11RecallReveal()');expected=page.evaluate('mi11RecallRecords()[mi11RecallIndex].es');before=page.evaluate('__audioCalls.length');page.get_by_role('button',name='Озвучить испанский',exact=True).click()
         check('active_recall_audio',page.evaluate('__audioCalls.length')==before+1 and page.evaluate('__audioCalls.at(-1).text')==expected)
-        page.evaluate("schemeIndex=0;setLib('schemes')");before=page.evaluate('__audioCalls.length');page.locator('[data-speech]').click();check('scheme_audio',page.evaluate('__audioCalls.length')==before+1 and page.evaluate('__audioCalls.at(-1).text')=='SER')
+        page.evaluate("schemeIndex=0;setLib('schemes')");before=page.evaluate('__audioCalls.length');page.locator('[data-speech]').first.click();check('scheme_audio',page.evaluate('__audioCalls.length')==before+1 and page.evaluate('__audioCalls.at(-1).text')==page.evaluate('SchemeUI.allSpeech(0)'))
         special=['¿Qué tal, señor? ¡España!','dijo: "sí", y después: \'mañana\'','</button><img src=x onerror="window.__injected=true">','á é í ó ú ü ñ & < >']
         for i,text in enumerate(special):
             page.evaluate('(s)=>{navTo("words");document.getElementById("wordsList").innerHTML=wordRows([{es:s,ru:"test"}])}',text)
@@ -102,11 +102,11 @@ def main():
         check('no_javascript_errors',not errors,errors)
         check('no_remote_assets',not remote,remote)
         page.set_viewport_size({'width':390,'height':844});page.evaluate("setTheme('light');navTo('words')")
-        shots=ROOT/'audit/restoration-r2';page.screenshot(path=str(shots/'words-390.png'),full_page=True)
+        shots=ROOT/'audit/restoration-r3';page.screenshot(path=str(shots/'words-390.png'),full_page=True)
         version=browser.version;context.close();browser.close()
     server.shutdown()
     summary=dict(collections.Counter(x['status'] for x in RESULTS))
-    write_json(ROOT/'audit/restoration-r2/regression-tests.json',{'run_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'browser':version,'artifact_sha256':manifest['artifact_sha256'],'scope':'R1 fixed-function regression on R2, not full specification acceptance','audio':'Mocked device voices and output; physical iPhone NOT TESTED','trainable_tables':len(targets),'trainable_cells_rendered':cells_total,'summary':summary,'results':RESULTS})
+    write_json(ROOT/'audit/restoration-r3/regression-tests.json',{'run_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'browser':version,'artifact_sha256':manifest['artifact_sha256'],'scope':'R1/R2 fixed-function regression on R3, not full specification acceptance','audio':'Mocked device voices and output; physical iPhone NOT TESTED','trainable_tables':len(targets),'trainable_cells_rendered':cells_total,'summary':summary,'results':RESULTS})
     print(summary)
     for r in RESULTS:
         if r['status']=='FAIL':print('FAIL',r['test'],r['evidence'])

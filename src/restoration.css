@@ -4,3 +4,16 @@ button, .btn, .audio-button, select, input:not([type=checkbox]):not([type=radio]
 #recovery-status { padding:8px 14px; font-size:12px; border-bottom:1px solid currentColor; }
 
 #recovery-storage-status:not([hidden]) { padding:12px; background:#fff0d9; color:#572e10; }
+
+/* R3: schemes and resumable practice, within the existing five-section interface. */
+.scheme-forms th,.scheme-forms td{vertical-align:middle}
+.scheme-examples .lesson{padding:14px 0;border-bottom:1px solid #dce3eb}
+.scheme-practice{margin-top:22px}
+.scheme-practice .row,.journey-footer{margin:14px 0;gap:8px}
+.journey-prompt{font-size:22px;line-height:1.6}
+.journey-choices{display:grid;gap:10px;margin:16px 0}
+.journey-choices button{text-align:left;white-space:normal}
+.journey-rubric{display:flex;gap:10px;align-items:flex-start;margin:12px 0;font-weight:normal}
+.journey-rubric input{width:20px;height:20px;flex-shrink:0}
+progress{width:100%;height:12px;margin-bottom:22px;accent-color:var(--accent)}
+@media(max-width:430px){.scheme-forms td,.scheme-forms th{padding:8px}.scheme-forms button{min-width:44px}.scheme-panel .row{gap:7px}.journey-prompt{font-size:20px}}

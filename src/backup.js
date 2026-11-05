@@ -46,7 +46,7 @@ const BackupService = (() => {
       const count=Object.keys(incoming.progress.answers||{}).length+Object.keys(incoming.progress.vocab||{}).length+Object.keys(incoming.progress.miRecall11||{}).length;
       if(!confirm((parsed.format==='mi-espanol-progress-1'?'Копия v1: контрольной суммы нет; проверена структура. ':'Копия проверена. ')+count+' записей результатов. Объединить с текущим прогрессом? Более новые результаты сохранятся. Неоднозначные значения останутся в журнале конфликтов'+(newConflicts>0?' ('+newConflicts+')':'')+'.'))return false;
       const committed=StateStore.commit(merged);
-      state=committed.progress;mi11Settings=committed.settings.accessibility;audioRate=mi11Settings.audioRate;
+      state=committed.progress;document.dispatchEvent(new Event('mi-progress-imported'));mi11Settings=committed.settings.accessibility;audioRate=mi11Settings.audioRate;
       applyTheme();mi11ApplySettings();render();alert('Копия объединена. Прогресс и настройки сохранены.');return true;
     } catch(error) {alert('Импорт отменён: '+error.message);return false;}
   }

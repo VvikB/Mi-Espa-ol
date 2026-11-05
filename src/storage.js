@@ -5,7 +5,7 @@ const StateStore = (() => {
   const THEME = 'mi-espanol-theme-v1';
   const ACCESS = 'mi-espanol-recovery11-settings-v1';
   const defaults = {fontScale:'normal', reducedMotion:false, audioRate:.85};
-  const recordMaps = ['answers','vocab','miRecall11','miVisual11'];
+  const recordMaps = ['answers','vocab','miRecall11','miVisual11','miSchemePractice'];
   let current, issue = '', locked = false;
   const raw = Object.create(null);
   const object = v => v !== null && typeof v === 'object' && !Array.isArray(v);
@@ -33,7 +33,7 @@ const StateStore = (() => {
     if (!object(value)) throw Error('Прогресс должен быть объектом');
     const data=clean(value);
     if (data.week!==undefined && (!Number.isInteger(data.week)||data.week<1||data.week>12)) throw Error('Недопустимая неделя');
-    for (const key of ['answers','vocab','favorites','session','miRecall11','miVisual11']) {
+    for (const key of ['answers','vocab','favorites','session','miRecall11','miVisual11','miSchemePractice','miRoute3','miJourney3']) {
       if (data[key]!==undefined&&!object(data[key])) throw Error('Повреждён раздел '+key);
     }
     for (const key of recordMaps) for (const [id,r] of Object.entries(data[key]||{})) {
@@ -46,6 +46,18 @@ const StateStore = (() => {
       }
       if (typeof r.correct==='number'&&r.attempts!==undefined&&r.correct>r.attempts) throw Error('Неверный счётчик верных ответов');
       if(r.lastAt!==undefined&&(typeof r.lastAt!=='string'||!Number.isFinite(Date.parse(r.lastAt))))throw Error('Недопустимая дата');
+    }
+    if(data.miJourney3!==undefined) {
+      const j=data.miJourney3,skills=['vocabulary','grammar','reading','listening','writing','speaking'];
+      if(j.schema!==1||!Array.isArray(j.events)||j.events.length>5000||!object(j.completedDays)||!object(j.completedSessions))throw Error('Повреждён журнал занятий');
+      if(j.events.some(e=>!object(e)||typeof e.id!=='string'||typeof e.contentId!=='string'||!skills.includes(e.skill)||!Number.isFinite(e.at)))throw Error('Повреждено событие занятия');
+      if(new Set(j.events.map(e=>e.id)).size!==j.events.length)throw Error('Повторные ID событий');
+      if(j.active!==null&&j.active!==undefined) {
+        const a=j.active;
+        if(!object(a)||a.schema!==1||typeof a.id!=='string'||!Array.isArray(a.tasks)||!a.tasks.length||a.tasks.length>60||!Number.isInteger(a.step)||a.step<0||a.step>=a.tasks.length||!object(a.results)||!object(a.drafts)||!object(a.playback)||!object(a.attempts))throw Error('Повреждено незавершённое занятие');
+        if(a.tasks.some(t=>!object(t)||typeof t.id!=='string'||typeof t.contentId!=='string'||!skills.includes(t.skill)||!['input','reading','listening','writing','speaking','gap'].includes(t.type)))throw Error('Повреждено задание');
+        if(a.tasks.some(t=>t.type==='input'&&(typeof t.expected!=='string'||typeof t.prompt!=='string')||['reading','listening'].includes(t.type)&&(typeof t.text!=='string'||typeof t.meaning!=='string'||!Array.isArray(t.options)||t.options.some(x=>typeof x!=='string'))))throw Error('Повреждены данные задания');
+      }
     }
     return {...emptyProgress(),...data};
   }
@@ -107,7 +119,9 @@ const StateStore = (() => {
   }
   function saveProgress(progress) {
     initialize();const next=validateProgress(progress);stampRecords(next);
+    if(next.miJourney3?.active&&canonical(next.miJourney3.active)!==canonical(current.progress.miJourney3?.active||null))next.miJourney3.active.updatedAt=Date.now();
     commit({...current,progress:next});
+    if(progress.miJourney3?.active&&next.miJourney3?.active)progress.miJourney3.active.updatedAt=next.miJourney3.active.updatedAt;
     for(const map of recordMaps)for(const [id,r]of Object.entries(next[map]||{}))if(object(progress[map]?.[id])&&r.updatedAt!==undefined)progress[map][id].updatedAt=r.updatedAt;
     return true;
   }
@@ -119,6 +133,17 @@ const StateStore = (() => {
     const a=validateProgress(left),b=validateProgress(right),conflicts=[];
     function merge(x,y,path) {
       if(canonical(x)===canonical(y))return clone(x);
+      if(path==='miJourney3.events'&&Array.isArray(x)&&Array.isArray(y)){
+        const events=new Map(x.map(e=>[e.id,clone(e)]));
+        for(const e of y){if(!events.has(e.id))events.set(e.id,clone(e));else if(canonical(events.get(e.id))!==canonical(e))conflicts.push({path:path+'.'+e.id,kept:clone(events.get(e.id)),other:clone(e),reason:'Конфликт неизменяемого события'});}
+        return [...events.values()].sort((a,b)=>a.at-b.at||a.id.localeCompare(b.id));
+      }
+      if(path==='miJourney3.active'){
+        if(x===null&&object(y)&&!a.miJourney3?.completedSessions?.[y.id])return clone(y);
+        if(object(x)&&y===null)return clone(x);
+        if(object(x)&&object(y)&&x.id===y.id&&timestamp(x)!==timestamp(y))return mergeRecord(timestamp(x)>timestamp(y)?x:y,timestamp(x)>timestamp(y)?y:x);
+      }
+
       if(object(x)&&object(y)){
         const parts=path.split('.');
         if(parts.length===2&&recordMaps.includes(parts[0])) {

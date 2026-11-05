@@ -1,4 +1,4 @@
-const RELEASE_INFO={version:'Restoration R2 · INTERNAL · 2026-11-05',base:'Mi_Espanol_LAST_TESTABLE.html · SHA-256 19846bc31dd50bcb6…',changes:[
+const RELEASE_INFO={version:'Restoration R3 · INTERNAL · 2026-11-05',base:'Mi_Espanol_LAST_TESTABLE.html · SHA-256 19846bc31dd50bcb6…',changes:[
 'Добавлено меню «Настройки»: паспорт сборки с фактическими количествами из текущих массивов.',
 'Добавлена системная, светлая и тёмная тема; тема хранится отдельно от учебного прогресса.',
 'Добавлен журнал изменений и предупреждения о неподтверждённой полноте материалов.',

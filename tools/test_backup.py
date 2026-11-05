@@ -86,11 +86,11 @@ def main():
         raw=json.loads(Path(info.value.path()).read_text())
         check('raw_export_preserves_corrupt_and_legacy_bytes',raw['raw'][page.evaluate('StateStore.key')]=='{broken' and raw['raw']['mi-espanol-personal-v1'] is not None)
         check('no_javascript_errors',not errors,errors)
-        page.screenshot(path=str(ROOT/'audit/restoration-r2/corrupt-storage-390.png'),full_page=True)
+        page.screenshot(path=str(ROOT/'audit/restoration-r3/corrupt-storage-390.png'),full_page=True)
         version=browser.version;context.close();browser.close()
     server.shutdown()
     summary=dict(collections.Counter(r['status'] for r in RESULTS))
-    write_json(ROOT/'audit/restoration-r2/backup-tests.json',{'run_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'artifact_sha256':manifest['artifact_sha256'],'browser':version,'scope':'R2 backup/current-browser storage; physical Safari persistence NOT TESTED','summary':summary,'results':RESULTS})
+    write_json(ROOT/'audit/restoration-r3/backup-tests.json',{'run_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'artifact_sha256':manifest['artifact_sha256'],'browser':version,'scope':'R2 backup/current-browser storage; physical Safari persistence NOT TESTED','summary':summary,'results':RESULTS})
     print(summary)
     for r in RESULTS:
         if r['status']=='FAIL':print(r)

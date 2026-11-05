@@ -2,6 +2,7 @@
 const AudioService = (() => {
   const listeners = new Set();
   let sequence = 0;
+  let activeUtterance = null;
   function publish(type, text, detail = '') {
     const event = {type, text, detail};
     listeners.forEach(listener => listener(event));
@@ -15,6 +16,7 @@ const AudioService = (() => {
   function cancel() {
     sequence++;
     try { window.speechSynthesis?.cancel(); } catch (_) {}
+    activeUtterance=null;
     publish('cancelled', '');
   }
   function speak(text, rate = .85) {
@@ -28,11 +30,13 @@ const AudioService = (() => {
     try {
       window.speechSynthesis.cancel();
       const utterance = new SpeechSynthesisUtterance(text);
+      activeUtterance=utterance;
       utterance.voice = available.find(v => v.lang.toLowerCase() === 'es-es') || available[0];
       utterance.lang = utterance.voice.lang;
       utterance.rate = Math.max(.6, Math.min(1.35, Number(rate) || .85));
       for (const type of ['start', 'end', 'error']) utterance['on' + type] = e => {
         if (request !== sequence) return;
+        if(type==='end'||type==='error')activeUtterance=null;
         publish(({start:'started',end:'ended',error:'error'})[type], text, e?.error || '');
       };
       publish('queued', text);
