@@ -53,14 +53,13 @@
     "physical_testing": "NOT_TESTED"
   },
   "delivery_plan": {
-    "prior_calendar_withdrawn": true,
-    "reason": "Not supported by measured delivery velocity; user prioritizes starting personal study immediately.",
-    "current_pilot": "pilot/Mi_Espanol_Pilot_R2.html",
-    "pilot_adds_new_learning_content": false,
     "target_sprint": [
       "2026-11-05",
-      "2026-11-11"
+      "2026-11-07"
     ],
-    "target_scope": "Early personal use plus linked learning workflow; full specification remains open, not promised complete within one week."
-  }
+    "scope": "Technical specification pass first; content completeness separately tracked, no blanket completion guarantee.",
+    "download": "downloads/Mi_Espanol_Pilot_R2.zip",
+    "week_plan_superseded": true
+  },
+  "reported_delivery_issue": "Download from chat fails; runtime hang not established"
 }

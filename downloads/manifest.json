@@ -1,0 +1,14 @@
+{
+  "purpose": "Alternate delivery after chat download failure; application hang not diagnosed",
+  "file": "Mi_Espanol_Pilot_R2.zip",
+  "bytes": 7446436,
+  "sha256": "f432c55a6a06016d67649a1447bb536bc78c7c6c56641ed9ee772a576e4b9485",
+  "html_sha256": "beed3e9287fa93e516425a60be804f383796badba297de670180e95c700347c0",
+  "zip_crc_test": "PASS",
+  "html_matches_tested_R2": "PASS",
+  "entries": [
+    "Mi_Espanol_Pilot_R2.html",
+    "OPEN_ME_RU.txt"
+  ],
+  "physical_iPhone_test": "NOT_TESTED"
+}

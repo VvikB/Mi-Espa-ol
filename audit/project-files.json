@@ -11,8 +11,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 5313,
-    "sha256": "38dc315786622b4e371b60a0db049060408a6b37ac13e0a96526b405a8c959d9"
+    "bytes": 5921,
+    "sha256": "46a111731ee04bda30f181a12ba35a951f14194d545bc8ff2c25c34442faa326"
   },
   {
     "path": "assets/pages/7529.webp",
@@ -161,8 +161,8 @@
   },
   {
     "path": "audit/current-status.json",
-    "bytes": 1792,
-    "sha256": "d70ce5b4c812aaf0a6b31909d491940e230e1e1b6a59325fe6ac2797109a2a01"
+    "bytes": 1692,
+    "sha256": "0af2ce99d3201736166b571662f1096371a22e03fd5c4f23e5b0796a8f0623cb"
   },
   {
     "path": "audit/entities/Mi_Espanol_LAST_TESTABLE.json",
@@ -351,8 +351,8 @@
   },
   {
     "path": "docs/CURRENT_STATUS.md",
-    "bytes": 8563,
-    "sha256": "c4fe03b5d026433b1e4698511a9c215c4c77b96d45007dee68e8290265843c1c"
+    "bytes": 9003,
+    "sha256": "f86319c18ca41b968052ca4500b85f1dbc0230eceed1496858ee43febbb716db"
   },
   {
     "path": "docs/G0_AUDIT.md",
@@ -361,8 +361,8 @@
   },
   {
     "path": "docs/JOINT_WORK_PLAN.md",
-    "bytes": 12542,
-    "sha256": "5e51472b859ef7e9bd43161c73b0163e6ffb24e4291f2cbd2a984fdf127c72f6"
+    "bytes": 12982,
+    "sha256": "19a3cec03febbc96d458e4e280483e4c58dbc70cd2d65145a0fb12fa09d0cbfa"
   },
   {
     "path": "docs/RECOVERY_PLAN.md",
@@ -385,9 +385,29 @@
     "sha256": "0d77c8f6f9896a15bf8a00fb1e71f35041da9bcec8c3b94fb5cdaf71169c9fcc"
   },
   {
+    "path": "docs/THREE_DAY_TECHNICAL_SPRINT.md",
+    "bytes": 6628,
+    "sha256": "efff4aa3f0b5bba263367621e4212ccdc7d5c1d462bec5f8a98a35cc2d72b0a1"
+  },
+  {
     "path": "docs/TRANSFER.md",
     "bytes": 4549,
     "sha256": "4e5d45fa835331b8befee58a7d207c2f7993bf2d18f719a8888b1e018b650a9e"
+  },
+  {
+    "path": "downloads/Mi_Espanol_Pilot_R2.zip",
+    "bytes": 7446436,
+    "sha256": "f432c55a6a06016d67649a1447bb536bc78c7c6c56641ed9ee772a576e4b9485"
+  },
+  {
+    "path": "downloads/OPEN_ME_RU.txt",
+    "bytes": 1806,
+    "sha256": "18a8e7a3308b28856e76ba79e0e691721a5ffbc0df195bcb85ca6e6cb0bb81f2"
+  },
+  {
+    "path": "downloads/manifest.json",
+    "bytes": 495,
+    "sha256": "ee815b3c631f5b683ec47886823e0521a6a2946af060d8dabf011107d733e288"
   },
   {
     "path": "experimental/pre-audit-draft/README.md",

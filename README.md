@@ -5,7 +5,13 @@
 
 Исходники и история: https://github.com/VvikB/Mi-Espa-ol/tree/main .
 
-## Доступный HTML и новый темп
+## Текущий план и скачивание
+
+[Трёхдневный технический интенсив 05–07.11](docs/THREE_DAY_TECHNICAL_SPRINT.md) · [ZIP для скачивания через GitHub](downloads/Mi_Espanol_Pilot_R2.zip).
+
+HTML не скачивался из чата. ZIP — другой канал передачи той же проверенной сборки; причину сбоя приложения на iPhone мы пока не установили. Для ZIP используйте Download raw file / Скачать на странице GitHub.
+
+## Предыдущий недельный план и HTML
 
 [Скачать/открыть пробный HTML R2](pilot/Mi_Espanol_Pilot_R2.html) · [Короткая инструкция для iPhone](pilot/README.md).
 
