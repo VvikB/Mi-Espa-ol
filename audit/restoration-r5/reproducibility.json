@@ -1,0 +1,7 @@
+{
+  "vocabulary_compilation": "BYTE_IDENTICAL",
+  "R5_repeat_build": "IDENTICAL_HTML_AND_MANIFEST",
+  "R4_rebuild": "IDENTICAL_TO_R4_CHECKPOINT",
+  "R4_checkpoint_artifacts": "UNCHANGED",
+  "R5_artifact_sha256": "ad9262ac5e935e55903826ce907b7a41c26c5190686e9d66720c469f86f02922"
+}

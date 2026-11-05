@@ -1,0 +1,17 @@
+{
+  "classification": "PERSONAL_EDITORIAL_PILOT_R5_NOT_FINAL_RELEASE",
+  "source_branch": "r5-content-review",
+  "html_sha256": "ad9262ac5e935e55903826ce907b7a41c26c5190686e9d66720c469f86f02922",
+  "zip_sha256": "d3c9264f604b990895235b4ff42f27609a9857804cb417c66198561aa2823038",
+  "html_bytes": 10513486,
+  "zip_bytes": 7558776,
+  "physical_iPhone_Safari": "PENDING",
+  "independent_methodical_acceptance": "PENDING",
+  "reports": [
+    "content-tests.json",
+    "regression-tests.json",
+    "backup-tests.json",
+    "journey-tests.json"
+  ],
+  "archive_integrity": "PASS"
+}

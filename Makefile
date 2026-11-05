@@ -34,3 +34,12 @@ r4-test:
 	python tools/test_r4_regressions.py
 r4-package:
 	python tools/package_r4.py
+
+.PHONY: r5-internal r5-test r5-package
+r5-internal:
+	python -c 'import sys;sys.path.insert(0,"tools");from build import build;build(revision="R5")'
+r5-test:
+	python tools/test_r5.py
+	python tools/test_r5_regressions.py
+r5-package:
+	python tools/package_r5.py

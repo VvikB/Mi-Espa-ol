@@ -1,0 +1,83 @@
+{
+  "source_commit": "1f0d093702b1201c922d6f9dc0a0720f937fb0f3",
+  "tag": "r4-checkpoint-2026-11-05",
+  "physical_iPhone": "PENDING_USER_REPORT",
+  "artifacts": [
+    {
+      "path": "pilot/Mi_Espanol_Pilot_R4.html",
+      "bytes": 10201167,
+      "sha256": "975f48d72234d9cb748aebde89c3fbd3a8673a1c156d81b05f4031faea028acb"
+    },
+    {
+      "path": "downloads/Mi_Espanol_Pilot_R4.zip",
+      "bytes": 7506592,
+      "sha256": "5cdbda8778e4ff0cbc2f13cb5cbf364d16884c4f1aca7ac584343645e4ec0758"
+    },
+    {
+      "path": "audit/restoration-r4/regression-tests.json",
+      "bytes": 65755,
+      "sha256": "37d4bd64bdf50d9ea2e1725c4b092e6f78b234fd162737c8b444ee4692030bbe"
+    },
+    {
+      "path": "audit/restoration-r4/today-428.png",
+      "bytes": 77085,
+      "sha256": "3455a66eb9ffbb74181bfc61eea2064b2353bace4b53d09efa523f165a924989"
+    },
+    {
+      "path": "audit/restoration-r4/available-sources.json",
+      "bytes": 108366,
+      "sha256": "f2671a778809f37b1bc32e12ac453a5e0a774f613f6bbbc3158aa95f3340bd8a"
+    },
+    {
+      "path": "audit/restoration-r4/backup-tests.json",
+      "bytes": 3101,
+      "sha256": "e406a5c759cdee21bc2874d2f269d877c5d8d3d05d5312a37b678d1d2439447c"
+    },
+    {
+      "path": "audit/restoration-r4/journey-tests.json",
+      "bytes": 21903,
+      "sha256": "6ff86d44c8f1fac8aa17f72d1e1715cfde6c6702190ab14d70768232ca2f8eec"
+    },
+    {
+      "path": "audit/restoration-r4/primary-materials.json",
+      "bytes": 10823,
+      "sha256": "568171f8760069a48e93233e2e314498529ed8792d9df3b3c1c419d7a634c761"
+    },
+    {
+      "path": "audit/restoration-r4/tener-428.png",
+      "bytes": 162099,
+      "sha256": "29e2eda118d0e107b37ed3a4fdd7d776a4ff1a6c48c1c19c8fe5014f5a3626fb"
+    },
+    {
+      "path": "audit/restoration-r4/build.json",
+      "bytes": 2729,
+      "sha256": "331c1b2e953833ceb7bf7c0ba58f17d5602d2a58cf1c533c27d5ab959f403abf"
+    },
+    {
+      "path": "audit/restoration-r4/SHA256SUMS",
+      "bytes": 2223,
+      "sha256": "e4548544ba272e9799c4a1ae897dab109f0e2c84120993d815c5c703cdbd5184"
+    },
+    {
+      "path": "audit/restoration-r4/unit-tests.txt",
+      "bytes": 2568,
+      "sha256": "81407aeaddce60aa490fa7fd7907bd202761aab5e43c3d36228175a2c4c72d4a"
+    },
+    {
+      "path": "audit/restoration-r4/content-tests.json",
+      "bytes": 26556,
+      "sha256": "b4d9f791a8111691e885388c94af5690db09e2303cf810f4c6d14b37ee60c27c"
+    },
+    {
+      "path": "audit/restoration-r4/corrupt-storage-390.png",
+      "bytes": 323579,
+      "sha256": "86cbef85864771f1c5d41da8b793f4ed159d049289fb32fa7c6de797f3e4b49d"
+    },
+    {
+      "path": "audit/restoration-r4/words-390.png",
+      "bytes": 80481,
+      "sha256": "8565b123ae0901018122c3e8facd2a12a0f65795598ddf3c5f9d5ab5300f6eee"
+    }
+  ],
+  "remote_tag_verified": true
+}

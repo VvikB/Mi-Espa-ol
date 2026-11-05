@@ -1,0 +1,10 @@
+{
+  "base_commit": "1f0d093702b1201c922d6f9dc0a0720f937fb0f3",
+  "branch": "r5-content-review",
+  "status": "EDITORIAL_PASS_COMPLETE_WITH_EXPLICIT_LIMITATIONS",
+  "physical_iPhone": "PENDING",
+  "independent_methodical_acceptance": "PENDING",
+  "historical_15_passes_remaining": null,
+  "reason": "No verified current acceptance count for the historical 15-pass plan; R1-R5 are recovery revisions",
+  "next_major_pass": "Complete authored A1 lessons, beginning with SER/ESTAR; retain A1-B2 scope"
+}

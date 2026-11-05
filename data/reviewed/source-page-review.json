@@ -1,0 +1,164 @@
+{
+  "pages": [
+    {
+      "pageId": "GRAMMAR-01",
+      "sha256": "5ad0efcb71c6852497147b27b99481a32d600b22895ba44eefee2ceaa522b4b3",
+      "viewed": "FULL_IMAGE_VISUAL_READING_R5",
+      "blocksRead": "Произношение; ударения; типы существительных",
+      "sourceOrDigitalIssues": "Устарели ó между числами и отказ от тильд на прописных; qu ошибочно описан как [ku]. Цифровые café/lápiz — новые примеры.",
+      "coverageGaps": "Не представлены все c/g/z/gu, омонимы с тильдой и классификация существительных.",
+      "scope": "Comparison with existing tables; not a diplomatic transcription of all original text",
+      "independentAcceptance": "PENDING"
+    },
+    {
+      "pageId": "GRAMMAR-02",
+      "sha256": "54a3708dbc3bf1ce6149dda23b6de2df103cd2f9d30100599bb1cee19ddd2216",
+      "viewed": "FULL_IMAGE_VISUAL_READING_R5",
+      "blocksRead": "Род; plural; составные существительные; артикль",
+      "sourceOrDigitalIssues": "Прочерки вместо unos/unas не означают отсутствия этих форм. Ударная гласная не всегда требует +es: современная норма зависит от окончания.",
+      "coverageGaps": "Родовые исключения, неизменяемые crisis/lunes, lo и составные существительные не полностью представлены.",
+      "scope": "Comparison with existing tables; not a diplomatic transcription of all original text",
+      "independentAcceptance": "PENDING"
+    },
+    {
+      "pageId": "GRAMMAR-03",
+      "sha256": "c14320b3c0b7bfc4f820144ac57f5b83810b6a71c09a196787b63b7a2e98af37",
+      "viewed": "FULL_IMAGE_VISUAL_READING_R5",
+      "blocksRead": "Определённый/неопределённый артикль; опущение; прилагательное",
+      "sourceOrDigitalIssues": "Цифровое el lunes ошибочно помечено как регулярный день; исправлено. el agua не описан на этой странице, это редакторское расширение.",
+      "coverageGaps": "Весь правый столбец неопределённого артикля, часы, обобщённые/абстрактные существительные, обращения и географические исключения представлены неполно.",
+      "scope": "Comparison with existing tables; not a diplomatic transcription of all original text",
+      "independentAcceptance": "PENDING"
+    },
+    {
+      "pageId": "GRAMMAR-04",
+      "sha256": "f9ea6d291dca9b5c372d68cef8ef91caf6a5a9b56edd2b95ce22b71bbb09ca97",
+      "viewed": "FULL_IMAGE_VISUAL_READING_R5",
+      "blocksRead": "Согласование; усечение; сравнение",
+      "sourceOrDigitalIssues": "Цифровое español/española нельзя распространять на все согласные. mayor/menor не всегда заменяют más grande/más pequeño; superior/inferior не обычная замена más alto/bajo.",
+      "coverageGaps": "Абсолютная превосходная -ísimo и конструкции de + материал не интегрированы полностью.",
+      "scope": "Comparison with existing tables; not a diplomatic transcription of all original text",
+      "independentAcceptance": "PENDING"
+    },
+    {
+      "pageId": "GRAMMAR-05",
+      "sha256": "88fb510004780d9f2a601e377636e1fc940da552fa33b9d09eab31ef6eeafbc3",
+      "viewed": "FULL_IMAGE_VISUAL_READING_R5",
+      "blocksRead": "Личные и начало притяжательных",
+      "sourceOrDigitalIssues": "Источник смешивает варианты leísmo; цифровая таблица использует нейтральные lo/la. Vos — единственное число в регионах voseo, не прямой эквивалент vosotros.",
+      "coverageGaps": "Полные предложные формы mí/ti, conmigo/contigo, региональные варианты не составляют законченного цифрового модуля.",
+      "scope": "Comparison with existing tables; not a diplomatic transcription of all original text",
+      "independentAcceptance": "PENDING"
+    },
+    {
+      "pageId": "GRAMMAR-06",
+      "sha256": "1dfae1ee6471bce20d6af72cda0183bdccf582730f02ae8a54f642af9d823ced",
+      "viewed": "FULL_IMAGE_VISUAL_READING_R5",
+      "blocksRead": "Притяжательные краткие/полные; указательные прилагательные",
+      "sourceOrDigitalIssues": "В нижней строке видимо aquellos bolígrafo без -s; цифровое aquellos верно, исходный пример не копируется.",
+      "coverageGaps": "Полная парадигма mío/tuyo/suyo и употребление самостоятельных форм отсутствуют в текущих 73 таблицах.",
+      "scope": "Comparison with existing tables; not a diplomatic transcription of all original text",
+      "independentAcceptance": "PENDING"
+    },
+    {
+      "pageId": "GRAMMAR-07",
+      "sha256": "4cd73ae5a94369a6b2f3b887093165919ba486685fce692ecee0d915b81dd8ea",
+      "viewed": "FULL_IMAGE_VISUAL_READING_R5",
+      "blocksRead": "Указательные местоимения; вопросы; неопределённые",
+      "sourceOrDigitalIssues": "Тильда éste/ése/aquél больше не общее обязательное правило. cualquier/cualquiera — усечение, а не простая мужская/женская пара. Утверждение о неизменяемости всех неопределённых не универсально.",
+      "coverageGaps": "Восклицательные конструкции и полный набор неопределённых с согласованием/контекстами не интегрированы.",
+      "scope": "Comparison with existing tables; not a diplomatic transcription of all original text",
+      "independentAcceptance": "PENDING"
+    },
+    {
+      "pageId": "GRAMMAR-08",
+      "sha256": "c5dc34f206546f56d6f6f4a12cf74fd2989c8a316fdf52f9325cb62a7007ae33",
+      "viewed": "FULL_IMAGE_VISUAL_READING_R5",
+      "blocksRead": "Относительные; отрицательные; возвратные",
+      "sourceOrDigitalIssues": "Различать согласуемую pasiva refleja и безличную se с личным a; цифровые donde/lo que — редакторские добавления.",
+      "coverageGaps": "Предложные sí/consigo и все контексты безличного se отсутствуют как полный модуль.",
+      "scope": "Comparison with existing tables; not a diplomatic transcription of all original text",
+      "independentAcceptance": "PENDING"
+    },
+    {
+      "pageId": "GRAMMAR-09",
+      "sha256": "4ffc8a2fdb60451402b46736e0ad58955738483810385fd392810355fe73e03e",
+      "viewed": "FULL_IMAGE_VISUAL_READING_R5",
+      "blocksRead": "Регулярные глаголы indicativo",
+      "sourceOrDigitalIssues": "Ряд Futuro próximo содержит futuro simple, не ir a + infinitivo. Цифровые hablar/comer/vivir вместо tomar/temer/subir — адаптация парадигм.",
+      "coverageGaps": "Функции и контрасты времён не объяснены одним набором форм; таблицы не являются уроками.",
+      "scope": "Comparison with existing tables; not a diplomatic transcription of all original text",
+      "independentAcceptance": "PENDING"
+    },
+    {
+      "pageId": "GRAMMAR-10",
+      "sha256": "d02340a1f45a75ad04239233d6af11d9c5f7b560d32cee829c0e351a92b6b459",
+      "viewed": "FULL_IMAGE_VISUAL_READING_R5",
+      "blocksRead": "Регулярные subjuntivo/condicional/imperativo",
+      "sourceOrDigitalIssues": "В утвердительном imperativo ustedes для subir напечатано syban; нормативно suban. Различать формы и условия употребления наклонения.",
+      "coverageGaps": "Составные perfecto/pluscuamperfecto subjuntivo и condicional compuesto не интегрированы в цифровые таблицы полностью.",
+      "scope": "Comparison with existing tables; not a diplomatic transcription of all original text",
+      "independentAcceptance": "PENDING"
+    },
+    {
+      "pageId": "GRAMMAR-11",
+      "sha256": "2124908ffce3ee18f4d0ffe1a3d16a0feff8b333726d3d38be7d3fb6c4c45749",
+      "viewed": "FULL_IMAGE_VISUAL_READING_R5",
+      "blocksRead": "Неправильные indicativo",
+      "sourceOrDigitalIssues": "Колонка названа irse, но простые формы даны без клитик: это ir. Видимы ошибки/пропуски тильд: soís вместо sois, sere/sera вместо seré/será.",
+      "coverageGaps": "Цифровые tener/hacer/poder/venir/ver во многом не взяты с этой страницы; querer/conocer/poner/estar не полностью покрыты во всех временах.",
+      "scope": "Comparison with existing tables; not a diplomatic transcription of all original text",
+      "independentAcceptance": "PENDING"
+    },
+    {
+      "pageId": "GRAMMAR-12",
+      "sha256": "afa96eceea597768d6e9375bfa4b20ec42d53472ce85fb1c8c95caacf9f9e5c3",
+      "viewed": "FULL_IMAGE_VISUAL_READING_R5",
+      "blocksRead": "Неправильные subjuntivo; список конструкций",
+      "sourceOrDigitalIssues": "Список не является безусловным правилом: tener que + infinitivo не требует subjuntivo; suponer que часто с indicativo. В источнике пропуски тильд у форм estar.",
+      "coverageGaps": "Цифровые saber/tener/hacer частично редакторские; сложные формы и корректные условия наклонения не составляют законченного модуля.",
+      "scope": "Comparison with existing tables; not a diplomatic transcription of all original text",
+      "independentAcceptance": "PENDING"
+    },
+    {
+      "pageId": "GRAMMAR-13",
+      "sha256": "673e2917b7e11844d7fd1724574c00ff5e29bbbec65e62c38f1b14377ab160d0",
+      "viewed": "FULL_IMAGE_VISUAL_READING_R5",
+      "blocksRead": "Condicional; imperativo; согласование времён",
+      "sourceOrDigitalIssues": "Цифровые tener/hacer/decir и другие отсутствующие глаголы нельзя объявлять буквальной транскрипцией. У ir/irse разная клитика; vayamos — допустимо, в повседневном побуждении также vamos.",
+      "coverageGaps": "Таблица согласования времён и сложный condicional представлены неполно; дополнительные парадигмы требуют собственных контекстов.",
+      "scope": "Comparison with existing tables; not a diplomatic transcription of all original text",
+      "independentAcceptance": "PENDING"
+    },
+    {
+      "pageId": "GRAMMAR-14",
+      "sha256": "53234c4c7f5d277e46c033a43023cab5230bf85966b4cb7d73c23853dbb1fb80",
+      "viewed": "FULL_IMAGE_VISUAL_READING_R5",
+      "blocksRead": "Voz pasiva во временах; se",
+      "sourceOrDigitalIssues": "Внизу A Carlos se le alabó — безличная конструкция, а не модель согласуемого Se venden pisos. Обе цифровые модели разграничены по функции.",
+      "coverageGaps": "Полная пассивная парадигма во всех исходных временах отсутствует в цифровых таблицах; estar+participio — редакторское пояснение результата.",
+      "scope": "Comparison with existing tables; not a diplomatic transcription of all original text",
+      "independentAcceptance": "PENDING"
+    },
+    {
+      "pageId": "GRAMMAR-15",
+      "sha256": "fab9187a954f30058204bfa62aa5b70a41d12db3348c3eb155927256373f5588",
+      "viewed": "FULL_IMAGE_VISUAL_READING_R5",
+      "blocksRead": "Infinitivo/participio/gerundio; наречия",
+      "sourceOrDigitalIssues": "coer — опечатка вместо comer. Формы confeso/fijo/despierto/electo нельзя автоматически подставлять вместо регулярных причастий с haber.",
+      "coverageGaps": "Сложные infinitivo/gerundio и отдельные степени сравнения наречий не составляют полного цифрового покрытия.",
+      "scope": "Comparison with existing tables; not a diplomatic transcription of all original text",
+      "independentAcceptance": "PENDING"
+    },
+    {
+      "pageId": "GRAMMAR-16",
+      "sha256": "8bcc6b7e276ff6f48f13081e2d00280b2b875e8fbae56ed038c7ec7a4fdf1092",
+      "viewed": "FULL_IMAGE_VISUAL_READING_R5",
+      "blocksRead": "Количественные, порядковые, дробные",
+      "sourceOrDigitalIssues": "das вместо dos; dieciésis вместо dieciséis. Для базового обучения 16–19/21–29 использовать слитные современные формы; не копировать старые варианты как нейтральную норму.",
+      "coverageGaps": "Числительные после десяти, большие числа и дроби представлены выборочно; все исходные дробные не интегрированы.",
+      "scope": "Comparison with existing tables; not a diplomatic transcription of all original text",
+      "independentAcceptance": "PENDING"
+    }
+  ]
+}

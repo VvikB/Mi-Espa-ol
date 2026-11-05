@@ -1,0 +1,414 @@
+{
+  "checkpoint": "r4-checkpoint-2026-11-05",
+  "files_verified": [
+    {
+      "path": "assets/pages/7529.webp",
+      "sha256": "529bcd6e8fbbcbc44d5bb35dcb51ba57c5ff407076962e397f5c2ac97050b3aa",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/7530.webp",
+      "sha256": "8d9ff577d5973a807eed5c2259976b2fcb271f03a8ee67090ffc31aa00cc44f7",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/GRAMMAR-01.webp",
+      "sha256": "5ad0efcb71c6852497147b27b99481a32d600b22895ba44eefee2ceaa522b4b3",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/GRAMMAR-02.webp",
+      "sha256": "54a3708dbc3bf1ce6149dda23b6de2df103cd2f9d30100599bb1cee19ddd2216",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/GRAMMAR-03.webp",
+      "sha256": "c14320b3c0b7bfc4f820144ac57f5b83810b6a71c09a196787b63b7a2e98af37",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/GRAMMAR-04.webp",
+      "sha256": "f9ea6d291dca9b5c372d68cef8ef91caf6a5a9b56edd2b95ce22b71bbb09ca97",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/GRAMMAR-05.webp",
+      "sha256": "88fb510004780d9f2a601e377636e1fc940da552fa33b9d09eab31ef6eeafbc3",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/GRAMMAR-06.webp",
+      "sha256": "1dfae1ee6471bce20d6af72cda0183bdccf582730f02ae8a54f642af9d823ced",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/GRAMMAR-07.webp",
+      "sha256": "4cd73ae5a94369a6b2f3b887093165919ba486685fce692ecee0d915b81dd8ea",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/GRAMMAR-08.webp",
+      "sha256": "c5dc34f206546f56d6f6f4a12cf74fd2989c8a316fdf52f9325cb62a7007ae33",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/GRAMMAR-09.webp",
+      "sha256": "4ffc8a2fdb60451402b46736e0ad58955738483810385fd392810355fe73e03e",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/GRAMMAR-10.webp",
+      "sha256": "d02340a1f45a75ad04239233d6af11d9c5f7b560d32cee829c0e351a92b6b459",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/GRAMMAR-11.webp",
+      "sha256": "2124908ffce3ee18f4d0ffe1a3d16a0feff8b333726d3d38be7d3fb6c4c45749",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/GRAMMAR-12.webp",
+      "sha256": "afa96eceea597768d6e9375bfa4b20ec42d53472ce85fb1c8c95caacf9f9e5c3",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/GRAMMAR-13.webp",
+      "sha256": "673e2917b7e11844d7fd1724574c00ff5e29bbbec65e62c38f1b14377ab160d0",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/GRAMMAR-14.webp",
+      "sha256": "53234c4c7f5d277e46c033a43023cab5230bf85966b4cb7d73c23853dbb1fb80",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/GRAMMAR-15.webp",
+      "sha256": "fab9187a954f30058204bfa62aa5b70a41d12db3348c3eb155927256373f5588",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/GRAMMAR-16.webp",
+      "sha256": "8bcc6b7e276ff6f48f13081e2d00280b2b875e8fbae56ed038c7ec7a4fdf1092",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/NOTES-01.webp",
+      "sha256": "819608c8ea8064330cf10dc811b5f88a642cda821c462504eef5cd599893f192",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/NOTES-02.webp",
+      "sha256": "aa765304b10741de9f195c36bfa381c0151746e3ae256824b8cdddaa1c59159c",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/NOTES-03.webp",
+      "sha256": "6d6730fb6099c384926a94b6e3358bed160794b55c748eaca47edfde7ff9250a",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/NOTES-04.webp",
+      "sha256": "0f821481f969baf98c6902c837624b93824a11f640dd0afe70febe29050492eb",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/NOTES-05.webp",
+      "sha256": "428654a2ea09dc370aaa212b0feaf647dedf51314b8f91ab038c87514cd1c591",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/NOTES-06.webp",
+      "sha256": "84b6da998ddf0974fb83a13ac6534a4887be8d6de4e3dfcd80462cf802204c74",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "assets/pages/NOTES-07.webp",
+      "sha256": "bfc34171bdaff21869a96fd282768068037c8be0a890c06184e4da2740e6a217",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r3/backup-tests.json",
+      "sha256": "6fc5b38a5a091058c940c558448286eda01e9d29cef9ed20ee11641ce574765f",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r3/build.json",
+      "sha256": "ea81cbd2a7fa02c6a1d75f0417df91039664b8bf673b24cc78d495c9a0a4a0ec",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r3/corrupt-storage-390.png",
+      "sha256": "1f4a8c54e5d4a1404e9c52e98390f18677927513bf320e1ce8dc015574ff2d2c",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r3/journey-tests.json",
+      "sha256": "6304976b919cdce45321a9832a796b36d29ac84a85536046cc009f5fb8cb48ff",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r3/regression-tests.json",
+      "sha256": "3fb6b999813473f2167e9c134bf3d6040b6d3e1bdbc995177bde0645199f5f3a",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r3/storage-tests.json",
+      "sha256": "c4f34a168df5d2bb6b0ae169bf1f6f624ffd0079a9eddf78d763b825debd07fe",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r3/tener-428.png",
+      "sha256": "c95f1b49cdd94d58bce84666e83b32dc224261397e04843a144778045cbd53a8",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r3/today-428.png",
+      "sha256": "5bee1e827c8f8567e6676ef91dc71f37339c703a8572eda6ed163ad18baf4a17",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r3/unit-results.txt",
+      "sha256": "eea1cfffc93afc248252789d9e8e503d6a5c7875dcc36fa33a7c687f1bf9ee83",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r3/words-390.png",
+      "sha256": "174f4c9f9379d01779e6657481172f617546b44912d7e6eaa2d65159f8cf5110",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r4/SHA256SUMS",
+      "sha256": "e4548544ba272e9799c4a1ae897dab109f0e2c84120993d815c5c703cdbd5184",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r4/available-sources.json",
+      "sha256": "f2671a778809f37b1bc32e12ac453a5e0a774f613f6bbbc3158aa95f3340bd8a",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r4/backup-tests.json",
+      "sha256": "e406a5c759cdee21bc2874d2f269d877c5d8d3d05d5312a37b678d1d2439447c",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r4/build.json",
+      "sha256": "331c1b2e953833ceb7bf7c0ba58f17d5602d2a58cf1c533c27d5ab959f403abf",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r4/content-tests.json",
+      "sha256": "b4d9f791a8111691e885388c94af5690db09e2303cf810f4c6d14b37ee60c27c",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r4/corrupt-storage-390.png",
+      "sha256": "86cbef85864771f1c5d41da8b793f4ed159d049289fb32fa7c6de797f3e4b49d",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r4/journey-tests.json",
+      "sha256": "6ff86d44c8f1fac8aa17f72d1e1715cfde6c6702190ab14d70768232ca2f8eec",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r4/primary-materials.json",
+      "sha256": "568171f8760069a48e93233e2e314498529ed8792d9df3b3c1c419d7a634c761",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r4/regression-tests.json",
+      "sha256": "37d4bd64bdf50d9ea2e1725c4b092e6f78b234fd162737c8b444ee4692030bbe",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r4/tener-428.png",
+      "sha256": "29e2eda118d0e107b37ed3a4fdd7d776a4ff1a6c48c1c19c8fe5014f5a3626fb",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r4/today-428.png",
+      "sha256": "3455a66eb9ffbb74181bfc61eea2064b2353bace4b53d09efa523f165a924989",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r4/unit-tests.txt",
+      "sha256": "81407aeaddce60aa490fa7fd7907bd202761aab5e43c3d36228175a2c4c72d4a",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "audit/restoration-r4/words-390.png",
+      "sha256": "8565b123ae0901018122c3e8facd2a12a0f65795598ddf3c5f9d5ab5300f6eee",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "data/catalog.json",
+      "sha256": "6eaab5d7f67b7f494f0e5c06ab0231d25661a1cb8fec99be154fa549d06c1cfc",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "data/core.json",
+      "sha256": "53f738d2c21c8562c203ac59df3aebf0b5a21930d7e5555f3b0fcb8328db6c3a",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "data/images.json",
+      "sha256": "d02e7c4b37939af0635bca948a9f50d498f47f3bcb47e26a193597e27b39481c",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "data/recovered/poster-transcription.tsv",
+      "sha256": "76e6c876128129443d80d176f1d97eca8aa5890305bfeb248f69b9fecb4ec9b5",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "data/recovered/source-links.json",
+      "sha256": "98052191b05fb9fc1158d6fe67a5b4dcb84ccb21b68d255f705647a9655f4943",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "data/recovered/vocabulary.json",
+      "sha256": "e2d2ddb1270d7b9a5c182bfabf70fbab1b218f65c78dcb5c77d4796b8403016a",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "data/routes.json",
+      "sha256": "c3fb8d9dd7856ac51e90303e7d0e30217a1784c8e234bb82eef3524d897d75e1",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "downloads/Mi_Espanol_Pilot_R3.zip",
+      "sha256": "914a55405ebe06dc9f190a9e2d2c9f92d2e63a14348274c189de140dd5a76564",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "downloads/Mi_Espanol_Pilot_R4.zip",
+      "sha256": "5cdbda8778e4ff0cbc2f13cb5cbf364d16884c4f1aca7ac584343645e4ec0758",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/PRODUCT_VISION.txt",
+      "sha256": "d917d5adf1c80114f38f0c1cd308ce684eb2f3c13d98b0131a8a2eb8d5925883",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/READ_ME_FIRST.md",
+      "sha256": "d235adb21a08dd350485e22e2977893b65ba37932e99b77881c2b6cf3681935e",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/docs/CODEX_FIRST_TASK.md",
+      "sha256": "33427d205a1fb1bfb965907ab958b7e851c2d8ac9d65432f0af0bf27989737a4",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/docs/DEVELOPMENT_STATE.md",
+      "sha256": "496f7710ceb45d21e3baf4c50cafa12b03b04c42034cb5308227a2baaf3cfa6d",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/docs/Mi_Espanol_AUDIT_AND_NEXT_ACTION_2026-11-03.md",
+      "sha256": "78480a36f4d65f15d117740a033b4812c8ca1c042bb4602b985dbde64eea0352",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/docs/Mi_Espanol_CEFR_A1_B2_Architecture_Addendum(2)(1).md",
+      "sha256": "049b21021f03d4212a882e8ea802f23f961b5b56e0ae2e8d147810a0aeddf745",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/docs/Mi_Espanol_MASTER_PROJECT_HANDOVER_2026-11-03.docx",
+      "sha256": "ff79e2d7361b5267f60ceb6d5ca199bc54a9b1dfd2048a8e7165a3e2bcecc8a4",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx",
+      "sha256": "552dc779e6f501f63df8e6d866b397232f1cae3d7d7eaa115d0f93764c3dddd0",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/docs/Mi_Espanol_MASTER_TZ_v2_0_2026-11-03(1).docx",
+      "sha256": "9cbf3ea6f89db45981ce2406030ce06f993f4f9048238082274e885ed816604a",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/inventory/MANIFEST_SHA256.json",
+      "sha256": "5fdd2ae38a04c8e7b1d0a77fffcc8279f50344dea3c4022e6b0b3391c0a3371e",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/reports/Mi_Espanol_STAGE04_Productive_Skills_QA_2026-11-03(1).md",
+      "sha256": "7dc99acb13f304e09dfb585eb0c60d3d972c0fa38b71de35eb9cdfa75d59afe0",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/reports/Mi_Espanol_STAGE05_Dialogue_Curriculum_QA_2026-11-03(1).md",
+      "sha256": "5e9f50fa82f68f7a8d1edec740e21624497b9a4f45a0cf907069e0db5bf22917",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/reports/Mi_Espanol_STAGE06_Adaptive_Learning_QA_2026-11-03(1).md",
+      "sha256": "801f7fb6eefb2f5f095e06039803d4eb47ae1e6e6dd35e18800fb7dce3de1944",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/reports/Mi_Espanol_STAGE08_Unified_Review_QA_2026-11-03.md",
+      "sha256": "29972c29df4fc2c4c23d119eca8fb37fefdd873f4fa931f4d4d34601c07c0875",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/reports/Mi_Espanol_STAGE10_Visual_Learning_QA_2026-11-03.md",
+      "sha256": "131147e666eadfa1274aeb7c1dc24116e3b477d15b88c281f61f91525ef3e2e4",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/reports/Mi_Espanol_STAGE11_Mobile_Audio_Offline_QA_2026-11-03.md",
+      "sha256": "09361f6ada693723af879628b814a4c3e7688437b239b406c3be8830cda4a8a6",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/reports/Mi_Espanol_v3_Content_Implementation_Audit_2026-11-03.md",
+      "sha256": "c86a838a56a21637839b3ce61b3f20c0731a0fb56a783c377683aca5c379eebf",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/reports/Mi_Espanol_v3_Integrated_QA_Report_2026-11-03(1).md",
+      "sha256": "664cc5fef79ffc969efd106bc3e235e8bf4c8456542d1f9498625a717a7675dc",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/reports/Mi_Espanol_v3_Reliability_Implementation_Report_2026-11-03(1).md",
+      "sha256": "36f3e7a63d42855002db8a1d9185e81ec589b5510192a3758c15c01f714e4555",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/reports/Mi_Espanol_v3_Verified_Lessons_Checkpoint_2026-11-03(1).md",
+      "sha256": "06b505b024a72a84ddc651324d16077be9c7e78f5829b35fba4e923595dfc550",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/source_candidates/Mi_Espanol_LAST_TESTABLE.html",
+      "sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "originals/starter/source_candidates/Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "sha256": "54cb7d8ed3ff97c1f90a385ee9cf552e936fb028dafea08613541ba86e0e543a",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "pilot/Mi_Espanol_Pilot_R3.html",
+      "sha256": "d5980f6d480abcc7a586c2c51cc1406ac144069eb1e8c3a988635b053e6f7c89",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    },
+    {
+      "path": "pilot/Mi_Espanol_Pilot_R4.html",
+      "sha256": "975f48d72234d9cb748aebde89c3fbd3a8673a1c156d81b05f4031faea028acb",
+      "status": "BYTE_IDENTICAL_TO_R4_CHECKPOINT"
+    }
+  ],
+  "summary": {
+    "PASS": 81,
+    "FAIL": 0
+  }
+}

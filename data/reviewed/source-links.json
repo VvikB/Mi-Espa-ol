@@ -1,0 +1,580 @@
+{
+  "classification": "R5 seven thematic source links confirmed; eighth has no available note; independent acceptance pending",
+  "review_date": "2026-11-05",
+  "schemes": [
+    {
+      "legacyIndex": 0,
+      "pageIds": [
+        "NOTES-05"
+      ],
+      "anchors": [
+        "ser",
+        "soy, eres, es",
+        "somos, sois, son",
+        "de la misma edad"
+      ],
+      "status": "CONTENT_CORRESPONDENCE_VERIFIED",
+      "sourceHashes": {
+        "NOTES-05": "428654a2ea09dc370aaa212b0feaf647dedf51314b8f91ab038c87514cd1c591"
+      },
+      "r5Review": "FULL_PAGE_VISUAL_RECHECK; THEMATIC_NOT_VERBATIM",
+      "exampleOrigin": "Preserved digital examples; do not assert verbatim presence in notes",
+      "digitalRowAssessment": [
+        {
+          "rowIndex": 0,
+          "values": [
+            "yo",
+            "soy"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 1,
+          "values": [
+            "tú",
+            "eres"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 2,
+          "values": [
+            "él / ella / usted",
+            "es"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 3,
+          "values": [
+            "nosotros",
+            "somos"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 4,
+          "values": [
+            "vosotros",
+            "sois"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 5,
+          "values": [
+            "ellos / ustedes",
+            "son"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        }
+      ]
+    },
+    {
+      "legacyIndex": 1,
+      "pageIds": [
+        "NOTES-06"
+      ],
+      "anchors": [
+        "estar",
+        "estoy, estás, está",
+        "estamos, estáis, están",
+        "estar + gerundio"
+      ],
+      "status": "CONTENT_CORRESPONDENCE_VERIFIED",
+      "sourceHashes": {
+        "NOTES-06": "84b6da998ddf0974fb83a13ac6534a4887be8d6de4e3dfcd80462cf802204c74"
+      },
+      "r5Review": "FULL_PAGE_VISUAL_RECHECK; THEMATIC_NOT_VERBATIM",
+      "exampleOrigin": "Preserved digital examples; do not assert verbatim presence in notes",
+      "digitalRowAssessment": [
+        {
+          "rowIndex": 0,
+          "values": [
+            "yo",
+            "estoy"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 1,
+          "values": [
+            "tú",
+            "estás"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 2,
+          "values": [
+            "él / ella",
+            "está"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 3,
+          "values": [
+            "nosotros",
+            "estamos"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 4,
+          "values": [
+            "vosotros",
+            "estáis"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 5,
+          "values": [
+            "ellos",
+            "están"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        }
+      ]
+    },
+    {
+      "legacyIndex": 2,
+      "pageIds": [
+        "NOTES-01"
+      ],
+      "anchors": [
+        "tener",
+        "tengo, tienes, tiene",
+        "tenemos, tenéis, tienen",
+        "sed, hambre, frío, calor",
+        "tener que + infinitivo"
+      ],
+      "status": "CONTENT_CORRESPONDENCE_VERIFIED",
+      "sourceHashes": {
+        "NOTES-01": "819608c8ea8064330cf10dc811b5f88a642cda821c462504eef5cd599893f192"
+      },
+      "r5Review": "FULL_PAGE_VISUAL_RECHECK; THEMATIC_NOT_VERBATIM",
+      "exampleOrigin": "Preserved digital examples; do not assert verbatim presence in notes",
+      "digitalRowAssessment": [
+        {
+          "rowIndex": 0,
+          "values": [
+            "yo",
+            "tengo"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 1,
+          "values": [
+            "tú",
+            "tienes"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 2,
+          "values": [
+            "él / ella",
+            "tiene"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 3,
+          "values": [
+            "nosotros",
+            "tenemos"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 4,
+          "values": [
+            "vosotros",
+            "tenéis"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 5,
+          "values": [
+            "ellos",
+            "tienen"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        }
+      ]
+    },
+    {
+      "legacyIndex": 3,
+      "pageIds": [
+        "NOTES-03"
+      ],
+      "anchors": [
+        "ir a + infinitivo",
+        "voy, vas, va",
+        "vamos, vais, van",
+        "mañana"
+      ],
+      "status": "CONTENT_CORRESPONDENCE_VERIFIED",
+      "sourceHashes": {
+        "NOTES-03": "6d6730fb6099c384926a94b6e3358bed160794b55c748eaca47edfde7ff9250a"
+      },
+      "r5Review": "FULL_PAGE_VISUAL_RECHECK; THEMATIC_NOT_VERBATIM",
+      "exampleOrigin": "Preserved digital examples; do not assert verbatim presence in notes",
+      "digitalRowAssessment": [
+        {
+          "rowIndex": 0,
+          "values": [
+            "yo",
+            "voy"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 1,
+          "values": [
+            "tú",
+            "vas"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 2,
+          "values": [
+            "él / ella",
+            "va"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 3,
+          "values": [
+            "nosotros",
+            "vamos"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 4,
+          "values": [
+            "vosotros",
+            "vais"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 5,
+          "values": [
+            "ellos",
+            "van"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        }
+      ]
+    },
+    {
+      "legacyIndex": 4,
+      "pageIds": [
+        "NOTES-07"
+      ],
+      "anchors": [
+        "Qué",
+        "Por qué",
+        "Quién",
+        "Dónde",
+        "Cuál es"
+      ],
+      "status": "CONTENT_CORRESPONDENCE_VERIFIED",
+      "sourceHashes": {
+        "NOTES-07": "bfc34171bdaff21869a96fd282768068037c8be0a890c06184e4da2740e6a217"
+      },
+      "r5Review": "FULL_PAGE_VISUAL_RECHECK; THEMATIC_NOT_VERBATIM",
+      "exampleOrigin": "Preserved digital examples; do not assert verbatim presence in notes",
+      "digitalRowAssessment": [
+        {
+          "rowIndex": 0,
+          "values": [
+            "¿Qué?",
+            "Что?"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 1,
+          "values": [
+            "¿Quién?",
+            "Кто?"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 2,
+          "values": [
+            "¿Dónde? / ¿Adónde?",
+            "Где? / Куда?"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 3,
+          "values": [
+            "¿Cuándo? / ¿Cómo?",
+            "Когда? / Как?"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 4,
+          "values": [
+            "¿Por qué?",
+            "Почему?"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 5,
+          "values": [
+            "¿Cuánto cuesta?",
+            "Сколько стоит?"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        }
+      ]
+    },
+    {
+      "legacyIndex": 5,
+      "pageIds": [
+        "NOTES-02",
+        "NOTES-03"
+      ],
+      "anchors": [
+        "Предлоги времени",
+        "desde",
+        "desde hace",
+        "hace",
+        "hasta",
+        "para"
+      ],
+      "status": "CONTENT_CORRESPONDENCE_VERIFIED",
+      "sourceHashes": {
+        "NOTES-02": "aa765304b10741de9f195c36bfa381c0151746e3ae256824b8cdddaa1c59159c",
+        "NOTES-03": "6d6730fb6099c384926a94b6e3358bed160794b55c748eaca47edfde7ff9250a"
+      },
+      "r5Review": "FULL_PAGE_VISUAL_RECHECK; THEMATIC_NOT_VERBATIM",
+      "exampleOrigin": "Preserved digital examples; do not assert verbatim presence in notes",
+      "digitalRowAssessment": [
+        {
+          "rowIndex": 0,
+          "values": [
+            "a las tres",
+            "в три часа"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 1,
+          "values": [
+            "de lunes a viernes",
+            "с понедельника по пятницу"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 2,
+          "values": [
+            "desde enero",
+            "с января"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 3,
+          "values": [
+            "desde hace dos años",
+            "уже два года"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 4,
+          "values": [
+            "hace una hora",
+            "час назад"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 5,
+          "values": [
+            "por la mañana",
+            "утром"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        }
+      ]
+    },
+    {
+      "legacyIndex": 6,
+      "pageIds": [
+        "NOTES-04"
+      ],
+      "anchors": [
+        "Предлоги места",
+        "delante de",
+        "detrás de",
+        "al lado de",
+        "en el centro de"
+      ],
+      "status": "CONTENT_CORRESPONDENCE_VERIFIED",
+      "sourceHashes": {
+        "NOTES-04": "0f821481f969baf98c6902c837624b93824a11f640dd0afe70febe29050492eb"
+      },
+      "r5Review": "FULL_PAGE_VISUAL_RECHECK; THEMATIC_NOT_VERBATIM",
+      "exampleOrigin": "Preserved digital examples; do not assert verbatim presence in notes",
+      "digitalRowAssessment": [
+        {
+          "rowIndex": 0,
+          "values": [
+            "delante de / detrás de",
+            "перед / позади"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 1,
+          "values": [
+            "a la izquierda de / a la derecha de",
+            "слева от / справа от"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 2,
+          "values": [
+            "al lado de",
+            "рядом с"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 3,
+          "values": [
+            "enfrente de",
+            "напротив"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 4,
+          "values": [
+            "encima de / debajo de",
+            "над / под"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 5,
+          "values": [
+            "entre",
+            "между"
+          ],
+          "status": "PARADIGM_OR_TOPIC_CORRESPONDENCE"
+        }
+      ]
+    },
+    {
+      "legacyIndex": 7,
+      "pageIds": [],
+      "anchors": [],
+      "status": "NOT_FOUND_IN_SEVEN_AVAILABLE_NOTES",
+      "note": "Dársele bien/mal is preserved digitally in R3, but not located in these seven handwritten page images. Do not fabricate a page link.",
+      "sourceHashes": {},
+      "r5Review": "FULL_PAGE_VISUAL_RECHECK; THEMATIC_NOT_VERBATIM",
+      "exampleOrigin": "Preserved digital examples; do not assert verbatim presence in notes",
+      "digitalRowAssessment": [
+        {
+          "rowIndex": 0,
+          "values": [
+            "Se me da bien cocinar.",
+            "У меня хорошо получается готовить."
+          ],
+          "status": "NO_AVAILABLE_PAGE_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 1,
+          "values": [
+            "No se me dan bien los idiomas.",
+            "Я не очень способен к языкам."
+          ],
+          "status": "NO_AVAILABLE_PAGE_CORRESPONDENCE"
+        },
+        {
+          "rowIndex": 2,
+          "values": [
+            "¿Se te da bien nadar?",
+            "Ты хорошо плаваешь?"
+          ],
+          "status": "NO_AVAILABLE_PAGE_CORRESPONDENCE"
+        }
+      ]
+    }
+  ],
+  "grammar_section_topic_pages": {
+    "0": [
+      "GRAMMAR-01"
+    ],
+    "1": [
+      "GRAMMAR-01",
+      "GRAMMAR-02"
+    ],
+    "2": [
+      "GRAMMAR-03"
+    ],
+    "3": [
+      "GRAMMAR-04",
+      "GRAMMAR-06"
+    ],
+    "4": [
+      "GRAMMAR-05"
+    ],
+    "5": [
+      "GRAMMAR-06",
+      "GRAMMAR-07"
+    ],
+    "6": [
+      "GRAMMAR-07"
+    ],
+    "7": [
+      "GRAMMAR-08"
+    ],
+    "8": [
+      "GRAMMAR-09"
+    ],
+    "9": [
+      "GRAMMAR-10",
+      "GRAMMAR-13"
+    ],
+    "10": [
+      "GRAMMAR-11"
+    ],
+    "11": [
+      "GRAMMAR-12"
+    ],
+    "12": [
+      "GRAMMAR-13"
+    ],
+    "13": [
+      "GRAMMAR-14"
+    ],
+    "14": [
+      "GRAMMAR-15"
+    ],
+    "15": [
+      "GRAMMAR-16"
+    ]
+  },
+  "grammar_link_status": "TOPICAL_VISUAL_INDEX_NOT_ROW_COMPLETE"
+}
