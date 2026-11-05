@@ -11,8 +11,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 4407,
-    "sha256": "c88fb02a6a4c455306ac0a70b2b4e01060cea4d10d5804d85b8e8e72e3aa236e"
+    "bytes": 5313,
+    "sha256": "38dc315786622b4e371b60a0db049060408a6b37ac13e0a96526b405a8c959d9"
   },
   {
     "path": "assets/pages/7529.webp",
@@ -161,8 +161,8 @@
   },
   {
     "path": "audit/current-status.json",
-    "bytes": 1183,
-    "sha256": "73bdba6a0a478acff614c04ba27867cc3a301b52c34d44b0c4073e03cb16b72b"
+    "bytes": 1792,
+    "sha256": "d70ce5b4c812aaf0a6b31909d491940e230e1e1b6a59325fe6ac2797109a2a01"
   },
   {
     "path": "audit/entities/Mi_Espanol_LAST_TESTABLE.json",
@@ -351,8 +351,8 @@
   },
   {
     "path": "docs/CURRENT_STATUS.md",
-    "bytes": 8064,
-    "sha256": "44e0fb006cdfafc732c421778bc69141246abd38da8a8eb16697a63003194b29"
+    "bytes": 8563,
+    "sha256": "c4fe03b5d026433b1e4698511a9c215c4c77b96d45007dee68e8290265843c1c"
   },
   {
     "path": "docs/G0_AUDIT.md",
@@ -361,8 +361,8 @@
   },
   {
     "path": "docs/JOINT_WORK_PLAN.md",
-    "bytes": 22514,
-    "sha256": "0e31378867a9c635a75e2924e7cb64c9fdbd6063b819383ebc48f5a1cfcc6fec"
+    "bytes": 12542,
+    "sha256": "5e51472b859ef7e9bd43161c73b0163e6ffb24e4291f2cbd2a984fdf127c72f6"
   },
   {
     "path": "docs/RECOVERY_PLAN.md",
@@ -533,6 +533,21 @@
     "path": "originals/starter/source_candidates/Mi_Espanol_Recovery_Contrast_Audio(1).html",
     "bytes": 9868381,
     "sha256": "54cb7d8ed3ff97c1f90a385ee9cf552e936fb028dafea08613541ba86e0e543a"
+  },
+  {
+    "path": "pilot/Mi_Espanol_Pilot_R2.html",
+    "bytes": 9912890,
+    "sha256": "beed3e9287fa93e516425a60be804f383796badba297de670180e95c700347c0"
+  },
+  {
+    "path": "pilot/README.md",
+    "bytes": 2439,
+    "sha256": "0266453f0da7ee72da4b0d3e432c3ddf5d9c59cac029280ffcc305c153bf4df1"
+  },
+  {
+    "path": "pilot/manifest.json",
+    "bytes": 521,
+    "sha256": "cce1a3afe5c8b2738c5dc71e296398f77205c209a5265b56206477b5b0310f47"
   },
   {
     "path": "requirements-audit.txt",

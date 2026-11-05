@@ -1,0 +1,15 @@
+{
+  "classification": "PERSONAL_PILOT_NOT_FINAL_RELEASE",
+  "copied_from": ".audit/working/Mi_Espanol_R2_INTERNAL.html",
+  "sha256": "beed3e9287fa93e516425a60be804f383796badba297de670180e95c700347c0",
+  "bytes": 9912890,
+  "byte_identical_to_tested_R2": true,
+  "device": "iPhone 13 Pro Max",
+  "iOS_version": null,
+  "physical_device_status": "NOT_TESTED",
+  "new_educational_content_added": false,
+  "test_reports": [
+    "audit/restoration-r2/backup-tests.json",
+    "audit/restoration-r2/regression-tests.json"
+  ]
+}

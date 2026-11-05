@@ -46,5 +46,21 @@
     "D04"
   ],
   "next_package": "R3: route/exercise/source mapping, stable ID provenance, then transcription and missing course",
-  "physical_iPhone": "NOT_TESTED"
+  "physical_iPhone": "NOT_TESTED",
+  "device": {
+    "model": "iPhone 13 Pro Max",
+    "iOS_version": null,
+    "physical_testing": "NOT_TESTED"
+  },
+  "delivery_plan": {
+    "prior_calendar_withdrawn": true,
+    "reason": "Not supported by measured delivery velocity; user prioritizes starting personal study immediately.",
+    "current_pilot": "pilot/Mi_Espanol_Pilot_R2.html",
+    "pilot_adds_new_learning_content": false,
+    "target_sprint": [
+      "2026-11-05",
+      "2026-11-11"
+    ],
+    "target_scope": "Early personal use plus linked learning workflow; full specification remains open, not promised complete within one week."
+  }
 }
