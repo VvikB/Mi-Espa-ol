@@ -11,8 +11,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 3915,
-    "sha256": "7fbbe3e7c8c337012e8e1366cc383a11822c3401cc54c53b5942c92b59ab92e6"
+    "bytes": 4515,
+    "sha256": "131e0963c3359760b27a6a5ff36eb5d89d5502f3bfe9bbd0d10f3eedc46324ec"
   },
   {
     "path": "assets/pages/7529.webp",
@@ -381,8 +381,8 @@
   },
   {
     "path": "docs/TRANSFER.md",
-    "bytes": 4229,
-    "sha256": "b550722c8a59e591f0cfb393a744d06b3fea1e89f6140de427e50c5861e8017d"
+    "bytes": 4549,
+    "sha256": "4e5d45fa835331b8befee58a7d207c2f7993bf2d18f719a8888b1e018b650a9e"
   },
   {
     "path": "experimental/pre-audit-draft/README.md",
