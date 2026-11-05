@@ -1,0 +1,18 @@
+{
+  "classification": "R6_SIX_AUTHORED_A1_LESSONS_REVIEW_BUILD_NOT_FINAL",
+  "source_branch": "r6-a1-lessons",
+  "html_sha256": "e912901af046236b2809f46b2edcc85018083920fe35e5067bd214cc155affea",
+  "zip_sha256": "9943303653ba609fabc8bc6bd5ea8fdf3bafbdcad12f2874a8025f94a14769f8",
+  "html_bytes": 10855909,
+  "zip_bytes": 7606286,
+  "lessons": 6,
+  "independent_methodical_acceptance": "PENDING",
+  "PCIC_CEFR_direct_source_verification": "BLOCKED_HTTP_403",
+  "physical_iPhone_Safari": "UNTESTED",
+  "reports": [
+    "lesson-tests.json",
+    "regression-tests.json",
+    "backup-tests.json",
+    "journey-tests.json"
+  ]
+}

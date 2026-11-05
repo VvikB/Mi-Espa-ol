@@ -1,0 +1,1160 @@
+{
+  "id": "A1-05",
+  "title": "Город и время",
+  "level": "A1",
+  "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+  "cefrOutcome": [
+    "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+  ],
+  "pcic": [
+    "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+  ],
+  "prerequisites": "A1-01–04: вопросы, числа, ir и местонахождение.",
+  "situation": "Вы договариваетесь встретиться у станции и проверяете, как туда добраться.",
+  "originalMaterials": [
+    "GRAMMAR-07",
+    "NOTES-02",
+    "NOTES-04",
+    "NOTES-07"
+  ],
+  "tableRefs": [],
+  "nextLesson": "A1-06",
+  "estimatedMinutes": 40,
+  "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+  "languageReview": "ASSISTANT_EDITED",
+  "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+  "explanations": [
+    {
+      "id": "A1-05:explanation:1",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "title": "Вопросы для ориентирования",
+      "text": "¿Dónde está la estación? — где находится станция? ¿Adónde vas? — куда ты идёшь/едешь? ¿A qué hora sale el tren? — во сколько отправляется поезд? У вопросительных qué/dónde/adónde сохраняется тильда. Для места конкретного здания используется estar: La estación está cerca. Название события и его место — особый случай ser, но здесь мы ищем здания и людей. El autobús и el tren можно сначала учить как готовые слова в транспортной ситуации."
+    },
+    {
+      "id": "A1-05:explanation:2",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "title": "Место и направление",
+      "text": "Cerca de — близко от, lejos de — далеко от, al lado de — рядом с, delante de — перед, detrás de — позади. De + el даёт del: cerca del banco. A la derecha / a la izquierda — направо/налево или справа/слева по контексту. Чтобы сказать «справа от станции», нужен de: a la derecha de la estación. Между двумя ориентирами: entre el banco y la farmacia. Не путайте enfrente de — напротив и delante de — перед. Следуйте по одному ориентиру за раз и при необходимости повторите маршрут собеседнику."
+    },
+    {
+      "id": "A1-05:explanation:3",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "title": "Часы и время встречи",
+      "text": "¿Qué hora es? — который час? Es la una; son las dos. Для времени события: a la una, a las dos. A las tres y media — в половине четвёртого; a las tres y cuarto — в четверть четвёртого; a las cuatro menos cuarto — без четверти четыре. В расписаниях есть 24-часовая запись: 15:30. В заданиях мы указываем, требуется ли разговорная 12-часовая форма. Mañana — завтра, por la mañana — утром. Desde las nueve — начиная с девяти, hasta las seis — до шести. Временные предлоги выбираются по смыслу, не по одному русскому слову «в»."
+    }
+  ],
+  "lexicon": [
+    {
+      "id": "A1-05:lexicon:1",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 19,
+      "es": "la estación",
+      "ru": "станция",
+      "note": "¿Dónde está la estación?"
+    },
+    {
+      "id": "A1-05:lexicon:2",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 17,
+      "es": "la calle",
+      "ru": "улица",
+      "note": "por esta calle"
+    },
+    {
+      "id": "A1-05:lexicon:3",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 20,
+      "es": "el billete",
+      "ru": "билет",
+      "note": "un billete de tren"
+    },
+    {
+      "id": "A1-05:lexicon:4",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 21,
+      "es": "la izquierda",
+      "ru": "левая сторона",
+      "note": "a la izquierda"
+    },
+    {
+      "id": "A1-05:lexicon:5",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 22,
+      "es": "la derecha",
+      "ru": "правая сторона",
+      "note": "a la derecha"
+    },
+    {
+      "id": "A1-05:lexicon:6",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 23,
+      "es": "cerca",
+      "ru": "близко",
+      "note": "cerca de / cerca del"
+    },
+    {
+      "id": "A1-05:lexicon:7",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 24,
+      "es": "lejos",
+      "ru": "далеко",
+      "note": "lejos de"
+    },
+    {
+      "id": "A1-05:lexicon:8",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 62,
+      "es": "el tiempo",
+      "ru": "время/погода",
+      "note": "Для часа суток нужна формула ¿Qué hora es?"
+    },
+    {
+      "id": "A1-05:lexicon:9",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 47,
+      "es": "hoy",
+      "ru": "сегодня",
+      "note": "hoy a las tres"
+    },
+    {
+      "id": "A1-05:lexicon:10",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 49,
+      "es": "mañana",
+      "ru": "завтра/утро",
+      "note": "mañana por la mañana"
+    }
+  ],
+  "dialogue": {
+    "id": "A1-05:dialogue:1",
+    "level": "A1",
+    "topic": "Город и время",
+    "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+    ],
+    "cefr": [
+      "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-07",
+      "NOTES-02",
+      "NOTES-04",
+      "NOTES-07"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "turns": [
+      {
+        "speaker": "Clara",
+        "es": "Perdón, ¿dónde está la estación?",
+        "ru": "Извините, где станция?",
+        "id": "A1-05:dialogue:1:turn:01",
+        "level": "A1",
+        "topic": "Город и время",
+        "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+        ],
+        "cefr": [
+          "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-07",
+          "NOTES-02",
+          "NOTES-04",
+          "NOTES-07"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Vecino",
+        "es": "Está cerca. Sigue por esta calle y gira a la derecha.",
+        "ru": "Она близко. Идите по этой улице и поверните направо.",
+        "id": "A1-05:dialogue:1:turn:02",
+        "level": "A1",
+        "topic": "Город и время",
+        "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+        ],
+        "cefr": [
+          "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-07",
+          "NOTES-02",
+          "NOTES-04",
+          "NOTES-07"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Clara",
+        "es": "¿Está al lado de la farmacia?",
+        "ru": "Она рядом с аптекой?",
+        "id": "A1-05:dialogue:1:turn:03",
+        "level": "A1",
+        "topic": "Город и время",
+        "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+        ],
+        "cefr": [
+          "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-07",
+          "NOTES-02",
+          "NOTES-04",
+          "NOTES-07"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Vecino",
+        "es": "No, está enfrente de la farmacia, junto al banco.",
+        "ru": "Нет, напротив аптеки, рядом с банком.",
+        "id": "A1-05:dialogue:1:turn:04",
+        "level": "A1",
+        "topic": "Город и время",
+        "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+        ],
+        "cefr": [
+          "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-07",
+          "NOTES-02",
+          "NOTES-04",
+          "NOTES-07"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Clara",
+        "es": "Gracias. Mi tren sale a las tres y media. ¿Tengo tiempo?",
+        "ru": "Спасибо. Мой поезд отправляется в половине четвёртого. Я успею?",
+        "id": "A1-05:dialogue:1:turn:05",
+        "level": "A1",
+        "topic": "Город и время",
+        "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+        ],
+        "cefr": [
+          "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-07",
+          "NOTES-02",
+          "NOTES-04",
+          "NOTES-07"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Vecino",
+        "es": "Son las tres. A pie son diez minutos.",
+        "ru": "Сейчас три. Пешком десять минут.",
+        "id": "A1-05:dialogue:1:turn:06",
+        "level": "A1",
+        "topic": "Город и время",
+        "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+        ],
+        "cefr": [
+          "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-07",
+          "NOTES-02",
+          "NOTES-04",
+          "NOTES-07"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Clara",
+        "es": "Entonces voy andando. Muchas gracias.",
+        "ru": "Тогда пойду пешком. Большое спасибо.",
+        "id": "A1-05:dialogue:1:turn:07",
+        "level": "A1",
+        "topic": "Город и время",
+        "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+        ],
+        "cefr": [
+          "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-07",
+          "NOTES-02",
+          "NOTES-04",
+          "NOTES-07"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Vecino",
+        "es": "De nada. Buen viaje.",
+        "ru": "Не за что. Счастливого пути.",
+        "id": "A1-05:dialogue:1:turn:08",
+        "level": "A1",
+        "topic": "Город и время",
+        "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+        ],
+        "cefr": [
+          "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-07",
+          "NOTES-02",
+          "NOTES-04",
+          "NOTES-07"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      }
+    ]
+  },
+  "reading": {
+    "id": "A1-05:reading:1",
+    "level": "A1",
+    "topic": "Город и время",
+    "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+    ],
+    "cefr": [
+      "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-07",
+      "NOTES-02",
+      "NOTES-04",
+      "NOTES-07"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "text": "Luis tiene una cita con Ana a las cinco y cuarto. El café está al lado de la biblioteca, no dentro de la estación. Luis sale de casa a las cinco y va a pie. Primero sigue por la calle Mayor. Después gira a la izquierda. La biblioteca está entre el banco y la farmacia. Ana llega antes y espera delante del café. Luis tiene quince minutos para llegar.",
+    "support": [
+      "cita — встреча/назначенная встреча",
+      "a pie — пешком",
+      "primero — сначала",
+      "después — потом",
+      "llega antes — приходит раньше"
+    ]
+  },
+  "listening": {
+    "id": "A1-05:listening:1",
+    "level": "A1",
+    "topic": "Город и время",
+    "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+    ],
+    "cefr": [
+      "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-07",
+      "NOTES-02",
+      "NOTES-04",
+      "NOTES-07"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "text": "Hola, Ana. Soy Luis. Nuestro autobús sale a las seis y media de la estación del centro. La parada está a la derecha de la entrada, junto a una farmacia. Nos vemos allí a las seis y cuarto. Trae el billete, por favor. Si no encuentras la parada, llámame.",
+    "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+  },
+  "typicalErrors": [
+    [
+      "Son la una",
+      "Единственное число: Es la una."
+    ],
+    [
+      "A la tres",
+      "Для трёх часов: a las tres."
+    ],
+    [
+      "Cerca de el banco",
+      "Обычное слияние: cerca del banco."
+    ],
+    [
+      "Mañana и por la mañana одно и то же",
+      "Завтра и утром различаются; mañana por la mañana — завтра утром."
+    ]
+  ],
+  "tasks": [
+    {
+      "id": "A1-05:task:01",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "gap",
+      "skill": "reading",
+      "contentId": "A1-05",
+      "prompt": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "stage": "explanation",
+      "activityKind": "study"
+    },
+    {
+      "id": "A1-05:task:02",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "gap",
+      "skill": "reading",
+      "contentId": "A1-05:dialogue:1",
+      "prompt": "Прочитайте диалог по ролям. Сравните с объяснением, затем закройте перевод и повторите реплики.",
+      "stage": "dialogue",
+      "activityKind": "study"
+    },
+    {
+      "id": "A1-05:task:03",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "gap",
+      "skill": "reading",
+      "contentId": "A1-05",
+      "prompt": "Послушайте сочетания. Откройте нужную карточку и вспомните значение; просмотр не считается знанием.",
+      "stage": "lexicon",
+      "activityKind": "study"
+    },
+    {
+      "id": "A1-05:task:04",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Как спросить время отправления?",
+      "expected": "¿A qué hora sale el tren?",
+      "alternatives": [],
+      "explanation": "A qué hora — вопрос о времени события.",
+      "options": [
+        "¿A qué hora sale el tren?",
+        "¿Dónde hora sale el tren?",
+        "¿Cuánto lugar sale el tren?"
+      ],
+      "activityKind": "choice",
+      "contentId": "A1-05:task:04"
+    },
+    {
+      "id": "A1-05:task:05",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Вставьте только estar: La estación ___ cerca.",
+      "expected": "está",
+      "alternatives": [],
+      "explanation": "Конкретное здание: está.",
+      "options": [],
+      "activityKind": "input",
+      "contentId": "A1-05:task:05"
+    },
+    {
+      "id": "A1-05:task:06",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Объедините de + el в сочетании cerca de el banco. Введите исправленное сочетание.",
+      "expected": "cerca del banco",
+      "alternatives": [],
+      "explanation": "De + el → del.",
+      "options": [],
+      "activityKind": "input",
+      "contentId": "A1-05:task:06"
+    },
+    {
+      "id": "A1-05:task:07",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "reading",
+      "skill": "reading",
+      "prompt": "Где находится кафе?",
+      "expected": "Рядом с библиотекой",
+      "alternatives": [],
+      "explanation": "El café está al lado de la biblioteca.",
+      "options": [
+        "Рядом с библиотекой",
+        "Внутри станции",
+        "За домом Луиса"
+      ],
+      "text": "Luis tiene una cita con Ana a las cinco y cuarto. El café está al lado de la biblioteca, no dentro de la estación. Luis sale de casa a las cinco y va a pie. Primero sigue por la calle Mayor. Después gira a la izquierda. La biblioteca está entre el banco y la farmacia. Ana llega antes y espera delante del café. Luis tiene quince minutos para llegar.",
+      "activityKind": "reading",
+      "meaning": "Рядом с библиотекой",
+      "contentId": "A1-05:task:07"
+    },
+    {
+      "id": "A1-05:task:08",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "reading",
+      "skill": "reading",
+      "prompt": "Во сколько назначена встреча?",
+      "expected": "a las cinco y cuarto",
+      "alternatives": [],
+      "explanation": "Una cita ... a las cinco y cuarto.",
+      "options": [
+        "a las cinco y cuarto",
+        "a las cinco",
+        "a las seis y cuarto"
+      ],
+      "text": "Luis tiene una cita con Ana a las cinco y cuarto. El café está al lado de la biblioteca, no dentro de la estación. Luis sale de casa a las cinco y va a pie. Primero sigue por la calle Mayor. Después gira a la izquierda. La biblioteca está entre el banco y la farmacia. Ana llega antes y espera delante del café. Luis tiene quince minutos para llegar.",
+      "activityKind": "reading",
+      "meaning": "a las cinco y cuarto",
+      "contentId": "A1-05:task:08"
+    },
+    {
+      "id": "A1-05:task:09",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "listening",
+      "skill": "listening",
+      "prompt": "Во сколько отправляется автобус?",
+      "expected": "a las seis y media",
+      "alternatives": [],
+      "explanation": "Автобус в 6:30; встреча раньше, в 6:15.",
+      "options": [
+        "a las seis y media",
+        "a las seis y cuarto",
+        "a las cinco y media"
+      ],
+      "text": "Hola, Ana. Soy Luis. Nuestro autobús sale a las seis y media de la estación del centro. La parada está a la derecha de la entrada, junto a una farmacia. Nos vemos allí a las seis y cuarto. Trae el billete, por favor. Si no encuentras la parada, llámame.",
+      "activityKind": "listening",
+      "meaning": "a las seis y media",
+      "contentId": "A1-05:task:09"
+    },
+    {
+      "id": "A1-05:task:10",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "listening",
+      "skill": "listening",
+      "prompt": "Где остановка относительно входа?",
+      "expected": "Справа",
+      "alternatives": [],
+      "explanation": "A la derecha de la entrada.",
+      "options": [
+        "Справа",
+        "Слева",
+        "Внутри входа"
+      ],
+      "text": "Hola, Ana. Soy Luis. Nuestro autobús sale a las seis y media de la estación del centro. La parada está a la derecha de la entrada, junto a una farmacia. Nos vemos allí a las seis y cuarto. Trae el billete, por favor. Si no encuentras la parada, llámame.",
+      "activityKind": "listening",
+      "meaning": "Справа",
+      "contentId": "A1-05:task:10"
+    },
+    {
+      "id": "A1-05:task:11",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Новая ситуация: встреча в 15:30. Запишите время с a, используя tres и media (12-часовая форма).",
+      "expected": "a las tres y media",
+      "alternatives": [],
+      "explanation": "Заданный формат исключает другие допустимые варианты расписания.",
+      "options": [],
+      "activityKind": "input",
+      "transfer": true,
+      "contentId": "A1-05:task:11"
+    },
+    {
+      "id": "A1-05:task:12",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "writing",
+      "skill": "writing",
+      "prompt": "Напишите сообщение другу: время встречи, ориентир, два шага маршрута и просьба связаться при затруднении. Используйте вымышленное место.",
+      "rubric": [
+        "Названы время и точное место",
+        "Даны два различимых шага/ориентира",
+        "Проверены a la/a las и de/del"
+      ],
+      "minimumWords": 18,
+      "explanation": "Сохранение текста не означает автоматической проверки грамматики.",
+      "activityKind": "writing",
+      "contentId": "A1-05:task:12"
+    },
+    {
+      "id": "A1-05:task:13",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "speaking",
+      "skill": "speaking",
+      "prompt": "Объясните воображаемый путь от дома к станции и назовите время встречи. Затем переспросите один ориентир, как будто вы не поняли ответ.",
+      "rubric": [
+        "Сказал(а) место и время",
+        "Назвал(а) хотя бы два последовательных ориентира",
+        "Переспросил(а) без перехода на готовый русский перевод"
+      ],
+      "explanation": "Произнесите вслух. Автоматической оценки произношения и свободной речи нет.",
+      "activityKind": "speaking",
+      "contentId": "A1-05:task:13"
+    },
+    {
+      "id": "A1-05:task:14",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: вставьте только es/son: ___ la una.",
+      "expected": "Es",
+      "alternatives": [],
+      "explanation": "La una — единственное число.",
+      "options": [],
+      "control": true,
+      "activityKind": "input",
+      "contentId": "A1-05:task:14"
+    },
+    {
+      "id": "A1-05:task:15",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: что значит mañana por la mañana?",
+      "expected": "Завтра утром",
+      "alternatives": [],
+      "explanation": "Mañana — завтра, por la mañana — утром.",
+      "options": [
+        "Завтра утром",
+        "Сегодня вечером",
+        "Вчера утром"
+      ],
+      "control": true,
+      "activityKind": "choice",
+      "contentId": "A1-05:task:15"
+    },
+    {
+      "id": "A1-05:task:16",
+      "level": "A1",
+      "topic": "Город и время",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: вставьте только артикль: a ___ dos.",
+      "expected": "las",
+      "alternatives": [],
+      "explanation": "A las dos.",
+      "options": [],
+      "control": true,
+      "activityKind": "input",
+      "contentId": "A1-05:task:16"
+    }
+  ],
+  "repetitionDays": [
+    1,
+    3,
+    7,
+    14,
+    30
+  ],
+  "alphabet": null,
+  "durationRangeMinutes": [
+    35,
+    50
+  ]
+}

@@ -1,0 +1,1201 @@
+{
+  "id": "A1-03",
+  "title": "Мой день",
+  "level": "A1",
+  "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+  "cefrOutcome": [
+    "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+  ],
+  "pcic": [
+    "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+  ],
+  "prerequisites": "A1-01–02: лицо, ser/estar, род и простые вопросы.",
+  "situation": "Вы договариваетесь с одногруппником о времени совместной практики.",
+  "originalMaterials": [
+    "GRAMMAR-08",
+    "GRAMMAR-09",
+    "GRAMMAR-11",
+    "NOTES-01",
+    "NOTES-03"
+  ],
+  "tableRefs": [],
+  "nextLesson": "A1-04",
+  "estimatedMinutes": 40,
+  "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+  "languageReview": "ASSISTANT_EDITED",
+  "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+  "explanations": [
+    {
+      "id": "A1-03:explanation:1",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "title": "Presente: привычка и настоящее",
+      "text": "Регулярные глаголы имеют окончания -ar, -er, -ir. Hablar: hablo, hablas, habla, hablamos, habláis, hablan; comer: como, comes, come, comemos, coméis, comen; vivir: vivo, vives, vive, vivimos, vivís, viven. Presente описывает привычки и события настоящего: Trabajo por la mañana. Не добавляйте отдельное «есть» по русской/английской модели: Yo trabajo, а не yo soy trabajo. Вопрос часто отличается порядком слов/интонацией и знаками, а отрицание ставит no перед формой: No trabajo los domingos."
+    },
+    {
+      "id": "A1-03:explanation:2",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "title": "TENER и IR в повседневной речи",
+      "text": "Tener: tengo, tienes, tiene, tenemos, tenéis, tienen. Tengo tiempo — у меня есть время; tengo hambre — я голоден/голодна. Ir: voy, vas, va, vamos, vais, van. Voy al trabajo — я иду/еду на работу; a + el сливается в al. Ir не означает только движение пешком. Пока описываем обычное направление; планы ir a + infinitivo подробно будут в A1-06. Дни с повторяемостью: los lunes, los fines de semana. По порядку действий помогают primero, después, luego; это готовые связки."
+    },
+    {
+      "id": "A1-03:explanation:3",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "title": "Возвратная форма и свой распорядок",
+      "text": "Levantarse: me levanto, te levantas, se levanta, nos levantamos, os levantáis, se levantan. Местоимение изменяется вместе с лицом: Ana se levanta, не Ana me levanta, если речь о ней самой. Me levanto — я встаю; levanto la caja — поднимаю коробку: не любой глагол обязан быть возвратным. В отрицании no ставится перед местоимением: No me levanto tarde. Для точного времени достаточно готовой формулы a las siete. Не переносите русское окончание -ся на все слова: tengo hambre не возвратная конструкция."
+    }
+  ],
+  "lexicon": [
+    {
+      "id": "A1-03:lexicon:1",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 384,
+      "es": "levantarse",
+      "ru": "вставать",
+      "note": "me levanto / se levanta"
+    },
+    {
+      "id": "A1-03:lexicon:2",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 25,
+      "es": "el trabajo",
+      "ru": "работа",
+      "note": "voy al trabajo"
+    },
+    {
+      "id": "A1-03:lexicon:3",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 88,
+      "es": "ir",
+      "ru": "идти/ехать",
+      "note": "voy / vamos"
+    },
+    {
+      "id": "A1-03:lexicon:4",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 85,
+      "es": "tener",
+      "ru": "иметь",
+      "note": "tengo tiempo / tengo hambre"
+    },
+    {
+      "id": "A1-03:lexicon:5",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 372,
+      "es": "comer",
+      "ru": "есть",
+      "note": "como / comemos"
+    },
+    {
+      "id": "A1-03:lexicon:6",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 71,
+      "es": "hablar",
+      "ru": "говорить",
+      "note": "hablo / hablamos"
+    },
+    {
+      "id": "A1-03:lexicon:7",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 432,
+      "es": "estudiar",
+      "ru": "учиться",
+      "note": "estudio español"
+    },
+    {
+      "id": "A1-03:lexicon:8",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 51,
+      "es": "siempre",
+      "ru": "всегда",
+      "note": "наречие"
+    },
+    {
+      "id": "A1-03:lexicon:9",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 53,
+      "es": "a veces",
+      "ru": "иногда",
+      "note": "выражение частоты"
+    },
+    {
+      "id": "A1-03:lexicon:10",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 457,
+      "es": "temprano",
+      "ru": "рано",
+      "note": "me levanto temprano"
+    }
+  ],
+  "dialogue": {
+    "id": "A1-03:dialogue:1",
+    "level": "A1",
+    "topic": "Мой день",
+    "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+    ],
+    "cefr": [
+      "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-08",
+      "GRAMMAR-09",
+      "GRAMMAR-11",
+      "NOTES-01",
+      "NOTES-03"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "turns": [
+      {
+        "speaker": "Marta",
+        "es": "¿A qué hora te levantas normalmente?",
+        "ru": "Во сколько ты обычно встаёшь?",
+        "id": "A1-03:dialogue:1:turn:01",
+        "level": "A1",
+        "topic": "Мой день",
+        "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+        ],
+        "cefr": [
+          "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-08",
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-01",
+          "NOTES-03"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Diego",
+        "es": "Me levanto a las siete y desayuno en casa.",
+        "ru": "Я встаю в семь и завтракаю дома.",
+        "id": "A1-03:dialogue:1:turn:02",
+        "level": "A1",
+        "topic": "Мой день",
+        "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+        ],
+        "cefr": [
+          "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-08",
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-01",
+          "NOTES-03"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Marta",
+        "es": "¿Vas al trabajo por la mañana?",
+        "ru": "Ты ходишь на работу утром?",
+        "id": "A1-03:dialogue:1:turn:03",
+        "level": "A1",
+        "topic": "Мой день",
+        "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+        ],
+        "cefr": [
+          "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-08",
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-01",
+          "NOTES-03"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Diego",
+        "es": "Sí. Trabajo de nueve a dos. Después como con una compañera.",
+        "ru": "Да. Работаю с девяти до двух. Потом обедаю с коллегой.",
+        "id": "A1-03:dialogue:1:turn:04",
+        "level": "A1",
+        "topic": "Мой день",
+        "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+        ],
+        "cefr": [
+          "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-08",
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-01",
+          "NOTES-03"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Marta",
+        "es": "Yo estudio por la tarde. ¿Tienes tiempo a las seis?",
+        "ru": "Я учусь после обеда. У тебя есть время в шесть?",
+        "id": "A1-03:dialogue:1:turn:05",
+        "level": "A1",
+        "topic": "Мой день",
+        "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+        ],
+        "cefr": [
+          "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-08",
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-01",
+          "NOTES-03"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Diego",
+        "es": "Sí, tengo media hora.",
+        "ru": "Да, у меня есть полчаса.",
+        "id": "A1-03:dialogue:1:turn:06",
+        "level": "A1",
+        "topic": "Мой день",
+        "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+        ],
+        "cefr": [
+          "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-08",
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-01",
+          "NOTES-03"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Marta",
+        "es": "Perfecto. Practicamos español en la biblioteca.",
+        "ru": "Отлично. Попрактикуем испанский в библиотеке.",
+        "id": "A1-03:dialogue:1:turn:07",
+        "level": "A1",
+        "topic": "Мой день",
+        "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+        ],
+        "cefr": [
+          "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-08",
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-01",
+          "NOTES-03"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Diego",
+        "es": "De acuerdo. Nos vemos allí.",
+        "ru": "Хорошо. Увидимся там.",
+        "id": "A1-03:dialogue:1:turn:08",
+        "level": "A1",
+        "topic": "Мой день",
+        "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+        ],
+        "cefr": [
+          "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-08",
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-01",
+          "NOTES-03"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      }
+    ]
+  },
+  "reading": {
+    "id": "A1-03:reading:1",
+    "level": "A1",
+    "topic": "Мой день",
+    "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+    ],
+    "cefr": [
+      "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-08",
+      "GRAMMAR-09",
+      "GRAMMAR-11",
+      "NOTES-01",
+      "NOTES-03"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "text": "Los días de trabajo me levanto a las siete. Primero desayuno y después voy al trabajo. Trabajo en una oficina y hablo con muchos clientes. Como a las dos y vuelvo a casa a las seis. Por la tarde estudio español durante media hora. Mi hermano se levanta más tarde porque trabaja por la noche. Los domingos no trabajo y a veces paseo con mi familia.",
+    "support": [
+      "desayuno — завтракаю",
+      "oficina — офис",
+      "vuelvo — возвращаюсь",
+      "por la noche — ночью",
+      "media hora — полчаса"
+    ]
+  },
+  "listening": {
+    "id": "A1-03:listening:1",
+    "level": "A1",
+    "topic": "Мой день",
+    "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+    ],
+    "cefr": [
+      "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-08",
+      "GRAMMAR-09",
+      "GRAMMAR-11",
+      "NOTES-01",
+      "NOTES-03"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "text": "Soy Julia. Normalmente me levanto a las ocho y estudio en casa por la mañana. A las doce voy a la biblioteca. Como con mi hermana a las dos. Por la tarde trabajo en una tienda. Los sábados no trabajo: tengo tiempo para nadar y ver a mis amigos.",
+    "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+  },
+  "typicalErrors": [
+    [
+      "Ana me levanta, когда она сама встаёт",
+      "Нужно Ana se levanta; me означало бы, что она поднимает меня."
+    ],
+    [
+      "Nosotros come",
+      "Окончание зависит от лица: comemos."
+    ],
+    [
+      "Voy a el trabajo",
+      "Обычно слияние al: voy al trabajo."
+    ],
+    [
+      "Tengo hambre переводится как «имею голод»",
+      "В русском естественно «я голоден/голодна»."
+    ]
+  ],
+  "tasks": [
+    {
+      "id": "A1-03:task:01",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "gap",
+      "skill": "reading",
+      "contentId": "A1-03",
+      "prompt": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "stage": "explanation",
+      "activityKind": "study"
+    },
+    {
+      "id": "A1-03:task:02",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "gap",
+      "skill": "reading",
+      "contentId": "A1-03:dialogue:1",
+      "prompt": "Прочитайте диалог по ролям. Сравните с объяснением, затем закройте перевод и повторите реплики.",
+      "stage": "dialogue",
+      "activityKind": "study"
+    },
+    {
+      "id": "A1-03:task:03",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "gap",
+      "skill": "reading",
+      "contentId": "A1-03",
+      "prompt": "Послушайте сочетания. Откройте нужную карточку и вспомните значение; просмотр не считается знанием.",
+      "stage": "lexicon",
+      "activityKind": "study"
+    },
+    {
+      "id": "A1-03:task:04",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Как сказать, что Ана сама встаёт в семь?",
+      "expected": "Ana se levanta a las siete.",
+      "alternatives": [],
+      "explanation": "Se согласуется с Ana; levanta — третье лицо.",
+      "options": [
+        "Ana se levanta a las siete.",
+        "Ana me levanto a las siete.",
+        "Ana levantarse a las siete."
+      ],
+      "activityKind": "choice",
+      "contentId": "A1-03:task:04"
+    },
+    {
+      "id": "A1-03:task:05",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Вставьте только hablar: Nosotros ___ español.",
+      "expected": "hablamos",
+      "alternatives": [],
+      "explanation": "Nosotros: hablar → hablamos.",
+      "options": [],
+      "activityKind": "input",
+      "contentId": "A1-03:task:05"
+    },
+    {
+      "id": "A1-03:task:06",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Замените yo на Ana и начните с Ana: Me levanto temprano.",
+      "expected": "Ana se levanta temprano.",
+      "alternatives": [],
+      "explanation": "Me levanto → Ana se levanta.",
+      "options": [],
+      "activityKind": "input",
+      "contentId": "A1-03:task:06"
+    },
+    {
+      "id": "A1-03:task:07",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "reading",
+      "skill": "reading",
+      "prompt": "Почему брат встаёт позже?",
+      "expected": "Он работает ночью",
+      "alternatives": [],
+      "explanation": "Porque trabaja por la noche.",
+      "options": [
+        "Он работает ночью",
+        "Он не работает",
+        "Он всегда плавает утром"
+      ],
+      "text": "Los días de trabajo me levanto a las siete. Primero desayuno y después voy al trabajo. Trabajo en una oficina y hablo con muchos clientes. Como a las dos y vuelvo a casa a las seis. Por la tarde estudio español durante media hora. Mi hermano se levanta más tarde porque trabaja por la noche. Los domingos no trabajo y a veces paseo con mi familia.",
+      "activityKind": "reading",
+      "meaning": "Он работает ночью",
+      "contentId": "A1-03:task:07"
+    },
+    {
+      "id": "A1-03:task:08",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "reading",
+      "skill": "reading",
+      "prompt": "Сколько времени рассказчик учит испанский вечером?",
+      "expected": "Полчаса",
+      "alternatives": [],
+      "explanation": "Durante media hora — полчаса.",
+      "options": [
+        "Полчаса",
+        "Два часа",
+        "Весь вечер"
+      ],
+      "text": "Los días de trabajo me levanto a las siete. Primero desayuno y después voy al trabajo. Trabajo en una oficina y hablo con muchos clientes. Como a las dos y vuelvo a casa a las seis. Por la tarde estudio español durante media hora. Mi hermano se levanta más tarde porque trabaja por la noche. Los domingos no trabajo y a veces paseo con mi familia.",
+      "activityKind": "reading",
+      "meaning": "Полчаса",
+      "contentId": "A1-03:task:08"
+    },
+    {
+      "id": "A1-03:task:09",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "listening",
+      "skill": "listening",
+      "prompt": "Куда Хулия идёт в двенадцать?",
+      "expected": "В библиотеку",
+      "alternatives": [],
+      "explanation": "A las doce voy a la biblioteca.",
+      "options": [
+        "В библиотеку",
+        "На работу",
+        "В бассейн"
+      ],
+      "text": "Soy Julia. Normalmente me levanto a las ocho y estudio en casa por la mañana. A las doce voy a la biblioteca. Como con mi hermana a las dos. Por la tarde trabajo en una tienda. Los sábados no trabajo: tengo tiempo para nadar y ver a mis amigos.",
+      "activityKind": "listening",
+      "meaning": "В библиотеку",
+      "contentId": "A1-03:task:09"
+    },
+    {
+      "id": "A1-03:task:10",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "listening",
+      "skill": "listening",
+      "prompt": "Когда Хулия не работает?",
+      "expected": "По субботам",
+      "alternatives": [],
+      "explanation": "Los sábados no trabajo.",
+      "options": [
+        "По субботам",
+        "Каждый день",
+        "По понедельникам"
+      ],
+      "text": "Soy Julia. Normalmente me levanto a las ocho y estudio en casa por la mañana. A las doce voy a la biblioteca. Como con mi hermana a las dos. Por la tarde trabajo en una tienda. Los sábados no trabajo: tengo tiempo para nadar y ver a mis amigos.",
+      "activityKind": "listening",
+      "meaning": "По субботам",
+      "contentId": "A1-03:task:10"
+    },
+    {
+      "id": "A1-03:task:11",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Новая ситуация: вы с другом идёте на работу. Составьте фразу без местоимения: ir (nosotros) / al trabajo.",
+      "expected": "Vamos al trabajo.",
+      "alternatives": [],
+      "explanation": "Ir, nosotros: vamos. Сохраняем al.",
+      "options": [],
+      "activityKind": "input",
+      "transfer": true,
+      "contentId": "A1-03:task:11"
+    },
+    {
+      "id": "A1-03:task:12",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "writing",
+      "skill": "writing",
+      "prompt": "Опишите свой или вымышленный будний день: подъём, дорога, работа/учёба, еда, вечер. Добавьте одно отрицание и выражение частоты.",
+      "rubric": [
+        "Есть минимум пять действий в presente",
+        "Возвратное местоимение согласуется с лицом",
+        "Есть no и siempre/a veces/nunca"
+      ],
+      "minimumWords": 20,
+      "explanation": "Сохранение текста не означает автоматической проверки грамматики.",
+      "activityKind": "writing",
+      "contentId": "A1-03:task:12"
+    },
+    {
+      "id": "A1-03:task:13",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "speaking",
+      "skill": "speaking",
+      "prompt": "Расскажите о дне без чтения готового текста. Затем перескажите два действия знакомого в третьем лице.",
+      "rubric": [
+        "Сказал(а) пять действий по порядку",
+        "Сменил(а) хотя бы две формы yo → él/ella",
+        "При затруднении использовал(а) переспрос или простую переформулировку"
+      ],
+      "explanation": "Произнесите вслух. Автоматической оценки произношения и свободной речи нет.",
+      "activityKind": "speaking",
+      "contentId": "A1-03:task:13"
+    },
+    {
+      "id": "A1-03:task:14",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: вставьте только tener: Yo ___ tiempo.",
+      "expected": "tengo",
+      "alternatives": [],
+      "explanation": "Неправильная форма yo: tengo.",
+      "options": [],
+      "control": true,
+      "activityKind": "input",
+      "contentId": "A1-03:task:14"
+    },
+    {
+      "id": "A1-03:task:15",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: выберите отрицание привычки.",
+      "expected": "No me levanto tarde.",
+      "alternatives": [],
+      "explanation": "No перед местоимением и личной формой.",
+      "options": [
+        "No me levanto tarde.",
+        "Me no levanto tarde.",
+        "No me levantar tarde."
+      ],
+      "control": true,
+      "activityKind": "choice",
+      "contentId": "A1-03:task:15"
+    },
+    {
+      "id": "A1-03:task:16",
+      "level": "A1",
+      "topic": "Мой день",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: вставьте только comer: Nosotros ___ a las dos.",
+      "expected": "comemos",
+      "alternatives": [],
+      "explanation": "Comer, nosotros: comemos.",
+      "options": [],
+      "control": true,
+      "activityKind": "input",
+      "contentId": "A1-03:task:16"
+    }
+  ],
+  "repetitionDays": [
+    1,
+    3,
+    7,
+    14,
+    30
+  ],
+  "alphabet": null,
+  "durationRangeMinutes": [
+    35,
+    50
+  ]
+}

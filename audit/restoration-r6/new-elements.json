@@ -1,0 +1,4171 @@
+{
+  "count": 245,
+  "newGlobalVocabularyRecords": 0,
+  "elements": [
+    {
+      "id": "A1-01",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:explanation:1",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:explanation:2",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:explanation:3",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:explanation:4",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:lexicon:1",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:lexicon:2",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:lexicon:3",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:lexicon:4",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:lexicon:5",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:lexicon:6",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:lexicon:7",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:lexicon:8",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:lexicon:9",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:lexicon:10",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:dialogue:1",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:reading:1",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:listening:1",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:dialogue:1:turn:01",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:dialogue:1:turn:02",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:dialogue:1:turn:03",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:dialogue:1:turn:04",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:dialogue:1:turn:05",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:dialogue:1:turn:06",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:task:01",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:task:02",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:task:03",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:task:04",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:task:05",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:task:06",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:task:07",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:task:08",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:task:09",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:task:10",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:task:11",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:task:12",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:task:13",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:task:14",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:task:15",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-01:task:16",
+      "lessonId": "A1-01",
+      "source_file": "data/lessons/A1-01.json",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:explanation:1",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:explanation:2",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:explanation:3",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:lexicon:1",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:lexicon:2",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:lexicon:3",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:lexicon:4",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:lexicon:5",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:lexicon:6",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:lexicon:7",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:lexicon:8",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:lexicon:9",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:lexicon:10",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:dialogue:1",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:reading:1",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:listening:1",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:dialogue:1:turn:01",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:dialogue:1:turn:02",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:dialogue:1:turn:03",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:dialogue:1:turn:04",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:dialogue:1:turn:05",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:dialogue:1:turn:06",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:dialogue:1:turn:07",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:dialogue:1:turn:08",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:task:01",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:task:02",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:task:03",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:task:04",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:task:05",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:task:06",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:task:07",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:task:08",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:task:09",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:task:10",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:task:11",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:task:12",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:task:13",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:task:14",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:task:15",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-02:task:16",
+      "lessonId": "A1-02",
+      "source_file": "data/lessons/A1-02.json",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:explanation:1",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:explanation:2",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:explanation:3",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:lexicon:1",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:lexicon:2",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:lexicon:3",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:lexicon:4",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:lexicon:5",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:lexicon:6",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:lexicon:7",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:lexicon:8",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:lexicon:9",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:lexicon:10",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:dialogue:1",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:reading:1",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:listening:1",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:dialogue:1:turn:01",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:dialogue:1:turn:02",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:dialogue:1:turn:03",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:dialogue:1:turn:04",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:dialogue:1:turn:05",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:dialogue:1:turn:06",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:dialogue:1:turn:07",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:dialogue:1:turn:08",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:task:01",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:task:02",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:task:03",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:task:04",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:task:05",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:task:06",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:task:07",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:task:08",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:task:09",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:task:10",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:task:11",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:task:12",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:task:13",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:task:14",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:task:15",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-03:task:16",
+      "lessonId": "A1-03",
+      "source_file": "data/lessons/A1-03.json",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:explanation:1",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:explanation:2",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:explanation:3",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:lexicon:1",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:lexicon:2",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:lexicon:3",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:lexicon:4",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:lexicon:5",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:lexicon:6",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:lexicon:7",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:lexicon:8",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:lexicon:9",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:lexicon:10",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:dialogue:1",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:reading:1",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:listening:1",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:dialogue:1:turn:01",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:dialogue:1:turn:02",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:dialogue:1:turn:03",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:dialogue:1:turn:04",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:dialogue:1:turn:05",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:dialogue:1:turn:06",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:dialogue:1:turn:07",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:dialogue:1:turn:08",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:task:01",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:task:02",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:task:03",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:task:04",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:task:05",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:task:06",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:task:07",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:task:08",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:task:09",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:task:10",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:task:11",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:task:12",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:task:13",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:task:14",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:task:15",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-04:task:16",
+      "lessonId": "A1-04",
+      "source_file": "data/lessons/A1-04.json",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:explanation:1",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:explanation:2",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:explanation:3",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:lexicon:1",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:lexicon:2",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:lexicon:3",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:lexicon:4",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:lexicon:5",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:lexicon:6",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:lexicon:7",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:lexicon:8",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:lexicon:9",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:lexicon:10",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:dialogue:1",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:reading:1",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:listening:1",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:dialogue:1:turn:01",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:dialogue:1:turn:02",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:dialogue:1:turn:03",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:dialogue:1:turn:04",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:dialogue:1:turn:05",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:dialogue:1:turn:06",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:dialogue:1:turn:07",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:dialogue:1:turn:08",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:task:01",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:task:02",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:task:03",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:task:04",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:task:05",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:task:06",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:task:07",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:task:08",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:task:09",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:task:10",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:task:11",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:task:12",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:task:13",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:task:14",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:task:15",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-05:task:16",
+      "lessonId": "A1-05",
+      "source_file": "data/lessons/A1-05.json",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:explanation:1",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:explanation:2",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:explanation:3",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:lexicon:1",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:lexicon:2",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:lexicon:3",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:lexicon:4",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:lexicon:5",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:lexicon:6",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:lexicon:7",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:lexicon:8",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:lexicon:9",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:lexicon:10",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:dialogue:1",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:reading:1",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:listening:1",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:dialogue:1:turn:01",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:dialogue:1:turn:02",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:dialogue:1:turn:03",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:dialogue:1:turn:04",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:dialogue:1:turn:05",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:dialogue:1:turn:06",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:dialogue:1:turn:07",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:dialogue:1:turn:08",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:task:01",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:task:02",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:task:03",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:task:04",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:task:05",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:task:06",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:task:07",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:task:08",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:task:09",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:task:10",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:task:11",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:task:12",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:task:13",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:task:14",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:task:15",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    },
+    {
+      "id": "A1-06:task:16",
+      "lessonId": "A1-06",
+      "source_file": "data/lessons/A1-06.json",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "level": "A1",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+    }
+  ]
+}

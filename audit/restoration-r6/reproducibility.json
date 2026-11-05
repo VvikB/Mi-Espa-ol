@@ -1,0 +1,8 @@
+{
+  "repeat_R6_HTML_and_manifest": "IDENTICAL",
+  "repeat_ZIP": "BYTE_IDENTICAL",
+  "R5_checkpoint_hashes": "UNCHANGED",
+  "R5_rebuild": "EXACT_CHECKPOINT_HTML",
+  "R6_HTML_sha256": "e912901af046236b2809f46b2edcc85018083920fe35e5067bd214cc155affea",
+  "R6_ZIP_sha256": "9943303653ba609fabc8bc6bd5ea8fdf3bafbdcad12f2874a8025f94a14769f8"
+}

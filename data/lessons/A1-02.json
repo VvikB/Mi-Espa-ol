@@ -1,0 +1,1162 @@
+{
+  "id": "A1-02",
+  "title": "Кто я и где я",
+  "level": "A1",
+  "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+  "cefrOutcome": [
+    "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+  ],
+  "pcic": [
+    "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+  ],
+  "prerequisites": "A1-01: чтение простых слов, приветствие и переспрос.",
+  "situation": "Вы знакомитесь с участниками языкового клуба и ищете нужную аудиторию.",
+  "originalMaterials": [
+    "GRAMMAR-02",
+    "GRAMMAR-05",
+    "NOTES-05",
+    "NOTES-06"
+  ],
+  "tableRefs": [],
+  "nextLesson": "A1-03",
+  "estimatedMinutes": 40,
+  "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+  "languageReview": "ASSISTANT_EDITED",
+  "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+  "explanations": [
+    {
+      "id": "A1-02:explanation:1",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "title": "SER и ESTAR: выбор по смыслу",
+      "text": "Ser связывает человека с именем, происхождением или профессией: Soy Ana. Soy de Rusia. Soy profesora. Estar показывает местонахождение и состояние: Estoy en el aula. Hoy estoy cansada. Правило «постоянное/временное» ненадёжно: Madrid está en España, хотя город никуда не переехал. На этом уроке тренируем именно идентификацию, профессию, состояние и место. Место проведения события обычно выражают с ser: La clase es en el aula dos; это отдельный случай, а не повод менять estar у человека."
+    },
+    {
+      "id": "A1-02:explanation:2",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "title": "Лицо и согласование",
+      "text": "Ser: soy, eres, es, somos, sois, son. Estar: estoy, estás, está, estamos, estáis, están. Usted грамматически требует третьего лица: Usted es profesor. Ustedes — третьего лица множественного. Yo/tú часто опускаются, потому что форма уже показывает лицо: Soy estudiante. Женщина говорит Estoy cansada, мужчина — Estoy cansado; род не меняет форму estoy. В множественном числе: Estamos cansados/cansadas. Не называйте это объективной оценкой личности: состояние сегодня — не постоянная характеристика."
+    },
+    {
+      "id": "A1-02:explanation:3",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "title": "Артикль, род и число",
+      "text": "El libro / la casa, los libros / las casas; un libro / una casa, unos libros / unas casas. Не угадывайте род только по последней букве: учите слово вместе с артиклем. El agua — существительное женского рода: el agua fría, las aguas frías. После ser профессию в нейтральной конструкции обычно называют без артикля: Soy profesora, не Soy una profesora как обязательную форму. При дополнительной характеристике una возможен: Es una profesora excelente. Для неизвестной книги: un libro; для уже названной: el libro. Прилагательное согласуется с существительным, а не с артиклем el в исключении agua."
+    }
+  ],
+  "lexicon": [
+    {
+      "id": "A1-02:lexicon:1",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 0,
+      "es": "hola",
+      "ru": "привет",
+      "note": "приветствие"
+    },
+    {
+      "id": "A1-02:lexicon:2",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 35,
+      "es": "la casa",
+      "ru": "дом",
+      "note": "Estoy en casa"
+    },
+    {
+      "id": "A1-02:lexicon:3",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 18,
+      "es": "la ciudad",
+      "ru": "город",
+      "note": "la ciudad / las ciudades"
+    },
+    {
+      "id": "A1-02:lexicon:4",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 264,
+      "es": "el profesor",
+      "ru": "преподаватель",
+      "note": "la profesora — преподавательница"
+    },
+    {
+      "id": "A1-02:lexicon:5",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 255,
+      "es": "el libro",
+      "ru": "книга",
+      "note": "el libro / los libros"
+    },
+    {
+      "id": "A1-02:lexicon:6",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 86,
+      "es": "estar",
+      "ru": "быть, находиться",
+      "note": "Estoy en el aula"
+    },
+    {
+      "id": "A1-02:lexicon:7",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 87,
+      "es": "ser",
+      "ru": "быть: идентификация",
+      "note": "Soy estudiante"
+    },
+    {
+      "id": "A1-02:lexicon:8",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 36,
+      "es": "la familia",
+      "ru": "семья",
+      "note": "Mi familia es grande"
+    },
+    {
+      "id": "A1-02:lexicon:9",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 61,
+      "es": "importante",
+      "ru": "важный",
+      "note": "Одна форма для обоих родов"
+    },
+    {
+      "id": "A1-02:lexicon:10",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 482,
+      "es": "joven",
+      "ru": "молодой/молодая",
+      "note": "множественное jóvenes"
+    }
+  ],
+  "dialogue": {
+    "id": "A1-02:dialogue:1",
+    "level": "A1",
+    "topic": "Кто я и где я",
+    "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+    ],
+    "cefr": [
+      "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-02",
+      "GRAMMAR-05",
+      "NOTES-05",
+      "NOTES-06"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "turns": [
+      {
+        "speaker": "Ana",
+        "es": "Hola, soy Ana. Soy de Rusia.",
+        "ru": "Привет, я Ана. Я из России.",
+        "id": "A1-02:dialogue:1:turn:01",
+        "level": "A1",
+        "topic": "Кто я и где я",
+        "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+        ],
+        "cefr": [
+          "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-05",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Luis",
+        "es": "Encantado. Soy Luis y soy profesor.",
+        "ru": "Очень приятно. Я Луис, я преподаватель.",
+        "id": "A1-02:dialogue:1:turn:02",
+        "level": "A1",
+        "topic": "Кто я и где я",
+        "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+        ],
+        "cefr": [
+          "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-05",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Ana",
+        "es": "Yo soy estudiante. ¿Dónde está Marta?",
+        "ru": "А я студентка. Где Марта?",
+        "id": "A1-02:dialogue:1:turn:03",
+        "level": "A1",
+        "topic": "Кто я и где я",
+        "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+        ],
+        "cefr": [
+          "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-05",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Luis",
+        "es": "Está en el aula dos. Hoy está un poco cansada.",
+        "ru": "Она во второй аудитории. Сегодня она немного устала.",
+        "id": "A1-02:dialogue:1:turn:04",
+        "level": "A1",
+        "topic": "Кто я и где я",
+        "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+        ],
+        "cefr": [
+          "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-05",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Marta",
+        "es": "Hola. Estos son los libros del club.",
+        "ru": "Привет. Это книги клуба.",
+        "id": "A1-02:dialogue:1:turn:05",
+        "level": "A1",
+        "topic": "Кто я и где я",
+        "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+        ],
+        "cefr": [
+          "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-05",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Ana",
+        "es": "Gracias. ¿Este libro es para mí?",
+        "ru": "Спасибо. Эта книга для меня?",
+        "id": "A1-02:dialogue:1:turn:06",
+        "level": "A1",
+        "topic": "Кто я и где я",
+        "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+        ],
+        "cefr": [
+          "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-05",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Marta",
+        "es": "Sí. La clase es aquí.",
+        "ru": "Да. Занятие здесь.",
+        "id": "A1-02:dialogue:1:turn:07",
+        "level": "A1",
+        "topic": "Кто я и где я",
+        "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+        ],
+        "cefr": [
+          "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-05",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Luis",
+        "es": "Perfecto. Estamos todos.",
+        "ru": "Отлично. Все в сборе.",
+        "id": "A1-02:dialogue:1:turn:08",
+        "level": "A1",
+        "topic": "Кто я и где я",
+        "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+        ],
+        "cefr": [
+          "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-05",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      }
+    ]
+  },
+  "reading": {
+    "id": "A1-02:reading:1",
+    "level": "A1",
+    "topic": "Кто я и где я",
+    "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+    ],
+    "cefr": [
+      "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-02",
+      "GRAMMAR-05",
+      "NOTES-05",
+      "NOTES-06"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "text": "Soy Diego y soy de México. Ahora estoy en Valencia. Soy estudiante y mi hermana es médica. Hoy estamos en una biblioteca. Ella está tranquila y yo estoy un poco nervioso. En la mesa hay un libro y dos documentos. El libro es para mi hermana. La reunión es en una sala pequeña. Nuestro profesor es joven y muy amable. Estamos listos para empezar.",
+    "support": [
+      "médica — врач (женщина)",
+      "biblioteca — библиотека",
+      "tranquila — спокойная",
+      "sala — комната/зал",
+      "listos — готовые"
+    ]
+  },
+  "listening": {
+    "id": "A1-02:listening:1",
+    "level": "A1",
+    "topic": "Кто я и где я",
+    "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+    ],
+    "cefr": [
+      "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-02",
+      "GRAMMAR-05",
+      "NOTES-05",
+      "NOTES-06"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "text": "Hola, soy Clara. Soy de Chile y soy profesora. Hoy estoy en Madrid, en casa de una amiga. Mi amiga se llama Laura y es médica. Ahora está en el trabajo. Yo estoy en casa y estoy contenta porque mañana empieza mi curso de español.",
+    "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+  },
+  "typicalErrors": [
+    [
+      "Soy en Madrid",
+      "Для местонахождения человека: Estoy en Madrid."
+    ],
+    [
+      "Estoy profesora",
+      "Профессия: Soy profesora. Состояние: Estoy cansada."
+    ],
+    [
+      "El agua frío",
+      "Существительное женского рода: el agua fría."
+    ],
+    [
+      "Все слова на -a женского рода",
+      "Есть исключения: el día. Учите артикль вместе со словом."
+    ]
+  ],
+  "tasks": [
+    {
+      "id": "A1-02:task:01",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "gap",
+      "skill": "reading",
+      "contentId": "A1-02",
+      "prompt": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "stage": "explanation",
+      "activityKind": "study"
+    },
+    {
+      "id": "A1-02:task:02",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "gap",
+      "skill": "reading",
+      "contentId": "A1-02:dialogue:1",
+      "prompt": "Прочитайте диалог по ролям. Сравните с объяснением, затем закройте перевод и повторите реплики.",
+      "stage": "dialogue",
+      "activityKind": "study"
+    },
+    {
+      "id": "A1-02:task:03",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "gap",
+      "skill": "reading",
+      "contentId": "A1-02",
+      "prompt": "Послушайте сочетания. Откройте нужную карточку и вспомните значение; просмотр не считается знанием.",
+      "stage": "lexicon",
+      "activityKind": "study"
+    },
+    {
+      "id": "A1-02:task:04",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Выберите фразу о профессии.",
+      "expected": "Soy profesora.",
+      "alternatives": [],
+      "explanation": "Профессия в нейтральной конструкции: ser без обязательного артикля.",
+      "options": [
+        "Soy profesora.",
+        "Estoy profesora.",
+        "Soy en profesora."
+      ],
+      "activityKind": "choice",
+      "contentId": "A1-02:task:04"
+    },
+    {
+      "id": "A1-02:task:05",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Вставьте только форму estar: Luis ___ en el café.",
+      "expected": "está",
+      "alternatives": [],
+      "explanation": "Luis — третье лицо; местонахождение: está, с тильдой.",
+      "options": [],
+      "activityKind": "input",
+      "contentId": "A1-02:task:05"
+    },
+    {
+      "id": "A1-02:task:06",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Трансформация: замените el libro на множественное число. Введите артикль и существительное.",
+      "expected": "los libros",
+      "alternatives": [],
+      "explanation": "El → los, libro → libros.",
+      "options": [],
+      "activityKind": "input",
+      "contentId": "A1-02:task:06"
+    },
+    {
+      "id": "A1-02:task:07",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "reading",
+      "skill": "reading",
+      "prompt": "Кто в тексте работает врачом?",
+      "expected": "Сестра Диего",
+      "alternatives": [],
+      "explanation": "Mi hermana es médica.",
+      "options": [
+        "Сестра Диего",
+        "Диего",
+        "Преподаватель"
+      ],
+      "text": "Soy Diego y soy de México. Ahora estoy en Valencia. Soy estudiante y mi hermana es médica. Hoy estamos en una biblioteca. Ella está tranquila y yo estoy un poco nervioso. En la mesa hay un libro y dos documentos. El libro es para mi hermana. La reunión es en una sala pequeña. Nuestro profesor es joven y muy amable. Estamos listos para empezar.",
+      "activityKind": "reading",
+      "meaning": "Сестра Диего",
+      "contentId": "A1-02:task:07"
+    },
+    {
+      "id": "A1-02:task:08",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "reading",
+      "skill": "reading",
+      "prompt": "Кому предназначена книга?",
+      "expected": "Сестре Диего",
+      "alternatives": [],
+      "explanation": "El libro es para mi hermana.",
+      "options": [
+        "Сестре Диего",
+        "Преподавателю",
+        "Диего"
+      ],
+      "text": "Soy Diego y soy de México. Ahora estoy en Valencia. Soy estudiante y mi hermana es médica. Hoy estamos en una biblioteca. Ella está tranquila y yo estoy un poco nervioso. En la mesa hay un libro y dos documentos. El libro es para mi hermana. La reunión es en una sala pequeña. Nuestro profesor es joven y muy amable. Estamos listos para empezar.",
+      "activityKind": "reading",
+      "meaning": "Сестре Диего",
+      "contentId": "A1-02:task:08"
+    },
+    {
+      "id": "A1-02:task:09",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "listening",
+      "skill": "listening",
+      "prompt": "Где Клара находится сейчас?",
+      "expected": "В Мадриде, дома у подруги",
+      "alternatives": [],
+      "explanation": "Clara говорит estoy en Madrid, en casa de una amiga.",
+      "options": [
+        "В Мадриде, дома у подруги",
+        "В Чили, в университете",
+        "На работе у Лауры"
+      ],
+      "text": "Hola, soy Clara. Soy de Chile y soy profesora. Hoy estoy en Madrid, en casa de una amiga. Mi amiga se llama Laura y es médica. Ahora está en el trabajo. Yo estoy en casa y estoy contenta porque mañana empieza mi curso de español.",
+      "activityKind": "listening",
+      "meaning": "В Мадриде, дома у подруги",
+      "contentId": "A1-02:task:09"
+    },
+    {
+      "id": "A1-02:task:10",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "listening",
+      "skill": "listening",
+      "prompt": "Какая профессия у Лауры?",
+      "expected": "médica",
+      "alternatives": [],
+      "explanation": "Mi amiga ... es médica; profesora — сама Клара.",
+      "options": [
+        "médica",
+        "profesora",
+        "estudiante"
+      ],
+      "text": "Hola, soy Clara. Soy de Chile y soy profesora. Hoy estoy en Madrid, en casa de una amiga. Mi amiga se llama Laura y es médica. Ahora está en el trabajo. Yo estoy en casa y estoy contenta porque mañana empieza mi curso de español.",
+      "activityKind": "listening",
+      "meaning": "médica",
+      "contentId": "A1-02:task:10"
+    },
+    {
+      "id": "A1-02:task:11",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Новая ситуация: женщина рассказывает, что сегодня устала. Составьте фразу из Hoy / estar (yo) / cansada.",
+      "expected": "Hoy estoy cansada.",
+      "alternatives": [
+        "Estoy cansada hoy."
+      ],
+      "explanation": "Состояние: estoy; cansada согласуется с говорящей женщиной.",
+      "options": [],
+      "activityKind": "input",
+      "transfer": true,
+      "contentId": "A1-02:task:11"
+    },
+    {
+      "id": "A1-02:task:12",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "writing",
+      "skill": "writing",
+      "prompt": "Напишите 5–6 предложений о вымышленном участнике клуба: имя, страна, профессия, где он/она сейчас и как себя чувствует.",
+      "rubric": [
+        "Есть идентификация с ser",
+        "Место и состояние выражены с estar",
+        "Проверены род, число и артикли"
+      ],
+      "minimumWords": 15,
+      "explanation": "Сохранение текста не означает автоматической проверки грамматики.",
+      "activityKind": "writing",
+      "contentId": "A1-02:task:12"
+    },
+    {
+      "id": "A1-02:task:13",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "speaking",
+      "skill": "speaking",
+      "prompt": "Представьте себя или вымышленного человека, затем спросите партнёра, где он сейчас. Назовите своё состояние сегодня.",
+      "rubric": [
+        "Сказал(а) минимум четыре собственные фразы",
+        "Различил(а) идентификацию и место/состояние",
+        "Мог(ла) повторить или переформулировать при затруднении"
+      ],
+      "explanation": "Произнесите вслух. Автоматической оценки произношения и свободной речи нет.",
+      "activityKind": "speaking",
+      "contentId": "A1-02:task:13"
+    },
+    {
+      "id": "A1-02:task:14",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: вставьте только ser: Mi hermana ___ médica.",
+      "expected": "es",
+      "alternatives": [],
+      "explanation": "Профессия: es médica.",
+      "options": [],
+      "control": true,
+      "activityKind": "input",
+      "contentId": "A1-02:task:14"
+    },
+    {
+      "id": "A1-02:task:15",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: выберите правильное согласование.",
+      "expected": "el agua fría",
+      "alternatives": [],
+      "explanation": "Agua — женский род, несмотря на el перед ударным a-.",
+      "options": [
+        "el agua fría",
+        "el agua frío",
+        "la agua frío"
+      ],
+      "control": true,
+      "activityKind": "choice",
+      "contentId": "A1-02:task:15"
+    },
+    {
+      "id": "A1-02:task:16",
+      "level": "A1",
+      "topic": "Кто я и где я",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: замените Estoy en casa на nosotros. Введите фразу без местоимения.",
+      "expected": "Estamos en casa.",
+      "alternatives": [],
+      "explanation": "Nosotros: estamos.",
+      "options": [],
+      "control": true,
+      "activityKind": "input",
+      "contentId": "A1-02:task:16"
+    }
+  ],
+  "repetitionDays": [
+    1,
+    3,
+    7,
+    14,
+    30
+  ],
+  "alphabet": null,
+  "durationRangeMinutes": [
+    35,
+    50
+  ]
+}

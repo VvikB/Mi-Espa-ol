@@ -1,0 +1,1162 @@
+{
+  "id": "A1-04",
+  "title": "Покупки и еда",
+  "level": "A1",
+  "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+  "cefrOutcome": [
+    "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+  ],
+  "pcic": [
+    "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+  ],
+  "prerequisites": "A1-01–03: настоящее время, вопросы, артикли и вежливые формулы.",
+  "situation": "Вы покупаете продукты и делаете заказ в кафе, уточняя итоговую сумму.",
+  "originalMaterials": [
+    "GRAMMAR-02",
+    "GRAMMAR-16",
+    7529,
+    7530
+  ],
+  "tableRefs": [],
+  "nextLesson": "A1-05",
+  "estimatedMinutes": 40,
+  "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+  "languageReview": "ASSISTANT_EDITED",
+  "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+  "explanations": [
+    {
+      "id": "A1-04:explanation:1",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "title": "Числа и количество",
+      "text": "Для покупок нужны cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez; дальше once, doce, trece, catorce, quince, dieciséis, diecisiete, dieciocho, diecinueve, veinte. Десятки: treinta, cuarenta, cincuenta; treinta y dos — 32. Перед мужским существительным uno сокращается: un café, veintiún euros; перед женским: una mesa, veintiuna manzanas. Два кофе: dos cafés, с тильдой. Для базовой цены можно сказать dos euros или dos euros con cincuenta; способ озвучивания цифр голосом устройства может отличаться."
+    },
+    {
+      "id": "A1-04:explanation:2",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "title": "HAY и определённое место",
+      "text": "Hay сообщает, что что-то есть в ситуации: Hay pan. Hay dos mesas libres. Форма hay одна для единственного и множественного числа; не нужно hayn. Вопрос: ¿Hay agua? Отрицание: No hay queso. Если речь об уже определённом предмете, его местоположение обычно выражают с estar: El queso está en la nevera. На этом уроке различаем наличие/неопределённое количество и место известного предмета. Неисчисляемое количество часто без неопределённого артикля: Quiero agua, не обязательное una agua."
+    },
+    {
+      "id": "A1-04:explanation:3",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "title": "Заказ и проверка счёта",
+      "text": "Un café, por favor — достаточный простой заказ. Me gustaría pedir una ensalada — более развёрнутая вежливая формула; её можно использовать как готовое выражение, не изучая сейчас всю систему condicional. ¿Cuánto cuesta? спрашивает цену, ¿Cuánto es? — итог. La cuenta, por favor просит счёт. Sin azúcar / con leche уточняют заказ. Полезно повторить сумму: ¿Siete euros en total? Не считать чаевые или оплату картой универсальным правилом страны: спросите ¿Puedo pagar con tarjeta?"
+    }
+  ],
+  "lexicon": [
+    {
+      "id": "A1-04:lexicon:1",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 41,
+      "es": "el café",
+      "ru": "кофе",
+      "note": "un café / dos cafés"
+    },
+    {
+      "id": "A1-04:lexicon:2",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 289,
+      "es": "el queso",
+      "ru": "сыр",
+      "note": "¿Hay queso?"
+    },
+    {
+      "id": "A1-04:lexicon:3",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 40,
+      "es": "el pan",
+      "ru": "хлеб",
+      "note": "Хлеб как продукт часто без артикля после hay"
+    },
+    {
+      "id": "A1-04:lexicon:4",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 39,
+      "es": "el agua",
+      "ru": "вода",
+      "note": "Quiero agua"
+    },
+    {
+      "id": "A1-04:lexicon:5",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 43,
+      "es": "la cuenta",
+      "ru": "счёт",
+      "note": "La cuenta, por favor"
+    },
+    {
+      "id": "A1-04:lexicon:6",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 15,
+      "es": "¿Cuánto cuesta?",
+      "ru": "Сколько стоит?",
+      "note": "вопрос о цене"
+    },
+    {
+      "id": "A1-04:lexicon:7",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 177,
+      "es": "pagar la cuenta",
+      "ru": "оплатить счёт",
+      "note": "перед уходом"
+    },
+    {
+      "id": "A1-04:lexicon:8",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 284,
+      "es": "el aceite",
+      "ru": "растительное масло",
+      "note": "aceite de oliva"
+    },
+    {
+      "id": "A1-04:lexicon:9",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 45,
+      "es": "sin",
+      "ru": "без",
+      "note": "sin azúcar"
+    },
+    {
+      "id": "A1-04:lexicon:10",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 46,
+      "es": "con",
+      "ru": "с",
+      "note": "con leche"
+    }
+  ],
+  "dialogue": {
+    "id": "A1-04:dialogue:1",
+    "level": "A1",
+    "topic": "Покупки и еда",
+    "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+    ],
+    "cefr": [
+      "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-02",
+      "GRAMMAR-16",
+      7529,
+      7530
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "turns": [
+      {
+        "speaker": "Cliente",
+        "es": "Buenos días. ¿Hay tostadas con queso?",
+        "ru": "Доброе утро. Есть тосты с сыром?",
+        "id": "A1-04:dialogue:1:turn:01",
+        "level": "A1",
+        "topic": "Покупки и еда",
+        "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+        ],
+        "cefr": [
+          "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-16",
+          7529,
+          7530
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Camarera",
+        "es": "Sí. Una tostada cuesta tres euros.",
+        "ru": "Да. Один тост стоит три евро.",
+        "id": "A1-04:dialogue:1:turn:02",
+        "level": "A1",
+        "topic": "Покупки и еда",
+        "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+        ],
+        "cefr": [
+          "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-16",
+          7529,
+          7530
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Cliente",
+        "es": "Una tostada y dos cafés, por favor.",
+        "ru": "Один тост и два кофе, пожалуйста.",
+        "id": "A1-04:dialogue:1:turn:03",
+        "level": "A1",
+        "topic": "Покупки и еда",
+        "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+        ],
+        "cefr": [
+          "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-16",
+          7529,
+          7530
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Camarera",
+        "es": "¿Los cafés con leche o solos?",
+        "ru": "Кофе с молоком или чёрные?",
+        "id": "A1-04:dialogue:1:turn:04",
+        "level": "A1",
+        "topic": "Покупки и еда",
+        "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+        ],
+        "cefr": [
+          "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-16",
+          7529,
+          7530
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Cliente",
+        "es": "Con leche y sin azúcar. ¿Cuánto es en total?",
+        "ru": "С молоком и без сахара. Сколько всего?",
+        "id": "A1-04:dialogue:1:turn:05",
+        "level": "A1",
+        "topic": "Покупки и еда",
+        "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+        ],
+        "cefr": [
+          "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-16",
+          7529,
+          7530
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Camarera",
+        "es": "Cada café cuesta dos euros. Son siete euros en total.",
+        "ru": "Каждый кофе стоит два евро. Всего семь евро.",
+        "id": "A1-04:dialogue:1:turn:06",
+        "level": "A1",
+        "topic": "Покупки и еда",
+        "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+        ],
+        "cefr": [
+          "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-16",
+          7529,
+          7530
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Cliente",
+        "es": "Perfecto. ¿Puedo pagar con tarjeta?",
+        "ru": "Отлично. Можно оплатить картой?",
+        "id": "A1-04:dialogue:1:turn:07",
+        "level": "A1",
+        "topic": "Покупки и еда",
+        "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+        ],
+        "cefr": [
+          "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-16",
+          7529,
+          7530
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Camarera",
+        "es": "Sí, claro.",
+        "ru": "Да, конечно.",
+        "id": "A1-04:dialogue:1:turn:08",
+        "level": "A1",
+        "topic": "Покупки и еда",
+        "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+        ],
+        "cefr": [
+          "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-16",
+          7529,
+          7530
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      }
+    ]
+  },
+  "reading": {
+    "id": "A1-04:reading:1",
+    "level": "A1",
+    "topic": "Покупки и еда",
+    "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+    ],
+    "cefr": [
+      "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-02",
+      "GRAMMAR-16",
+      7529,
+      7530
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "text": "Ana entra en una tienda pequeña. Necesita pan y fruta para el desayuno. Hay manzanas y naranjas, pero no hay fresas. Compra un kilo de manzanas por dos euros y una barra de pan por un euro. En total paga tres euros. Después entra en un café y pide agua. Antes de pagar, pregunta si puede usar la tarjeta. La dependienta dice que sí.",
+    "support": [
+      "tienda — магазин",
+      "barra de pan — батон/буханка хлеба",
+      "kilo — килограмм",
+      "dependienta — продавщица",
+      "usar — использовать"
+    ]
+  },
+  "listening": {
+    "id": "A1-04:listening:1",
+    "level": "A1",
+    "topic": "Покупки и еда",
+    "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+    ],
+    "cefr": [
+      "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-02",
+      "GRAMMAR-16",
+      7529,
+      7530
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "text": "Buenas tardes. Hoy tenemos té y tortilla, pero no hay bocadillos. Cada té cuesta un euro con cincuenta. Una porción de tortilla cuesta cuatro euros. Si pide dos tés y una porción de tortilla, son siete euros en total. Puede pagar en efectivo o con tarjeta.",
+    "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+  },
+  "typicalErrors": [
+    [
+      "Hayn dos cafés",
+      "Hay no cambia por número."
+    ],
+    [
+      "Uno café",
+      "Перед мужским существительным: un café."
+    ],
+    [
+      "Dos cafes",
+      "Множественное café: cafés, с тильдой."
+    ],
+    [
+      "El queso hay en la nevera",
+      "Место определённого предмета: El queso está en la nevera."
+    ]
+  ],
+  "tasks": [
+    {
+      "id": "A1-04:task:01",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "gap",
+      "skill": "reading",
+      "contentId": "A1-04",
+      "prompt": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "stage": "explanation",
+      "activityKind": "study"
+    },
+    {
+      "id": "A1-04:task:02",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "gap",
+      "skill": "reading",
+      "contentId": "A1-04:dialogue:1",
+      "prompt": "Прочитайте диалог по ролям. Сравните с объяснением, затем закройте перевод и повторите реплики.",
+      "stage": "dialogue",
+      "activityKind": "study"
+    },
+    {
+      "id": "A1-04:task:03",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "gap",
+      "skill": "reading",
+      "contentId": "A1-04",
+      "prompt": "Послушайте сочетания. Откройте нужную карточку и вспомните значение; просмотр не считается знанием.",
+      "stage": "lexicon",
+      "activityKind": "study"
+    },
+    {
+      "id": "A1-04:task:04",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Выберите сообщение о наличии двух свободных столов.",
+      "expected": "Hay dos mesas libres.",
+      "alternatives": [],
+      "explanation": "Hay не меняется по числу.",
+      "options": [
+        "Hay dos mesas libres.",
+        "Hayn dos mesas libres.",
+        "Están dos mesas libres hay."
+      ],
+      "activityKind": "choice",
+      "contentId": "A1-04:task:04"
+    },
+    {
+      "id": "A1-04:task:05",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Введите число 16 по-испански одним словом с нужным ударением.",
+      "expected": "dieciséis",
+      "alternatives": [],
+      "explanation": "Современная слитная форма dieciséis; тильда обязательна.",
+      "options": [],
+      "activityKind": "input",
+      "contentId": "A1-04:task:05"
+    },
+    {
+      "id": "A1-04:task:06",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Замените un café на два кофе. Введите количество и существительное словами.",
+      "expected": "dos cafés",
+      "alternatives": [],
+      "explanation": "Dos + множественное cafés.",
+      "options": [],
+      "activityKind": "input",
+      "contentId": "A1-04:task:06"
+    },
+    {
+      "id": "A1-04:task:07",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "reading",
+      "skill": "reading",
+      "prompt": "Чего нет в магазине?",
+      "expected": "fresas",
+      "alternatives": [],
+      "explanation": "В тексте: no hay fresas.",
+      "options": [
+        "fresas",
+        "manzanas",
+        "naranjas"
+      ],
+      "text": "Ana entra en una tienda pequeña. Necesita pan y fruta para el desayuno. Hay manzanas y naranjas, pero no hay fresas. Compra un kilo de manzanas por dos euros y una barra de pan por un euro. En total paga tres euros. Después entra en un café y pide agua. Antes de pagar, pregunta si puede usar la tarjeta. La dependienta dice que sí.",
+      "activityKind": "reading",
+      "meaning": "fresas",
+      "contentId": "A1-04:task:07"
+    },
+    {
+      "id": "A1-04:task:08",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "reading",
+      "skill": "reading",
+      "prompt": "Сколько Ана платит в магазине за яблоки и хлеб?",
+      "expected": "tres euros",
+      "alternatives": [],
+      "explanation": "Два евро за яблоки плюс один евро за хлеб.",
+      "options": [
+        "tres euros",
+        "dos euros",
+        "cuatro euros"
+      ],
+      "text": "Ana entra en una tienda pequeña. Necesita pan y fruta para el desayuno. Hay manzanas y naranjas, pero no hay fresas. Compra un kilo de manzanas por dos euros y una barra de pan por un euro. En total paga tres euros. Después entra en un café y pide agua. Antes de pagar, pregunta si puede usar la tarjeta. La dependienta dice que sí.",
+      "activityKind": "reading",
+      "meaning": "tres euros",
+      "contentId": "A1-04:task:08"
+    },
+    {
+      "id": "A1-04:task:09",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "listening",
+      "skill": "listening",
+      "prompt": "Чего нет сегодня?",
+      "expected": "bocadillos",
+      "alternatives": [],
+      "explanation": "В аудиотексте no hay bocadillos.",
+      "options": [
+        "bocadillos",
+        "té",
+        "tortilla"
+      ],
+      "text": "Buenas tardes. Hoy tenemos té y tortilla, pero no hay bocadillos. Cada té cuesta un euro con cincuenta. Una porción de tortilla cuesta cuatro euros. Si pide dos tés y una porción de tortilla, son siete euros en total. Puede pagar en efectivo o con tarjeta.",
+      "activityKind": "listening",
+      "meaning": "bocadillos",
+      "contentId": "A1-04:task:09"
+    },
+    {
+      "id": "A1-04:task:10",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "listening",
+      "skill": "listening",
+      "prompt": "Сколько стоят два чая и порция тортильи?",
+      "expected": "siete euros",
+      "alternatives": [],
+      "explanation": "Два раза по 1,50 и ещё 4 = 7 евро.",
+      "options": [
+        "siete euros",
+        "cinco euros",
+        "ocho euros"
+      ],
+      "text": "Buenas tardes. Hoy tenemos té y tortilla, pero no hay bocadillos. Cada té cuesta un euro con cincuenta. Una porción de tortilla cuesta cuatro euros. Si pide dos tés y una porción de tortilla, son siete euros en total. Puede pagar en efectivo o con tarjeta.",
+      "activityKind": "listening",
+      "meaning": "siete euros",
+      "contentId": "A1-04:task:10"
+    },
+    {
+      "id": "A1-04:task:11",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Новая ситуация: покупатель просит воду без газа. Составьте фразу ровно из Un / vaso de agua / sin gas / por favor.",
+      "expected": "Un vaso de agua sin gas, por favor.",
+      "alternatives": [
+        "Por favor, un vaso de agua sin gas."
+      ],
+      "explanation": "Sin gas — без газа; заданный набор слов ограничивает ответ.",
+      "options": [],
+      "activityKind": "input",
+      "transfer": true,
+      "contentId": "A1-04:task:11"
+    },
+    {
+      "id": "A1-04:task:12",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "writing",
+      "skill": "writing",
+      "prompt": "Составьте заказ для двух человек и короткую проверку счёта. Укажите напитки, еду, количество и просьбу об оплате. Цены можно выдумать, но арифметика должна совпасть.",
+      "rubric": [
+        "Есть количество и вежливая просьба",
+        "Правильно различены hay и цена/заказ",
+        "Сумма совпадает с выбранными ценами"
+      ],
+      "minimumWords": 18,
+      "explanation": "Сохранение текста не означает автоматической проверки грамматики.",
+      "activityKind": "writing",
+      "contentId": "A1-04:task:12"
+    },
+    {
+      "id": "A1-04:task:13",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "speaking",
+      "skill": "speaking",
+      "prompt": "Сыграйте клиента: спросите о наличии, сделайте заказ с con/sin, уточните цену и способ оплаты. Затем ответьте на один вопрос официанта.",
+      "rubric": [
+        "Выполнил(а) четыре действия клиента",
+        "Переспросил(а) или подтвердил(а) итоговую сумму",
+        "Сначала говорил(а) без чтения диалога"
+      ],
+      "explanation": "Произнесите вслух. Автоматической оценки произношения и свободной речи нет.",
+      "activityKind": "speaking",
+      "contentId": "A1-04:task:13"
+    },
+    {
+      "id": "A1-04:task:14",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: вставьте одно слово о наличии: No ___ pan.",
+      "expected": "hay",
+      "alternatives": [],
+      "explanation": "Отрицательное наличие: no hay.",
+      "options": [],
+      "control": true,
+      "activityKind": "input",
+      "contentId": "A1-04:task:14"
+    },
+    {
+      "id": "A1-04:task:15",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: как назвать количество перед café?",
+      "expected": "un café",
+      "alternatives": [],
+      "explanation": "Café мужского рода; uno → un.",
+      "options": [
+        "un café",
+        "uno café",
+        "una café"
+      ],
+      "control": true,
+      "activityKind": "choice",
+      "contentId": "A1-04:task:15"
+    },
+    {
+      "id": "A1-04:task:16",
+      "level": "A1",
+      "topic": "Покупки и еда",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: два товара стоят два и три евро. Введите итог словами с euros.",
+      "expected": "cinco euros",
+      "alternatives": [],
+      "explanation": "Два плюс три — cinco euros.",
+      "options": [],
+      "control": true,
+      "activityKind": "input",
+      "contentId": "A1-04:task:16"
+    }
+  ],
+  "repetitionDays": [
+    1,
+    3,
+    7,
+    14,
+    30
+  ],
+  "alphabet": null,
+  "durationRangeMinutes": [
+    35,
+    50
+  ]
+}

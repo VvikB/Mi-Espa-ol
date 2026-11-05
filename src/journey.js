@@ -87,7 +87,7 @@ const Journey = (() => {
     if(!a.results[t.id])return;
     flushDraft();a.step++;
     if(a.step>=a.tasks.length){
-      const events=store().events.filter(e=>e.sessionId===a.id),gaps=a.tasks.filter(t=>t.type==='gap').length;
+      const events=store().events.filter(e=>e.sessionId===a.id),gaps=a.tasks.filter(t=>t.type==='gap'&&!t.stage).length;
       const summary={id:a.id,title:a.title,mode:a.mode,completedAt:Date.now(),performed:events.filter(e=>e.performed).length,correct:events.filter(e=>e.ok===true&&!e.hintUsed).length,checked:events.filter(e=>typeof e.ok==='boolean'&&!e.hintUsed).length,gaps,selfAssessed:events.filter(e=>e.selfAssessed).length};
       store().completedSessions[a.id]=summary;store().lastSummary=summary;
       if(a.mode==='lesson'&&!gaps)store().completedDays[a.dayId]={at:Date.now(),sessionId:a.id};
@@ -161,5 +161,5 @@ const Journey = (() => {
   document.addEventListener('keydown',e=>{if(e.key==='Enter'&&e.target.id==='journey-answer'&&e.target.tagName==='INPUT'){e.preventDefault();checkInput();}});
   document.addEventListener('mi-progress-imported',()=>{clearTimeout(draftTimer);legacyView=false;visible=!!active();});
   window.addEventListener('pagehide',()=>{if(active())flushDraft();});
-  return {start,diagnostic,leave,active,current,render:html,checkInput,next};
+  return {start,diagnostic,leave,active,current,render:html,checkInput,next,append,flushDraft};
 })();

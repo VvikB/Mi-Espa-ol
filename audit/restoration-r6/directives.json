@@ -1,0 +1,15 @@
+{
+  "classification": "USER_PROVIDED_R6_INSTRUCTIONS_NOT_EDUCATIONAL_SOURCE_TEXT",
+  "inputs": [
+    {
+      "path": "/workspace/attachments/d19dbf6d-50fb-4298-a55f-1d0d5ae0a1d6/Вставленный текст.txt",
+      "bytes": 10887,
+      "sha256": "a98f436fb10e8b6960862822ea75efa264712bba0b107dd313ad11fce891606d"
+    },
+    {
+      "path": "/workspace/attachments/6e67245c-89ee-4314-9200-3cea900f92bd/Вставленный текст.txt",
+      "bytes": 21170,
+      "sha256": "83829bd4c633c9eac3961fa6eba6f8a89552bff9b018c91a44a05692f90af838"
+    }
+  ]
+}

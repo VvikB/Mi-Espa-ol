@@ -1,0 +1,195 @@
+{
+  "artifact_sha256": "c6cc503453ffe331ddac5063c5e9d73365fbf1dcf0b962f1896bb4941f722737",
+  "scope": "Prototype internal gate",
+  "device": "Chromium mobile emulation; real iPhone NOT TESTED",
+  "summary": {
+    "PASS": 37
+  },
+  "results": [
+    {
+      "test": "prototype_scope_one_lesson",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_content_blocks",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_practice_balance",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_honest_review_status",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "opening_does_not_award",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "study_not_learning_success",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "next_disabled_without_answer",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "accent_negative",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "enye_negative",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "audio_text_hidden",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "audio_gate_disabled",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "transcript_counts_reading",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_dialogue_translation",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:04_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:05_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:06_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:07_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:08_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:09_TTS",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:09_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:10_TTS",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:10_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:11_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:12_self_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_resume_after_reload",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:13_self_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:14_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:14_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:15_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:15_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:16_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:16_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_control_passed",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_due_in_future",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "events_unique",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "storage_not_locked",
+      "status": "PASS",
+      "evidence": []
+    },
+    {
+      "test": "no_js_errors",
+      "status": "PASS",
+      "evidence": []
+    }
+  ]
+}

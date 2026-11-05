@@ -1,0 +1,1201 @@
+{
+  "id": "A1-06",
+  "title": "Ближайшие планы",
+  "level": "A1",
+  "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+  "cefrOutcome": [
+    "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+  ],
+  "pcic": [
+    "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+  ],
+  "prerequisites": "A1-01–05: ir, вопросы, время и простые бытовые ситуации.",
+  "situation": "Вы выбираете с приятелем занятие на выходные и договариваетесь о встрече.",
+  "originalMaterials": [
+    "GRAMMAR-09",
+    "GRAMMAR-11",
+    "NOTES-03",
+    "NOTES-05",
+    "NOTES-06"
+  ],
+  "tableRefs": [],
+  "nextLesson": "A1-07 (ещё не реализован)",
+  "estimatedMinutes": 40,
+  "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+  "languageReview": "ASSISTANT_EDITED",
+  "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+  "explanations": [
+    {
+      "id": "A1-06:explanation:1",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "title": "Намерение: IR A + infinitivo",
+      "text": "Voy a estudiar — собираюсь учиться; vamos a comer — собираемся поесть. Меняется только ir: voy, vas, va, vamos, vais, van; смысловой глагол остаётся инфинитивом. Между ними обязательно a. Сравните Voy a la biblioteca (a + место) и Voy a estudiar (a + инфинитив). План может быть на завтра или выходные, а не только на ближайшую минуту. Пока не нужна форма estudiaré: организационное будущее выражаем конструкцией ir a."
+    },
+    {
+      "id": "A1-06:explanation:2",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "title": "Предпочтения: GUSTAR",
+      "text": "В Me gusta el café грамматическое подлежащее — el café, а me показывает, кому нравится. Единственное число и инфинитив требуют gusta: Me gusta este café. Me gusta caminar. Множественное число требует gustan: Me gustan los libros. Для собеседника: ¿Te gusta leer? Для нас: Nos gusta este lugar. Не стройте Yo gusto el café по русскому образцу «я люблю кофе». Отрицание: No me gusta. Вежливая формула Me gustaría... означает «мне бы хотелось» и не равна простому факту предпочтения; полная тема condicional будет позже."
+    },
+    {
+      "id": "A1-06:explanation:3",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "title": "Приглашение и согласование",
+      "text": "¿Quieres tomar un café? приглашает выпить кофе, ¿Vamos al parque? предлагает пойти в парк. Реакции: Sí, buena idea; Hoy no puedo; ¿Y mañana?; Prefiero por la tarde. Разговор должен прийти к конкретным месту и времени, а не остановиться на «да». Чтобы подтвердить, повторите: Entonces, el domingo a las cinco delante del café. No puedo — достаточно вежливый отказ; не нужно выдумывать причину. В устной задаче учитесь предложить альтернативу и проверить понимание, а не читать готовый диалог."
+    }
+  ],
+  "lexicon": [
+    {
+      "id": "A1-06:lexicon:1",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 88,
+      "es": "ir",
+      "ru": "идти/ехать",
+      "note": "voy a + infinitivo"
+    },
+    {
+      "id": "A1-06:lexicon:2",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 90,
+      "es": "querer",
+      "ru": "хотеть/любить",
+      "note": "¿Quieres tomar un café?"
+    },
+    {
+      "id": "A1-06:lexicon:3",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 14,
+      "es": "me gustaría",
+      "ru": "мне бы хотелось",
+      "note": "вежливая готовая формула"
+    },
+    {
+      "id": "A1-06:lexicon:4",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 408,
+      "es": "preferir",
+      "ru": "предпочитать",
+      "note": "prefiero — я предпочитаю"
+    },
+    {
+      "id": "A1-06:lexicon:5",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 89,
+      "es": "poder",
+      "ru": "мочь",
+      "note": "Hoy no puedo"
+    },
+    {
+      "id": "A1-06:lexicon:6",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 391,
+      "es": "invitar",
+      "ru": "приглашать",
+      "note": "invitar a alguien a tomar algo"
+    },
+    {
+      "id": "A1-06:lexicon:7",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 444,
+      "es": "pasear",
+      "ru": "гулять",
+      "note": "vamos a pasear"
+    },
+    {
+      "id": "A1-06:lexicon:8",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 419,
+      "es": "descansar",
+      "ru": "отдыхать",
+      "note": "voy a descansar"
+    },
+    {
+      "id": "A1-06:lexicon:9",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 47,
+      "es": "hoy",
+      "ru": "сегодня",
+      "note": "hoy no puedo"
+    },
+    {
+      "id": "A1-06:lexicon:10",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "wordIndex": 49,
+      "es": "mañana",
+      "ru": "завтра",
+      "note": "¿Y mañana?"
+    }
+  ],
+  "dialogue": {
+    "id": "A1-06:dialogue:1",
+    "level": "A1",
+    "topic": "Ближайшие планы",
+    "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+    ],
+    "cefr": [
+      "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-09",
+      "GRAMMAR-11",
+      "NOTES-03",
+      "NOTES-05",
+      "NOTES-06"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "turns": [
+      {
+        "speaker": "Marta",
+        "es": "¿Qué vas a hacer el sábado?",
+        "ru": "Что ты собираешься делать в субботу?",
+        "id": "A1-06:dialogue:1:turn:01",
+        "level": "A1",
+        "topic": "Ближайшие планы",
+        "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+        ],
+        "cefr": [
+          "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-03",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Luis",
+        "es": "Voy a estudiar por la mañana. Por la tarde tengo tiempo.",
+        "ru": "Утром собираюсь учиться. После обеда у меня есть время.",
+        "id": "A1-06:dialogue:1:turn:02",
+        "level": "A1",
+        "topic": "Ближайшие планы",
+        "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+        ],
+        "cefr": [
+          "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-03",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Marta",
+        "es": "¿Quieres ir al cine?",
+        "ru": "Хочешь сходить в кино?",
+        "id": "A1-06:dialogue:1:turn:03",
+        "level": "A1",
+        "topic": "Ближайшие планы",
+        "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+        ],
+        "cefr": [
+          "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-03",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Luis",
+        "es": "Prefiero pasear. Me gusta caminar cuando hace buen tiempo.",
+        "ru": "Я предпочитаю погулять. Мне нравится ходить пешком в хорошую погоду.",
+        "id": "A1-06:dialogue:1:turn:04",
+        "level": "A1",
+        "topic": "Ближайшие планы",
+        "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+        ],
+        "cefr": [
+          "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-03",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Marta",
+        "es": "A mí también. ¿Vamos al parque a las cinco?",
+        "ru": "Мне тоже. Пойдём в парк в пять?",
+        "id": "A1-06:dialogue:1:turn:05",
+        "level": "A1",
+        "topic": "Ближайшие планы",
+        "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+        ],
+        "cefr": [
+          "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-03",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Luis",
+        "es": "Buena idea. ¿Nos vemos delante del café?",
+        "ru": "Хорошая идея. Встретимся перед кафе?",
+        "id": "A1-06:dialogue:1:turn:06",
+        "level": "A1",
+        "topic": "Ближайшие планы",
+        "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+        ],
+        "cefr": [
+          "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-03",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Marta",
+        "es": "Sí. Voy a llevar agua.",
+        "ru": "Да. Я возьму воду.",
+        "id": "A1-06:dialogue:1:turn:07",
+        "level": "A1",
+        "topic": "Ближайшие планы",
+        "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+        ],
+        "cefr": [
+          "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-03",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      },
+      {
+        "speaker": "Luis",
+        "es": "Perfecto: el sábado a las cinco, delante del café.",
+        "ru": "Отлично: в субботу в пять, перед кафе.",
+        "id": "A1-06:dialogue:1:turn:08",
+        "level": "A1",
+        "topic": "Ближайшие планы",
+        "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+        ],
+        "cefr": [
+          "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-03",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING"
+      }
+    ]
+  },
+  "reading": {
+    "id": "A1-06:reading:1",
+    "level": "A1",
+    "topic": "Ближайшие планы",
+    "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+    ],
+    "cefr": [
+      "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-09",
+      "GRAMMAR-11",
+      "NOTES-03",
+      "NOTES-05",
+      "NOTES-06"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "text": "El domingo Ana va a visitar a una amiga. Por la mañana van a preparar el desayuno en casa. A Ana le gusta cocinar, pero a su amiga le gusta más pasear. Después del desayuno van a caminar por el centro. Si hace mucho calor, van a descansar en un café. No van a ir al cine. Por la tarde Ana va a volver a casa para estudiar español.",
+    "support": [
+      "visitar — навещать",
+      "desayuno — завтрак",
+      "si hace mucho calor — если очень жарко",
+      "volver — возвращаться",
+      "después — после/потом"
+    ]
+  },
+  "listening": {
+    "id": "A1-06:listening:1",
+    "level": "A1",
+    "topic": "Ближайшие планы",
+    "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+    ],
+    "cefr": [
+      "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-09",
+      "GRAMMAR-11",
+      "NOTES-03",
+      "NOTES-05",
+      "NOTES-06"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "text": "Hola, Marta. El sábado no puedo ir al parque porque voy a trabajar. ¿Quieres quedar el domingo? Podemos tomar un café a las cuatro y después pasear. Me gustan los sitios tranquilos. Prefiero el café de la plaza, al lado de la biblioteca. Dime si te viene bien esa hora.",
+    "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+  },
+  "typicalErrors": [
+    [
+      "Voy estudiar",
+      "Между ir и инфинитивом нужно a: voy a estudiar."
+    ],
+    [
+      "Voy a estudio",
+      "После a нужен инфинитив: estudiar."
+    ],
+    [
+      "Me gusta los libros",
+      "Подлежащее множественного числа: me gustan los libros."
+    ],
+    [
+      "Yo gusto el café",
+      "Кому нравится: me; что нравится: el café. Me gusta el café."
+    ]
+  ],
+  "tasks": [
+    {
+      "id": "A1-06:task:01",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "gap",
+      "skill": "reading",
+      "contentId": "A1-06",
+      "prompt": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "stage": "explanation",
+      "activityKind": "study"
+    },
+    {
+      "id": "A1-06:task:02",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "gap",
+      "skill": "reading",
+      "contentId": "A1-06:dialogue:1",
+      "prompt": "Прочитайте диалог по ролям. Сравните с объяснением, затем закройте перевод и повторите реплики.",
+      "stage": "dialogue",
+      "activityKind": "study"
+    },
+    {
+      "id": "A1-06:task:03",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "gap",
+      "skill": "reading",
+      "contentId": "A1-06",
+      "prompt": "Послушайте сочетания. Откройте нужную карточку и вспомните значение; просмотр не считается знанием.",
+      "stage": "lexicon",
+      "activityKind": "study"
+    },
+    {
+      "id": "A1-06:task:04",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Как выразить план учиться?",
+      "expected": "Voy a estudiar.",
+      "alternatives": [],
+      "explanation": "Ir в личной форме + a + инфинитив.",
+      "options": [
+        "Voy a estudiar.",
+        "Voy estudiar.",
+        "Voy a estudio."
+      ],
+      "activityKind": "choice",
+      "contentId": "A1-06:task:04"
+    },
+    {
+      "id": "A1-06:task:05",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Вставьте только gusta/gustan: Me ___ los libros.",
+      "expected": "gustan",
+      "alternatives": [],
+      "explanation": "Los libros — множественное число.",
+      "options": [],
+      "activityKind": "input",
+      "contentId": "A1-06:task:05"
+    },
+    {
+      "id": "A1-06:task:06",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Замените yo на nosotros и введите фразу без местоимения: Voy a pasear.",
+      "expected": "Vamos a pasear.",
+      "alternatives": [],
+      "explanation": "Voy → vamos; a pasear не меняется.",
+      "options": [],
+      "activityKind": "input",
+      "contentId": "A1-06:task:06"
+    },
+    {
+      "id": "A1-06:task:07",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "reading",
+      "skill": "reading",
+      "prompt": "Что больше нравится подруге Аны?",
+      "expected": "Гулять",
+      "alternatives": [],
+      "explanation": "A su amiga le gusta más pasear.",
+      "options": [
+        "Гулять",
+        "Готовить",
+        "Ходить в кино"
+      ],
+      "text": "El domingo Ana va a visitar a una amiga. Por la mañana van a preparar el desayuno en casa. A Ana le gusta cocinar, pero a su amiga le gusta más pasear. Después del desayuno van a caminar por el centro. Si hace mucho calor, van a descansar en un café. No van a ir al cine. Por la tarde Ana va a volver a casa para estudiar español.",
+      "activityKind": "reading",
+      "meaning": "Гулять",
+      "contentId": "A1-06:task:07"
+    },
+    {
+      "id": "A1-06:task:08",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "reading",
+      "skill": "reading",
+      "prompt": "Что они не планируют делать?",
+      "expected": "Идти в кино",
+      "alternatives": [],
+      "explanation": "No van a ir al cine.",
+      "options": [
+        "Идти в кино",
+        "Завтракать",
+        "Гулять по центру"
+      ],
+      "text": "El domingo Ana va a visitar a una amiga. Por la mañana van a preparar el desayuno en casa. A Ana le gusta cocinar, pero a su amiga le gusta más pasear. Después del desayuno van a caminar por el centro. Si hace mucho calor, van a descansar en un café. No van a ir al cine. Por la tarde Ana va a volver a casa para estudiar español.",
+      "activityKind": "reading",
+      "meaning": "Идти в кино",
+      "contentId": "A1-06:task:08"
+    },
+    {
+      "id": "A1-06:task:09",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "listening",
+      "skill": "listening",
+      "prompt": "Почему собеседник не может в субботу?",
+      "expected": "Он собирается работать",
+      "alternatives": [],
+      "explanation": "Porque voy a trabajar.",
+      "options": [
+        "Он собирается работать",
+        "Он едет в другой город",
+        "Он не любит парк"
+      ],
+      "text": "Hola, Marta. El sábado no puedo ir al parque porque voy a trabajar. ¿Quieres quedar el domingo? Podemos tomar un café a las cuatro y después pasear. Me gustan los sitios tranquilos. Prefiero el café de la plaza, al lado de la biblioteca. Dime si te viene bien esa hora.",
+      "activityKind": "listening",
+      "meaning": "Он собирается работать",
+      "contentId": "A1-06:task:09"
+    },
+    {
+      "id": "A1-06:task:10",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "listening",
+      "skill": "listening",
+      "prompt": "На какое время предложен кофе в воскресенье?",
+      "expected": "a las cuatro",
+      "alternatives": [],
+      "explanation": "Podemos tomar un café a las cuatro.",
+      "options": [
+        "a las cuatro",
+        "a las cinco",
+        "a las seis"
+      ],
+      "text": "Hola, Marta. El sábado no puedo ir al parque porque voy a trabajar. ¿Quieres quedar el domingo? Podemos tomar un café a las cuatro y después pasear. Me gustan los sitios tranquilos. Prefiero el café de la plaza, al lado de la biblioteca. Dime si te viene bien esa hora.",
+      "activityKind": "listening",
+      "meaning": "a las cuatro",
+      "contentId": "A1-06:task:10"
+    },
+    {
+      "id": "A1-06:task:11",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Новая ситуация: вам нравится читать. Используйте только Me + форму gustar + leer.",
+      "expected": "Me gusta leer.",
+      "alternatives": [],
+      "explanation": "Инфинитив leer согласуется с gusta, не gustan.",
+      "options": [],
+      "activityKind": "input",
+      "transfer": true,
+      "contentId": "A1-06:task:11"
+    },
+    {
+      "id": "A1-06:task:12",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "writing",
+      "skill": "writing",
+      "prompt": "Напишите приглашение приятелю: действие, время, место и предпочтение. Добавьте альтернативу на случай, если первое время не подходит.",
+      "rubric": [
+        "Есть ir a + infinitivo или простое приглашение",
+        "Есть gusta/gustan с правильным числом",
+        "Названы место, время и альтернатива"
+      ],
+      "minimumWords": 20,
+      "explanation": "Сохранение текста не означает автоматической проверки грамматики.",
+      "activityKind": "writing",
+      "contentId": "A1-06:task:12"
+    },
+    {
+      "id": "A1-06:task:13",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "speaking",
+      "skill": "speaking",
+      "prompt": "Разыграйте приглашение и ответ. Первый вариант времени не подходит: предложите другой и в конце подтвердите договорённость.",
+      "rubric": [
+        "Сначала говорил(а) без готового диалога",
+        "Выразил(а) желание/предпочтение и предложил(а) альтернативу",
+        "Подтвердил(а) место и время"
+      ],
+      "explanation": "Произнесите вслух. Автоматической оценки произношения и свободной речи нет.",
+      "activityKind": "speaking",
+      "contentId": "A1-06:task:13"
+    },
+    {
+      "id": "A1-06:task:14",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: заполните только пропуск: Vamos ___ comer.",
+      "expected": "a",
+      "alternatives": [],
+      "explanation": "Ir a + infinitivo.",
+      "options": [],
+      "control": true,
+      "activityKind": "input",
+      "contentId": "A1-06:task:14"
+    },
+    {
+      "id": "A1-06:task:15",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: выберите фразу о нескольких городах.",
+      "expected": "Me gustan estas ciudades.",
+      "alternatives": [],
+      "explanation": "Estas ciudades — множественное число.",
+      "options": [
+        "Me gustan estas ciudades.",
+        "Me gusta estas ciudades.",
+        "Yo gusto estas ciudades."
+      ],
+      "control": true,
+      "activityKind": "choice",
+      "contentId": "A1-06:task:15"
+    },
+    {
+      "id": "A1-06:task:16",
+      "level": "A1",
+      "topic": "Ближайшие планы",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "type": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: замените voy на ella и начните с Ella: Voy a descansar.",
+      "expected": "Ella va a descansar.",
+      "alternatives": [],
+      "explanation": "Ella va; a descansar остаётся инфинитивом.",
+      "options": [],
+      "control": true,
+      "activityKind": "input",
+      "contentId": "A1-06:task:16"
+    }
+  ],
+  "repetitionDays": [
+    1,
+    3,
+    7,
+    14,
+    30
+  ],
+  "alphabet": null,
+  "durationRangeMinutes": [
+    35,
+    50
+  ]
+}

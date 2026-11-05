@@ -43,3 +43,13 @@ r5-test:
 	python tools/test_r5_regressions.py
 r5-package:
 	python tools/package_r5.py
+
+.PHONY: r6-internal r6-test r6-package
+r6-internal:
+	python -c 'import sys;sys.path.insert(0,"tools");from build import build;build(revision="R6")'
+r6-test:
+	python tools/course_review.py
+	python tools/test_lessons.py
+	python tools/test_r6_regressions.py
+r6-package:
+	python tools/package_r6.py

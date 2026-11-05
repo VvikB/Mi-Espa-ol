@@ -1,0 +1,20 @@
+{
+  "R5_checkpoint": "r5-checkpoint-2026-11-06",
+  "R5_rebuild": "EXACT_HTML_SHA256_MATCH",
+  "R5_artifacts": "ALL_MANIFEST_HASHES_UNCHANGED",
+  "original_and_R4_R5_data_paths": [
+    "originals",
+    "assets",
+    "data/core.json",
+    "data/images.json",
+    "data/catalog.json",
+    "data/routes.json",
+    "data/recovered",
+    "data/reviewed",
+    "pilot/Mi_Espanol_Pilot_R5.html",
+    "downloads/Mi_Espanol_Pilot_R5.zip",
+    "audit/restoration-r5"
+  ],
+  "git_diff_vs_53f42e0": "EMPTY",
+  "user_progress_test": "See lesson-tests.json R5_to_R6_all_progress_and_IDs"
+}

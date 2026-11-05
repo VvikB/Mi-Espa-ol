@@ -1,0 +1,191 @@
+{
+  "scope": "Preliminary alignment, not verified official descriptor quotations",
+  "lessons": [
+    {
+      "lessonId": "A1-01",
+      "outcome": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "pcicAreas": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "cefrProjectOutcomes": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "evidenceTaskIds": [
+        "A1-01:task:04",
+        "A1-01:task:05",
+        "A1-01:task:06",
+        "A1-01:task:07",
+        "A1-01:task:08",
+        "A1-01:task:09",
+        "A1-01:task:10",
+        "A1-01:task:11",
+        "A1-01:task:12",
+        "A1-01:task:13",
+        "A1-01:task:14",
+        "A1-01:task:15",
+        "A1-01:task:16"
+      ],
+      "sourceVerification": "PROVISIONAL; official documents returned HTTP 403",
+      "notClaimed": [
+        "Official PCIC section-level verification",
+        "CEFR level certification",
+        "Independent ELE approval"
+      ]
+    },
+    {
+      "lessonId": "A1-02",
+      "outcome": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "pcicAreas": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "cefrProjectOutcomes": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "evidenceTaskIds": [
+        "A1-02:task:04",
+        "A1-02:task:05",
+        "A1-02:task:06",
+        "A1-02:task:07",
+        "A1-02:task:08",
+        "A1-02:task:09",
+        "A1-02:task:10",
+        "A1-02:task:11",
+        "A1-02:task:12",
+        "A1-02:task:13",
+        "A1-02:task:14",
+        "A1-02:task:15",
+        "A1-02:task:16"
+      ],
+      "sourceVerification": "PROVISIONAL; official documents returned HTTP 403",
+      "notClaimed": [
+        "Official PCIC section-level verification",
+        "CEFR level certification",
+        "Independent ELE approval"
+      ]
+    },
+    {
+      "lessonId": "A1-03",
+      "outcome": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "pcicAreas": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "cefrProjectOutcomes": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "evidenceTaskIds": [
+        "A1-03:task:04",
+        "A1-03:task:05",
+        "A1-03:task:06",
+        "A1-03:task:07",
+        "A1-03:task:08",
+        "A1-03:task:09",
+        "A1-03:task:10",
+        "A1-03:task:11",
+        "A1-03:task:12",
+        "A1-03:task:13",
+        "A1-03:task:14",
+        "A1-03:task:15",
+        "A1-03:task:16"
+      ],
+      "sourceVerification": "PROVISIONAL; official documents returned HTTP 403",
+      "notClaimed": [
+        "Official PCIC section-level verification",
+        "CEFR level certification",
+        "Independent ELE approval"
+      ]
+    },
+    {
+      "lessonId": "A1-04",
+      "outcome": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "pcicAreas": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "cefrProjectOutcomes": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "evidenceTaskIds": [
+        "A1-04:task:04",
+        "A1-04:task:05",
+        "A1-04:task:06",
+        "A1-04:task:07",
+        "A1-04:task:08",
+        "A1-04:task:09",
+        "A1-04:task:10",
+        "A1-04:task:11",
+        "A1-04:task:12",
+        "A1-04:task:13",
+        "A1-04:task:14",
+        "A1-04:task:15",
+        "A1-04:task:16"
+      ],
+      "sourceVerification": "PROVISIONAL; official documents returned HTTP 403",
+      "notClaimed": [
+        "Official PCIC section-level verification",
+        "CEFR level certification",
+        "Independent ELE approval"
+      ]
+    },
+    {
+      "lessonId": "A1-05",
+      "outcome": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "pcicAreas": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "cefrProjectOutcomes": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "evidenceTaskIds": [
+        "A1-05:task:04",
+        "A1-05:task:05",
+        "A1-05:task:06",
+        "A1-05:task:07",
+        "A1-05:task:08",
+        "A1-05:task:09",
+        "A1-05:task:10",
+        "A1-05:task:11",
+        "A1-05:task:12",
+        "A1-05:task:13",
+        "A1-05:task:14",
+        "A1-05:task:15",
+        "A1-05:task:16"
+      ],
+      "sourceVerification": "PROVISIONAL; official documents returned HTTP 403",
+      "notClaimed": [
+        "Official PCIC section-level verification",
+        "CEFR level certification",
+        "Independent ELE approval"
+      ]
+    },
+    {
+      "lessonId": "A1-06",
+      "outcome": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "pcicAreas": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "cefrProjectOutcomes": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "evidenceTaskIds": [
+        "A1-06:task:04",
+        "A1-06:task:05",
+        "A1-06:task:06",
+        "A1-06:task:07",
+        "A1-06:task:08",
+        "A1-06:task:09",
+        "A1-06:task:10",
+        "A1-06:task:11",
+        "A1-06:task:12",
+        "A1-06:task:13",
+        "A1-06:task:14",
+        "A1-06:task:15",
+        "A1-06:task:16"
+      ],
+      "sourceVerification": "PROVISIONAL; official documents returned HTTP 403",
+      "notClaimed": [
+        "Official PCIC section-level verification",
+        "CEFR level certification",
+        "Independent ELE approval"
+      ]
+    }
+  ]
+}

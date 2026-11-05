@@ -1,0 +1,1035 @@
+{
+  "artifact_sha256": "e912901af046236b2809f46b2edcc85018083920fe35e5067bd214cc155affea",
+  "scope": "Six lessons, grading honesty, R5 migration and shared progress",
+  "device": "Chromium mobile emulation; real iPhone NOT TESTED",
+  "summary": {
+    "PASS": 205
+  },
+  "results": [
+    {
+      "test": "six_complete_lessons",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_content_blocks",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_practice_balance",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_honest_review_status",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02_content_blocks",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02_practice_balance",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02_honest_review_status",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03_content_blocks",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03_practice_balance",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03_honest_review_status",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04_content_blocks",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04_practice_balance",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04_honest_review_status",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05_content_blocks",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05_practice_balance",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05_honest_review_status",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06_content_blocks",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06_practice_balance",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06_honest_review_status",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "R5_to_R6_all_progress_and_IDs",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "R5_to_R6_DB_unchanged",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "legacy_quiz_access_while_lesson_paused",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "resume_after_legacy_access",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "opening_does_not_award",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "study_not_learning_success",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "next_disabled_without_answer",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "accent_negative",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "enye_negative",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "audio_text_hidden",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "audio_gate_disabled",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "transcript_counts_reading",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_dialogue_translation",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:04_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:05_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:06_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:07_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:08_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:09_TTS",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:09_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:10_TTS",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:10_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:11_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:12_self_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_resume_after_reload",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:13_self_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:14_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:14_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:15_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:15_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:16_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:16_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_control_passed",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_next_lesson_link",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_no_false_content_gaps",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_due_in_future",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02_dialogue_translation",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:04_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:05_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:06_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:07_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:08_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:09_TTS",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:09_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:10_TTS",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:10_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:11_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:12_self_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02_resume_after_reload",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:13_self_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:14_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:14_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:15_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:15_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:16_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02:task:16_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02_control_passed",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02_next_lesson_link",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02_no_false_content_gaps",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-02_due_in_future",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03_dialogue_translation",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:04_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:05_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:06_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:07_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:08_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:09_TTS",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:09_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:10_TTS",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:10_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:11_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:12_self_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03_resume_after_reload",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:13_self_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:14_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:14_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:15_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:15_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:16_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03:task:16_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03_control_passed",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03_next_lesson_link",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03_no_false_content_gaps",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-03_due_in_future",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04_dialogue_translation",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:04_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:05_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:06_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:07_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:08_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:09_TTS",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:09_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:10_TTS",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:10_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:11_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:12_self_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04_resume_after_reload",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:13_self_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:14_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:14_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:15_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:15_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:16_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04:task:16_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04_control_passed",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04_next_lesson_link",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04_no_false_content_gaps",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-04_due_in_future",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05_dialogue_translation",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:04_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:05_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:06_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:07_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:08_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:09_TTS",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:09_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:10_TTS",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:10_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:11_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:12_self_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05_resume_after_reload",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:13_self_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:14_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:14_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:15_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:15_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:16_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05:task:16_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05_control_passed",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05_next_lesson_link",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05_no_false_content_gaps",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-05_due_in_future",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06_dialogue_translation",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:04_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:05_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:06_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:07_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:08_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:09_TTS",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:09_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:10_TTS",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:10_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:11_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:12_self_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06_resume_after_reload",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:13_self_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:14_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:14_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:15_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:15_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:16_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06:task:16_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06_control_passed",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06_next_lesson_link",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06_no_false_content_gaps",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-06_due_in_future",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_dialogue_translation",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:04_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:05_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:06_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:07_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:08_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:09_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:10_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:11_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:12_self_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_resume_after_reload",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:13_self_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:14_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:14_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:15_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:15_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:16_no_hint",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01:task:16_correct",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_control_passed",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_next_lesson_link",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_no_false_content_gaps",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "A1-01_due_in_future",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "legacy_quiz_access_after_completion",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "course_backup_roundtrip",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "events_unique",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "storage_not_locked",
+      "status": "PASS",
+      "evidence": []
+    },
+    {
+      "test": "mobile_width_320",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "mobile_width_375",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "mobile_width_428",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "no_js_errors",
+      "status": "PASS",
+      "evidence": []
+    }
+  ]
+}

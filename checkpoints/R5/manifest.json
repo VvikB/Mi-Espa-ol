@@ -1,0 +1,79 @@
+{
+  "commit": "53f42e058b844f50febe0bae68742719388e7f79",
+  "tag": "r5-checkpoint-2026-11-06",
+  "physical_iPhone": "PENDING",
+  "artifacts": [
+    {
+      "path": "pilot/Mi_Espanol_Pilot_R5.html",
+      "sha256": "ad9262ac5e935e55903826ce907b7a41c26c5190686e9d66720c469f86f02922"
+    },
+    {
+      "path": "downloads/Mi_Espanol_Pilot_R5.zip",
+      "sha256": "d3c9264f604b990895235b4ff42f27609a9857804cb417c66198561aa2823038"
+    },
+    {
+      "path": "audit/restoration-r5/reproducibility.json",
+      "sha256": "f1591c43d5c89f12ca40f767e286c920d78408e15c81e29c535dcb67e9387d9b"
+    },
+    {
+      "path": "audit/restoration-r5/catalog.json",
+      "sha256": "d5e0e9a1aba55e2259e29327f5a96ca91c646f4c9c3d1307a4bb9254f3a0720e"
+    },
+    {
+      "path": "audit/restoration-r5/regression-tests.json",
+      "sha256": "8570dc20d0458737750b00b45a37a101913411e85746cb703f2af5730ad11f03"
+    },
+    {
+      "path": "audit/restoration-r5/today-428.png",
+      "sha256": "80f7c7e894e78d7acea9f70c97f7b9d9c2dd615b0ea35ff47b492ce394b3d779"
+    },
+    {
+      "path": "audit/restoration-r5/status.json",
+      "sha256": "335263f51ac92f6f98c41e215d06a9c079e0738956486939e6fa2ba55a82fe16"
+    },
+    {
+      "path": "audit/restoration-r5/backup-tests.json",
+      "sha256": "247afb1d832f6c82add9f71abfc770f80889f2b15bcc56d65d5b927a92285709"
+    },
+    {
+      "path": "audit/restoration-r5/journey-tests.json",
+      "sha256": "5d01ca528af8d383feaea84ca0aad0ec9d1385554154ef5b9e3464569c3a721a"
+    },
+    {
+      "path": "audit/restoration-r5/tener-428.png",
+      "sha256": "c5ec4266dfd97b3fa8fd7de98a9045d54d612d4fa6d6f06ae5c1ae9d7f5758bc"
+    },
+    {
+      "path": "audit/restoration-r5/build.json",
+      "sha256": "9816fc6badbc44e01841b0bacde7b1fea8b9c9987e147107d7fbe209f445a174"
+    },
+    {
+      "path": "audit/restoration-r5/SHA256SUMS",
+      "sha256": "510e9123dc493b09b2daf0af4c73ec05e0c9c2826b59d258bf05ed50e1a22d4a"
+    },
+    {
+      "path": "audit/restoration-r5/vocabulary-428.png",
+      "sha256": "1cad3a0e7ae3336c06e0ef42fd2e09548bfa89dfafc493c951c8aeaf82f191b5"
+    },
+    {
+      "path": "audit/restoration-r5/preservation.json",
+      "sha256": "a174f0cd95af3b9eadf66183802ce105a675fc24c5be492c9a99e1b6b35558de"
+    },
+    {
+      "path": "audit/restoration-r5/unit-tests.txt",
+      "sha256": "3c7cefaee662e4fdfdbb084003dac0ba25c878219789485eb7ac4a87768a812c"
+    },
+    {
+      "path": "audit/restoration-r5/content-tests.json",
+      "sha256": "c91cfcffe0be4e29d4a98fd0fef1372f926d9e823062303b3055e999bf2ba435"
+    },
+    {
+      "path": "audit/restoration-r5/corrupt-storage-390.png",
+      "sha256": "e26a036eb3c1d50281635a72620061a3545f0bd0ab8cfda8503a5d3ee0880b2a"
+    },
+    {
+      "path": "audit/restoration-r5/words-390.png",
+      "sha256": "282803c3a656a5da295a7463660ae7f38a0e3ec5e1f2a79b02e67cb06137a45d"
+    }
+  ]
+}

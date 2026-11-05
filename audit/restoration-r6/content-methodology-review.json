@@ -1,0 +1,146 @@
+{
+  "scope": "Assistant language pass and project-methodology check; independent acceptance pending",
+  "source_access": "PCIC and CEFR official requests returned HTTP 403; no commercial textbook PDFs available",
+  "new_content_registry_count": 245,
+  "lessons": [
+    {
+      "id": "A1-01",
+      "source_sha256": "8d1711f9486d07c6e7bdb41661ccc0bcd19f409b3b0a4383991da9918679c3ee",
+      "language": {
+        "status": "ASSISTANT_EDITORIAL_PASS",
+        "findings": [
+          "Уточнены современный алфавит, ñ, региональные c/z/s и r/rr.",
+          "Убрано ошибочное требование «сохранить тильду» там, где в вопросе нет слова с тильдой.",
+          "Интонация вопроса не сведена к единственному восходящему контуру; отрицание описано синтаксически."
+        ],
+        "limits": "No independent teacher or exhaustive dictionary validation"
+      },
+      "methodology": {
+        "status": "PROJECT_STANDARD_CHECKED",
+        "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+        "closed_control": 3,
+        "reading_words": 57,
+        "listening_words": 35,
+        "sequence": "Explanation and model → recognition/controlled production → comprehension → transfer → own writing/speech → no-hint control",
+        "limits": "External methodist review and ELE expertise pending"
+      },
+      "device": "REAL_IPHONE_SAFARI_UNTESTED"
+    },
+    {
+      "id": "A1-02",
+      "source_sha256": "b63a8c9bad19858bb47a3486e5a4ba829ec5880d69d8f4bfd5f099143b2673b6",
+      "language": {
+        "status": "ASSISTANT_EDITORIAL_PASS",
+        "findings": [
+          "SER/ESTAR не объясняются только постоянством/временностью.",
+          "Различены профессия без артикля и допустимый артикль при характеристике.",
+          "Для свободного переноса состояния приняты оба порядка Hoy estoy cansada / Estoy cansada hoy."
+        ],
+        "limits": "No independent teacher or exhaustive dictionary validation"
+      },
+      "methodology": {
+        "status": "PROJECT_STANDARD_CHECKED",
+        "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+        "closed_control": 3,
+        "reading_words": 64,
+        "listening_words": 45,
+        "sequence": "Explanation and model → recognition/controlled production → comprehension → transfer → own writing/speech → no-hint control",
+        "limits": "External methodist review and ELE expertise pending"
+      },
+      "device": "REAL_IPHONE_SAFARI_UNTESTED"
+    },
+    {
+      "id": "A1-03",
+      "source_sha256": "66d664960bcefe347b9379d6d39694adf232e806472685f046021719198aab89",
+      "language": {
+        "status": "ASSISTANT_EDITORIAL_PASS",
+        "findings": [
+          "В возвратной форме меняются и местоимение, и личная форма.",
+          "Отрицание стоит перед местоимением; al не заменяется a el.",
+          "Задание с Ana задаёт начальное слово, чтобы не отвергать разрешённое опущение подлежащего в свободной речи."
+        ],
+        "limits": "No independent teacher or exhaustive dictionary validation"
+      },
+      "methodology": {
+        "status": "PROJECT_STANDARD_CHECKED",
+        "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+        "closed_control": 3,
+        "reading_words": 66,
+        "listening_words": 49,
+        "sequence": "Explanation and model → recognition/controlled production → comprehension → transfer → own writing/speech → no-hint control",
+        "limits": "External methodist review and ELE expertise pending"
+      },
+      "device": "REAL_IPHONE_SAFARI_UNTESTED"
+    },
+    {
+      "id": "A1-04",
+      "source_sha256": "b29d66f4c9f5696c40cf7c1d79267fc7bf4c1b30ab97e2bf5b98c9859bbc690f",
+      "language": {
+        "status": "ASSISTANT_EDITORIAL_PASS",
+        "findings": [
+          "Проверена арифметика: 2×2+3=7 в диалоге; 2+1=3 в чтении; 2×1,50+4=7 в аудировании.",
+          "В заказе воды разрешён por favor в начале и в конце.",
+          "Hay не меняется по числу; café→cafés и dieciséis проверяются с акцентами."
+        ],
+        "limits": "No independent teacher or exhaustive dictionary validation"
+      },
+      "methodology": {
+        "status": "PROJECT_STANDARD_CHECKED",
+        "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+        "closed_control": 3,
+        "reading_words": 64,
+        "listening_words": 46,
+        "sequence": "Explanation and model → recognition/controlled production → comprehension → transfer → own writing/speech → no-hint control",
+        "limits": "External methodist review and ELE expertise pending"
+      },
+      "device": "REAL_IPHONE_SAFARI_UNTESTED"
+    },
+    {
+      "id": "A1-05",
+      "source_sha256": "609406a440c6bd728a4b50bb70239374112b0090c8aed30394b20b567806cdac",
+      "language": {
+        "status": "ASSISTANT_EDITORIAL_PASS",
+        "findings": [
+          "Разведены время отправления и более раннее время встречи.",
+          "Для преобразования 15:30 явно задана 12-часовая модель с tres/media.",
+          "Формулы sigue/gira даются с переводом как навигационные выражения, не как полный урок императива."
+        ],
+        "limits": "No independent teacher or exhaustive dictionary validation"
+      },
+      "methodology": {
+        "status": "PROJECT_STANDARD_CHECKED",
+        "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+        "closed_control": 3,
+        "reading_words": 69,
+        "listening_words": 49,
+        "sequence": "Explanation and model → recognition/controlled production → comprehension → transfer → own writing/speech → no-hint control",
+        "limits": "External methodist review and ELE expertise pending"
+      },
+      "device": "REAL_IPHONE_SAFARI_UNTESTED"
+    },
+    {
+      "id": "A1-06",
+      "source_sha256": "c2dcbd5b462d77c6e95a9a81021c3c2dd512377bb0c5909b84ad1521a073fbc1",
+      "language": {
+        "status": "ASSISTANT_EDITORIAL_PASS",
+        "findings": [
+          "Устранено лишнее Hoy в разговоре о субботнем плане.",
+          "Gustar согласуется с предметом/инфинитивом; не выдается за обычное переходное «я люблю».",
+          "В заданиях разграничены ir + место и ir a + infinitivo."
+        ],
+        "limits": "No independent teacher or exhaustive dictionary validation"
+      },
+      "methodology": {
+        "status": "PROJECT_STANDARD_CHECKED",
+        "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+        "closed_control": 3,
+        "reading_words": 69,
+        "listening_words": 50,
+        "sequence": "Explanation and model → recognition/controlled production → comprehension → transfer → own writing/speech → no-hint control",
+        "limits": "External methodist review and ELE expertise pending"
+      },
+      "device": "REAL_IPHONE_SAFARI_UNTESTED"
+    }
+  ],
+  "structural_errors": []
+}

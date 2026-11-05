@@ -1,0 +1,15 @@
+{
+  "base_commit": "53f42e058b844f50febe0bae68742719388e7f79",
+  "checkpoint": "r5-checkpoint-2026-11-06",
+  "branch": "r6-a1-lessons",
+  "status": "SIX_LESSONS_IMPLEMENTED_INTERNAL_QA_PASSED_INDEPENDENT_ACCEPTANCE_PENDING",
+  "lessons": 6,
+  "new_IDs": 245,
+  "steps": 96,
+  "unchanged_vocabulary": 483,
+  "source_verification": "PCIC_CEFR_HTTP_403; commercial books not locally available; preliminary mapping only",
+  "physical_iPhone_Safari": "UNTESTED",
+  "independent_methodical_and_ELE_review": "PENDING",
+  "historical_15_passes_remaining": null,
+  "next_major_pass": "Independent six-lesson review, confirmed corrections, then continue authored A1-B2 course"
+}
