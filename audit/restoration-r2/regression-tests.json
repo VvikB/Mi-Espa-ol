@@ -1,0 +1,1419 @@
+{
+  "run_at_utc": "2026-11-05T04:38:53.531586+00:00",
+  "browser": "155.0.8059.79",
+  "artifact_sha256": "beed3e9287fa93e516425a60be804f383796badba297de670180e95c700347c0",
+  "scope": "R1 fixed-function regression on R2, not full specification acceptance",
+  "audio": "Mocked device voices and output; physical iPhone NOT TESTED",
+  "trainable_tables": 22,
+  "trainable_cells_rendered": 404,
+  "summary": {
+    "PASS": 260
+  },
+  "results": [
+    {
+      "test": "startup",
+      "status": "PASS",
+      "evidence": []
+    },
+    {
+      "test": "runtime_counts_preserved",
+      "status": "PASS",
+      "evidence": {
+        "vocab": 131,
+        "quiz": 10,
+        "sections": 16,
+        "tables": 73,
+        "scenes": 6,
+        "sceneItems": 55,
+        "weeks": 12
+      }
+    },
+    {
+      "test": "dictionary_audio_0",
+      "status": "PASS",
+      "evidence": "hola"
+    },
+    {
+      "test": "dictionary_audio_1",
+      "status": "PASS",
+      "evidence": "buenos días"
+    },
+    {
+      "test": "dictionary_audio_2",
+      "status": "PASS",
+      "evidence": "buenas tardes"
+    },
+    {
+      "test": "dictionary_audio_3",
+      "status": "PASS",
+      "evidence": "buenas noches"
+    },
+    {
+      "test": "dictionary_audio_4",
+      "status": "PASS",
+      "evidence": "gracias"
+    },
+    {
+      "test": "dictionary_audio_5",
+      "status": "PASS",
+      "evidence": "por favor"
+    },
+    {
+      "test": "dictionary_audio_6",
+      "status": "PASS",
+      "evidence": "perdón"
+    },
+    {
+      "test": "dictionary_audio_7",
+      "status": "PASS",
+      "evidence": "de nada"
+    },
+    {
+      "test": "dictionary_audio_8",
+      "status": "PASS",
+      "evidence": "¿qué tal?"
+    },
+    {
+      "test": "dictionary_audio_9",
+      "status": "PASS",
+      "evidence": "no entiendo"
+    },
+    {
+      "test": "dictionary_audio_10",
+      "status": "PASS",
+      "evidence": "¿puedes repetir?"
+    },
+    {
+      "test": "dictionary_audio_11",
+      "status": "PASS",
+      "evidence": "más despacio"
+    },
+    {
+      "test": "dictionary_audio_12",
+      "status": "PASS",
+      "evidence": "necesito"
+    },
+    {
+      "test": "dictionary_audio_13",
+      "status": "PASS",
+      "evidence": "quiero"
+    },
+    {
+      "test": "dictionary_audio_14",
+      "status": "PASS",
+      "evidence": "me gustaría"
+    },
+    {
+      "test": "dictionary_audio_15",
+      "status": "PASS",
+      "evidence": "¿cuánto cuesta?"
+    },
+    {
+      "test": "dictionary_audio_16",
+      "status": "PASS",
+      "evidence": "¿dónde está…?"
+    },
+    {
+      "test": "dictionary_audio_17",
+      "status": "PASS",
+      "evidence": "la calle"
+    },
+    {
+      "test": "dictionary_audio_18",
+      "status": "PASS",
+      "evidence": "la ciudad"
+    },
+    {
+      "test": "dictionary_audio_19",
+      "status": "PASS",
+      "evidence": "la estación"
+    },
+    {
+      "test": "dictionary_audio_20",
+      "status": "PASS",
+      "evidence": "el billete"
+    },
+    {
+      "test": "dictionary_audio_21",
+      "status": "PASS",
+      "evidence": "la izquierda"
+    },
+    {
+      "test": "dictionary_audio_22",
+      "status": "PASS",
+      "evidence": "la derecha"
+    },
+    {
+      "test": "dictionary_audio_23",
+      "status": "PASS",
+      "evidence": "cerca"
+    },
+    {
+      "test": "dictionary_audio_24",
+      "status": "PASS",
+      "evidence": "lejos"
+    },
+    {
+      "test": "dictionary_audio_25",
+      "status": "PASS",
+      "evidence": "el trabajo"
+    },
+    {
+      "test": "dictionary_audio_26",
+      "status": "PASS",
+      "evidence": "la reunión"
+    },
+    {
+      "test": "dictionary_audio_27",
+      "status": "PASS",
+      "evidence": "el proyecto"
+    },
+    {
+      "test": "dictionary_audio_28",
+      "status": "PASS",
+      "evidence": "el contrato"
+    },
+    {
+      "test": "dictionary_audio_29",
+      "status": "PASS",
+      "evidence": "el documento"
+    },
+    {
+      "test": "dictionary_audio_30",
+      "status": "PASS",
+      "evidence": "el correo"
+    },
+    {
+      "test": "dictionary_audio_31",
+      "status": "PASS",
+      "evidence": "el cliente"
+    },
+    {
+      "test": "dictionary_audio_32",
+      "status": "PASS",
+      "evidence": "el presupuesto"
+    },
+    {
+      "test": "dictionary_audio_33",
+      "status": "PASS",
+      "evidence": "la factura"
+    },
+    {
+      "test": "dictionary_audio_34",
+      "status": "PASS",
+      "evidence": "el plazo"
+    },
+    {
+      "test": "dictionary_audio_35",
+      "status": "PASS",
+      "evidence": "la casa"
+    },
+    {
+      "test": "dictionary_audio_36",
+      "status": "PASS",
+      "evidence": "la familia"
+    },
+    {
+      "test": "dictionary_audio_37",
+      "status": "PASS",
+      "evidence": "el hijo"
+    },
+    {
+      "test": "dictionary_audio_38",
+      "status": "PASS",
+      "evidence": "la comida"
+    },
+    {
+      "test": "dictionary_audio_39",
+      "status": "PASS",
+      "evidence": "el agua"
+    },
+    {
+      "test": "dictionary_audio_40",
+      "status": "PASS",
+      "evidence": "el pan"
+    },
+    {
+      "test": "dictionary_audio_41",
+      "status": "PASS",
+      "evidence": "el café"
+    },
+    {
+      "test": "dictionary_audio_42",
+      "status": "PASS",
+      "evidence": "el desayuno"
+    },
+    {
+      "test": "dictionary_audio_43",
+      "status": "PASS",
+      "evidence": "la cuenta"
+    },
+    {
+      "test": "dictionary_audio_44",
+      "status": "PASS",
+      "evidence": "una mesa"
+    },
+    {
+      "test": "dictionary_audio_45",
+      "status": "PASS",
+      "evidence": "sin"
+    },
+    {
+      "test": "dictionary_audio_46",
+      "status": "PASS",
+      "evidence": "con"
+    },
+    {
+      "test": "dictionary_audio_47",
+      "status": "PASS",
+      "evidence": "hoy"
+    },
+    {
+      "test": "dictionary_audio_48",
+      "status": "PASS",
+      "evidence": "ayer"
+    },
+    {
+      "test": "dictionary_audio_49",
+      "status": "PASS",
+      "evidence": "mañana"
+    },
+    {
+      "test": "dictionary_audio_50",
+      "status": "PASS",
+      "evidence": "ahora"
+    },
+    {
+      "test": "dictionary_audio_51",
+      "status": "PASS",
+      "evidence": "siempre"
+    },
+    {
+      "test": "dictionary_audio_52",
+      "status": "PASS",
+      "evidence": "nunca"
+    },
+    {
+      "test": "dictionary_audio_53",
+      "status": "PASS",
+      "evidence": "a veces"
+    },
+    {
+      "test": "dictionary_audio_54",
+      "status": "PASS",
+      "evidence": "antes"
+    },
+    {
+      "test": "dictionary_audio_55",
+      "status": "PASS",
+      "evidence": "después"
+    },
+    {
+      "test": "dictionary_audio_56",
+      "status": "PASS",
+      "evidence": "bien"
+    },
+    {
+      "test": "dictionary_audio_57",
+      "status": "PASS",
+      "evidence": "mal"
+    },
+    {
+      "test": "dictionary_audio_58",
+      "status": "PASS",
+      "evidence": "rápido"
+    },
+    {
+      "test": "dictionary_audio_59",
+      "status": "PASS",
+      "evidence": "fácil"
+    },
+    {
+      "test": "dictionary_audio_60",
+      "status": "PASS",
+      "evidence": "difícil"
+    },
+    {
+      "test": "dictionary_audio_61",
+      "status": "PASS",
+      "evidence": "importante"
+    },
+    {
+      "test": "dictionary_audio_62",
+      "status": "PASS",
+      "evidence": "el tiempo"
+    },
+    {
+      "test": "dictionary_audio_63",
+      "status": "PASS",
+      "evidence": "el dinero"
+    },
+    {
+      "test": "dictionary_audio_64",
+      "status": "PASS",
+      "evidence": "pagar"
+    },
+    {
+      "test": "dictionary_audio_65",
+      "status": "PASS",
+      "evidence": "comprar"
+    },
+    {
+      "test": "dictionary_audio_66",
+      "status": "PASS",
+      "evidence": "buscar"
+    },
+    {
+      "test": "dictionary_audio_67",
+      "status": "PASS",
+      "evidence": "entender"
+    },
+    {
+      "test": "dictionary_audio_68",
+      "status": "PASS",
+      "evidence": "recordar"
+    },
+    {
+      "test": "dictionary_audio_69",
+      "status": "PASS",
+      "evidence": "olvidar"
+    },
+    {
+      "test": "dictionary_audio_70",
+      "status": "PASS",
+      "evidence": "aprender"
+    },
+    {
+      "test": "dictionary_audio_71",
+      "status": "PASS",
+      "evidence": "hablar"
+    },
+    {
+      "test": "dictionary_audio_72",
+      "status": "PASS",
+      "evidence": "escuchar"
+    },
+    {
+      "test": "dictionary_audio_73",
+      "status": "PASS",
+      "evidence": "leer"
+    },
+    {
+      "test": "dictionary_audio_74",
+      "status": "PASS",
+      "evidence": "escribir"
+    },
+    {
+      "test": "dictionary_audio_75",
+      "status": "PASS",
+      "evidence": "viajar"
+    },
+    {
+      "test": "dictionary_audio_76",
+      "status": "PASS",
+      "evidence": "volver"
+    },
+    {
+      "test": "dictionary_audio_77",
+      "status": "PASS",
+      "evidence": "salir"
+    },
+    {
+      "test": "dictionary_audio_78",
+      "status": "PASS",
+      "evidence": "entrar"
+    },
+    {
+      "test": "dictionary_audio_79",
+      "status": "PASS",
+      "evidence": "ayudar"
+    },
+    {
+      "test": "dictionary_audio_80",
+      "status": "PASS",
+      "evidence": "pensar"
+    },
+    {
+      "test": "dictionary_audio_81",
+      "status": "PASS",
+      "evidence": "creer"
+    },
+    {
+      "test": "dictionary_audio_82",
+      "status": "PASS",
+      "evidence": "saber"
+    },
+    {
+      "test": "dictionary_audio_83",
+      "status": "PASS",
+      "evidence": "conocer"
+    },
+    {
+      "test": "dictionary_audio_84",
+      "status": "PASS",
+      "evidence": "hacer"
+    },
+    {
+      "test": "dictionary_audio_85",
+      "status": "PASS",
+      "evidence": "tener"
+    },
+    {
+      "test": "dictionary_audio_86",
+      "status": "PASS",
+      "evidence": "estar"
+    },
+    {
+      "test": "dictionary_audio_87",
+      "status": "PASS",
+      "evidence": "ser"
+    },
+    {
+      "test": "dictionary_audio_88",
+      "status": "PASS",
+      "evidence": "ir"
+    },
+    {
+      "test": "dictionary_audio_89",
+      "status": "PASS",
+      "evidence": "poder"
+    },
+    {
+      "test": "dictionary_audio_90",
+      "status": "PASS",
+      "evidence": "querer"
+    },
+    {
+      "test": "dictionary_audio_91",
+      "status": "PASS",
+      "evidence": "porque"
+    },
+    {
+      "test": "dictionary_audio_92",
+      "status": "PASS",
+      "evidence": "pero"
+    },
+    {
+      "test": "dictionary_audio_93",
+      "status": "PASS",
+      "evidence": "aunque"
+    },
+    {
+      "test": "dictionary_audio_94",
+      "status": "PASS",
+      "evidence": "entonces"
+    },
+    {
+      "test": "dictionary_audio_95",
+      "status": "PASS",
+      "evidence": "además"
+    },
+    {
+      "test": "dictionary_audio_96",
+      "status": "PASS",
+      "evidence": "sin embargo"
+    },
+    {
+      "test": "dictionary_audio_97",
+      "status": "PASS",
+      "evidence": "por eso"
+    },
+    {
+      "test": "dictionary_audio_98",
+      "status": "PASS",
+      "evidence": "las sandalias"
+    },
+    {
+      "test": "dictionary_audio_99",
+      "status": "PASS",
+      "evidence": "los calcetines"
+    },
+    {
+      "test": "dictionary_audio_100",
+      "status": "PASS",
+      "evidence": "el sostén"
+    },
+    {
+      "test": "dictionary_audio_101",
+      "status": "PASS",
+      "evidence": "el cinturón"
+    },
+    {
+      "test": "dictionary_audio_102",
+      "status": "PASS",
+      "evidence": "los vaqueros"
+    },
+    {
+      "test": "dictionary_audio_103",
+      "status": "PASS",
+      "evidence": "el paraguas"
+    },
+    {
+      "test": "dictionary_audio_104",
+      "status": "PASS",
+      "evidence": "el abrigo"
+    },
+    {
+      "test": "dictionary_audio_105",
+      "status": "PASS",
+      "evidence": "la camiseta"
+    },
+    {
+      "test": "dictionary_audio_106",
+      "status": "PASS",
+      "evidence": "la chaqueta"
+    },
+    {
+      "test": "dictionary_audio_107",
+      "status": "PASS",
+      "evidence": "la bufanda"
+    },
+    {
+      "test": "dictionary_audio_108",
+      "status": "PASS",
+      "evidence": "la corbata"
+    },
+    {
+      "test": "dictionary_audio_109",
+      "status": "PASS",
+      "evidence": "la camisa"
+    },
+    {
+      "test": "dictionary_audio_110",
+      "status": "PASS",
+      "evidence": "la falda"
+    },
+    {
+      "test": "dictionary_audio_111",
+      "status": "PASS",
+      "evidence": "el sombrero"
+    },
+    {
+      "test": "dictionary_audio_112",
+      "status": "PASS",
+      "evidence": "las gafas"
+    },
+    {
+      "test": "dictionary_audio_113",
+      "status": "PASS",
+      "evidence": "la etiqueta"
+    },
+    {
+      "test": "dictionary_audio_114",
+      "status": "PASS",
+      "evidence": "el cajero"
+    },
+    {
+      "test": "dictionary_audio_115",
+      "status": "PASS",
+      "evidence": "el precio"
+    },
+    {
+      "test": "dictionary_audio_116",
+      "status": "PASS",
+      "evidence": "la tarjeta de crédito"
+    },
+    {
+      "test": "dictionary_audio_117",
+      "status": "PASS",
+      "evidence": "el efectivo"
+    },
+    {
+      "test": "dictionary_audio_118",
+      "status": "PASS",
+      "evidence": "las rebajas"
+    },
+    {
+      "test": "dictionary_audio_119",
+      "status": "PASS",
+      "evidence": "los gastos"
+    },
+    {
+      "test": "dictionary_audio_120",
+      "status": "PASS",
+      "evidence": "la farmacia"
+    },
+    {
+      "test": "dictionary_audio_121",
+      "status": "PASS",
+      "evidence": "la panadería"
+    },
+    {
+      "test": "dictionary_audio_122",
+      "status": "PASS",
+      "evidence": "el sueldo"
+    },
+    {
+      "test": "dictionary_audio_123",
+      "status": "PASS",
+      "evidence": "el jefe"
+    },
+    {
+      "test": "dictionary_audio_124",
+      "status": "PASS",
+      "evidence": "el horario"
+    },
+    {
+      "test": "dictionary_audio_125",
+      "status": "PASS",
+      "evidence": "la enfermedad"
+    },
+    {
+      "test": "dictionary_audio_126",
+      "status": "PASS",
+      "evidence": "la medicina"
+    },
+    {
+      "test": "dictionary_audio_127",
+      "status": "PASS",
+      "evidence": "el médico"
+    },
+    {
+      "test": "dictionary_audio_128",
+      "status": "PASS",
+      "evidence": "la salud"
+    },
+    {
+      "test": "dictionary_audio_129",
+      "status": "PASS",
+      "evidence": "el deporte"
+    },
+    {
+      "test": "dictionary_audio_130",
+      "status": "PASS",
+      "evidence": "la natación"
+    },
+    {
+      "test": "legacy_card_audio",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "active_recall_audio",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_audio",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "audio_exact_special_text_0",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "audio_exact_special_text_1",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "audio_exact_special_text_2",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "audio_exact_special_text_3",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "table_8_0_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 18
+      }
+    },
+    {
+      "test": "table_8_0_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "hablo"
+      }
+    },
+    {
+      "test": "table_8_1_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 18
+      }
+    },
+    {
+      "test": "table_8_1_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "hablé"
+      }
+    },
+    {
+      "test": "table_8_2_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 12
+      }
+    },
+    {
+      "test": "table_8_2_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "hablaba"
+      }
+    },
+    {
+      "test": "table_8_3_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 18
+      }
+    },
+    {
+      "test": "table_8_3_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "he hablado"
+      }
+    },
+    {
+      "test": "table_8_4_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 12
+      }
+    },
+    {
+      "test": "table_8_4_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "había hablado"
+      }
+    },
+    {
+      "test": "table_8_5_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 18
+      }
+    },
+    {
+      "test": "table_8_5_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "hablaré"
+      }
+    },
+    {
+      "test": "table_9_0_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 18
+      }
+    },
+    {
+      "test": "table_9_0_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "hable"
+      }
+    },
+    {
+      "test": "table_9_1_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 12
+      }
+    },
+    {
+      "test": "table_9_1_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "hablaría"
+      }
+    },
+    {
+      "test": "table_9_3_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 18
+      }
+    },
+    {
+      "test": "table_9_3_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "hablara"
+      }
+    },
+    {
+      "test": "table_9_4_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 18
+      }
+    },
+    {
+      "test": "table_9_4_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "hablase"
+      }
+    },
+    {
+      "test": "table_9_5_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 20
+      }
+    },
+    {
+      "test": "table_9_5_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "habla"
+      }
+    },
+    {
+      "test": "table_10_0_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 18
+      }
+    },
+    {
+      "test": "table_10_0_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "soy"
+      }
+    },
+    {
+      "test": "table_10_1_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 18
+      }
+    },
+    {
+      "test": "table_10_1_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "fui"
+      }
+    },
+    {
+      "test": "table_10_2_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 24
+      }
+    },
+    {
+      "test": "table_10_2_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "tengo"
+      }
+    },
+    {
+      "test": "table_10_3_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 24
+      }
+    },
+    {
+      "test": "table_10_3_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "pude"
+      }
+    },
+    {
+      "test": "table_10_4_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 18
+      }
+    },
+    {
+      "test": "table_10_4_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "era"
+      }
+    },
+    {
+      "test": "table_11_0_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 24
+      }
+    },
+    {
+      "test": "table_11_0_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "sea"
+      }
+    },
+    {
+      "test": "table_11_1_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 12
+      }
+    },
+    {
+      "test": "table_11_1_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "tuviera"
+      }
+    },
+    {
+      "test": "table_11_2_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 18
+      }
+    },
+    {
+      "test": "table_11_2_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "tenga"
+      }
+    },
+    {
+      "test": "table_11_3_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 18
+      }
+    },
+    {
+      "test": "table_11_3_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "tuviera"
+      }
+    },
+    {
+      "test": "table_12_2_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 18
+      }
+    },
+    {
+      "test": "table_12_2_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "tendría"
+      }
+    },
+    {
+      "test": "table_12_3_safe_dom",
+      "status": "PASS",
+      "evidence": {
+        "cells": 30
+      }
+    },
+    {
+      "test": "table_12_3_typed_answer",
+      "status": "PASS",
+      "evidence": {
+        "expected": "ve"
+      }
+    },
+    {
+      "test": "table_wrong_accent_rejected",
+      "status": "PASS",
+      "evidence": {
+        "correct": "habláis",
+        "attempt": "hablais"
+      }
+    },
+    {
+      "test": "table_hint_cannot_award_score",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "active_queue_overdue_before_unseen",
+      "status": "PASS",
+      "evidence": {
+        "selected": 1
+      }
+    },
+    {
+      "test": "legacy_queue_overdue_before_unseen",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "recall_requires_reveal",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_body",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_audio_control_body",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_audio_body",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_quiz_audio_body",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_house",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_audio_control_house",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_audio_house",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_quiz_audio_house",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_street",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_audio_control_street",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_audio_street",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_quiz_audio_street",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_feel",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_audio_control_feel",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_audio_feel",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_quiz_audio_feel",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_kitchen",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_audio_control_kitchen",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_audio_kitchen",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_quiz_audio_kitchen",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_clothing",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_audio_control_clothing",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_audio_clothing",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scene_quiz_audio_clothing",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_320_today",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_320_library",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_320_words",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_320_practice",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_320_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_375_today",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_375_library",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_375_words",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_375_practice",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_375_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_390_today",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_390_library",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_390_words",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_390_practice",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_390_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_430_today",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_430_library",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_430_words",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_430_practice",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_430_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_320_today",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_320_library",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_320_words",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_320_practice",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_320_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_375_today",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_375_library",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_375_words",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_375_practice",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_375_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_390_today",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_390_library",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_390_words",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_390_practice",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_390_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_430_today",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_430_library",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_430_words",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_430_practice",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_430_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "settings_targets_44px",
+      "status": "PASS",
+      "evidence": []
+    },
+    {
+      "test": "no_spanish_voice_no_playback",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "audio_status_lifecycle",
+      "status": "PASS",
+      "evidence": [
+        "queued",
+        "started",
+        "ended"
+      ]
+    },
+    {
+      "test": "audio_rate_shared",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "all_images_decode",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "no_javascript_errors",
+      "status": "PASS",
+      "evidence": []
+    },
+    {
+      "test": "no_remote_assets",
+      "status": "PASS",
+      "evidence": []
+    }
+  ]
+}

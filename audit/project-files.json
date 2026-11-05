@@ -6,13 +6,13 @@
   },
   {
     "path": "Makefile",
-    "bytes": 519,
-    "sha256": "2b3883c7c7c3f221110f441d6562ba40f2c095eb207361d76299f56603ffaa74"
+    "bytes": 603,
+    "sha256": "0206a7f5db8dec353e1d970f7bb7749bbe3b9b24d09e99de2fca319f8efa8888"
   },
   {
     "path": "README.md",
-    "bytes": 3050,
-    "sha256": "221275e9a4c34c80834c358106486c93597b59ef1aa9817d9388b0684da27d63"
+    "bytes": 3915,
+    "sha256": "7fbbe3e7c8c337012e8e1366cc383a11822c3401cc54c53b5942c92b59ab92e6"
   },
   {
     "path": "assets/pages/7529.webp",
@@ -160,6 +160,11 @@
     "sha256": "da56c747af0e5aa4b88b723d029e23e6dce5c5a292ce50d06bd2f1f68ec3dbbd"
   },
   {
+    "path": "audit/current-status.json",
+    "bytes": 1183,
+    "sha256": "73bdba6a0a478acff614c04ba27867cc3a301b52c34d44b0c4073e03cb16b72b"
+  },
+  {
     "path": "audit/entities/Mi_Espanol_LAST_TESTABLE.json",
     "bytes": 44318,
     "sha256": "7b378fae35c2d7e98ab0f3e5a92ee275eff2206d38a6e0df53f512e169eab5b6"
@@ -208,6 +213,41 @@
     "path": "audit/restoration-r1/words-390.png",
     "bytes": 87663,
     "sha256": "68c1aa6f6420bbd2c831185d8b739f9b4f721a931d61b6169f77e5985b8fc00a"
+  },
+  {
+    "path": "audit/restoration-r2/backup-tests.json",
+    "bytes": 3101,
+    "sha256": "9d5dde8e4e399d0c8d76f8f3fb4f57b8570a4b5de563968a1129c3f2d1a81ed5"
+  },
+  {
+    "path": "audit/restoration-r2/build.json",
+    "bytes": 2033,
+    "sha256": "731e64e9d0ba73b8c5956923d640f74a19c39ba1a2a368b8602300a64f2be13d"
+  },
+  {
+    "path": "audit/restoration-r2/corrupt-storage-390.png",
+    "bytes": 322681,
+    "sha256": "ea748a925e1f52132ffa8b87b2aa5c31cd68d87bfc5b540180fca73d5cba409a"
+  },
+  {
+    "path": "audit/restoration-r2/regression-tests.json",
+    "bytes": 28460,
+    "sha256": "092268d57c54c3e820f6b8b2e89c27744ca40f9851d2c3cb135c6a7c58071aaf"
+  },
+  {
+    "path": "audit/restoration-r2/storage-tests.json",
+    "bytes": 2141,
+    "sha256": "7730cdbdb67aad614887189f8cd78c24b5b6e2608e690ccbd15a35286f2eed79"
+  },
+  {
+    "path": "audit/restoration-r2/unit-results.txt",
+    "bytes": 1519,
+    "sha256": "54cabbfef5957ff1125de77520ad123b3e6399d6357da436293c557115b0cd98"
+  },
+  {
+    "path": "audit/restoration-r2/words-390.png",
+    "bytes": 87741,
+    "sha256": "627937bfff1fa728bca3af571a1b31ccb40018d19ba27e440969cab814863141"
   },
   {
     "path": "audit/reuploaded-verification.json",
@@ -310,14 +350,19 @@
     "sha256": "d02e7c4b37939af0635bca948a9f50d498f47f3bcb47e26a193597e27b39481c"
   },
   {
+    "path": "docs/CURRENT_STATUS.md",
+    "bytes": 8064,
+    "sha256": "44e0fb006cdfafc732c421778bc69141246abd38da8a8eb16697a63003194b29"
+  },
+  {
     "path": "docs/G0_AUDIT.md",
     "bytes": 26753,
     "sha256": "5ad310301668f26f902f2af980d4acc5c6bb4c4b6165bdf5ff4f3a8702db558a"
   },
   {
     "path": "docs/RECOVERY_PLAN.md",
-    "bytes": 9553,
-    "sha256": "934c439e8cc22bf638e6911515226c9b5a213cbce8463b52b04799a996f214f5"
+    "bytes": 4050,
+    "sha256": "ce6d120aad9dfc8656938926ac652a8527dee0ba97e57f2906cf216576a4933d"
   },
   {
     "path": "docs/REQUIREMENTS_MATRIX.md",
@@ -328,6 +373,11 @@
     "path": "docs/RESTORATION_R1.md",
     "bytes": 9054,
     "sha256": "ea9c6306e91e74eabcef1dc020878cd42795ef84e4c6f110c47d322e0dc83b28"
+  },
+  {
+    "path": "docs/RESTORATION_R2.md",
+    "bytes": 6650,
+    "sha256": "0d77c8f6f9896a15bf8a00fb1e71f35041da9bcec8c3b94fb5cdaf71169c9fcc"
   },
   {
     "path": "docs/TRANSFER.md",
@@ -490,9 +540,14 @@
     "sha256": "99e617b2aead6dc19a064d7f67241b6b713207e4724a2fe75514a92d491b260e"
   },
   {
+    "path": "src/backup.js",
+    "bytes": 6247,
+    "sha256": "95e8fac3fd60fed724fb05938abe77f7ff3b943159886d50e00a4355805cf469"
+  },
+  {
     "path": "src/core.js",
-    "bytes": 19217,
-    "sha256": "5ea0182168122ca58133ce3ac45e11811a93bb34f97aa0009c922ce72f5493ae"
+    "bytes": 19119,
+    "sha256": "86265bfd1200075ab38cd7623e74f7bfdaabcaa7bbf99e7c7a6d30fdfd2b4ba5"
   },
   {
     "path": "src/events.js",
@@ -511,23 +566,28 @@
   },
   {
     "path": "src/reliability.js",
-    "bytes": 8137,
-    "sha256": "f22fdb8a49e685014522c835bbbc504b618a5343518c26ad114495eb16c1d382"
+    "bytes": 5893,
+    "sha256": "c3c103ea231993c336f3490e94ded9128fe75c0ffda1c4dfde8c240f2fb1e508"
   },
   {
     "path": "src/restoration.css",
-    "bytes": 363,
-    "sha256": "b9c0309ad6b2d1c2003deb041ab9fc64078f8482aac380e776bc6547d2d48801"
+    "bytes": 456,
+    "sha256": "4c0588f01fd1f715d1c6de87639cf02b4998b976413f9547f8224cf528bc5a71"
   },
   {
     "path": "src/settings.js",
-    "bytes": 6661,
-    "sha256": "70682002c8ef03c08c541142fd9c1afe7782e0ae7e7eab5ea50eaa363bc328ba"
+    "bytes": 6468,
+    "sha256": "b11f83e17e812a3b83ee3f1cf3920e8db792233274d651778363f6f0a8afa51a"
   },
   {
     "path": "src/shell.html",
     "bytes": 10993,
     "sha256": "568c718e0ad111fd6c4236b5401bd34890c2118206d70f5ff34b8ea8f27a2f77"
+  },
+  {
+    "path": "src/storage.js",
+    "bytes": 11523,
+    "sha256": "a05bb16de25329c2540b5c92b724ab12bb8c4ce08cc4acd19f15c2658d9e3268"
   },
   {
     "path": "src/visual-extension.js",
@@ -543,6 +603,11 @@
     "path": "src/visual.js",
     "bytes": 9321,
     "sha256": "db765f9cce71592084f9ceb69b547cf56d94388c6fab9b661e23e73c2fbecd5f"
+  },
+  {
+    "path": "tests/storage.test.cjs",
+    "bytes": 6865,
+    "sha256": "5d9bde0ecd529177fa45ceceaefe30a8ee66db42fb6c21286235d539c1e7b5ca"
   },
   {
     "path": "tests/test_audit.py",
@@ -571,8 +636,8 @@
   },
   {
     "path": "tools/build.py",
-    "bytes": 3092,
-    "sha256": "fcaf2a58c20921f2090b0506875fc7272b108564db44f5ee9403e977941d8518"
+    "bytes": 3177,
+    "sha256": "fb578a9b6a39612b47113d94ac8601f88b758b11edb86dedee9faac377af246a"
   },
   {
     "path": "tools/extract_baseline.py",
@@ -590,9 +655,14 @@
     "sha256": "38bd0ce7bdae669bc651965d18797db62c8888f68ee3cbec11524a48fdf04431"
   },
   {
+    "path": "tools/test_backup.py",
+    "bytes": 9627,
+    "sha256": "951aac0b5e88dbbe0d61fcbea38939fc5c4e0ee89f30bbbf477cff484c91dcf5"
+  },
+  {
     "path": "tools/test_restoration.py",
-    "bytes": 11600,
-    "sha256": "b064d1f0558a8637a05c8fa65b2ea917ba181e523b12ab4d450fadca76ecf7e3"
+    "bytes": 11629,
+    "sha256": "dfc40617b34f0344c90cbeea25cb69af4f654e5241263e41078075557355da44"
   },
   {
     "path": "tools/transfer_parts.py",

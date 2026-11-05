@@ -1,10 +1,11 @@
-.PHONY: audit test browser reconstruct internal repair-test
+.PHONY: audit test browser reconstruct internal repair-test backup-test
 # Audit reconstruction is byte-identical source recovery, not an application release.
 audit:
 	python tools/audit.py
 
 test: audit
 	python -m unittest discover -s tests -v
+	node tests/storage.test.cjs
 
 browser:
 	python tools/browser_audit.py
@@ -18,3 +19,6 @@ internal:
 
 repair-test:
 	python tools/test_restoration.py
+
+backup-test:
+	python tools/test_backup.py

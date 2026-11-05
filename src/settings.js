@@ -1,13 +1,13 @@
-const RELEASE_INFO={version:'Restoration R1 · INTERNAL · 2026-11-05',base:'Mi_Espanol_LAST_TESTABLE.html · SHA-256 19846bc31dd50bcb6…',changes:[
+const RELEASE_INFO={version:'Restoration R2 · INTERNAL · 2026-11-05',base:'Mi_Espanol_LAST_TESTABLE.html · SHA-256 19846bc31dd50bcb6…',changes:[
 'Добавлено меню «Настройки»: паспорт сборки с фактическими количествами из текущих массивов.',
 'Добавлена системная, светлая и тёмная тема; тема хранится отдельно от учебного прогресса.',
 'Добавлен журнал изменений и предупреждения о неподтверждённой полноте материалов.',
 'Исправлена контрастность тёмной темы и добавлен быстрый возврат к светлой.', 'Добавлена проверка аудио со статусом и выбором скорости. Учебные массивы не сокращались.'
 ],known:['Словарь содержит только 131 запись: ранее заявленные 459 не входят в эту исходную сборку.','В этой сборке лишь 10 упражнений, а не ранее заявленные 45.','Цифровые таблицы ещё не сверены построчно с 16 оригиналами.','Озвучивание на реальном iPhone и надёжность сохранения данных не прошли приёмку. Для восстановления прежнего объёма словаря нужны полностью доступные подтверждённые записи.']};
 const SETTINGS_THEME_KEY='mi-espanol-theme-v1';let themeFallback='system',settingScreen=false;
-function getThemePreference(){try{return localStorage.getItem(SETTINGS_THEME_KEY)||themeFallback}catch(e){return themeFallback}}
+function getThemePreference(){return StateStore.theme()}
 function applyTheme(){let pref=getThemePreference(),dark=pref==='dark'||(pref==='system'&&window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.body.dataset.theme=dark?'dark':'light'}
-function setTheme(pref){if(!['light','dark','system'].includes(pref))return;themeFallback=pref;try{localStorage.setItem(SETTINGS_THEME_KEY,pref)}catch(e){alert('Тема применена, но после закрытия страницы может сброситься: сохранение недоступно.')}applyTheme();render()}
+function setTheme(pref){if(!['light','dark','system'].includes(pref))return;try{StateStore.setTheme(pref);themeFallback=pref;applyTheme();render()}catch(error){alert('Тема не сохранена: '+error.message)}}
 function openSettings(){settingScreen=true;render();window.scrollTo(0,0)}
 function closeSettings(){settingScreen=false;render()}
 function contentManifest(){let imageCounts={};for(let im of DB.images){let k=(im.group||im.type||'прочее');imageCounts[k]=(imageCounts[k]||0)+1}return {sections:DB.atlas.length,tables:DB.atlas.reduce((n,x)=>n+x[1].length,0),words:DB.vocab.length,schemes:DB.schemes.length,exercises:DB.quiz.length,weeks:DB.weeks.length,images:DB.images.length,groups:imageCounts}}

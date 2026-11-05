@@ -1,8 +1,8 @@
 ;
 const $=id=>document.getElementById(id),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const STORE='mi-espanol-personal-v1';let state;try{state=JSON.parse(localStorage.getItem(STORE)||'{}')}catch(e){state={}};
+const STORE='mi-espanol-personal-v1';let state=StateStore.loadProgress();
 state={week:1,answers:{},vocab:{},favorites:{},session:{},...state};let view='today',section=0,table=0,tab='study',srcGroup='grammar',srcIndex=0,scale=1,dictQuery='',dictCat='Все',currentWord=0,reveal=false,quizIndex=0,quizShown=false,schemeIndex=0,schemeReveal=false,studyHide=false,libMode='tables';
-function save(){try{localStorage.setItem(STORE,JSON.stringify(state))}catch(e){alert('Не удалось сохранить данные. Используйте экспорт резервной копии.')}};
+function save(){try{return StateStore.saveProgress(state)}catch(error){alert('Не удалось сохранить данные: '+error.message);return false}};
 let audioRate=.85;
 function audioInfo(msg){let e=document.getElementById('speech-status');if(e)e.textContent=msg}
 function speak(s){return AudioService.speak(s,audioRate)};

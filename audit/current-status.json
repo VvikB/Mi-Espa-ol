@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-05",
+  "current_package": "R2",
+  "status": "IMPLEMENTED_AND_TESTED_IN_CURRENT_ENVIRONMENT_NOT_FINAL_RELEASE",
+  "artifact_sha256": "beed3e9287fa93e516425a60be804f383796badba297de670180e95c700347c0",
+  "baseline_data_unchanged": true,
+  "historical_stages_1_to_11_restored": false,
+  "historical_15_stage_remainder_not_used_as_current_estimate": true,
+  "accessible_G0_audit": "COMPLETED_FOR_DELIVERED_FILES_WITH_HISTORICAL_COMPLETENESS_UNPROVEN",
+  "unaccepted_gates": [
+    "G1",
+    "G2",
+    "G3",
+    "G4",
+    "G5",
+    "G6"
+  ],
+  "remaining_gate_count": 6,
+  "completion_percentage": null,
+  "tests": {
+    "ui_backup": {
+      "PASS": 26
+    },
+    "fixed_function_regression": {
+      "PASS": 260
+    },
+    "storage_unit": {
+      "PASS": 21,
+      "FAIL": 0
+    },
+    "technical_unit": {
+      "PASS": 8
+    }
+  },
+  "defects_addressed_in_tested_scope": [
+    "D01",
+    "D02",
+    "D05",
+    "D06",
+    "D07",
+    "D08",
+    "D09"
+  ],
+  "known_mapping_defects_open": [
+    "D03",
+    "D04"
+  ],
+  "next_package": "R3: route/exercise/source mapping, stable ID provenance, then transcription and missing course",
+  "physical_iPhone": "NOT_TESTED"
+}

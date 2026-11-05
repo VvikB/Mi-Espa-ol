@@ -17,32 +17,18 @@ function mi11Clean(v,depth=0,count={n:0}){
  }
  return o;
 }
-function mi11Merge(a,b){if(!mi11IsObject(a)||!mi11IsObject(b))return b;let o=Object.assign(Object.create(null),a);for(const k of Object.keys(b))o[k]=Object.hasOwn(a,k)?mi11Merge(a[k],b[k]):b[k];return o}
+function mi11Merge(a,b){return StateStore.mergeProgress(a,b).progress}
 function mi11Hash(s){let h=2166136261;for(let i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619)}return ('00000000'+(h>>>0).toString(16)).slice(-8)}
 function mi11Canonical(v){if(Array.isArray(v))return '['+v.map(mi11Canonical).join(',')+']';if(mi11IsObject(v))return '{'+Object.keys(v).sort().map(k=>JSON.stringify(k)+':'+mi11Canonical(v[k])).join(',')+'}';return JSON.stringify(v)}
-let mi11Settings={...MI11_SETTINGS_DEFAULT,...(mi11SafeParse((()=>{try{return localStorage.getItem(MI11_SETTINGS_KEY)}catch(e){return null}})())||{})};
-if(!['normal','large','xlarge'].includes(mi11Settings.fontScale))mi11Settings.fontScale='normal';
-if(!Number.isFinite(Number(mi11Settings.audioRate)))mi11Settings.audioRate=0.85;
-mi11Settings.audioRate=Math.min(1.35,Math.max(0.6,Number(mi11Settings.audioRate)));
+let mi11Settings=StateStore.accessibility();
 audioRate=mi11Settings.audioRate;
 function mi11ApplySettings(){document.body.dataset.mi11Size=mi11Settings.fontScale;document.body.dataset.mi11Reduce=mi11Settings.reducedMotion?'yes':'no'}
-function mi11SetSetting(key,value){if(!Object.hasOwn(MI11_SETTINGS_DEFAULT,key))return;mi11Settings[key]=value;if(key==='audioRate')audioRate=Number(value);try{localStorage.setItem(MI11_SETTINGS_KEY,JSON.stringify(mi11Settings))}catch(e){alert('Настройка действует сейчас, но сохранение в браузере недоступно.')}mi11ApplySettings();render()}
+function mi11SetSetting(key,value){if(!Object.hasOwn(MI11_SETTINGS_DEFAULT,key))return;try{const candidate={...mi11Settings,[key]:value};StateStore.setAccessibility(candidate);mi11Settings=candidate;audioRate=mi11Settings.audioRate;mi11ApplySettings();render()}catch(error){alert('Настройка не сохранена: '+error.message)}}
 function mi11Download(name,data){const blob=new Blob([data],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=name;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),4000)}
-function mi11MakeBackup(progress){let data=mi11Clean(progress);let canonical=mi11Canonical(data);return {format:'mi-espanol-progress-2',schema:2,exportedAt:new Date().toISOString(),checksum:'fnv1a32:'+mi11Hash(canonical),state:data}}
-function mi11ValidateBackup(obj){if(!mi11IsObject(obj)||!mi11IsObject(obj.state))throw Error('Отсутствуют данные прогресса');let data=mi11Clean(obj.state);if(obj.format==='mi-espanol-progress-2'){if(obj.checksum!=='fnv1a32:'+mi11Hash(mi11Canonical(data)))throw Error('Контрольная сумма не совпала. Файл может быть повреждён.')}else if(obj.format!=='mi-espanol-progress-1')throw Error('Неизвестный формат резервной копии');return data}
-function mi11Export(){try{mi11Download('Mi_Espanol_progress_backup_v2.json',JSON.stringify(mi11MakeBackup(state),null,2))}catch(e){alert('Ошибка экспорта: '+e.message)}}
-async function mi11Import(el){
- if(!el.files||!el.files[0])return;
- try{
-  const f=el.files[0];if(f.size>15*1024*1024)throw Error('Файл слишком большой');
-  const obj=JSON.parse(await f.text()),incoming=mi11ValidateBackup(obj),current=mi11Clean(state);
-  const merged=mi11Merge(current,incoming);
-  const keys=Object.keys(incoming);if(!confirm('Импорт '+obj.format+' от '+(obj.exportedAt||'неизвестной даты')+'. Поля: '+keys.join(', ')+'. При совпадениях приоритет у файла; остальные данные сохраняются. Продолжить?'))return;
-  const previous=JSON.stringify(state),next=JSON.stringify(merged);
-  try{localStorage.setItem(STORE,next);if(localStorage.getItem(STORE)!==next)throw Error('Нет подтверждения записи');state=merged;render();alert('Прогресс импортирован. Рекомендуется сохранить резервную копию.');}
-  catch(e){try{localStorage.setItem(STORE,previous)}catch(_){ }state=mi11SafeParse(previous)||state;throw Error('Не удалось сохранить импорт: '+e.message)}
- }catch(e){alert('Импорт отменён: '+e.message)}finally{el.value=''}
-}
+function mi11MakeBackup(progress){let data=StateStore.validateProgress(progress);let canonical=mi11Canonical(data);return {format:'mi-espanol-progress-2',schema:2,exportedAt:new Date().toISOString(),checksum:'fnv1a32:'+mi11Hash(canonical),state:data}}
+function mi11ValidateBackup(obj){return BackupService.validateLegacy(obj)}
+function mi11Export(){return BackupService.exportCurrent()}
+async function mi11Import(el){if(!el.files||!el.files[0])return;try{return await BackupService.importFile(el.files[0])}finally{el.value=''}}
 // Preserve original runtime and all instructional records. Override only risky export/import handlers.
 exportProgress=mi11Export;
 importProgress=mi11Import;

@@ -1,0 +1,141 @@
+{
+  "run_at_utc": "2026-11-05T04:38:41.682033+00:00",
+  "artifact_sha256": "beed3e9287fa93e516425a60be804f383796badba297de670180e95c700347c0",
+  "browser": "155.0.8059.79",
+  "scope": "R2 backup/current-browser storage; physical Safari persistence NOT TESTED",
+  "summary": {
+    "PASS": 26
+  },
+  "results": [
+    {
+      "test": "legacy_progress_load",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "legacy_unknown_namespace_load",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "legacy_settings_load",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "legacy_key_untouched_after_save",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "new_snapshot_has_progress_and_settings",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "ui_export_v3_sha256",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "export_includes_all_settings",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "export_includes_unknown_fields",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "ui_restore_progress_exact",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "ui_restore_settings_exact",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "full_snapshot_survives_http_reload",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "repeat_ui_import_idempotent",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "cancel_import_no_write",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "tampered_v3_rejected",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "valid_legacy_checksum_invalid_schema_rejected",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "unknown_future_version_no_write",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "old_v1_does_not_overwrite_new_result",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "old_v1_unknown_fields_preserved",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "ambiguous_values_archived",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "ui_conflict_archive_idempotent",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "v2_migration_preserves_data",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "quota_failure_no_snapshot_loss",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "malformed_storage_starts_without_crash",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "malformed_storage_not_overwritten",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "raw_export_preserves_corrupt_and_legacy_bytes",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "no_javascript_errors",
+      "status": "PASS",
+      "evidence": []
+    }
+  ]
+}

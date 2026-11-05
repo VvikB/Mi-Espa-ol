@@ -2,3 +2,5 @@
 button, .btn, .audio-button, select, input:not([type=checkbox]):not([type=radio]) { min-height:44px; }
 #recovery-audio-status { font-size:14px; padding:8px 14px; min-height:38px; }
 #recovery-status { padding:8px 14px; font-size:12px; border-bottom:1px solid currentColor; }
+
+#recovery-storage-status:not([hidden]) { padding:12px; background:#fff0d9; color:#572e10; }

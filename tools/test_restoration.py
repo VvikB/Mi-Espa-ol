@@ -102,11 +102,11 @@ def main():
         check('no_javascript_errors',not errors,errors)
         check('no_remote_assets',not remote,remote)
         page.set_viewport_size({'width':390,'height':844});page.evaluate("setTheme('light');navTo('words')")
-        shots=ROOT/'audit/restoration-r1';page.screenshot(path=str(shots/'words-390.png'),full_page=True)
+        shots=ROOT/'audit/restoration-r2';page.screenshot(path=str(shots/'words-390.png'),full_page=True)
         version=browser.version;context.close();browser.close()
     server.shutdown()
     summary=dict(collections.Counter(x['status'] for x in RESULTS))
-    write_json(ROOT/'audit/restoration-r1/tests.json',{'run_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'browser':version,'artifact_sha256':manifest['artifact_sha256'],'scope':'R1 repair subset, not full specification acceptance','audio':'Mocked device voices and output; physical iPhone NOT TESTED','trainable_tables':len(targets),'trainable_cells_rendered':cells_total,'summary':summary,'results':RESULTS})
+    write_json(ROOT/'audit/restoration-r2/regression-tests.json',{'run_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'browser':version,'artifact_sha256':manifest['artifact_sha256'],'scope':'R1 fixed-function regression on R2, not full specification acceptance','audio':'Mocked device voices and output; physical iPhone NOT TESTED','trainable_tables':len(targets),'trainable_cells_rendered':cells_total,'summary':summary,'results':RESULTS})
     print(summary)
     for r in RESULTS:
         if r['status']=='FAIL':print('FAIL',r['test'],r['evidence'])

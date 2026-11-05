@@ -3,7 +3,7 @@
 import base64,json,re,subprocess,tempfile
 from pathlib import Path
 from audit import ROOT,STARTER,parse_html,sha,write_json,canonical
-MODULES=['audio.js','core.js','integration.js','visual.js','settings.js','reliability.js','visual-extension.js','visual-practice.js','recall.js','events.js']
+MODULES=['audio.js','storage.js','core.js','integration.js','visual.js','settings.js','reliability.js','visual-extension.js','visual-practice.js','recall.js','backup.js','events.js']
 BASELINE=STARTER/'source_candidates/Mi_Espanol_LAST_TESTABLE.html'
 
 def load_data(root=ROOT):
@@ -20,7 +20,7 @@ def load_data(root=ROOT):
     return db
 
 def build(output=None):
-    output=output or ROOT/'.audit/working/Mi_Espanol_R1_INTERNAL.html'
+    output=output or ROOT/'.audit/working/Mi_Espanol_R2_INTERNAL.html'
     db=load_data();runtime='\n'.join((ROOT/'src'/name).read_text() for name in MODULES)+'\nrender();\n'
     with tempfile.TemporaryDirectory() as tmp:
         path=Path(tmp)/'runtime.js';path.write_text(runtime)
@@ -30,10 +30,10 @@ def build(output=None):
     if shell.count('/* BUILD:DATA */')!=1 or shell.count('/* BUILD:CODE */')!=1:raise ValueError('Invalid source shell')
     html=shell.replace('/* BUILD:DATA */',data).replace('/* BUILD:CODE */',runtime)
     html=html.replace('</head>','<style>\n'+(ROOT/'src/restoration.css').read_text()+'\n</style></head>')
-    html=re.sub(r'(<body\b[^>]*>)',r'\1<div id="recovery-status">Внутренняя проверочная сборка восстановления R1. Не финальный выпуск.</div><div id="recovery-audio-status" role="status" aria-live="polite"></div>',html,count=1)
+    html=re.sub(r'(<body\b[^>]*>)',r'\1<div id="recovery-status">Внутренняя проверочная сборка восстановления R2. Не финальный выпуск.</div><div id="recovery-storage-status" role="alert" hidden></div><div id="recovery-audio-status" role="status" aria-live="polite"></div>',html,count=1)
     output.parent.mkdir(parents=True,exist_ok=True);output.write_text(html)
     manifest={'classification':'INTERNAL_REPAIR_BUILD_NOT_FINAL_RELEASE','baseline_sha256':sha(BASELINE.read_bytes()),'artifact_sha256':sha(html.encode()),'data_unchanged':True,'data_sha256':sha(canonical(db).encode()),'counts':{'vocab':len(db['vocab']),'quiz':len(db['quiz']),'tables':sum(len(s[1]) for s in db['atlas']),'schemes':len(db['schemes']),'images':len(db['images'])},'modules':[{ 'path':'src/'+f,'sha256':sha((ROOT/'src'/f).read_bytes())} for f in MODULES]}
-    write_json(ROOT/'audit/restoration-r1/build.json',manifest)
+    write_json(ROOT/'audit/restoration-r2/build.json',manifest)
     print('INTERNAL build:',output.relative_to(ROOT),'data unchanged; SHA-256',manifest['artifact_sha256'])
     return output,manifest
 if __name__=='__main__':build()
