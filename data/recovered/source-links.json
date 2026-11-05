@@ -1,0 +1,33 @@
+{
+  "classification": "Visual content correspondence, not complete line-by-line transcription acceptance",
+  "review_date": "2026-11-05",
+  "schemes": [
+    {"legacyIndex":0,"pageIds":["NOTES-05"],"anchors":["ser","soy, eres, es","somos, sois, son","de la misma edad"],"status":"CONTENT_CORRESPONDENCE_VERIFIED"},
+    {"legacyIndex":1,"pageIds":["NOTES-06"],"anchors":["estar","estoy, estás, está","estamos, estáis, están","estar + gerundio"],"status":"CONTENT_CORRESPONDENCE_VERIFIED"},
+    {"legacyIndex":2,"pageIds":["NOTES-01"],"anchors":["tener","tengo, tienes, tiene","tenemos, tenéis, tienen","sed, hambre, frío, calor","tener que + infinitivo"],"status":"CONTENT_CORRESPONDENCE_VERIFIED"},
+    {"legacyIndex":3,"pageIds":["NOTES-03"],"anchors":["ir a + infinitivo","voy, vas, va","vamos, vais, van","mañana"],"status":"CONTENT_CORRESPONDENCE_VERIFIED"},
+    {"legacyIndex":4,"pageIds":["NOTES-07"],"anchors":["Qué","Por qué","Quién","Dónde","Cuál es"],"status":"CONTENT_CORRESPONDENCE_VERIFIED"},
+    {"legacyIndex":5,"pageIds":["NOTES-02","NOTES-03"],"anchors":["Предлоги времени","desde","desde hace","hace","hasta","para"],"status":"CONTENT_CORRESPONDENCE_VERIFIED"},
+    {"legacyIndex":6,"pageIds":["NOTES-04"],"anchors":["Предлоги места","delante de","detrás de","al lado de","en el centro de"],"status":"CONTENT_CORRESPONDENCE_VERIFIED"},
+    {"legacyIndex":7,"pageIds":[],"anchors":[],"status":"NOT_FOUND_IN_SEVEN_AVAILABLE_NOTES","note":"Dársele bien/mal is preserved digitally in R3, but not located in these seven handwritten page images. Do not fabricate a page link."}
+  ],
+  "grammar_section_topic_pages": {
+    "0":["GRAMMAR-01"],
+    "1":["GRAMMAR-01","GRAMMAR-02"],
+    "2":["GRAMMAR-03"],
+    "3":["GRAMMAR-04","GRAMMAR-06"],
+    "4":["GRAMMAR-05"],
+    "5":["GRAMMAR-07"],
+    "6":["GRAMMAR-07"],
+    "7":["GRAMMAR-08"],
+    "8":["GRAMMAR-09"],
+    "9":["GRAMMAR-10","GRAMMAR-13"],
+    "10":["GRAMMAR-11"],
+    "11":["GRAMMAR-12"],
+    "12":["GRAMMAR-13"],
+    "13":["GRAMMAR-14"],
+    "14":["GRAMMAR-15"],
+    "15":["GRAMMAR-16"]
+  },
+  "grammar_link_status":"TOPICAL_VISUAL_INDEX_NOT_ROW_COMPLETE"
+}

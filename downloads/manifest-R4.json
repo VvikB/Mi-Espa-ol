@@ -1,0 +1,12 @@
+{
+  "classification": "PERSONAL_CONTENT_RESTORATION_PILOT_NOT_FINAL",
+  "html_sha256": "975f48d72234d9cb748aebde89c3fbd3a8673a1c156d81b05f4031faea028acb",
+  "zip_sha256": "5cdbda8778e4ff0cbc2f13cb5cbf364d16884c4f1aca7ac584343645e4ec0758",
+  "physical_iPhone": "PENDING",
+  "reports": [
+    "content-tests.json",
+    "regression-tests.json",
+    "backup-tests.json",
+    "journey-tests.json"
+  ]
+}

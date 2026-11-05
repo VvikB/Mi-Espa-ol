@@ -1,0 +1,43 @@
+{
+  "tag": "r3-checkpoint-2026-11-05",
+  "source_commit": "1fa9c9ca22abd36ce2f0720c8b2a21461d5ae676",
+  "remote_verified": true,
+  "physical_iPhone_R3": "PENDING_USER_REPORT",
+  "artifacts": [
+    {
+      "path": "pilot/Mi_Espanol_Pilot_R3.html",
+      "bytes": 10031358,
+      "sha256": "d5980f6d480abcc7a586c2c51cc1406ac144069eb1e8c3a988635b053e6f7c89"
+    },
+    {
+      "path": "downloads/Mi_Espanol_Pilot_R3.zip",
+      "bytes": 7476295,
+      "sha256": "914a55405ebe06dc9f190a9e2d2c9f92d2e63a14348274c189de140dd5a76564"
+    },
+    {
+      "path": "audit/restoration-r3/build.json",
+      "bytes": 2535,
+      "sha256": "ea81cbd2a7fa02c6a1d75f0417df91039664b8bf673b24cc78d495c9a0a4a0ec"
+    },
+    {
+      "path": "audit/restoration-r3/backup-tests.json",
+      "bytes": 3101,
+      "sha256": "6fc5b38a5a091058c940c558448286eda01e9d29cef9ed20ee11641ce574765f"
+    },
+    {
+      "path": "audit/restoration-r3/journey-tests.json",
+      "bytes": 21903,
+      "sha256": "6304976b919cdce45321a9832a796b36d29ac84a85536046cc009f5fb8cb48ff"
+    },
+    {
+      "path": "audit/restoration-r3/regression-tests.json",
+      "bytes": 28463,
+      "sha256": "3fb6b999813473f2167e9c134bf3d6040b6d3e1bdbc995177bde0645199f5f3a"
+    },
+    {
+      "path": "audit/restoration-r3/storage-tests.json",
+      "bytes": 2511,
+      "sha256": "c4f34a168df5d2bb6b0ae169bf1f6f624ffd0079a9eddf78d763b825debd07fe"
+    }
+  ]
+}

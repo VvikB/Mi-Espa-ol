@@ -1,0 +1,448 @@
+# Format: Spanish as read | Russian as read | corrected Spanish (optional) | corrected Russian (optional) | normalization note
+# A leading ! marks a readable but unsafe/ambiguous source row held out of the active dictionary.
+@7529|clothes|Одежда|0.04,0.09,0.34,0.56
+Le queda /sienta bien|Вам это идёт!|Le queda bien|Вам это идёт|Раскрыт печатный вариант глагола; второй вариант Le sienta bien сохранён отдельно
+¿Cuál es su talla?|Какой у вас размер?
+la ropa interior|бельё
+las sandalias|босоножки
+las botas|ботинки
+el sostén|бюстгальтер
+la corbata|галстук
+barato/a|дешёвый
+los vaqueros|джинсы
+caro/a|дорогой
+el paraguas|зонт
+el cuero|кожа
+las medias de nylon|колготки||нейлоновые чулки|Уточнено значение medias; колготки обычно pantis
+el traje|костюм
+la billetera|кошелёк
+la puntilla|кружево
+el traje de baño|купальник
+la chaqueta|куртка
+los calcetines|носки
+el camison|ночная рубашка|el camisón||Восстановлено нормативное ударение
+el abrigo|пальто
+el pijama|пижама
+el vestido|платье
+el impermeable|плащ-дождевик
+el cinturon|пояс|el cinturón||Восстановлено нормативное ударение
+el tamaño|размер
+la camisa|рубашка
+la manga|рукав
+el suéter|свитер
+la cartera|сумка
+los zapatos|туфли
+la camiseta|футболка
+la gorra|шапка||кепка|Уточнён тип головного убора
+la bufanda|шарф
+la seda|шёлк
+la lana|шерсть
+el sombrero|шляпа
+los pantalones cortes|шорты|los pantalones cortos||Исправлена печатная форма cortes на cortos
+la falda|юбка
+@7529|colors|Цвета|0.04,0.56,0.34,0.76
+beige|бежевый
+blanco/a|белый
+amarillo/a|жёлтый
+verde|зелёный
+marrón|коричневый
+rojo/a|красный
+anaranjado/a|оранжевый
+rosado/a|розовый
+claro/a|светлый
+gris|серый
+azul|синий
+oscuro/a|тёмный
+morado/a|фиолетовый
+negro/a|чёрный
+@7529|money-a|Деньги и покупки|0.04,0.76,0.34,0.97
+¿Cuánto yo le debo a usted?|Сколько я вам должен?
+¿Cuánto es?|Сколько это стоит?
+Me gustaría... por favor|Я бы хотел... пожалуйста
+¡Es caro!|Это дорого!
+quejarse|подавать жалобу
+cobrar un cheque|обналичить чек
+encargar|заказать
+pagar la cuenta|оплатить счёт
+balance|баланс
+la cuenta|банковский счёт
+la fecha de vencimiento|дата платежа|||Точнее срок платежа/истечения; значение зависит от контекста
+@7529|money-b|Деньги и покупки|0.35,0.09,0.67,0.48
+el dinero|деньги
+la entrega|доставка
+endosar|заверять подписью|||В банковском контексте: индоссировать, передавать по передаточной надписи
+la caja|касса
+el cajero|кассир (в банке)
+el viaje de negocios|командировка
+la tarjeta de credito|кредитка|la tarjeta de crédito||Восстановлено нормативное ударение
+la tasa|курс (валюты)||курс, ставка (в зависимости от контекста)|Уточнена многозначность; для обменного курса также употребляется tipo de cambio
+cambio|мелочь
+el efectivo|наличные
+tasar|облагать налогом||оценивать, устанавливать стоимость|Исправлено значение печатного tasar; облагать налогом обычно gravar
+la oficina de cambio|обменный пункт
+el pago|оплата
+la seccion de ventas|отдел продаж|la sección de ventas||Восстановлено нормативное ударение
+transferir dinero|переводить деньги
+por escrito|письменно
+el cliente|покупатель
+vender|продавать
+el interes|процент|el interés||Восстановлено нормативное ударение
+la venta|распродажа||продажа|На листе неверно сужено до распродажи; rebajas уже есть в базе
+los gastos|расходы
+la queja|рекламация
+los ahorros|сбережения
+la cuenta|счёт (за покупку, услугу)
+la aduana|таможня
+el comercio|торговля
+los gastos|траты
+el almacén|универмаг|||Региональное значение; в Испании также склад
+las condiciones de reparto|условия доставки
+las condiciones de pago|условия оплаты
+el precio|цена
+el valor|ценность
+ahorrar|экономить (деньги)
+@7529|health|Здоровье|0.35,0.48,0.67,0.97
+¿Dónde duele?|Где у вас болит?|||Краткий вопрос без явного указания адресата; вежливо ¿Dónde le duele?
+Me siento enfermo/a|Я себя плохо чувствую
+Me siento muy bien|Я чувствую себя прекрасно
+Parece que usted está enfermo/a|Вы выглядите больным
+¡Descanse!|Отдохните!
+el antibiótico|антибиотик
+el antiséptico|антисептик
+la amigdalitis|ангина
+la farmacia|аптека
+la enfermedad|болезнь
+el dolor de garganta|боль в горле
+el dolor|боль
+la bronquitis|бронхит
+el doctor|врач
+el yeso|гипс
+el termómetro|градусник
+la gripe|грипп
+el diagnostico|диагноз|el diagnóstico||Восстановлено нормативное ударение
+el dolor de muelas|зубная боль
+la infección|инфекция
+las gotas|капли
+la tos|кашель
+la sangre|кровь
+el medicamento|лекарство
+el ungüento|мазь
+el jarabe para la tos|микстура (от кашля)
+la quemadura|ожог
+hinchado/a|опухший
+el paciente|пациент
+la indigestión|понос||несварение, расстройство пищеварения|Исправлено значение; понос — diarrea, которого в этой строке нет
+el resfriado|простуда
+la receta|рецепт
+la quemadura de sol|солнечный ожог
+el remedio|средство
+la fiebre|температура (высокая)
+la nausea|тошнота|la náusea||Восстановлено нормативное ударение
+el té de hierbas|травяной чай
+la inyección|укол
+@7529|study|Учёба и работа|0.68,0.09,0.98,0.69
+¡Estudie usted!|Учитесь!
+¡Trabaje usted!|Работайте!
+obtener un título de...|учиться в вузе по специальности...||получить диплом по...|Уточнено действие obtener; не означает само обучение
+ganar dinero|зарабатывать деньги
+tomar un curso de...|проходить курс (по...)
+la biblioteca|библиотека
+!los estudios de negocio|бизнес-обучение|Неестественная формулировка; нужна предметная проверка контекста
+el contador|бухгалтер|||Региональный вариант; в Испании обычно contable
+contabilidad|бухгалтерский учёт
+!tiempo parcial|вечернее (отделение, обучение)|Означает неполное время, а не обязательно вечернее обучение
+humanidades|гуманитарные науки
+!periodo completo|дневное (отделение, обучение)|Нельзя надёжно восстановить заявленное значение по печатной формулировке
+las ciencias naturales|естественные науки
+la inscripción|зачисление
+las bellas artes|изобразительное искусство
+los idiomas extranjeros|иностранные языки
+la informatica|информатика|la informática||Восстановлено нормативное ударение
+!el campo|кампус|Испанское campo не является обычным эквивалентом campus
+la carrera|карьера
+el libro|книга
+la libreria|книжный магазин|la librería||Восстановлено нормативное ударение
+el colega|коллега
+la universidad|колледж||университет|Исправлено значение печатного universidad
+el curso|курс
+el trabajo|место работы
+la educación|образование
+calificación|оценка
+trabajo al tiempo completo|полная занятость|trabajo a tiempo completo||Нормативная конструкция a tiempo completo
+el derecho|право
+el/la profesor(a)|преподаватель|el profesor||Раскрыта сокращённая запись; la profesora сохранена как вариант
+el trabajo|работа
+el horario|расписание
+la publicidad|реклама
+el diccionario|словарь
+la especialización|специализация
+!el título de bachiller|степень бакалавра|Значение bachiller зависит от системы образования; не универсальная степень бакалавра
+la fábrica|фабрика
+trabajo al tiempo parcial|частичная занятость|trabajo a tiempo parcial||Нормативная конструкция a tiempo parcial
+la escuela|школа
+el examen|экзамен
+la enciclopedia|энциклопедия
+la escuela de derecho|юридический факультет|||Региональное название; не универсальное название факультета
+@7529|restaurant|Еда и ресторан|0.68,0.69,0.98,0.97
+Me gustaría...|Я бы хотел...
+Me gustaría pedir, por favor|Я бы хотел заказать...
+¡La cuenta, por favor!|Счёт, пожалуйста!
+¿Está el servicio incluido?|Обслуживание включено?
+la comida|еда
+el tenedor|вилка
+la mostaza|горчица
+las papas fritas|жареная картошка|||Региональное papa; в Испании обычно patatas fritas
+el desayuno|завтрак
+el aperitivo|закуска
+la mantequilla|масло
+el cuchillo|нож
+la pimienta|перец
+el aceite|растительное масло
+la servilleta|салфетка
+la sal|соль
+las especias|специи
+@7530|food-top|Еда и ресторан|0.04,0.05,0.34,0.15
+el vaso|стакан
+el queso|сыр
+el vinagre|уксус
+el pan|хлеб
+la propina|чаевые
+la taza|чашка
+el chocolate|шоколад
+el huevo|яйцо
+@7530|meat|Мясо|0.04,0.15,0.34,0.25
+la carne|мясо
+el jamón|ветчина
+la carne de vaca|говядина
+el pavo|индейка
+el pollo|курятина
+la chuleta|отбивная
+la salsa|подлива
+la carne de ternera|телятина
+@7530|fish|Рыба|0.04,0.25,0.34,0.33
+el pescado|рыба
+el lenguado|камбала||морской язык (рыба)|Уточнено название рыбы
+el camarón|креветка
+el salmón|лосось
+la langosta|омар||лангуст|Уточнено название; омар обычно bogavante
+el atún|тунец
+la trucha|форель
+@7530|vegetables|Овощи|0.04,0.33,0.34,0.50
+las legumbres|овощи||бобовые|Заголовок листа неверно обобщает овощи; legumbres обычно бобовые
+la berenjena|баклажан
+las arvejas|горох|||Региональный вариант; в Испании обычно guisantes
+el hongo|гриб
+la col|капуста
+la papa|картошка|||Региональный вариант; в Испании обычно patata
+el maíz|кукуруза
+la cebolla|лук
+el pepino|огурец
+la lechuga|салат
+la remolacha|свёкла
+la calabaza|тыква
+la endivia|цикорий
+la espinaca|шпинат
+@7530|fruit|Фрукты|0.04,0.50,0.34,0.61
+las frutas|фрукты
+el albaricoque|абрикос
+la naranja|апельсин
+las uvas|виноград
+la cereza|вишня
+la pera|груша
+la fresa|клубника
+el limón|лимон
+la frambuesa|малина
+la manzana|яблоко
+@7530|verbs-left|Глаголы|0.04,0.61,0.34,0.99
+aceptar|принимать
+admirar|восхищаться
+aconsejar|советовать
+autorizar|разрешать
+!anworten|отвечать|На листе не испанский глагол; не заменять автоматически новым словом
+llegar|прибывать
+pedir|просить
+asistir a|посещать
+!ser, estar|быть|Два разных глагола уже есть в базе; требуется контекст, а не новая дублирующая карточка
+poder|уметь||мочь, иметь возможность|Физическая возможность/разрешение, а не любой приобретённый навык
+estar aburrido/a|скучать||скучать, испытывать скуку|Не означает скучать по человеку
+nacer|родиться
+hacerse|становиться
+empezar|начинать
+creer|верить
+ruborizarse|краснеть
+tomar prestado|брать в долг
+romper|разбивать
+respirar|дышать
+traer|приносить
+peinar|расчёсывать
+quemar|гореть||жечь, сжигать|Для гореть обычно arder или quemarse; печатное значение уточнено
+comprar|покупать
+llamar|звать
+calmar|успокаивать
+verificar|проверять
+escoger|выбирать
+cepillar|чистить (щёткой)
+venir|приходить
+volver|возвращаться
+entrar|входить
+@7530|verbs-middle|Глаголы|0.35,0.05,0.66,0.99
+comparar|сравнивать
+continuar|продолжать
+toser|кашлять
+contar|считать
+llorar|плакать
+cortar|резать
+exigir|требовать
+describir|описывать
+destruir|уничтожать
+morir|умирать
+desaparecer|исчезать
+divorciar|разводиться|divorciarse||Для собственного развода нужна возвратная форма
+hacer|делать
+dibujar|рисовать
+beber|пить
+comer|есть
+educar|обучать
+borrar|стирать (написанное)
+explicar|объяснять
+caer|падать
+quedarse dormido/a|засыпать
+llenar|наполнять
+acabar|заканчивать
+volar|летать
+seguir|следовать
+olvidar|забывать
+congelar|замерзать|congelarse||Уточнена возвратная форма для замерзания субъекта
+engordar|полнеть
+levantarse|вставать
+dar|давать
+regresar|сдаваться||возвращаться|На листе неверный перевод regresar; не добавлен новый глагол rendirse
+ir|ходить
+descender|спускаться
+salir|выходить
+suceder|происходить
+odiar|ненавидеть
+calentar|нагревать
+invitar|приглашать
+besar|целовать
+!conocer (кого-то); saber (что-то)|знать|Оба глагола уже есть; исходная строка требует раздельного контекста
+aprender|учить
+dar prestado|давать в долг
+despedirse|уезжать||прощаться|Исправлено значение печатного despedirse
+escuchar|слушать
+mirar|смотреть
+buscar|искать
+perder|терять
+querer|любить
+marcar|отмечать
+encontrar|встречать
+equivocarse|ошибаться
+mezclar|смешивать
+llamar|называть
+notar|замечать
+obedecer|подчиняться
+observar|наблюдать
+obtener|приобретать
+ofrecer|предлагать
+abrir|открывать
+pagar|платить
+llamar|звонить по телефону
+jugar|играть
+preferir|предпочитать
+preparar|готовить
+castigar|наказывать
+prometer|обещать
+empujar|толкать
+!meter/poner|класть|Разные конструкции; poner и meter требуют отдельного контекстного разбора
+leer|читать
+rehusar|отказываться
+sentir|сожалеть
+reconocer|узнавать
+recordar|помнить
+alquilar|арендовать
+repetir|повторять
+contaminar|засорять
+descansar|отдыхать
+ver|видеть
+parecer|казаться
+enviar|посылать
+separar|отделять
+compartir|делить||делиться, совместно пользоваться|Это не нейтральное разделить на части
+servir|служить
+salvar|спасать
+mostrar|показывать
+dormir|спать
+!sedir|сидеть|Ненормативный глагол; предполагаемое исходное слово не установлено
+decir|сказать
+@7530|verbs-right|Глаголы|0.68,0.05,0.98,0.32
+hurtar|красть
+quedar|оставаться|quedarse||Уточнена возвратная форма оставаться
+estudiar|учиться
+suscribir|подписываться|suscribirse||Уточнена возвратная форма
+nadar|плавать
+tomer|брать|tomar||Исправлена печатная опечатка tomer
+tener cuidado|заботиться||быть осторожным|На листе нет дополнения о заботе; tener cuidado означает соблюдать осторожность
+hablar|говорить
+pensar|думать
+amenazar|угрожать
+echar|бросать
+hacer girar|поворачивать
+encender|зажигать
+comprender|понимать
+esperar|ждать
+despertarse|просыпаться
+pasear|гулять
+querer|хотеть
+lavar|мыть
+echar a perder|тратить||портить|На листе неверный перевод устойчивого выражения
+llevar|носить
+preocuparse|волноваться
+escribir|писать
+@7530|adverbs|Наречия|0.68,0.37,0.98,0.56
+!bueno|хорошо|На листе под заголовком Наречия прилагательное bueno; не подменять молча на bien
+mal|плохо
+casi|почти
+ya|уже
+!también (tampoco)|тоже|Утверждение и отрицание требуют раздельных значений; не одна взаимозаменяемая форма
+siempre|всегда
+bastante|достаточно
+tarde|поздно
+poco|мало
+mucho|много
+a menudo|часто
+rápidamente|быстро
+a veces|иногда
+temprano|скоро||рано|Уточнено значение temprano; скоро обычно pronto
+!junto|вместе|Нужен контекст числа и конструкции junto/juntos/junto a
+@7530|adjectives|Прилагательные|0.68,0.56,0.98,0.91
+enfadado|рассерженный
+grande|большой
+quieto/a|спокойный||неподвижный, тихий|Не любой оттенок tranquilo
+!comfortable|удобный|На листе ненормативное написание; испанское confortable требует явной проверки
+difícil|трудный
+avergonzado|несчастный||смущённый, пристыженный|Исправлено значение печатного avergonzado
+fiel|верный
+gordo/a|толстый
+gracioso/a|забавный
+bueno/a|хороший
+feliz (felices)|счастливый|feliz||Plural felices сохранён как вариант формы
+enamorado/a|влюблённый
+celoso/a|ревнивый
+ocioso/a|ленивый||праздный, незанятый|Ленивый и праздный не всегда взаимозаменяемы
+casado/a|женатый
+mediano/a|средний
+!agradable/amable|добрый|Два оттенка приятный/любезный; нужен раздельный контекст
+viejo/a|старый
+cortes(a)|вежливый|cortés||Восстановлено ударение; форма одинакова для мужского/женского рода
+razonable|разумный
+triste|печальный
+serio/a|серьёзный
+!corto/a, bajo/a|короткий|Длина и высота смешаны; требуется раздельная карточка
+fuerte|сильный
+estupido/a|глупый|estúpido/a||Восстановлено нормативное ударение
+extraño/a|странный
+!grande, alto/a|высокий|Большой и высокий не являются универсальными синонимами
+delicado/a|нежный
+esbelto/a|тонкий||стройный|Уточнено значение esbelto о фигуре
+!bueno/a|здоровый|Без контекста это не нормативный основной эквивалент здоровый
+joven(a)|молодой|joven||Прилагательное joven не получает женское окончание a

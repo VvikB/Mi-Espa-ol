@@ -1,0 +1,2885 @@
+{
+  "scope": "PRE_R4_INTEGRATION; /workspace recursively and project-related /tmp HTML/ZIP/PDF/DOCX/MD, no credential internals",
+  "excluded_directory_names": [
+    ".agents",
+    ".aws",
+    ".codex",
+    ".git",
+    "__pycache__",
+    "node_modules"
+  ],
+  "read_errors": [
+    {
+      "path": "/tmp/crssync-RaWdig",
+      "error": "Permission denied"
+    },
+    {
+      "path": "/tmp/crssync-rNtXDn",
+      "error": "Permission denied"
+    },
+    {
+      "path": "/tmp/codex-daemon-1000",
+      "error": "Permission denied"
+    }
+  ],
+  "files": [
+    {
+      "path": "/tmp/mi-espanol-R3-delivery.zip",
+      "bytes": 7476295,
+      "sha256": "914a55405ebe06dc9f190a9e2d2c9f92d2e63a14348274c189de140dd5a76564",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".zip"
+    },
+    {
+      "path": "/tmp/mi-espanol-delivery.zip",
+      "bytes": 7446436,
+      "sha256": "f432c55a6a06016d67649a1447bb536bc78c7c6c56641ed9ee772a576e4b9485",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".zip"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/.audit/reconstruction/Mi_Espanol_LAST_TESTABLE/reconstructed-audit-only.html",
+      "bytes": 9894397,
+      "sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/.audit/reconstruction/Mi_Espanol_Recovery_Contrast_Audio(1)/reconstructed-audit-only.html",
+      "bytes": 9868381,
+      "sha256": "54cb7d8ed3ff97c1f90a385ee9cf552e936fb028dafea08613541ba86e0e543a",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/.audit/repair-extraction/src/shell.html",
+      "bytes": 10993,
+      "sha256": "568c718e0ad111fd6c4236b5401bd34890c2118206d70f5ff34b8ea8f27a2f77",
+      "classification": "CURRENT_MODULAR_SHELL",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/.audit/working/Mi_Espanol_R1_INTERNAL.html",
+      "bytes": 9897500,
+      "sha256": "e090fb785cb6c99bab4ecf19d3e18b0cb86a47c1eff960ca52c06ae2731d642e",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/.audit/working/Mi_Espanol_R2_INTERNAL.html",
+      "bytes": 9912890,
+      "sha256": "beed3e9287fa93e516425a60be804f383796badba297de670180e95c700347c0",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/.audit/working/Mi_Espanol_R3_INTERNAL.html",
+      "bytes": 10031358,
+      "sha256": "d5980f6d480abcc7a586c2c51cc1406ac144069eb1e8c3a988635b053e6f7c89",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/README.md",
+      "bytes": 4316,
+      "sha256": "568ea0e6b5e5252cc445afa2bdd608a260d086d37ca948b097dd3b06739f28a2",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/docs/CURRENT_STATUS.md",
+      "bytes": 4004,
+      "sha256": "6afed97a40e7e6ec294eab256d8b32fa9fc0b2b5bf742be87b4603d1ec3d5e25",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/docs/G0_AUDIT.md",
+      "bytes": 26753,
+      "sha256": "5ad310301668f26f902f2af980d4acc5c6bb4c4b6165bdf5ff4f3a8702db558a",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/docs/JOINT_WORK_PLAN.md",
+      "bytes": 12982,
+      "sha256": "19a3cec03febbc96d458e4e280483e4c58dbc70cd2d65145a0fb12fa09d0cbfa",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/docs/RECOVERY_PLAN.md",
+      "bytes": 4050,
+      "sha256": "ce6d120aad9dfc8656938926ac652a8527dee0ba97e57f2906cf216576a4933d",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/docs/REQUIREMENTS_MATRIX.md",
+      "bytes": 10980,
+      "sha256": "417650ad8c242ba54d29f052b184002add586e071d9efc15976d7a8c8efc5835",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/docs/RESTORATION_R1.md",
+      "bytes": 9054,
+      "sha256": "ea9c6306e91e74eabcef1dc020878cd42795ef84e4c6f110c47d322e0dc83b28",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/docs/RESTORATION_R2.md",
+      "bytes": 6650,
+      "sha256": "0d77c8f6f9896a15bf8a00fb1e71f35041da9bcec8c3b94fb5cdaf71169c9fcc",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/docs/RESTORATION_R3.md",
+      "bytes": 9727,
+      "sha256": "3f4411154b6cf10c429dc65140a3722ec7aed81330fcfd6248f71a4a13cad689",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/docs/THREE_DAY_TECHNICAL_SPRINT.md",
+      "bytes": 6628,
+      "sha256": "efff4aa3f0b5bba263367621e4212ccdc7d5c1d462bec5f8a98a35cc2d72b0a1",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/docs/TRANSFER.md",
+      "bytes": 4549,
+      "sha256": "4e5d45fa835331b8befee58a7d207c2f7993bf2d18f719a8888b1e018b650a9e",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/downloads/Mi_Espanol_Pilot_R2.zip",
+      "bytes": 7446436,
+      "sha256": "f432c55a6a06016d67649a1447bb536bc78c7c6c56641ed9ee772a576e4b9485",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".zip"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/downloads/Mi_Espanol_Pilot_R3.zip",
+      "bytes": 7476295,
+      "sha256": "914a55405ebe06dc9f190a9e2d2c9f92d2e63a14348274c189de140dd5a76564",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".zip"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/experimental/pre-audit-draft/README.md",
+      "bytes": 1081,
+      "sha256": "a71bc7cfcdd61bee5f62125021c6e54f05e833579e2e83cb3ab72412531ea4d7",
+      "classification": "NEW_SESSION_DRAFT_NOT_HISTORICAL",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/experimental/pre-audit-draft/src/shell.html",
+      "bytes": 1451,
+      "sha256": "980eeaf61022b98810d11d1b6a6338e03b6c9d9d20015fcae9c39c2c95a2847f",
+      "classification": "NEW_SESSION_DRAFT_NOT_HISTORICAL",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/READ_ME_FIRST.md",
+      "bytes": 3858,
+      "sha256": "d235adb21a08dd350485e22e2977893b65ba37932e99b77881c2b6cf3681935e",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/docs/CODEX_FIRST_TASK.md",
+      "bytes": 3306,
+      "sha256": "33427d205a1fb1bfb965907ab958b7e851c2d8ac9d65432f0af0bf27989737a4",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/docs/DEVELOPMENT_STATE.md",
+      "bytes": 3153,
+      "sha256": "496f7710ceb45d21e3baf4c50cafa12b03b04c42034cb5308227a2baaf3cfa6d",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/docs/Mi_Espanol_AUDIT_AND_NEXT_ACTION_2026-11-03.md",
+      "bytes": 10144,
+      "sha256": "78480a36f4d65f15d117740a033b4812c8ca1c042bb4602b985dbde64eea0352",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/docs/Mi_Espanol_CEFR_A1_B2_Architecture_Addendum(2)(1).md",
+      "bytes": 3901,
+      "sha256": "049b21021f03d4212a882e8ea802f23f961b5b56e0ae2e8d147810a0aeddf745",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/docs/Mi_Espanol_MASTER_PROJECT_HANDOVER_2026-11-03.docx",
+      "bytes": 45276,
+      "sha256": "ff79e2d7361b5267f60ceb6d5ca199bc54a9b1dfd2048a8e7165a3e2bcecc8a4",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".docx"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx",
+      "bytes": 65092,
+      "sha256": "552dc779e6f501f63df8e6d866b397232f1cae3d7d7eaa115d0f93764c3dddd0",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".docx"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/docs/Mi_Espanol_MASTER_TZ_v2_0_2026-11-03(1).docx",
+      "bytes": 51547,
+      "sha256": "9cbf3ea6f89db45981ce2406030ce06f993f4f9048238082274e885ed816604a",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".docx"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/reports/Mi_Espanol_STAGE04_Productive_Skills_QA_2026-11-03(1).md",
+      "bytes": 6458,
+      "sha256": "7dc99acb13f304e09dfb585eb0c60d3d972c0fa38b71de35eb9cdfa75d59afe0",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/reports/Mi_Espanol_STAGE05_Dialogue_Curriculum_QA_2026-11-03(1).md",
+      "bytes": 6178,
+      "sha256": "5e9f50fa82f68f7a8d1edec740e21624497b9a4f45a0cf907069e0db5bf22917",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/reports/Mi_Espanol_STAGE06_Adaptive_Learning_QA_2026-11-03(1).md",
+      "bytes": 7210,
+      "sha256": "801f7fb6eefb2f5f095e06039803d4eb47ae1e6e6dd35e18800fb7dce3de1944",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/reports/Mi_Espanol_STAGE08_Unified_Review_QA_2026-11-03.md",
+      "bytes": 6163,
+      "sha256": "29972c29df4fc2c4c23d119eca8fb37fefdd873f4fa931f4d4d34601c07c0875",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/reports/Mi_Espanol_STAGE10_Visual_Learning_QA_2026-11-03.md",
+      "bytes": 6374,
+      "sha256": "131147e666eadfa1274aeb7c1dc24116e3b477d15b88c281f61f91525ef3e2e4",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/reports/Mi_Espanol_STAGE11_Mobile_Audio_Offline_QA_2026-11-03.md",
+      "bytes": 9239,
+      "sha256": "09361f6ada693723af879628b814a4c3e7688437b239b406c3be8830cda4a8a6",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/reports/Mi_Espanol_v3_Content_Implementation_Audit_2026-11-03.md",
+      "bytes": 5951,
+      "sha256": "c86a838a56a21637839b3ce61b3f20c0731a0fb56a783c377683aca5c379eebf",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/reports/Mi_Espanol_v3_Integrated_QA_Report_2026-11-03(1).md",
+      "bytes": 14774,
+      "sha256": "664cc5fef79ffc969efd106bc3e235e8bf4c8456542d1f9498625a717a7675dc",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/reports/Mi_Espanol_v3_Reliability_Implementation_Report_2026-11-03(1).md",
+      "bytes": 7790,
+      "sha256": "36f3e7a63d42855002db8a1d9185e81ec589b5510192a3758c15c01f714e4555",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/reports/Mi_Espanol_v3_Verified_Lessons_Checkpoint_2026-11-03(1).md",
+      "bytes": 4983,
+      "sha256": "06b505b024a72a84ddc651324d16077be9c7e78f5829b35fba4e923595dfc550",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/source_candidates/Mi_Espanol_LAST_TESTABLE.html",
+      "bytes": 9894397,
+      "sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/originals/starter/source_candidates/Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "bytes": 9868381,
+      "sha256": "54cb7d8ed3ff97c1f90a385ee9cf552e936fb028dafea08613541ba86e0e543a",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/pilot/Mi_Espanol_Pilot_R2.html",
+      "bytes": 9912890,
+      "sha256": "beed3e9287fa93e516425a60be804f383796badba297de670180e95c700347c0",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/pilot/Mi_Espanol_Pilot_R3.html",
+      "bytes": 10031358,
+      "sha256": "d5980f6d480abcc7a586c2c51cc1406ac144069eb1e8c3a988635b053e6f7c89",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/pilot/README.md",
+      "bytes": 2439,
+      "sha256": "0266453f0da7ee72da4b0d3e432c3ddf5d9c59cac029280ffcc305c153bf4df1",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/src/shell.html",
+      "bytes": 10993,
+      "sha256": "568c718e0ad111fd6c4236b5401bd34890c2118206d70f5ff34b8ea8f27a2f77",
+      "classification": "CURRENT_MODULAR_SHELL",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/artifacts/Mi_Espanol_Pilot_R2.html",
+      "bytes": 9912890,
+      "sha256": "beed3e9287fa93e516425a60be804f383796badba297de670180e95c700347c0",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/artifacts/Mi_Espanol_Pilot_R3.html",
+      "bytes": 10031358,
+      "sha256": "d5980f6d480abcc7a586c2c51cc1406ac144069eb1e8c3a988635b053e6f7c89",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/artifacts/Mi_Espanol_Pilot_R3.zip",
+      "bytes": 7476295,
+      "sha256": "914a55405ebe06dc9f190a9e2d2c9f92d2e63a14348274c189de140dd5a76564",
+      "classification": "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+      "suffix": ".zip"
+    },
+    {
+      "path": "/workspace/attachments/41c839cb-6abe-4254-8989-d75d4079dd80/Mi_Espanol_CEFR_A1_B2_Architecture_Addendum.md",
+      "bytes": 3901,
+      "sha256": "049b21021f03d4212a882e8ea802f23f961b5b56e0ae2e8d147810a0aeddf745",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/attachments/4c4b31e1-9b89-4211-b4cf-9c7c1cdc894d/Mi_Espanol_LAST_TESTABLE.html",
+      "bytes": 9894397,
+      "sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/attachments/558198b3-14f1-4c42-866c-3a448e14c269/MI_ESPANOL_CODEX_STARTER_2026-11-05.zip",
+      "bytes": 15072822,
+      "sha256": "28301b444c13ee70e63f713938a7833282d67fc20582df4d223010d0fcc79814",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".zip"
+    },
+    {
+      "path": "/workspace/attachments/f974ac24-62aa-4ab1-a896-a71953b43f94/Mi_Espanol_Recovery_Contrast_Audio.html",
+      "bytes": 9868381,
+      "sha256": "54cb7d8ed3ff97c1f90a385ee9cf552e936fb028dafea08613541ba86e0e543a",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/READ_ME_FIRST.md",
+      "bytes": 3858,
+      "sha256": "d235adb21a08dd350485e22e2977893b65ba37932e99b77881c2b6cf3681935e",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/docs/CODEX_FIRST_TASK.md",
+      "bytes": 3306,
+      "sha256": "33427d205a1fb1bfb965907ab958b7e851c2d8ac9d65432f0af0bf27989737a4",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/docs/DEVELOPMENT_STATE.md",
+      "bytes": 3153,
+      "sha256": "496f7710ceb45d21e3baf4c50cafa12b03b04c42034cb5308227a2baaf3cfa6d",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/docs/Mi_Espanol_AUDIT_AND_NEXT_ACTION_2026-11-03.md",
+      "bytes": 10144,
+      "sha256": "78480a36f4d65f15d117740a033b4812c8ca1c042bb4602b985dbde64eea0352",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/docs/Mi_Espanol_CEFR_A1_B2_Architecture_Addendum(2)(1).md",
+      "bytes": 3901,
+      "sha256": "049b21021f03d4212a882e8ea802f23f961b5b56e0ae2e8d147810a0aeddf745",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/docs/Mi_Espanol_MASTER_PROJECT_HANDOVER_2026-11-03.docx",
+      "bytes": 45276,
+      "sha256": "ff79e2d7361b5267f60ceb6d5ca199bc54a9b1dfd2048a8e7165a3e2bcecc8a4",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".docx"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx",
+      "bytes": 65092,
+      "sha256": "552dc779e6f501f63df8e6d866b397232f1cae3d7d7eaa115d0f93764c3dddd0",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".docx"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/docs/Mi_Espanol_MASTER_TZ_v2_0_2026-11-03(1).docx",
+      "bytes": 51547,
+      "sha256": "9cbf3ea6f89db45981ce2406030ce06f993f4f9048238082274e885ed816604a",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".docx"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_STAGE04_Productive_Skills_QA_2026-11-03(1).md",
+      "bytes": 6458,
+      "sha256": "7dc99acb13f304e09dfb585eb0c60d3d972c0fa38b71de35eb9cdfa75d59afe0",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_STAGE05_Dialogue_Curriculum_QA_2026-11-03(1).md",
+      "bytes": 6178,
+      "sha256": "5e9f50fa82f68f7a8d1edec740e21624497b9a4f45a0cf907069e0db5bf22917",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_STAGE06_Adaptive_Learning_QA_2026-11-03(1).md",
+      "bytes": 7210,
+      "sha256": "801f7fb6eefb2f5f095e06039803d4eb47ae1e6e6dd35e18800fb7dce3de1944",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_STAGE08_Unified_Review_QA_2026-11-03.md",
+      "bytes": 6163,
+      "sha256": "29972c29df4fc2c4c23d119eca8fb37fefdd873f4fa931f4d4d34601c07c0875",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_STAGE10_Visual_Learning_QA_2026-11-03.md",
+      "bytes": 6374,
+      "sha256": "131147e666eadfa1274aeb7c1dc24116e3b477d15b88c281f61f91525ef3e2e4",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_STAGE11_Mobile_Audio_Offline_QA_2026-11-03.md",
+      "bytes": 9239,
+      "sha256": "09361f6ada693723af879628b814a4c3e7688437b239b406c3be8830cda4a8a6",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_v3_Content_Implementation_Audit_2026-11-03.md",
+      "bytes": 5951,
+      "sha256": "c86a838a56a21637839b3ce61b3f20c0731a0fb56a783c377683aca5c379eebf",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_v3_Integrated_QA_Report_2026-11-03(1).md",
+      "bytes": 14774,
+      "sha256": "664cc5fef79ffc969efd106bc3e235e8bf4c8456542d1f9498625a717a7675dc",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_v3_Reliability_Implementation_Report_2026-11-03(1).md",
+      "bytes": 7790,
+      "sha256": "36f3e7a63d42855002db8a1d9185e81ec589b5510192a3758c15c01f714e4555",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_v3_Verified_Lessons_Checkpoint_2026-11-03(1).md",
+      "bytes": 4983,
+      "sha256": "06b505b024a72a84ddc651324d16077be9c7e78f5829b35fba4e923595dfc550",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".md"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/source_candidates/Mi_Espanol_LAST_TESTABLE.html",
+      "bytes": 9894397,
+      "sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".html"
+    },
+    {
+      "path": "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/source_candidates/Mi_Espanol_Recovery_Contrast_Audio(1).html",
+      "bytes": 9868381,
+      "sha256": "54cb7d8ed3ff97c1f90a385ee9cf552e936fb028dafea08613541ba86e0e543a",
+      "classification": "PROVIDED_OR_DUPLICATE_INPUT",
+      "suffix": ".html"
+    }
+  ],
+  "archives": [
+    {
+      "path": "/tmp/mi-espanol-R3-delivery.zip",
+      "sha256": "914a55405ebe06dc9f190a9e2d2c9f92d2e63a14348274c189de140dd5a76564",
+      "crc_status": "PASS",
+      "members": [
+        {
+          "name": "Mi_Espanol_Pilot_R3.html",
+          "bytes": 10031358,
+          "sha256": "d5980f6d480abcc7a586c2c51cc1406ac144069eb1e8c3a988635b053e6f7c89"
+        },
+        {
+          "name": "OPEN_ME_RU.txt",
+          "bytes": 2566,
+          "sha256": "9d9b2a70504f3b5feabd42d5247b1084491cb40f3d22c35e385ede228f6f21eb"
+        }
+      ]
+    },
+    {
+      "path": "/tmp/mi-espanol-delivery.zip",
+      "sha256": "f432c55a6a06016d67649a1447bb536bc78c7c6c56641ed9ee772a576e4b9485",
+      "crc_status": "PASS",
+      "members": [
+        {
+          "name": "Mi_Espanol_Pilot_R2.html",
+          "bytes": 9912890,
+          "sha256": "beed3e9287fa93e516425a60be804f383796badba297de670180e95c700347c0"
+        },
+        {
+          "name": "OPEN_ME_RU.txt",
+          "bytes": 1806,
+          "sha256": "18a8e7a3308b28856e76ba79e0e691721a5ffbc0df195bcb85ca6e6cb0bb81f2"
+        }
+      ]
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/downloads/Mi_Espanol_Pilot_R2.zip",
+      "sha256": "f432c55a6a06016d67649a1447bb536bc78c7c6c56641ed9ee772a576e4b9485",
+      "crc_status": "PASS",
+      "members": [
+        {
+          "name": "Mi_Espanol_Pilot_R2.html",
+          "bytes": 9912890,
+          "sha256": "beed3e9287fa93e516425a60be804f383796badba297de670180e95c700347c0"
+        },
+        {
+          "name": "OPEN_ME_RU.txt",
+          "bytes": 1806,
+          "sha256": "18a8e7a3308b28856e76ba79e0e691721a5ffbc0df195bcb85ca6e6cb0bb81f2"
+        }
+      ]
+    },
+    {
+      "path": "/workspace/Mi-Espa-ol/downloads/Mi_Espanol_Pilot_R3.zip",
+      "sha256": "914a55405ebe06dc9f190a9e2d2c9f92d2e63a14348274c189de140dd5a76564",
+      "crc_status": "PASS",
+      "members": [
+        {
+          "name": "Mi_Espanol_Pilot_R3.html",
+          "bytes": 10031358,
+          "sha256": "d5980f6d480abcc7a586c2c51cc1406ac144069eb1e8c3a988635b053e6f7c89"
+        },
+        {
+          "name": "OPEN_ME_RU.txt",
+          "bytes": 2566,
+          "sha256": "9d9b2a70504f3b5feabd42d5247b1084491cb40f3d22c35e385ede228f6f21eb"
+        }
+      ]
+    },
+    {
+      "path": "/workspace/artifacts/Mi_Espanol_Pilot_R3.zip",
+      "sha256": "914a55405ebe06dc9f190a9e2d2c9f92d2e63a14348274c189de140dd5a76564",
+      "crc_status": "PASS",
+      "members": [
+        {
+          "name": "Mi_Espanol_Pilot_R3.html",
+          "bytes": 10031358,
+          "sha256": "d5980f6d480abcc7a586c2c51cc1406ac144069eb1e8c3a988635b053e6f7c89"
+        },
+        {
+          "name": "OPEN_ME_RU.txt",
+          "bytes": 2566,
+          "sha256": "9d9b2a70504f3b5feabd42d5247b1084491cb40f3d22c35e385ede228f6f21eb"
+        }
+      ]
+    },
+    {
+      "path": "/workspace/attachments/558198b3-14f1-4c42-866c-3a448e14c269/MI_ESPANOL_CODEX_STARTER_2026-11-05.zip",
+      "sha256": "28301b444c13ee70e63f713938a7833282d67fc20582df4d223010d0fcc79814",
+      "crc_status": "PASS",
+      "members": [
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/READ_ME_FIRST.md",
+          "bytes": 3858,
+          "sha256": "d235adb21a08dd350485e22e2977893b65ba37932e99b77881c2b6cf3681935e"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/docs/CODEX_FIRST_TASK.md",
+          "bytes": 3306,
+          "sha256": "33427d205a1fb1bfb965907ab958b7e851c2d8ac9d65432f0af0bf27989737a4"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/docs/DEVELOPMENT_STATE.md",
+          "bytes": 3153,
+          "sha256": "496f7710ceb45d21e3baf4c50cafa12b03b04c42034cb5308227a2baaf3cfa6d"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/docs/Mi_Espanol_AUDIT_AND_NEXT_ACTION_2026-11-03.md",
+          "bytes": 10144,
+          "sha256": "78480a36f4d65f15d117740a033b4812c8ca1c042bb4602b985dbde64eea0352"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/docs/Mi_Espanol_CEFR_A1_B2_Architecture_Addendum(2)(1).md",
+          "bytes": 3901,
+          "sha256": "049b21021f03d4212a882e8ea802f23f961b5b56e0ae2e8d147810a0aeddf745"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/docs/Mi_Espanol_MASTER_PROJECT_HANDOVER_2026-11-03.docx",
+          "bytes": 45276,
+          "sha256": "ff79e2d7361b5267f60ceb6d5ca199bc54a9b1dfd2048a8e7165a3e2bcecc8a4"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/docs/Mi_Espanol_MASTER_SPECIFICATION_v3_0_2026-11-03(1).docx",
+          "bytes": 65092,
+          "sha256": "552dc779e6f501f63df8e6d866b397232f1cae3d7d7eaa115d0f93764c3dddd0"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/docs/Mi_Espanol_MASTER_TZ_v2_0_2026-11-03(1).docx",
+          "bytes": 51547,
+          "sha256": "9cbf3ea6f89db45981ce2406030ce06f993f4f9048238082274e885ed816604a"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/inventory/MANIFEST_SHA256.json",
+          "bytes": 4455,
+          "sha256": "5fdd2ae38a04c8e7b1d0a77fffcc8279f50344dea3c4022e6b0b3391c0a3371e"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_STAGE04_Productive_Skills_QA_2026-11-03(1).md",
+          "bytes": 6458,
+          "sha256": "7dc99acb13f304e09dfb585eb0c60d3d972c0fa38b71de35eb9cdfa75d59afe0"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_STAGE05_Dialogue_Curriculum_QA_2026-11-03(1).md",
+          "bytes": 6178,
+          "sha256": "5e9f50fa82f68f7a8d1edec740e21624497b9a4f45a0cf907069e0db5bf22917"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_STAGE06_Adaptive_Learning_QA_2026-11-03(1).md",
+          "bytes": 7210,
+          "sha256": "801f7fb6eefb2f5f095e06039803d4eb47ae1e6e6dd35e18800fb7dce3de1944"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_STAGE08_Unified_Review_QA_2026-11-03.md",
+          "bytes": 6163,
+          "sha256": "29972c29df4fc2c4c23d119eca8fb37fefdd873f4fa931f4d4d34601c07c0875"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_STAGE10_Visual_Learning_QA_2026-11-03.md",
+          "bytes": 6374,
+          "sha256": "131147e666eadfa1274aeb7c1dc24116e3b477d15b88c281f61f91525ef3e2e4"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_STAGE11_Mobile_Audio_Offline_QA_2026-11-03.md",
+          "bytes": 9239,
+          "sha256": "09361f6ada693723af879628b814a4c3e7688437b239b406c3be8830cda4a8a6"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_v3_Content_Implementation_Audit_2026-11-03.md",
+          "bytes": 5951,
+          "sha256": "c86a838a56a21637839b3ce61b3f20c0731a0fb56a783c377683aca5c379eebf"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_v3_Integrated_QA_Report_2026-11-03(1).md",
+          "bytes": 14774,
+          "sha256": "664cc5fef79ffc969efd106bc3e235e8bf4c8456542d1f9498625a717a7675dc"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_v3_Reliability_Implementation_Report_2026-11-03(1).md",
+          "bytes": 7790,
+          "sha256": "36f3e7a63d42855002db8a1d9185e81ec589b5510192a3758c15c01f714e4555"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/reports/Mi_Espanol_v3_Verified_Lessons_Checkpoint_2026-11-03(1).md",
+          "bytes": 4983,
+          "sha256": "06b505b024a72a84ddc651324d16077be9c7e78f5829b35fba4e923595dfc550"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/source_candidates/Mi_Espanol_LAST_TESTABLE.html",
+          "bytes": 9894397,
+          "sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018"
+        },
+        {
+          "name": "MI_ESPANOL_CODEX_TRANSFER_2026-11-05/source_candidates/Mi_Espanol_Recovery_Contrast_Audio(1).html",
+          "bytes": 9868381,
+          "sha256": "54cb7d8ed3ff97c1f90a385ee9cf552e936fb028dafea08613541ba86e0e543a"
+        }
+      ]
+    }
+  ],
+  "unique_HTML_content": [
+    {
+      "sha256": "d5980f6d480abcc7a586c2c51cc1406ac144069eb1e8c3a988635b053e6f7c89",
+      "bytes": 10031358,
+      "locations": [
+        "/tmp/mi-espanol-R3-delivery.zip!/Mi_Espanol_Pilot_R3.html",
+        "/workspace/Mi-Espa-ol/.audit/working/Mi_Espanol_R3_INTERNAL.html",
+        "/workspace/Mi-Espa-ol/downloads/Mi_Espanol_Pilot_R3.zip!/Mi_Espanol_Pilot_R3.html",
+        "/workspace/Mi-Espa-ol/pilot/Mi_Espanol_Pilot_R3.html",
+        "/workspace/artifacts/Mi_Espanol_Pilot_R3.html",
+        "/workspace/artifacts/Mi_Espanol_Pilot_R3.zip!/Mi_Espanol_Pilot_R3.html"
+      ],
+      "classifications": [
+        "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE"
+      ],
+      "title": [
+        "Mi Español · Personal"
+      ],
+      "script_blocks": 1,
+      "has_DB": true,
+      "counts": {
+        "atlas": 16,
+        "vocab": 131,
+        "schemes": 8,
+        "quiz": 10,
+        "weeks": 12,
+        "images": 25,
+        "tables": 73,
+        "schemeExercises": 14
+      },
+      "DB_sha256": "119eebc3ff7339f7f40add5fc3e9b467c0469344e58ceee018793c20f3c641b9",
+      "compared_to_R3_preserved_data": {
+        "atlas": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "vocab": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "schemes": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "quiz": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "weeks": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "images": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "tables": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "schemeExercises": {
+          "same": true,
+          "unique_full_content_hashes": []
+        }
+      },
+      "nested_educational_arrays": [
+        {
+          "pointer": "/atlas/0/1/0",
+          "sha256": "3a1721bbeb8163e18ef74ae114e7b88b638705ec73114c96fa0747396fd09bac"
+        },
+        {
+          "pointer": "/atlas/0/1/1",
+          "sha256": "4f0490569dab42d3f4e5cdf1211c7b55903a529f0efcdaef87a9556f0f86a59c"
+        },
+        {
+          "pointer": "/atlas/0/1/2",
+          "sha256": "28f388bbaa86742b69a64af0f89742a10294448885f8aef5f19bfe7438153180"
+        },
+        {
+          "pointer": "/atlas/1/1/0",
+          "sha256": "8f5163fdf5ca37399a070f022f1cff951523188e42413663b3cf3c6f248f8634"
+        },
+        {
+          "pointer": "/atlas/1/1/1",
+          "sha256": "48921833a29595dc0a1532a632c86ace81180baa8a98237bc334d97bfac3cbaa"
+        },
+        {
+          "pointer": "/atlas/1/1/2",
+          "sha256": "d0a1926f5868d8e429a5243a4b8c3baf33abb5ac52e220bfd2e7b4aef2b68320"
+        },
+        {
+          "pointer": "/atlas/1/1/3",
+          "sha256": "ea839e62aa7bd68b77e025815289d5241b201d4dd3031b6aefc4ab3743d3c16c"
+        },
+        {
+          "pointer": "/atlas/2/1/0",
+          "sha256": "6c4ccd60f60c27aa7f946b04aa87d6e6a5118473293dd828339596a1ed7b5a86"
+        },
+        {
+          "pointer": "/atlas/2/1/1",
+          "sha256": "17ce80fce638dbf30963f4436c2013086a68a4ae371530021e8aae5b8ddb7edb"
+        },
+        {
+          "pointer": "/atlas/2/1/2",
+          "sha256": "bc4e753efce58414e66bb07109d42059b2502bc1848f5b8dfcea9b52e83050ad"
+        },
+        {
+          "pointer": "/atlas/2/1/3",
+          "sha256": "a939f0b29e37995621f82e54016f39033622ba74b65995848efbc0445dc26580"
+        },
+        {
+          "pointer": "/atlas/2/1/4",
+          "sha256": "3f041437097438e5dbe31bec99c1e377d192306536bd9d9fcb759ff3e65e38cb"
+        },
+        {
+          "pointer": "/atlas/3/1/0",
+          "sha256": "a633272096902e4b5653b1a903d042c58867921751bff02849c1f66fa4d096b8"
+        },
+        {
+          "pointer": "/atlas/3/1/1",
+          "sha256": "ebf660e904157306703014a93076caacbbbabc75baf62f8da99d69530ef9d03c"
+        },
+        {
+          "pointer": "/atlas/3/1/2",
+          "sha256": "599cf7a788ce25a12a4ae9a33f86ab35926db7bac1aa7c3fc7136436d73d06dd"
+        },
+        {
+          "pointer": "/atlas/3/1/3",
+          "sha256": "79ae5599646c9577939adc4e537a96683bd60628e81a586a59b3a98cc7b9b159"
+        },
+        {
+          "pointer": "/atlas/3/1/4",
+          "sha256": "bb16f118e62b2f67f7bc3f35e2ed7e7c352e21d9479a1452879a4a6fd203374f"
+        },
+        {
+          "pointer": "/atlas/3/1/5",
+          "sha256": "52aeff68bd7c811aac31199a7e2f081cc3f6000466a32ad6877c4c132950709e"
+        },
+        {
+          "pointer": "/atlas/4/1/0",
+          "sha256": "57fe50302aa897d18a9cc27c8a94e380e770288f0fbf06a32bbbbcaa0bdcf19c"
+        },
+        {
+          "pointer": "/atlas/4/1/1",
+          "sha256": "c4ac04a917b151f1d2575c9b4b61821499ec3cb3c421125db457bbcd47ee917c"
+        },
+        {
+          "pointer": "/atlas/4/1/2",
+          "sha256": "8020af04b44303cc71a61b14a5ac44a796fe1dc7b670a4446a41f9359191e751"
+        },
+        {
+          "pointer": "/atlas/4/1/3",
+          "sha256": "7d933029fdfe649c02ac98cf071de36a9b3d29f7363cd5226ea73cb1ec860827"
+        },
+        {
+          "pointer": "/atlas/4/1/4",
+          "sha256": "2e508de18359b07daca9538f6a3f0dee7c8ffa4887263a032ba40eb602f7c7fc"
+        },
+        {
+          "pointer": "/atlas/5/1/0",
+          "sha256": "ca84ccb85b7cb3a1eb71169a20d1448ecbe47eb9537bf82de1afa22170db6488"
+        },
+        {
+          "pointer": "/atlas/5/1/1",
+          "sha256": "a7d429d1ba0e041a9a6845ef38098a6a58d914fb70118af19e3b8468ecb8c581"
+        },
+        {
+          "pointer": "/atlas/5/1/2",
+          "sha256": "7d3931458d589b798b8111ba1a1c46cbcdbfc4a3da4fb19fcaa30383acca4521"
+        },
+        {
+          "pointer": "/atlas/5/1/3",
+          "sha256": "8f9d736daa539c38932c60d8c455ad9b5e7ecb72f55877c6f8980695db4eb7c6"
+        },
+        {
+          "pointer": "/atlas/6/1/0",
+          "sha256": "b3ca19a3109d43b7c804c9c5b61dced4549d9805bebcdd145057c82d3460ca38"
+        },
+        {
+          "pointer": "/atlas/6/1/1",
+          "sha256": "7c250ac12e8aeba59a07db9a1f6d4bcd5d9ec39020cc76eca8105fbc5052b61e"
+        },
+        {
+          "pointer": "/atlas/6/1/2",
+          "sha256": "356649d1f59607b35bf1cfecf29312e71e09c917902d04d4faaf18a2a0e088ef"
+        },
+        {
+          "pointer": "/atlas/6/1/3",
+          "sha256": "0b70d62f2d2e93444ccd82d02b405e68e723ef96f1c97b8dbe56ecb909bf3797"
+        },
+        {
+          "pointer": "/atlas/7/1/0",
+          "sha256": "937e07dc76caf7a1092ba007f80cd41e1f666da31f94254c3441f5f2de8365aa"
+        },
+        {
+          "pointer": "/atlas/7/1/1",
+          "sha256": "8bfe2d6d294ca9f53274706536ee4e281d7e5bb5100aaa9e65b52a8491cda204"
+        },
+        {
+          "pointer": "/atlas/7/1/2",
+          "sha256": "e0bb034d04f6cd94082de066dd6d2dd2dca2568af9868add2498dddff17eaec0"
+        },
+        {
+          "pointer": "/atlas/7/1/3",
+          "sha256": "1273932cb3d45647ce9e310424f251363b12249690b78140ee136edd317c9a34"
+        },
+        {
+          "pointer": "/atlas/7/1/4",
+          "sha256": "3622b19050e288c9b1753be338c4ddf07897bf11aa660fadc46b3b514d54e72c"
+        },
+        {
+          "pointer": "/atlas/8/1/0",
+          "sha256": "90673e7e432bea1de46cba5073b5999b72dc212cd741f684188ca200d7e28dd3"
+        },
+        {
+          "pointer": "/atlas/8/1/1",
+          "sha256": "f42bd47a695b3c6514f49338a6aa91f9b82e1e5d174a33772dffd04e3cb4cfb5"
+        },
+        {
+          "pointer": "/atlas/8/1/2",
+          "sha256": "00e14212f0a75fcddfb00479e83fc13d63d95bf2d43a290221b753405c7bbd17"
+        },
+        {
+          "pointer": "/atlas/8/1/3",
+          "sha256": "9cf77f06672ac07511dbf51317f514f8fc154022482145dc28599e07b69f5c5e"
+        },
+        {
+          "pointer": "/atlas/8/1/4",
+          "sha256": "b614d3415eaf628f3b863d55e9e41eabbb732d6ff5cfaf059fbb6ffaba265cbd"
+        },
+        {
+          "pointer": "/atlas/8/1/5",
+          "sha256": "9745e8e650ace07df0107c073dca49b8ec65f82a806b26bec4fa283ef1fbdb3e"
+        },
+        {
+          "pointer": "/atlas/9/1/0",
+          "sha256": "8f3a55d2c07290cf87e504d5d22c18652da682827b456347af169ddeaf206657"
+        },
+        {
+          "pointer": "/atlas/9/1/1",
+          "sha256": "e343285e28449978834d6700b3dc3baf157039f9a01c22e9c24260dd1da8db97"
+        },
+        {
+          "pointer": "/atlas/9/1/2",
+          "sha256": "5cddb8eee1be781776f6f3407655cebd10054e3af95c9937c938fc97737be288"
+        },
+        {
+          "pointer": "/atlas/9/1/3",
+          "sha256": "0ffacc3d58f512a387a7b1572db29115399c52e67347915a8255f29e7a7dda59"
+        },
+        {
+          "pointer": "/atlas/9/1/4",
+          "sha256": "8a900bc2c87dfdafe96e4096c8db553f0ef968c061cc1188d69fe164c7670d0f"
+        },
+        {
+          "pointer": "/atlas/9/1/5",
+          "sha256": "4d1eee0caea4bed46b2a685e8b29c0f209f1e1b0019f54af7bb5a70a0b065fca"
+        },
+        {
+          "pointer": "/atlas/10/1/0",
+          "sha256": "487508d6d45c64683be1d94c733a84c12c42310997a900e45969e08cc754a31a"
+        },
+        {
+          "pointer": "/atlas/10/1/1",
+          "sha256": "54f4d535601e05a666dcd7a96538e52d6105e076af17a606a5f6fc6a4bc093b0"
+        },
+        {
+          "pointer": "/atlas/10/1/2",
+          "sha256": "18445c906d14297fb7a17d1906289f507fcd207b09acf9e889ac109d019d9d94"
+        },
+        {
+          "pointer": "/atlas/10/1/3",
+          "sha256": "7b1991ea2a579eeadbac7763241a4a9d848ddcb5f82aad21021f6e3e9f5c8950"
+        },
+        {
+          "pointer": "/atlas/10/1/4",
+          "sha256": "5c70815d44b12250599a485c2990f5434668dc3315686ef57ca4bb72e9e4ae0e"
+        },
+        {
+          "pointer": "/atlas/11/1/0",
+          "sha256": "e9b23515804d0265a49f5cb104ee9587ac436eca4b77c5fcf018fff790827494"
+        },
+        {
+          "pointer": "/atlas/11/1/1",
+          "sha256": "f3c4de5afa6fa8ea508a935c26541606deffb96b276fbaef2e9ce6a3349c9dbf"
+        },
+        {
+          "pointer": "/atlas/11/1/2",
+          "sha256": "5db9f11b0d10d9bf6d06132e6a563e3819511a25ec50d9b9b3e93e699290bfd9"
+        },
+        {
+          "pointer": "/atlas/11/1/3",
+          "sha256": "7109e970c81659573d3e958f6c83742ef76a8dd831705ea24d2e9b3cada47b9d"
+        },
+        {
+          "pointer": "/atlas/12/1/0",
+          "sha256": "cee35f51cd84b8451cf390e9e0128ee4289e4fc6773f162d337a9796c22136bc"
+        },
+        {
+          "pointer": "/atlas/12/1/1",
+          "sha256": "298bb825a09ff5f8fce1de8a32078e70b5a8bb94564ef7b8578e2bf9038c58ed"
+        },
+        {
+          "pointer": "/atlas/12/1/2",
+          "sha256": "fb1b562ce05c420219b25377b89472e666009e22ab82df5bb218113b6db34d20"
+        },
+        {
+          "pointer": "/atlas/12/1/3",
+          "sha256": "7b08a1687ed3b423310219339e3128485cfbc6acadd0ad77d17c0505942a9619"
+        },
+        {
+          "pointer": "/atlas/13/1/0",
+          "sha256": "03140b6096e40a9a1264357763f7d89af46d16bff6b570ef90b1ebdb7808b03e"
+        },
+        {
+          "pointer": "/atlas/13/1/1",
+          "sha256": "d189ea4cfb290b3ec89aede7d32cc055b0aa7ef66d85cd9205da22fa98eef2c4"
+        },
+        {
+          "pointer": "/atlas/13/1/2",
+          "sha256": "948ba08f55da1634be189ae3e7d682a890b5bc71a4ca6e61f9a2bb2812fb4f0f"
+        },
+        {
+          "pointer": "/atlas/13/1/3",
+          "sha256": "823d6aea7e46959fff33225ec011b6fc559194b072d84876abeff97cf00e009a"
+        },
+        {
+          "pointer": "/atlas/14/1/0",
+          "sha256": "aab54883618db2d58f31e03205a3ccd165d4796114d3005b707c207b7df6927e"
+        },
+        {
+          "pointer": "/atlas/14/1/1",
+          "sha256": "f1f63737b1bccac6a60a1e577f38910401fc40b604d006dfbbe0bc6bd60ff65e"
+        },
+        {
+          "pointer": "/atlas/14/1/2",
+          "sha256": "1d1ceb2c07cc2bc33dcc61fdf6a004f7cbf005b1959448e2aff0b3564c0d001f"
+        },
+        {
+          "pointer": "/atlas/14/1/3",
+          "sha256": "c1870aae041f475ba0442c84ffa8e7dab710363fc8624c3315084f66d4eb1765"
+        },
+        {
+          "pointer": "/atlas/15/1/0",
+          "sha256": "5053f8f0573c802b10a47426d2ebf3d36401a0a0190b718cca1090ec1ab98f50"
+        },
+        {
+          "pointer": "/atlas/15/1/1",
+          "sha256": "85cd604c87fe7a4e790c0544063a0427aeaafe9e96d9c9d377adcc956ec808f7"
+        },
+        {
+          "pointer": "/atlas/15/1/2",
+          "sha256": "259aba2a86dc0254d7519fcd3a3004baaa7510f5b205860cd36a3d43aa439566"
+        },
+        {
+          "pointer": "/atlas/15/1/3",
+          "sha256": "1c8cb071be0260273c97caed572bbc72f9237a6348e78d8f694f25e6d223c33b"
+        },
+        {
+          "pointer": "/schemes/0/quiz/0",
+          "sha256": "a45f4b7ecffc8de57b8352dc4da47cde939769462beabff4d5e978b774aa47bc"
+        },
+        {
+          "pointer": "/schemes/0/quiz/1",
+          "sha256": "a6d2013d4e63502df99737e65b67cab1eda5b5c8d51c0a4ff71feb1eef81dc00"
+        },
+        {
+          "pointer": "/schemes/1/quiz/0",
+          "sha256": "120f38a5dafb987a09737831e5b8f508ac5a39639b77b648006020729ed2e4d7"
+        },
+        {
+          "pointer": "/schemes/1/quiz/1",
+          "sha256": "7fb7c2eb3938ae95df181aab8cdf848953482f136515d2106d78829f6fae7f4b"
+        },
+        {
+          "pointer": "/schemes/2/quiz/0",
+          "sha256": "3506015c3cbb9f71b51820b97f070c4f91d4e0edd6462c528508be6268b34da3"
+        },
+        {
+          "pointer": "/schemes/2/quiz/1",
+          "sha256": "80009b540be88386bd25465d06f81efc1412ebc134ff9b45606e7a7227deef08"
+        },
+        {
+          "pointer": "/schemes/3/quiz/0",
+          "sha256": "551c891e899c1237f6dd8e98e475b15ea23a6401a8a55089dfe0bb2be33b7e80"
+        },
+        {
+          "pointer": "/schemes/3/quiz/1",
+          "sha256": "2c9da9c30f53563cbf68a196557941fbe23df28e135c4ec7a401503efed540ed"
+        },
+        {
+          "pointer": "/schemes/4/quiz/0",
+          "sha256": "6dcd9a8addd4b1df39a7e101d9d8adce81a512689fc59f32584e1b91dbbffd32"
+        },
+        {
+          "pointer": "/schemes/4/quiz/1",
+          "sha256": "144e6bd92a19f787856bc6add71fc45df8d12ef687dadb792ed6c771ba6e9abb"
+        },
+        {
+          "pointer": "/schemes/5/quiz/0",
+          "sha256": "6d43df791e564bc1c26d1377da1ba96a454a673b5ebad15c9395974a8cda1257"
+        },
+        {
+          "pointer": "/schemes/5/quiz/1",
+          "sha256": "6687c49e0f1c57a9207f7fb581bdeae5b5387f3f2958af07b33cf3e51581b8d7"
+        },
+        {
+          "pointer": "/schemes/6/quiz/0",
+          "sha256": "cfa4e736933d4a2c4690eb2699d7cef0a68ca8c7cbbe85aa0abc5f2b67f37dbb"
+        },
+        {
+          "pointer": "/schemes/7/quiz/0",
+          "sha256": "16e56944e9604a9e473f8451f94fa87e23ae4dc27051f4fab9539c4a60a3ed7c"
+        }
+      ]
+    },
+    {
+      "sha256": "beed3e9287fa93e516425a60be804f383796badba297de670180e95c700347c0",
+      "bytes": 9912890,
+      "locations": [
+        "/tmp/mi-espanol-delivery.zip!/Mi_Espanol_Pilot_R2.html",
+        "/workspace/Mi-Espa-ol/.audit/working/Mi_Espanol_R2_INTERNAL.html",
+        "/workspace/Mi-Espa-ol/downloads/Mi_Espanol_Pilot_R2.zip!/Mi_Espanol_Pilot_R2.html",
+        "/workspace/Mi-Espa-ol/pilot/Mi_Espanol_Pilot_R2.html",
+        "/workspace/artifacts/Mi_Espanol_Pilot_R2.html"
+      ],
+      "classifications": [
+        "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE"
+      ],
+      "title": [
+        "Mi Español · Personal"
+      ],
+      "script_blocks": 1,
+      "has_DB": true,
+      "counts": {
+        "atlas": 16,
+        "vocab": 131,
+        "schemes": 8,
+        "quiz": 10,
+        "weeks": 12,
+        "images": 25,
+        "tables": 73,
+        "schemeExercises": 14
+      },
+      "DB_sha256": "119eebc3ff7339f7f40add5fc3e9b467c0469344e58ceee018793c20f3c641b9",
+      "compared_to_R3_preserved_data": {
+        "atlas": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "vocab": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "schemes": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "quiz": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "weeks": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "images": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "tables": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "schemeExercises": {
+          "same": true,
+          "unique_full_content_hashes": []
+        }
+      },
+      "nested_educational_arrays": [
+        {
+          "pointer": "/atlas/0/1/0",
+          "sha256": "3a1721bbeb8163e18ef74ae114e7b88b638705ec73114c96fa0747396fd09bac"
+        },
+        {
+          "pointer": "/atlas/0/1/1",
+          "sha256": "4f0490569dab42d3f4e5cdf1211c7b55903a529f0efcdaef87a9556f0f86a59c"
+        },
+        {
+          "pointer": "/atlas/0/1/2",
+          "sha256": "28f388bbaa86742b69a64af0f89742a10294448885f8aef5f19bfe7438153180"
+        },
+        {
+          "pointer": "/atlas/1/1/0",
+          "sha256": "8f5163fdf5ca37399a070f022f1cff951523188e42413663b3cf3c6f248f8634"
+        },
+        {
+          "pointer": "/atlas/1/1/1",
+          "sha256": "48921833a29595dc0a1532a632c86ace81180baa8a98237bc334d97bfac3cbaa"
+        },
+        {
+          "pointer": "/atlas/1/1/2",
+          "sha256": "d0a1926f5868d8e429a5243a4b8c3baf33abb5ac52e220bfd2e7b4aef2b68320"
+        },
+        {
+          "pointer": "/atlas/1/1/3",
+          "sha256": "ea839e62aa7bd68b77e025815289d5241b201d4dd3031b6aefc4ab3743d3c16c"
+        },
+        {
+          "pointer": "/atlas/2/1/0",
+          "sha256": "6c4ccd60f60c27aa7f946b04aa87d6e6a5118473293dd828339596a1ed7b5a86"
+        },
+        {
+          "pointer": "/atlas/2/1/1",
+          "sha256": "17ce80fce638dbf30963f4436c2013086a68a4ae371530021e8aae5b8ddb7edb"
+        },
+        {
+          "pointer": "/atlas/2/1/2",
+          "sha256": "bc4e753efce58414e66bb07109d42059b2502bc1848f5b8dfcea9b52e83050ad"
+        },
+        {
+          "pointer": "/atlas/2/1/3",
+          "sha256": "a939f0b29e37995621f82e54016f39033622ba74b65995848efbc0445dc26580"
+        },
+        {
+          "pointer": "/atlas/2/1/4",
+          "sha256": "3f041437097438e5dbe31bec99c1e377d192306536bd9d9fcb759ff3e65e38cb"
+        },
+        {
+          "pointer": "/atlas/3/1/0",
+          "sha256": "a633272096902e4b5653b1a903d042c58867921751bff02849c1f66fa4d096b8"
+        },
+        {
+          "pointer": "/atlas/3/1/1",
+          "sha256": "ebf660e904157306703014a93076caacbbbabc75baf62f8da99d69530ef9d03c"
+        },
+        {
+          "pointer": "/atlas/3/1/2",
+          "sha256": "599cf7a788ce25a12a4ae9a33f86ab35926db7bac1aa7c3fc7136436d73d06dd"
+        },
+        {
+          "pointer": "/atlas/3/1/3",
+          "sha256": "79ae5599646c9577939adc4e537a96683bd60628e81a586a59b3a98cc7b9b159"
+        },
+        {
+          "pointer": "/atlas/3/1/4",
+          "sha256": "bb16f118e62b2f67f7bc3f35e2ed7e7c352e21d9479a1452879a4a6fd203374f"
+        },
+        {
+          "pointer": "/atlas/3/1/5",
+          "sha256": "52aeff68bd7c811aac31199a7e2f081cc3f6000466a32ad6877c4c132950709e"
+        },
+        {
+          "pointer": "/atlas/4/1/0",
+          "sha256": "57fe50302aa897d18a9cc27c8a94e380e770288f0fbf06a32bbbbcaa0bdcf19c"
+        },
+        {
+          "pointer": "/atlas/4/1/1",
+          "sha256": "c4ac04a917b151f1d2575c9b4b61821499ec3cb3c421125db457bbcd47ee917c"
+        },
+        {
+          "pointer": "/atlas/4/1/2",
+          "sha256": "8020af04b44303cc71a61b14a5ac44a796fe1dc7b670a4446a41f9359191e751"
+        },
+        {
+          "pointer": "/atlas/4/1/3",
+          "sha256": "7d933029fdfe649c02ac98cf071de36a9b3d29f7363cd5226ea73cb1ec860827"
+        },
+        {
+          "pointer": "/atlas/4/1/4",
+          "sha256": "2e508de18359b07daca9538f6a3f0dee7c8ffa4887263a032ba40eb602f7c7fc"
+        },
+        {
+          "pointer": "/atlas/5/1/0",
+          "sha256": "ca84ccb85b7cb3a1eb71169a20d1448ecbe47eb9537bf82de1afa22170db6488"
+        },
+        {
+          "pointer": "/atlas/5/1/1",
+          "sha256": "a7d429d1ba0e041a9a6845ef38098a6a58d914fb70118af19e3b8468ecb8c581"
+        },
+        {
+          "pointer": "/atlas/5/1/2",
+          "sha256": "7d3931458d589b798b8111ba1a1c46cbcdbfc4a3da4fb19fcaa30383acca4521"
+        },
+        {
+          "pointer": "/atlas/5/1/3",
+          "sha256": "8f9d736daa539c38932c60d8c455ad9b5e7ecb72f55877c6f8980695db4eb7c6"
+        },
+        {
+          "pointer": "/atlas/6/1/0",
+          "sha256": "b3ca19a3109d43b7c804c9c5b61dced4549d9805bebcdd145057c82d3460ca38"
+        },
+        {
+          "pointer": "/atlas/6/1/1",
+          "sha256": "7c250ac12e8aeba59a07db9a1f6d4bcd5d9ec39020cc76eca8105fbc5052b61e"
+        },
+        {
+          "pointer": "/atlas/6/1/2",
+          "sha256": "356649d1f59607b35bf1cfecf29312e71e09c917902d04d4faaf18a2a0e088ef"
+        },
+        {
+          "pointer": "/atlas/6/1/3",
+          "sha256": "0b70d62f2d2e93444ccd82d02b405e68e723ef96f1c97b8dbe56ecb909bf3797"
+        },
+        {
+          "pointer": "/atlas/7/1/0",
+          "sha256": "937e07dc76caf7a1092ba007f80cd41e1f666da31f94254c3441f5f2de8365aa"
+        },
+        {
+          "pointer": "/atlas/7/1/1",
+          "sha256": "8bfe2d6d294ca9f53274706536ee4e281d7e5bb5100aaa9e65b52a8491cda204"
+        },
+        {
+          "pointer": "/atlas/7/1/2",
+          "sha256": "e0bb034d04f6cd94082de066dd6d2dd2dca2568af9868add2498dddff17eaec0"
+        },
+        {
+          "pointer": "/atlas/7/1/3",
+          "sha256": "1273932cb3d45647ce9e310424f251363b12249690b78140ee136edd317c9a34"
+        },
+        {
+          "pointer": "/atlas/7/1/4",
+          "sha256": "3622b19050e288c9b1753be338c4ddf07897bf11aa660fadc46b3b514d54e72c"
+        },
+        {
+          "pointer": "/atlas/8/1/0",
+          "sha256": "90673e7e432bea1de46cba5073b5999b72dc212cd741f684188ca200d7e28dd3"
+        },
+        {
+          "pointer": "/atlas/8/1/1",
+          "sha256": "f42bd47a695b3c6514f49338a6aa91f9b82e1e5d174a33772dffd04e3cb4cfb5"
+        },
+        {
+          "pointer": "/atlas/8/1/2",
+          "sha256": "00e14212f0a75fcddfb00479e83fc13d63d95bf2d43a290221b753405c7bbd17"
+        },
+        {
+          "pointer": "/atlas/8/1/3",
+          "sha256": "9cf77f06672ac07511dbf51317f514f8fc154022482145dc28599e07b69f5c5e"
+        },
+        {
+          "pointer": "/atlas/8/1/4",
+          "sha256": "b614d3415eaf628f3b863d55e9e41eabbb732d6ff5cfaf059fbb6ffaba265cbd"
+        },
+        {
+          "pointer": "/atlas/8/1/5",
+          "sha256": "9745e8e650ace07df0107c073dca49b8ec65f82a806b26bec4fa283ef1fbdb3e"
+        },
+        {
+          "pointer": "/atlas/9/1/0",
+          "sha256": "8f3a55d2c07290cf87e504d5d22c18652da682827b456347af169ddeaf206657"
+        },
+        {
+          "pointer": "/atlas/9/1/1",
+          "sha256": "e343285e28449978834d6700b3dc3baf157039f9a01c22e9c24260dd1da8db97"
+        },
+        {
+          "pointer": "/atlas/9/1/2",
+          "sha256": "5cddb8eee1be781776f6f3407655cebd10054e3af95c9937c938fc97737be288"
+        },
+        {
+          "pointer": "/atlas/9/1/3",
+          "sha256": "0ffacc3d58f512a387a7b1572db29115399c52e67347915a8255f29e7a7dda59"
+        },
+        {
+          "pointer": "/atlas/9/1/4",
+          "sha256": "8a900bc2c87dfdafe96e4096c8db553f0ef968c061cc1188d69fe164c7670d0f"
+        },
+        {
+          "pointer": "/atlas/9/1/5",
+          "sha256": "4d1eee0caea4bed46b2a685e8b29c0f209f1e1b0019f54af7bb5a70a0b065fca"
+        },
+        {
+          "pointer": "/atlas/10/1/0",
+          "sha256": "487508d6d45c64683be1d94c733a84c12c42310997a900e45969e08cc754a31a"
+        },
+        {
+          "pointer": "/atlas/10/1/1",
+          "sha256": "54f4d535601e05a666dcd7a96538e52d6105e076af17a606a5f6fc6a4bc093b0"
+        },
+        {
+          "pointer": "/atlas/10/1/2",
+          "sha256": "18445c906d14297fb7a17d1906289f507fcd207b09acf9e889ac109d019d9d94"
+        },
+        {
+          "pointer": "/atlas/10/1/3",
+          "sha256": "7b1991ea2a579eeadbac7763241a4a9d848ddcb5f82aad21021f6e3e9f5c8950"
+        },
+        {
+          "pointer": "/atlas/10/1/4",
+          "sha256": "5c70815d44b12250599a485c2990f5434668dc3315686ef57ca4bb72e9e4ae0e"
+        },
+        {
+          "pointer": "/atlas/11/1/0",
+          "sha256": "e9b23515804d0265a49f5cb104ee9587ac436eca4b77c5fcf018fff790827494"
+        },
+        {
+          "pointer": "/atlas/11/1/1",
+          "sha256": "f3c4de5afa6fa8ea508a935c26541606deffb96b276fbaef2e9ce6a3349c9dbf"
+        },
+        {
+          "pointer": "/atlas/11/1/2",
+          "sha256": "5db9f11b0d10d9bf6d06132e6a563e3819511a25ec50d9b9b3e93e699290bfd9"
+        },
+        {
+          "pointer": "/atlas/11/1/3",
+          "sha256": "7109e970c81659573d3e958f6c83742ef76a8dd831705ea24d2e9b3cada47b9d"
+        },
+        {
+          "pointer": "/atlas/12/1/0",
+          "sha256": "cee35f51cd84b8451cf390e9e0128ee4289e4fc6773f162d337a9796c22136bc"
+        },
+        {
+          "pointer": "/atlas/12/1/1",
+          "sha256": "298bb825a09ff5f8fce1de8a32078e70b5a8bb94564ef7b8578e2bf9038c58ed"
+        },
+        {
+          "pointer": "/atlas/12/1/2",
+          "sha256": "fb1b562ce05c420219b25377b89472e666009e22ab82df5bb218113b6db34d20"
+        },
+        {
+          "pointer": "/atlas/12/1/3",
+          "sha256": "7b08a1687ed3b423310219339e3128485cfbc6acadd0ad77d17c0505942a9619"
+        },
+        {
+          "pointer": "/atlas/13/1/0",
+          "sha256": "03140b6096e40a9a1264357763f7d89af46d16bff6b570ef90b1ebdb7808b03e"
+        },
+        {
+          "pointer": "/atlas/13/1/1",
+          "sha256": "d189ea4cfb290b3ec89aede7d32cc055b0aa7ef66d85cd9205da22fa98eef2c4"
+        },
+        {
+          "pointer": "/atlas/13/1/2",
+          "sha256": "948ba08f55da1634be189ae3e7d682a890b5bc71a4ca6e61f9a2bb2812fb4f0f"
+        },
+        {
+          "pointer": "/atlas/13/1/3",
+          "sha256": "823d6aea7e46959fff33225ec011b6fc559194b072d84876abeff97cf00e009a"
+        },
+        {
+          "pointer": "/atlas/14/1/0",
+          "sha256": "aab54883618db2d58f31e03205a3ccd165d4796114d3005b707c207b7df6927e"
+        },
+        {
+          "pointer": "/atlas/14/1/1",
+          "sha256": "f1f63737b1bccac6a60a1e577f38910401fc40b604d006dfbbe0bc6bd60ff65e"
+        },
+        {
+          "pointer": "/atlas/14/1/2",
+          "sha256": "1d1ceb2c07cc2bc33dcc61fdf6a004f7cbf005b1959448e2aff0b3564c0d001f"
+        },
+        {
+          "pointer": "/atlas/14/1/3",
+          "sha256": "c1870aae041f475ba0442c84ffa8e7dab710363fc8624c3315084f66d4eb1765"
+        },
+        {
+          "pointer": "/atlas/15/1/0",
+          "sha256": "5053f8f0573c802b10a47426d2ebf3d36401a0a0190b718cca1090ec1ab98f50"
+        },
+        {
+          "pointer": "/atlas/15/1/1",
+          "sha256": "85cd604c87fe7a4e790c0544063a0427aeaafe9e96d9c9d377adcc956ec808f7"
+        },
+        {
+          "pointer": "/atlas/15/1/2",
+          "sha256": "259aba2a86dc0254d7519fcd3a3004baaa7510f5b205860cd36a3d43aa439566"
+        },
+        {
+          "pointer": "/atlas/15/1/3",
+          "sha256": "1c8cb071be0260273c97caed572bbc72f9237a6348e78d8f694f25e6d223c33b"
+        },
+        {
+          "pointer": "/schemes/0/quiz/0",
+          "sha256": "a45f4b7ecffc8de57b8352dc4da47cde939769462beabff4d5e978b774aa47bc"
+        },
+        {
+          "pointer": "/schemes/0/quiz/1",
+          "sha256": "a6d2013d4e63502df99737e65b67cab1eda5b5c8d51c0a4ff71feb1eef81dc00"
+        },
+        {
+          "pointer": "/schemes/1/quiz/0",
+          "sha256": "120f38a5dafb987a09737831e5b8f508ac5a39639b77b648006020729ed2e4d7"
+        },
+        {
+          "pointer": "/schemes/1/quiz/1",
+          "sha256": "7fb7c2eb3938ae95df181aab8cdf848953482f136515d2106d78829f6fae7f4b"
+        },
+        {
+          "pointer": "/schemes/2/quiz/0",
+          "sha256": "3506015c3cbb9f71b51820b97f070c4f91d4e0edd6462c528508be6268b34da3"
+        },
+        {
+          "pointer": "/schemes/2/quiz/1",
+          "sha256": "80009b540be88386bd25465d06f81efc1412ebc134ff9b45606e7a7227deef08"
+        },
+        {
+          "pointer": "/schemes/3/quiz/0",
+          "sha256": "551c891e899c1237f6dd8e98e475b15ea23a6401a8a55089dfe0bb2be33b7e80"
+        },
+        {
+          "pointer": "/schemes/3/quiz/1",
+          "sha256": "2c9da9c30f53563cbf68a196557941fbe23df28e135c4ec7a401503efed540ed"
+        },
+        {
+          "pointer": "/schemes/4/quiz/0",
+          "sha256": "6dcd9a8addd4b1df39a7e101d9d8adce81a512689fc59f32584e1b91dbbffd32"
+        },
+        {
+          "pointer": "/schemes/4/quiz/1",
+          "sha256": "144e6bd92a19f787856bc6add71fc45df8d12ef687dadb792ed6c771ba6e9abb"
+        },
+        {
+          "pointer": "/schemes/5/quiz/0",
+          "sha256": "6d43df791e564bc1c26d1377da1ba96a454a673b5ebad15c9395974a8cda1257"
+        },
+        {
+          "pointer": "/schemes/5/quiz/1",
+          "sha256": "6687c49e0f1c57a9207f7fb581bdeae5b5387f3f2958af07b33cf3e51581b8d7"
+        },
+        {
+          "pointer": "/schemes/6/quiz/0",
+          "sha256": "cfa4e736933d4a2c4690eb2699d7cef0a68ca8c7cbbe85aa0abc5f2b67f37dbb"
+        },
+        {
+          "pointer": "/schemes/7/quiz/0",
+          "sha256": "16e56944e9604a9e473f8451f94fa87e23ae4dc27051f4fab9539c4a60a3ed7c"
+        }
+      ]
+    },
+    {
+      "sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018",
+      "bytes": 9894397,
+      "locations": [
+        "/workspace/Mi-Espa-ol/.audit/reconstruction/Mi_Espanol_LAST_TESTABLE/reconstructed-audit-only.html",
+        "/workspace/Mi-Espa-ol/originals/starter/source_candidates/Mi_Espanol_LAST_TESTABLE.html",
+        "/workspace/attachments/4c4b31e1-9b89-4211-b4cf-9c7c1cdc894d/Mi_Espanol_LAST_TESTABLE.html",
+        "/workspace/attachments/558198b3-14f1-4c42-866c-3a448e14c269/MI_ESPANOL_CODEX_STARTER_2026-11-05.zip!/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/source_candidates/Mi_Espanol_LAST_TESTABLE.html",
+        "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/source_candidates/Mi_Espanol_LAST_TESTABLE.html"
+      ],
+      "classifications": [
+        "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+        "PROVIDED_OR_DUPLICATE_INPUT"
+      ],
+      "title": [
+        "Mi Español · Personal"
+      ],
+      "script_blocks": 1,
+      "has_DB": true,
+      "counts": {
+        "atlas": 16,
+        "vocab": 131,
+        "schemes": 8,
+        "images": 25,
+        "quiz": 10,
+        "weeks": 12,
+        "tables": 73,
+        "schemeExercises": 14
+      },
+      "DB_sha256": "119eebc3ff7339f7f40add5fc3e9b467c0469344e58ceee018793c20f3c641b9",
+      "compared_to_R3_preserved_data": {
+        "atlas": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "vocab": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "schemes": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "images": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "quiz": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "weeks": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "tables": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "schemeExercises": {
+          "same": true,
+          "unique_full_content_hashes": []
+        }
+      },
+      "nested_educational_arrays": [
+        {
+          "pointer": "/atlas/0/1/0",
+          "sha256": "3a1721bbeb8163e18ef74ae114e7b88b638705ec73114c96fa0747396fd09bac"
+        },
+        {
+          "pointer": "/atlas/0/1/1",
+          "sha256": "4f0490569dab42d3f4e5cdf1211c7b55903a529f0efcdaef87a9556f0f86a59c"
+        },
+        {
+          "pointer": "/atlas/0/1/2",
+          "sha256": "28f388bbaa86742b69a64af0f89742a10294448885f8aef5f19bfe7438153180"
+        },
+        {
+          "pointer": "/atlas/1/1/0",
+          "sha256": "8f5163fdf5ca37399a070f022f1cff951523188e42413663b3cf3c6f248f8634"
+        },
+        {
+          "pointer": "/atlas/1/1/1",
+          "sha256": "48921833a29595dc0a1532a632c86ace81180baa8a98237bc334d97bfac3cbaa"
+        },
+        {
+          "pointer": "/atlas/1/1/2",
+          "sha256": "d0a1926f5868d8e429a5243a4b8c3baf33abb5ac52e220bfd2e7b4aef2b68320"
+        },
+        {
+          "pointer": "/atlas/1/1/3",
+          "sha256": "ea839e62aa7bd68b77e025815289d5241b201d4dd3031b6aefc4ab3743d3c16c"
+        },
+        {
+          "pointer": "/atlas/2/1/0",
+          "sha256": "6c4ccd60f60c27aa7f946b04aa87d6e6a5118473293dd828339596a1ed7b5a86"
+        },
+        {
+          "pointer": "/atlas/2/1/1",
+          "sha256": "17ce80fce638dbf30963f4436c2013086a68a4ae371530021e8aae5b8ddb7edb"
+        },
+        {
+          "pointer": "/atlas/2/1/2",
+          "sha256": "bc4e753efce58414e66bb07109d42059b2502bc1848f5b8dfcea9b52e83050ad"
+        },
+        {
+          "pointer": "/atlas/2/1/3",
+          "sha256": "a939f0b29e37995621f82e54016f39033622ba74b65995848efbc0445dc26580"
+        },
+        {
+          "pointer": "/atlas/2/1/4",
+          "sha256": "3f041437097438e5dbe31bec99c1e377d192306536bd9d9fcb759ff3e65e38cb"
+        },
+        {
+          "pointer": "/atlas/3/1/0",
+          "sha256": "a633272096902e4b5653b1a903d042c58867921751bff02849c1f66fa4d096b8"
+        },
+        {
+          "pointer": "/atlas/3/1/1",
+          "sha256": "ebf660e904157306703014a93076caacbbbabc75baf62f8da99d69530ef9d03c"
+        },
+        {
+          "pointer": "/atlas/3/1/2",
+          "sha256": "599cf7a788ce25a12a4ae9a33f86ab35926db7bac1aa7c3fc7136436d73d06dd"
+        },
+        {
+          "pointer": "/atlas/3/1/3",
+          "sha256": "79ae5599646c9577939adc4e537a96683bd60628e81a586a59b3a98cc7b9b159"
+        },
+        {
+          "pointer": "/atlas/3/1/4",
+          "sha256": "bb16f118e62b2f67f7bc3f35e2ed7e7c352e21d9479a1452879a4a6fd203374f"
+        },
+        {
+          "pointer": "/atlas/3/1/5",
+          "sha256": "52aeff68bd7c811aac31199a7e2f081cc3f6000466a32ad6877c4c132950709e"
+        },
+        {
+          "pointer": "/atlas/4/1/0",
+          "sha256": "57fe50302aa897d18a9cc27c8a94e380e770288f0fbf06a32bbbbcaa0bdcf19c"
+        },
+        {
+          "pointer": "/atlas/4/1/1",
+          "sha256": "c4ac04a917b151f1d2575c9b4b61821499ec3cb3c421125db457bbcd47ee917c"
+        },
+        {
+          "pointer": "/atlas/4/1/2",
+          "sha256": "8020af04b44303cc71a61b14a5ac44a796fe1dc7b670a4446a41f9359191e751"
+        },
+        {
+          "pointer": "/atlas/4/1/3",
+          "sha256": "7d933029fdfe649c02ac98cf071de36a9b3d29f7363cd5226ea73cb1ec860827"
+        },
+        {
+          "pointer": "/atlas/4/1/4",
+          "sha256": "2e508de18359b07daca9538f6a3f0dee7c8ffa4887263a032ba40eb602f7c7fc"
+        },
+        {
+          "pointer": "/atlas/5/1/0",
+          "sha256": "ca84ccb85b7cb3a1eb71169a20d1448ecbe47eb9537bf82de1afa22170db6488"
+        },
+        {
+          "pointer": "/atlas/5/1/1",
+          "sha256": "a7d429d1ba0e041a9a6845ef38098a6a58d914fb70118af19e3b8468ecb8c581"
+        },
+        {
+          "pointer": "/atlas/5/1/2",
+          "sha256": "7d3931458d589b798b8111ba1a1c46cbcdbfc4a3da4fb19fcaa30383acca4521"
+        },
+        {
+          "pointer": "/atlas/5/1/3",
+          "sha256": "8f9d736daa539c38932c60d8c455ad9b5e7ecb72f55877c6f8980695db4eb7c6"
+        },
+        {
+          "pointer": "/atlas/6/1/0",
+          "sha256": "b3ca19a3109d43b7c804c9c5b61dced4549d9805bebcdd145057c82d3460ca38"
+        },
+        {
+          "pointer": "/atlas/6/1/1",
+          "sha256": "7c250ac12e8aeba59a07db9a1f6d4bcd5d9ec39020cc76eca8105fbc5052b61e"
+        },
+        {
+          "pointer": "/atlas/6/1/2",
+          "sha256": "356649d1f59607b35bf1cfecf29312e71e09c917902d04d4faaf18a2a0e088ef"
+        },
+        {
+          "pointer": "/atlas/6/1/3",
+          "sha256": "0b70d62f2d2e93444ccd82d02b405e68e723ef96f1c97b8dbe56ecb909bf3797"
+        },
+        {
+          "pointer": "/atlas/7/1/0",
+          "sha256": "937e07dc76caf7a1092ba007f80cd41e1f666da31f94254c3441f5f2de8365aa"
+        },
+        {
+          "pointer": "/atlas/7/1/1",
+          "sha256": "8bfe2d6d294ca9f53274706536ee4e281d7e5bb5100aaa9e65b52a8491cda204"
+        },
+        {
+          "pointer": "/atlas/7/1/2",
+          "sha256": "e0bb034d04f6cd94082de066dd6d2dd2dca2568af9868add2498dddff17eaec0"
+        },
+        {
+          "pointer": "/atlas/7/1/3",
+          "sha256": "1273932cb3d45647ce9e310424f251363b12249690b78140ee136edd317c9a34"
+        },
+        {
+          "pointer": "/atlas/7/1/4",
+          "sha256": "3622b19050e288c9b1753be338c4ddf07897bf11aa660fadc46b3b514d54e72c"
+        },
+        {
+          "pointer": "/atlas/8/1/0",
+          "sha256": "90673e7e432bea1de46cba5073b5999b72dc212cd741f684188ca200d7e28dd3"
+        },
+        {
+          "pointer": "/atlas/8/1/1",
+          "sha256": "f42bd47a695b3c6514f49338a6aa91f9b82e1e5d174a33772dffd04e3cb4cfb5"
+        },
+        {
+          "pointer": "/atlas/8/1/2",
+          "sha256": "00e14212f0a75fcddfb00479e83fc13d63d95bf2d43a290221b753405c7bbd17"
+        },
+        {
+          "pointer": "/atlas/8/1/3",
+          "sha256": "9cf77f06672ac07511dbf51317f514f8fc154022482145dc28599e07b69f5c5e"
+        },
+        {
+          "pointer": "/atlas/8/1/4",
+          "sha256": "b614d3415eaf628f3b863d55e9e41eabbb732d6ff5cfaf059fbb6ffaba265cbd"
+        },
+        {
+          "pointer": "/atlas/8/1/5",
+          "sha256": "9745e8e650ace07df0107c073dca49b8ec65f82a806b26bec4fa283ef1fbdb3e"
+        },
+        {
+          "pointer": "/atlas/9/1/0",
+          "sha256": "8f3a55d2c07290cf87e504d5d22c18652da682827b456347af169ddeaf206657"
+        },
+        {
+          "pointer": "/atlas/9/1/1",
+          "sha256": "e343285e28449978834d6700b3dc3baf157039f9a01c22e9c24260dd1da8db97"
+        },
+        {
+          "pointer": "/atlas/9/1/2",
+          "sha256": "5cddb8eee1be781776f6f3407655cebd10054e3af95c9937c938fc97737be288"
+        },
+        {
+          "pointer": "/atlas/9/1/3",
+          "sha256": "0ffacc3d58f512a387a7b1572db29115399c52e67347915a8255f29e7a7dda59"
+        },
+        {
+          "pointer": "/atlas/9/1/4",
+          "sha256": "8a900bc2c87dfdafe96e4096c8db553f0ef968c061cc1188d69fe164c7670d0f"
+        },
+        {
+          "pointer": "/atlas/9/1/5",
+          "sha256": "4d1eee0caea4bed46b2a685e8b29c0f209f1e1b0019f54af7bb5a70a0b065fca"
+        },
+        {
+          "pointer": "/atlas/10/1/0",
+          "sha256": "487508d6d45c64683be1d94c733a84c12c42310997a900e45969e08cc754a31a"
+        },
+        {
+          "pointer": "/atlas/10/1/1",
+          "sha256": "54f4d535601e05a666dcd7a96538e52d6105e076af17a606a5f6fc6a4bc093b0"
+        },
+        {
+          "pointer": "/atlas/10/1/2",
+          "sha256": "18445c906d14297fb7a17d1906289f507fcd207b09acf9e889ac109d019d9d94"
+        },
+        {
+          "pointer": "/atlas/10/1/3",
+          "sha256": "7b1991ea2a579eeadbac7763241a4a9d848ddcb5f82aad21021f6e3e9f5c8950"
+        },
+        {
+          "pointer": "/atlas/10/1/4",
+          "sha256": "5c70815d44b12250599a485c2990f5434668dc3315686ef57ca4bb72e9e4ae0e"
+        },
+        {
+          "pointer": "/atlas/11/1/0",
+          "sha256": "e9b23515804d0265a49f5cb104ee9587ac436eca4b77c5fcf018fff790827494"
+        },
+        {
+          "pointer": "/atlas/11/1/1",
+          "sha256": "f3c4de5afa6fa8ea508a935c26541606deffb96b276fbaef2e9ce6a3349c9dbf"
+        },
+        {
+          "pointer": "/atlas/11/1/2",
+          "sha256": "5db9f11b0d10d9bf6d06132e6a563e3819511a25ec50d9b9b3e93e699290bfd9"
+        },
+        {
+          "pointer": "/atlas/11/1/3",
+          "sha256": "7109e970c81659573d3e958f6c83742ef76a8dd831705ea24d2e9b3cada47b9d"
+        },
+        {
+          "pointer": "/atlas/12/1/0",
+          "sha256": "cee35f51cd84b8451cf390e9e0128ee4289e4fc6773f162d337a9796c22136bc"
+        },
+        {
+          "pointer": "/atlas/12/1/1",
+          "sha256": "298bb825a09ff5f8fce1de8a32078e70b5a8bb94564ef7b8578e2bf9038c58ed"
+        },
+        {
+          "pointer": "/atlas/12/1/2",
+          "sha256": "fb1b562ce05c420219b25377b89472e666009e22ab82df5bb218113b6db34d20"
+        },
+        {
+          "pointer": "/atlas/12/1/3",
+          "sha256": "7b08a1687ed3b423310219339e3128485cfbc6acadd0ad77d17c0505942a9619"
+        },
+        {
+          "pointer": "/atlas/13/1/0",
+          "sha256": "03140b6096e40a9a1264357763f7d89af46d16bff6b570ef90b1ebdb7808b03e"
+        },
+        {
+          "pointer": "/atlas/13/1/1",
+          "sha256": "d189ea4cfb290b3ec89aede7d32cc055b0aa7ef66d85cd9205da22fa98eef2c4"
+        },
+        {
+          "pointer": "/atlas/13/1/2",
+          "sha256": "948ba08f55da1634be189ae3e7d682a890b5bc71a4ca6e61f9a2bb2812fb4f0f"
+        },
+        {
+          "pointer": "/atlas/13/1/3",
+          "sha256": "823d6aea7e46959fff33225ec011b6fc559194b072d84876abeff97cf00e009a"
+        },
+        {
+          "pointer": "/atlas/14/1/0",
+          "sha256": "aab54883618db2d58f31e03205a3ccd165d4796114d3005b707c207b7df6927e"
+        },
+        {
+          "pointer": "/atlas/14/1/1",
+          "sha256": "f1f63737b1bccac6a60a1e577f38910401fc40b604d006dfbbe0bc6bd60ff65e"
+        },
+        {
+          "pointer": "/atlas/14/1/2",
+          "sha256": "1d1ceb2c07cc2bc33dcc61fdf6a004f7cbf005b1959448e2aff0b3564c0d001f"
+        },
+        {
+          "pointer": "/atlas/14/1/3",
+          "sha256": "c1870aae041f475ba0442c84ffa8e7dab710363fc8624c3315084f66d4eb1765"
+        },
+        {
+          "pointer": "/atlas/15/1/0",
+          "sha256": "5053f8f0573c802b10a47426d2ebf3d36401a0a0190b718cca1090ec1ab98f50"
+        },
+        {
+          "pointer": "/atlas/15/1/1",
+          "sha256": "85cd604c87fe7a4e790c0544063a0427aeaafe9e96d9c9d377adcc956ec808f7"
+        },
+        {
+          "pointer": "/atlas/15/1/2",
+          "sha256": "259aba2a86dc0254d7519fcd3a3004baaa7510f5b205860cd36a3d43aa439566"
+        },
+        {
+          "pointer": "/atlas/15/1/3",
+          "sha256": "1c8cb071be0260273c97caed572bbc72f9237a6348e78d8f694f25e6d223c33b"
+        },
+        {
+          "pointer": "/schemes/0/quiz/0",
+          "sha256": "a45f4b7ecffc8de57b8352dc4da47cde939769462beabff4d5e978b774aa47bc"
+        },
+        {
+          "pointer": "/schemes/0/quiz/1",
+          "sha256": "a6d2013d4e63502df99737e65b67cab1eda5b5c8d51c0a4ff71feb1eef81dc00"
+        },
+        {
+          "pointer": "/schemes/1/quiz/0",
+          "sha256": "120f38a5dafb987a09737831e5b8f508ac5a39639b77b648006020729ed2e4d7"
+        },
+        {
+          "pointer": "/schemes/1/quiz/1",
+          "sha256": "7fb7c2eb3938ae95df181aab8cdf848953482f136515d2106d78829f6fae7f4b"
+        },
+        {
+          "pointer": "/schemes/2/quiz/0",
+          "sha256": "3506015c3cbb9f71b51820b97f070c4f91d4e0edd6462c528508be6268b34da3"
+        },
+        {
+          "pointer": "/schemes/2/quiz/1",
+          "sha256": "80009b540be88386bd25465d06f81efc1412ebc134ff9b45606e7a7227deef08"
+        },
+        {
+          "pointer": "/schemes/3/quiz/0",
+          "sha256": "551c891e899c1237f6dd8e98e475b15ea23a6401a8a55089dfe0bb2be33b7e80"
+        },
+        {
+          "pointer": "/schemes/3/quiz/1",
+          "sha256": "2c9da9c30f53563cbf68a196557941fbe23df28e135c4ec7a401503efed540ed"
+        },
+        {
+          "pointer": "/schemes/4/quiz/0",
+          "sha256": "6dcd9a8addd4b1df39a7e101d9d8adce81a512689fc59f32584e1b91dbbffd32"
+        },
+        {
+          "pointer": "/schemes/4/quiz/1",
+          "sha256": "144e6bd92a19f787856bc6add71fc45df8d12ef687dadb792ed6c771ba6e9abb"
+        },
+        {
+          "pointer": "/schemes/5/quiz/0",
+          "sha256": "6d43df791e564bc1c26d1377da1ba96a454a673b5ebad15c9395974a8cda1257"
+        },
+        {
+          "pointer": "/schemes/5/quiz/1",
+          "sha256": "6687c49e0f1c57a9207f7fb581bdeae5b5387f3f2958af07b33cf3e51581b8d7"
+        },
+        {
+          "pointer": "/schemes/6/quiz/0",
+          "sha256": "cfa4e736933d4a2c4690eb2699d7cef0a68ca8c7cbbe85aa0abc5f2b67f37dbb"
+        },
+        {
+          "pointer": "/schemes/7/quiz/0",
+          "sha256": "16e56944e9604a9e473f8451f94fa87e23ae4dc27051f4fab9539c4a60a3ed7c"
+        }
+      ]
+    },
+    {
+      "sha256": "54cb7d8ed3ff97c1f90a385ee9cf552e936fb028dafea08613541ba86e0e543a",
+      "bytes": 9868381,
+      "locations": [
+        "/workspace/Mi-Espa-ol/.audit/reconstruction/Mi_Espanol_Recovery_Contrast_Audio(1)/reconstructed-audit-only.html",
+        "/workspace/Mi-Espa-ol/originals/starter/source_candidates/Mi_Espanol_Recovery_Contrast_Audio(1).html",
+        "/workspace/attachments/558198b3-14f1-4c42-866c-3a448e14c269/MI_ESPANOL_CODEX_STARTER_2026-11-05.zip!/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/source_candidates/Mi_Espanol_Recovery_Contrast_Audio(1).html",
+        "/workspace/attachments/f974ac24-62aa-4ab1-a896-a71953b43f94/Mi_Espanol_Recovery_Contrast_Audio.html",
+        "/workspace/scratch/spanish-import/MI_ESPANOL_CODEX_TRANSFER_2026-11-05/source_candidates/Mi_Espanol_Recovery_Contrast_Audio(1).html"
+      ],
+      "classifications": [
+        "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE",
+        "PROVIDED_OR_DUPLICATE_INPUT"
+      ],
+      "title": [
+        "Mi Español · Personal"
+      ],
+      "script_blocks": 1,
+      "has_DB": true,
+      "counts": {
+        "atlas": 16,
+        "vocab": 131,
+        "schemes": 8,
+        "images": 25,
+        "quiz": 10,
+        "weeks": 12,
+        "tables": 73,
+        "schemeExercises": 14
+      },
+      "DB_sha256": "119eebc3ff7339f7f40add5fc3e9b467c0469344e58ceee018793c20f3c641b9",
+      "compared_to_R3_preserved_data": {
+        "atlas": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "vocab": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "schemes": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "images": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "quiz": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "weeks": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "tables": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "schemeExercises": {
+          "same": true,
+          "unique_full_content_hashes": []
+        }
+      },
+      "nested_educational_arrays": [
+        {
+          "pointer": "/atlas/0/1/0",
+          "sha256": "3a1721bbeb8163e18ef74ae114e7b88b638705ec73114c96fa0747396fd09bac"
+        },
+        {
+          "pointer": "/atlas/0/1/1",
+          "sha256": "4f0490569dab42d3f4e5cdf1211c7b55903a529f0efcdaef87a9556f0f86a59c"
+        },
+        {
+          "pointer": "/atlas/0/1/2",
+          "sha256": "28f388bbaa86742b69a64af0f89742a10294448885f8aef5f19bfe7438153180"
+        },
+        {
+          "pointer": "/atlas/1/1/0",
+          "sha256": "8f5163fdf5ca37399a070f022f1cff951523188e42413663b3cf3c6f248f8634"
+        },
+        {
+          "pointer": "/atlas/1/1/1",
+          "sha256": "48921833a29595dc0a1532a632c86ace81180baa8a98237bc334d97bfac3cbaa"
+        },
+        {
+          "pointer": "/atlas/1/1/2",
+          "sha256": "d0a1926f5868d8e429a5243a4b8c3baf33abb5ac52e220bfd2e7b4aef2b68320"
+        },
+        {
+          "pointer": "/atlas/1/1/3",
+          "sha256": "ea839e62aa7bd68b77e025815289d5241b201d4dd3031b6aefc4ab3743d3c16c"
+        },
+        {
+          "pointer": "/atlas/2/1/0",
+          "sha256": "6c4ccd60f60c27aa7f946b04aa87d6e6a5118473293dd828339596a1ed7b5a86"
+        },
+        {
+          "pointer": "/atlas/2/1/1",
+          "sha256": "17ce80fce638dbf30963f4436c2013086a68a4ae371530021e8aae5b8ddb7edb"
+        },
+        {
+          "pointer": "/atlas/2/1/2",
+          "sha256": "bc4e753efce58414e66bb07109d42059b2502bc1848f5b8dfcea9b52e83050ad"
+        },
+        {
+          "pointer": "/atlas/2/1/3",
+          "sha256": "a939f0b29e37995621f82e54016f39033622ba74b65995848efbc0445dc26580"
+        },
+        {
+          "pointer": "/atlas/2/1/4",
+          "sha256": "3f041437097438e5dbe31bec99c1e377d192306536bd9d9fcb759ff3e65e38cb"
+        },
+        {
+          "pointer": "/atlas/3/1/0",
+          "sha256": "a633272096902e4b5653b1a903d042c58867921751bff02849c1f66fa4d096b8"
+        },
+        {
+          "pointer": "/atlas/3/1/1",
+          "sha256": "ebf660e904157306703014a93076caacbbbabc75baf62f8da99d69530ef9d03c"
+        },
+        {
+          "pointer": "/atlas/3/1/2",
+          "sha256": "599cf7a788ce25a12a4ae9a33f86ab35926db7bac1aa7c3fc7136436d73d06dd"
+        },
+        {
+          "pointer": "/atlas/3/1/3",
+          "sha256": "79ae5599646c9577939adc4e537a96683bd60628e81a586a59b3a98cc7b9b159"
+        },
+        {
+          "pointer": "/atlas/3/1/4",
+          "sha256": "bb16f118e62b2f67f7bc3f35e2ed7e7c352e21d9479a1452879a4a6fd203374f"
+        },
+        {
+          "pointer": "/atlas/3/1/5",
+          "sha256": "52aeff68bd7c811aac31199a7e2f081cc3f6000466a32ad6877c4c132950709e"
+        },
+        {
+          "pointer": "/atlas/4/1/0",
+          "sha256": "57fe50302aa897d18a9cc27c8a94e380e770288f0fbf06a32bbbbcaa0bdcf19c"
+        },
+        {
+          "pointer": "/atlas/4/1/1",
+          "sha256": "c4ac04a917b151f1d2575c9b4b61821499ec3cb3c421125db457bbcd47ee917c"
+        },
+        {
+          "pointer": "/atlas/4/1/2",
+          "sha256": "8020af04b44303cc71a61b14a5ac44a796fe1dc7b670a4446a41f9359191e751"
+        },
+        {
+          "pointer": "/atlas/4/1/3",
+          "sha256": "7d933029fdfe649c02ac98cf071de36a9b3d29f7363cd5226ea73cb1ec860827"
+        },
+        {
+          "pointer": "/atlas/4/1/4",
+          "sha256": "2e508de18359b07daca9538f6a3f0dee7c8ffa4887263a032ba40eb602f7c7fc"
+        },
+        {
+          "pointer": "/atlas/5/1/0",
+          "sha256": "ca84ccb85b7cb3a1eb71169a20d1448ecbe47eb9537bf82de1afa22170db6488"
+        },
+        {
+          "pointer": "/atlas/5/1/1",
+          "sha256": "a7d429d1ba0e041a9a6845ef38098a6a58d914fb70118af19e3b8468ecb8c581"
+        },
+        {
+          "pointer": "/atlas/5/1/2",
+          "sha256": "7d3931458d589b798b8111ba1a1c46cbcdbfc4a3da4fb19fcaa30383acca4521"
+        },
+        {
+          "pointer": "/atlas/5/1/3",
+          "sha256": "8f9d736daa539c38932c60d8c455ad9b5e7ecb72f55877c6f8980695db4eb7c6"
+        },
+        {
+          "pointer": "/atlas/6/1/0",
+          "sha256": "b3ca19a3109d43b7c804c9c5b61dced4549d9805bebcdd145057c82d3460ca38"
+        },
+        {
+          "pointer": "/atlas/6/1/1",
+          "sha256": "7c250ac12e8aeba59a07db9a1f6d4bcd5d9ec39020cc76eca8105fbc5052b61e"
+        },
+        {
+          "pointer": "/atlas/6/1/2",
+          "sha256": "356649d1f59607b35bf1cfecf29312e71e09c917902d04d4faaf18a2a0e088ef"
+        },
+        {
+          "pointer": "/atlas/6/1/3",
+          "sha256": "0b70d62f2d2e93444ccd82d02b405e68e723ef96f1c97b8dbe56ecb909bf3797"
+        },
+        {
+          "pointer": "/atlas/7/1/0",
+          "sha256": "937e07dc76caf7a1092ba007f80cd41e1f666da31f94254c3441f5f2de8365aa"
+        },
+        {
+          "pointer": "/atlas/7/1/1",
+          "sha256": "8bfe2d6d294ca9f53274706536ee4e281d7e5bb5100aaa9e65b52a8491cda204"
+        },
+        {
+          "pointer": "/atlas/7/1/2",
+          "sha256": "e0bb034d04f6cd94082de066dd6d2dd2dca2568af9868add2498dddff17eaec0"
+        },
+        {
+          "pointer": "/atlas/7/1/3",
+          "sha256": "1273932cb3d45647ce9e310424f251363b12249690b78140ee136edd317c9a34"
+        },
+        {
+          "pointer": "/atlas/7/1/4",
+          "sha256": "3622b19050e288c9b1753be338c4ddf07897bf11aa660fadc46b3b514d54e72c"
+        },
+        {
+          "pointer": "/atlas/8/1/0",
+          "sha256": "90673e7e432bea1de46cba5073b5999b72dc212cd741f684188ca200d7e28dd3"
+        },
+        {
+          "pointer": "/atlas/8/1/1",
+          "sha256": "f42bd47a695b3c6514f49338a6aa91f9b82e1e5d174a33772dffd04e3cb4cfb5"
+        },
+        {
+          "pointer": "/atlas/8/1/2",
+          "sha256": "00e14212f0a75fcddfb00479e83fc13d63d95bf2d43a290221b753405c7bbd17"
+        },
+        {
+          "pointer": "/atlas/8/1/3",
+          "sha256": "9cf77f06672ac07511dbf51317f514f8fc154022482145dc28599e07b69f5c5e"
+        },
+        {
+          "pointer": "/atlas/8/1/4",
+          "sha256": "b614d3415eaf628f3b863d55e9e41eabbb732d6ff5cfaf059fbb6ffaba265cbd"
+        },
+        {
+          "pointer": "/atlas/8/1/5",
+          "sha256": "9745e8e650ace07df0107c073dca49b8ec65f82a806b26bec4fa283ef1fbdb3e"
+        },
+        {
+          "pointer": "/atlas/9/1/0",
+          "sha256": "8f3a55d2c07290cf87e504d5d22c18652da682827b456347af169ddeaf206657"
+        },
+        {
+          "pointer": "/atlas/9/1/1",
+          "sha256": "e343285e28449978834d6700b3dc3baf157039f9a01c22e9c24260dd1da8db97"
+        },
+        {
+          "pointer": "/atlas/9/1/2",
+          "sha256": "5cddb8eee1be781776f6f3407655cebd10054e3af95c9937c938fc97737be288"
+        },
+        {
+          "pointer": "/atlas/9/1/3",
+          "sha256": "0ffacc3d58f512a387a7b1572db29115399c52e67347915a8255f29e7a7dda59"
+        },
+        {
+          "pointer": "/atlas/9/1/4",
+          "sha256": "8a900bc2c87dfdafe96e4096c8db553f0ef968c061cc1188d69fe164c7670d0f"
+        },
+        {
+          "pointer": "/atlas/9/1/5",
+          "sha256": "4d1eee0caea4bed46b2a685e8b29c0f209f1e1b0019f54af7bb5a70a0b065fca"
+        },
+        {
+          "pointer": "/atlas/10/1/0",
+          "sha256": "487508d6d45c64683be1d94c733a84c12c42310997a900e45969e08cc754a31a"
+        },
+        {
+          "pointer": "/atlas/10/1/1",
+          "sha256": "54f4d535601e05a666dcd7a96538e52d6105e076af17a606a5f6fc6a4bc093b0"
+        },
+        {
+          "pointer": "/atlas/10/1/2",
+          "sha256": "18445c906d14297fb7a17d1906289f507fcd207b09acf9e889ac109d019d9d94"
+        },
+        {
+          "pointer": "/atlas/10/1/3",
+          "sha256": "7b1991ea2a579eeadbac7763241a4a9d848ddcb5f82aad21021f6e3e9f5c8950"
+        },
+        {
+          "pointer": "/atlas/10/1/4",
+          "sha256": "5c70815d44b12250599a485c2990f5434668dc3315686ef57ca4bb72e9e4ae0e"
+        },
+        {
+          "pointer": "/atlas/11/1/0",
+          "sha256": "e9b23515804d0265a49f5cb104ee9587ac436eca4b77c5fcf018fff790827494"
+        },
+        {
+          "pointer": "/atlas/11/1/1",
+          "sha256": "f3c4de5afa6fa8ea508a935c26541606deffb96b276fbaef2e9ce6a3349c9dbf"
+        },
+        {
+          "pointer": "/atlas/11/1/2",
+          "sha256": "5db9f11b0d10d9bf6d06132e6a563e3819511a25ec50d9b9b3e93e699290bfd9"
+        },
+        {
+          "pointer": "/atlas/11/1/3",
+          "sha256": "7109e970c81659573d3e958f6c83742ef76a8dd831705ea24d2e9b3cada47b9d"
+        },
+        {
+          "pointer": "/atlas/12/1/0",
+          "sha256": "cee35f51cd84b8451cf390e9e0128ee4289e4fc6773f162d337a9796c22136bc"
+        },
+        {
+          "pointer": "/atlas/12/1/1",
+          "sha256": "298bb825a09ff5f8fce1de8a32078e70b5a8bb94564ef7b8578e2bf9038c58ed"
+        },
+        {
+          "pointer": "/atlas/12/1/2",
+          "sha256": "fb1b562ce05c420219b25377b89472e666009e22ab82df5bb218113b6db34d20"
+        },
+        {
+          "pointer": "/atlas/12/1/3",
+          "sha256": "7b08a1687ed3b423310219339e3128485cfbc6acadd0ad77d17c0505942a9619"
+        },
+        {
+          "pointer": "/atlas/13/1/0",
+          "sha256": "03140b6096e40a9a1264357763f7d89af46d16bff6b570ef90b1ebdb7808b03e"
+        },
+        {
+          "pointer": "/atlas/13/1/1",
+          "sha256": "d189ea4cfb290b3ec89aede7d32cc055b0aa7ef66d85cd9205da22fa98eef2c4"
+        },
+        {
+          "pointer": "/atlas/13/1/2",
+          "sha256": "948ba08f55da1634be189ae3e7d682a890b5bc71a4ca6e61f9a2bb2812fb4f0f"
+        },
+        {
+          "pointer": "/atlas/13/1/3",
+          "sha256": "823d6aea7e46959fff33225ec011b6fc559194b072d84876abeff97cf00e009a"
+        },
+        {
+          "pointer": "/atlas/14/1/0",
+          "sha256": "aab54883618db2d58f31e03205a3ccd165d4796114d3005b707c207b7df6927e"
+        },
+        {
+          "pointer": "/atlas/14/1/1",
+          "sha256": "f1f63737b1bccac6a60a1e577f38910401fc40b604d006dfbbe0bc6bd60ff65e"
+        },
+        {
+          "pointer": "/atlas/14/1/2",
+          "sha256": "1d1ceb2c07cc2bc33dcc61fdf6a004f7cbf005b1959448e2aff0b3564c0d001f"
+        },
+        {
+          "pointer": "/atlas/14/1/3",
+          "sha256": "c1870aae041f475ba0442c84ffa8e7dab710363fc8624c3315084f66d4eb1765"
+        },
+        {
+          "pointer": "/atlas/15/1/0",
+          "sha256": "5053f8f0573c802b10a47426d2ebf3d36401a0a0190b718cca1090ec1ab98f50"
+        },
+        {
+          "pointer": "/atlas/15/1/1",
+          "sha256": "85cd604c87fe7a4e790c0544063a0427aeaafe9e96d9c9d377adcc956ec808f7"
+        },
+        {
+          "pointer": "/atlas/15/1/2",
+          "sha256": "259aba2a86dc0254d7519fcd3a3004baaa7510f5b205860cd36a3d43aa439566"
+        },
+        {
+          "pointer": "/atlas/15/1/3",
+          "sha256": "1c8cb071be0260273c97caed572bbc72f9237a6348e78d8f694f25e6d223c33b"
+        },
+        {
+          "pointer": "/schemes/0/quiz/0",
+          "sha256": "a45f4b7ecffc8de57b8352dc4da47cde939769462beabff4d5e978b774aa47bc"
+        },
+        {
+          "pointer": "/schemes/0/quiz/1",
+          "sha256": "a6d2013d4e63502df99737e65b67cab1eda5b5c8d51c0a4ff71feb1eef81dc00"
+        },
+        {
+          "pointer": "/schemes/1/quiz/0",
+          "sha256": "120f38a5dafb987a09737831e5b8f508ac5a39639b77b648006020729ed2e4d7"
+        },
+        {
+          "pointer": "/schemes/1/quiz/1",
+          "sha256": "7fb7c2eb3938ae95df181aab8cdf848953482f136515d2106d78829f6fae7f4b"
+        },
+        {
+          "pointer": "/schemes/2/quiz/0",
+          "sha256": "3506015c3cbb9f71b51820b97f070c4f91d4e0edd6462c528508be6268b34da3"
+        },
+        {
+          "pointer": "/schemes/2/quiz/1",
+          "sha256": "80009b540be88386bd25465d06f81efc1412ebc134ff9b45606e7a7227deef08"
+        },
+        {
+          "pointer": "/schemes/3/quiz/0",
+          "sha256": "551c891e899c1237f6dd8e98e475b15ea23a6401a8a55089dfe0bb2be33b7e80"
+        },
+        {
+          "pointer": "/schemes/3/quiz/1",
+          "sha256": "2c9da9c30f53563cbf68a196557941fbe23df28e135c4ec7a401503efed540ed"
+        },
+        {
+          "pointer": "/schemes/4/quiz/0",
+          "sha256": "6dcd9a8addd4b1df39a7e101d9d8adce81a512689fc59f32584e1b91dbbffd32"
+        },
+        {
+          "pointer": "/schemes/4/quiz/1",
+          "sha256": "144e6bd92a19f787856bc6add71fc45df8d12ef687dadb792ed6c771ba6e9abb"
+        },
+        {
+          "pointer": "/schemes/5/quiz/0",
+          "sha256": "6d43df791e564bc1c26d1377da1ba96a454a673b5ebad15c9395974a8cda1257"
+        },
+        {
+          "pointer": "/schemes/5/quiz/1",
+          "sha256": "6687c49e0f1c57a9207f7fb581bdeae5b5387f3f2958af07b33cf3e51581b8d7"
+        },
+        {
+          "pointer": "/schemes/6/quiz/0",
+          "sha256": "cfa4e736933d4a2c4690eb2699d7cef0a68ca8c7cbbe85aa0abc5f2b67f37dbb"
+        },
+        {
+          "pointer": "/schemes/7/quiz/0",
+          "sha256": "16e56944e9604a9e473f8451f94fa87e23ae4dc27051f4fab9539c4a60a3ed7c"
+        }
+      ]
+    },
+    {
+      "sha256": "568c718e0ad111fd6c4236b5401bd34890c2118206d70f5ff34b8ea8f27a2f77",
+      "bytes": 10993,
+      "locations": [
+        "/workspace/Mi-Espa-ol/.audit/repair-extraction/src/shell.html",
+        "/workspace/Mi-Espa-ol/src/shell.html"
+      ],
+      "classifications": [
+        "CURRENT_MODULAR_SHELL"
+      ],
+      "title": [
+        "Mi Español · Personal"
+      ],
+      "script_blocks": 1,
+      "has_DB": false
+    },
+    {
+      "sha256": "e090fb785cb6c99bab4ecf19d3e18b0cb86a47c1eff960ca52c06ae2731d642e",
+      "bytes": 9897500,
+      "locations": [
+        "/workspace/Mi-Espa-ol/.audit/working/Mi_Espanol_R1_INTERNAL.html"
+      ],
+      "classifications": [
+        "GENERATED_OR_TEST_COPY_NOT_INDEPENDENT_HISTORICAL_SOURCE"
+      ],
+      "title": [
+        "Mi Español · Personal"
+      ],
+      "script_blocks": 1,
+      "has_DB": true,
+      "counts": {
+        "atlas": 16,
+        "vocab": 131,
+        "schemes": 8,
+        "quiz": 10,
+        "weeks": 12,
+        "images": 25,
+        "tables": 73,
+        "schemeExercises": 14
+      },
+      "DB_sha256": "119eebc3ff7339f7f40add5fc3e9b467c0469344e58ceee018793c20f3c641b9",
+      "compared_to_R3_preserved_data": {
+        "atlas": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "vocab": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "schemes": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "quiz": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "weeks": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "images": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "tables": {
+          "same": true,
+          "unique_full_content_hashes": []
+        },
+        "schemeExercises": {
+          "same": true,
+          "unique_full_content_hashes": []
+        }
+      },
+      "nested_educational_arrays": [
+        {
+          "pointer": "/atlas/0/1/0",
+          "sha256": "3a1721bbeb8163e18ef74ae114e7b88b638705ec73114c96fa0747396fd09bac"
+        },
+        {
+          "pointer": "/atlas/0/1/1",
+          "sha256": "4f0490569dab42d3f4e5cdf1211c7b55903a529f0efcdaef87a9556f0f86a59c"
+        },
+        {
+          "pointer": "/atlas/0/1/2",
+          "sha256": "28f388bbaa86742b69a64af0f89742a10294448885f8aef5f19bfe7438153180"
+        },
+        {
+          "pointer": "/atlas/1/1/0",
+          "sha256": "8f5163fdf5ca37399a070f022f1cff951523188e42413663b3cf3c6f248f8634"
+        },
+        {
+          "pointer": "/atlas/1/1/1",
+          "sha256": "48921833a29595dc0a1532a632c86ace81180baa8a98237bc334d97bfac3cbaa"
+        },
+        {
+          "pointer": "/atlas/1/1/2",
+          "sha256": "d0a1926f5868d8e429a5243a4b8c3baf33abb5ac52e220bfd2e7b4aef2b68320"
+        },
+        {
+          "pointer": "/atlas/1/1/3",
+          "sha256": "ea839e62aa7bd68b77e025815289d5241b201d4dd3031b6aefc4ab3743d3c16c"
+        },
+        {
+          "pointer": "/atlas/2/1/0",
+          "sha256": "6c4ccd60f60c27aa7f946b04aa87d6e6a5118473293dd828339596a1ed7b5a86"
+        },
+        {
+          "pointer": "/atlas/2/1/1",
+          "sha256": "17ce80fce638dbf30963f4436c2013086a68a4ae371530021e8aae5b8ddb7edb"
+        },
+        {
+          "pointer": "/atlas/2/1/2",
+          "sha256": "bc4e753efce58414e66bb07109d42059b2502bc1848f5b8dfcea9b52e83050ad"
+        },
+        {
+          "pointer": "/atlas/2/1/3",
+          "sha256": "a939f0b29e37995621f82e54016f39033622ba74b65995848efbc0445dc26580"
+        },
+        {
+          "pointer": "/atlas/2/1/4",
+          "sha256": "3f041437097438e5dbe31bec99c1e377d192306536bd9d9fcb759ff3e65e38cb"
+        },
+        {
+          "pointer": "/atlas/3/1/0",
+          "sha256": "a633272096902e4b5653b1a903d042c58867921751bff02849c1f66fa4d096b8"
+        },
+        {
+          "pointer": "/atlas/3/1/1",
+          "sha256": "ebf660e904157306703014a93076caacbbbabc75baf62f8da99d69530ef9d03c"
+        },
+        {
+          "pointer": "/atlas/3/1/2",
+          "sha256": "599cf7a788ce25a12a4ae9a33f86ab35926db7bac1aa7c3fc7136436d73d06dd"
+        },
+        {
+          "pointer": "/atlas/3/1/3",
+          "sha256": "79ae5599646c9577939adc4e537a96683bd60628e81a586a59b3a98cc7b9b159"
+        },
+        {
+          "pointer": "/atlas/3/1/4",
+          "sha256": "bb16f118e62b2f67f7bc3f35e2ed7e7c352e21d9479a1452879a4a6fd203374f"
+        },
+        {
+          "pointer": "/atlas/3/1/5",
+          "sha256": "52aeff68bd7c811aac31199a7e2f081cc3f6000466a32ad6877c4c132950709e"
+        },
+        {
+          "pointer": "/atlas/4/1/0",
+          "sha256": "57fe50302aa897d18a9cc27c8a94e380e770288f0fbf06a32bbbbcaa0bdcf19c"
+        },
+        {
+          "pointer": "/atlas/4/1/1",
+          "sha256": "c4ac04a917b151f1d2575c9b4b61821499ec3cb3c421125db457bbcd47ee917c"
+        },
+        {
+          "pointer": "/atlas/4/1/2",
+          "sha256": "8020af04b44303cc71a61b14a5ac44a796fe1dc7b670a4446a41f9359191e751"
+        },
+        {
+          "pointer": "/atlas/4/1/3",
+          "sha256": "7d933029fdfe649c02ac98cf071de36a9b3d29f7363cd5226ea73cb1ec860827"
+        },
+        {
+          "pointer": "/atlas/4/1/4",
+          "sha256": "2e508de18359b07daca9538f6a3f0dee7c8ffa4887263a032ba40eb602f7c7fc"
+        },
+        {
+          "pointer": "/atlas/5/1/0",
+          "sha256": "ca84ccb85b7cb3a1eb71169a20d1448ecbe47eb9537bf82de1afa22170db6488"
+        },
+        {
+          "pointer": "/atlas/5/1/1",
+          "sha256": "a7d429d1ba0e041a9a6845ef38098a6a58d914fb70118af19e3b8468ecb8c581"
+        },
+        {
+          "pointer": "/atlas/5/1/2",
+          "sha256": "7d3931458d589b798b8111ba1a1c46cbcdbfc4a3da4fb19fcaa30383acca4521"
+        },
+        {
+          "pointer": "/atlas/5/1/3",
+          "sha256": "8f9d736daa539c38932c60d8c455ad9b5e7ecb72f55877c6f8980695db4eb7c6"
+        },
+        {
+          "pointer": "/atlas/6/1/0",
+          "sha256": "b3ca19a3109d43b7c804c9c5b61dced4549d9805bebcdd145057c82d3460ca38"
+        },
+        {
+          "pointer": "/atlas/6/1/1",
+          "sha256": "7c250ac12e8aeba59a07db9a1f6d4bcd5d9ec39020cc76eca8105fbc5052b61e"
+        },
+        {
+          "pointer": "/atlas/6/1/2",
+          "sha256": "356649d1f59607b35bf1cfecf29312e71e09c917902d04d4faaf18a2a0e088ef"
+        },
+        {
+          "pointer": "/atlas/6/1/3",
+          "sha256": "0b70d62f2d2e93444ccd82d02b405e68e723ef96f1c97b8dbe56ecb909bf3797"
+        },
+        {
+          "pointer": "/atlas/7/1/0",
+          "sha256": "937e07dc76caf7a1092ba007f80cd41e1f666da31f94254c3441f5f2de8365aa"
+        },
+        {
+          "pointer": "/atlas/7/1/1",
+          "sha256": "8bfe2d6d294ca9f53274706536ee4e281d7e5bb5100aaa9e65b52a8491cda204"
+        },
+        {
+          "pointer": "/atlas/7/1/2",
+          "sha256": "e0bb034d04f6cd94082de066dd6d2dd2dca2568af9868add2498dddff17eaec0"
+        },
+        {
+          "pointer": "/atlas/7/1/3",
+          "sha256": "1273932cb3d45647ce9e310424f251363b12249690b78140ee136edd317c9a34"
+        },
+        {
+          "pointer": "/atlas/7/1/4",
+          "sha256": "3622b19050e288c9b1753be338c4ddf07897bf11aa660fadc46b3b514d54e72c"
+        },
+        {
+          "pointer": "/atlas/8/1/0",
+          "sha256": "90673e7e432bea1de46cba5073b5999b72dc212cd741f684188ca200d7e28dd3"
+        },
+        {
+          "pointer": "/atlas/8/1/1",
+          "sha256": "f42bd47a695b3c6514f49338a6aa91f9b82e1e5d174a33772dffd04e3cb4cfb5"
+        },
+        {
+          "pointer": "/atlas/8/1/2",
+          "sha256": "00e14212f0a75fcddfb00479e83fc13d63d95bf2d43a290221b753405c7bbd17"
+        },
+        {
+          "pointer": "/atlas/8/1/3",
+          "sha256": "9cf77f06672ac07511dbf51317f514f8fc154022482145dc28599e07b69f5c5e"
+        },
+        {
+          "pointer": "/atlas/8/1/4",
+          "sha256": "b614d3415eaf628f3b863d55e9e41eabbb732d6ff5cfaf059fbb6ffaba265cbd"
+        },
+        {
+          "pointer": "/atlas/8/1/5",
+          "sha256": "9745e8e650ace07df0107c073dca49b8ec65f82a806b26bec4fa283ef1fbdb3e"
+        },
+        {
+          "pointer": "/atlas/9/1/0",
+          "sha256": "8f3a55d2c07290cf87e504d5d22c18652da682827b456347af169ddeaf206657"
+        },
+        {
+          "pointer": "/atlas/9/1/1",
+          "sha256": "e343285e28449978834d6700b3dc3baf157039f9a01c22e9c24260dd1da8db97"
+        },
+        {
+          "pointer": "/atlas/9/1/2",
+          "sha256": "5cddb8eee1be781776f6f3407655cebd10054e3af95c9937c938fc97737be288"
+        },
+        {
+          "pointer": "/atlas/9/1/3",
+          "sha256": "0ffacc3d58f512a387a7b1572db29115399c52e67347915a8255f29e7a7dda59"
+        },
+        {
+          "pointer": "/atlas/9/1/4",
+          "sha256": "8a900bc2c87dfdafe96e4096c8db553f0ef968c061cc1188d69fe164c7670d0f"
+        },
+        {
+          "pointer": "/atlas/9/1/5",
+          "sha256": "4d1eee0caea4bed46b2a685e8b29c0f209f1e1b0019f54af7bb5a70a0b065fca"
+        },
+        {
+          "pointer": "/atlas/10/1/0",
+          "sha256": "487508d6d45c64683be1d94c733a84c12c42310997a900e45969e08cc754a31a"
+        },
+        {
+          "pointer": "/atlas/10/1/1",
+          "sha256": "54f4d535601e05a666dcd7a96538e52d6105e076af17a606a5f6fc6a4bc093b0"
+        },
+        {
+          "pointer": "/atlas/10/1/2",
+          "sha256": "18445c906d14297fb7a17d1906289f507fcd207b09acf9e889ac109d019d9d94"
+        },
+        {
+          "pointer": "/atlas/10/1/3",
+          "sha256": "7b1991ea2a579eeadbac7763241a4a9d848ddcb5f82aad21021f6e3e9f5c8950"
+        },
+        {
+          "pointer": "/atlas/10/1/4",
+          "sha256": "5c70815d44b12250599a485c2990f5434668dc3315686ef57ca4bb72e9e4ae0e"
+        },
+        {
+          "pointer": "/atlas/11/1/0",
+          "sha256": "e9b23515804d0265a49f5cb104ee9587ac436eca4b77c5fcf018fff790827494"
+        },
+        {
+          "pointer": "/atlas/11/1/1",
+          "sha256": "f3c4de5afa6fa8ea508a935c26541606deffb96b276fbaef2e9ce6a3349c9dbf"
+        },
+        {
+          "pointer": "/atlas/11/1/2",
+          "sha256": "5db9f11b0d10d9bf6d06132e6a563e3819511a25ec50d9b9b3e93e699290bfd9"
+        },
+        {
+          "pointer": "/atlas/11/1/3",
+          "sha256": "7109e970c81659573d3e958f6c83742ef76a8dd831705ea24d2e9b3cada47b9d"
+        },
+        {
+          "pointer": "/atlas/12/1/0",
+          "sha256": "cee35f51cd84b8451cf390e9e0128ee4289e4fc6773f162d337a9796c22136bc"
+        },
+        {
+          "pointer": "/atlas/12/1/1",
+          "sha256": "298bb825a09ff5f8fce1de8a32078e70b5a8bb94564ef7b8578e2bf9038c58ed"
+        },
+        {
+          "pointer": "/atlas/12/1/2",
+          "sha256": "fb1b562ce05c420219b25377b89472e666009e22ab82df5bb218113b6db34d20"
+        },
+        {
+          "pointer": "/atlas/12/1/3",
+          "sha256": "7b08a1687ed3b423310219339e3128485cfbc6acadd0ad77d17c0505942a9619"
+        },
+        {
+          "pointer": "/atlas/13/1/0",
+          "sha256": "03140b6096e40a9a1264357763f7d89af46d16bff6b570ef90b1ebdb7808b03e"
+        },
+        {
+          "pointer": "/atlas/13/1/1",
+          "sha256": "d189ea4cfb290b3ec89aede7d32cc055b0aa7ef66d85cd9205da22fa98eef2c4"
+        },
+        {
+          "pointer": "/atlas/13/1/2",
+          "sha256": "948ba08f55da1634be189ae3e7d682a890b5bc71a4ca6e61f9a2bb2812fb4f0f"
+        },
+        {
+          "pointer": "/atlas/13/1/3",
+          "sha256": "823d6aea7e46959fff33225ec011b6fc559194b072d84876abeff97cf00e009a"
+        },
+        {
+          "pointer": "/atlas/14/1/0",
+          "sha256": "aab54883618db2d58f31e03205a3ccd165d4796114d3005b707c207b7df6927e"
+        },
+        {
+          "pointer": "/atlas/14/1/1",
+          "sha256": "f1f63737b1bccac6a60a1e577f38910401fc40b604d006dfbbe0bc6bd60ff65e"
+        },
+        {
+          "pointer": "/atlas/14/1/2",
+          "sha256": "1d1ceb2c07cc2bc33dcc61fdf6a004f7cbf005b1959448e2aff0b3564c0d001f"
+        },
+        {
+          "pointer": "/atlas/14/1/3",
+          "sha256": "c1870aae041f475ba0442c84ffa8e7dab710363fc8624c3315084f66d4eb1765"
+        },
+        {
+          "pointer": "/atlas/15/1/0",
+          "sha256": "5053f8f0573c802b10a47426d2ebf3d36401a0a0190b718cca1090ec1ab98f50"
+        },
+        {
+          "pointer": "/atlas/15/1/1",
+          "sha256": "85cd604c87fe7a4e790c0544063a0427aeaafe9e96d9c9d377adcc956ec808f7"
+        },
+        {
+          "pointer": "/atlas/15/1/2",
+          "sha256": "259aba2a86dc0254d7519fcd3a3004baaa7510f5b205860cd36a3d43aa439566"
+        },
+        {
+          "pointer": "/atlas/15/1/3",
+          "sha256": "1c8cb071be0260273c97caed572bbc72f9237a6348e78d8f694f25e6d223c33b"
+        },
+        {
+          "pointer": "/schemes/0/quiz/0",
+          "sha256": "a45f4b7ecffc8de57b8352dc4da47cde939769462beabff4d5e978b774aa47bc"
+        },
+        {
+          "pointer": "/schemes/0/quiz/1",
+          "sha256": "a6d2013d4e63502df99737e65b67cab1eda5b5c8d51c0a4ff71feb1eef81dc00"
+        },
+        {
+          "pointer": "/schemes/1/quiz/0",
+          "sha256": "120f38a5dafb987a09737831e5b8f508ac5a39639b77b648006020729ed2e4d7"
+        },
+        {
+          "pointer": "/schemes/1/quiz/1",
+          "sha256": "7fb7c2eb3938ae95df181aab8cdf848953482f136515d2106d78829f6fae7f4b"
+        },
+        {
+          "pointer": "/schemes/2/quiz/0",
+          "sha256": "3506015c3cbb9f71b51820b97f070c4f91d4e0edd6462c528508be6268b34da3"
+        },
+        {
+          "pointer": "/schemes/2/quiz/1",
+          "sha256": "80009b540be88386bd25465d06f81efc1412ebc134ff9b45606e7a7227deef08"
+        },
+        {
+          "pointer": "/schemes/3/quiz/0",
+          "sha256": "551c891e899c1237f6dd8e98e475b15ea23a6401a8a55089dfe0bb2be33b7e80"
+        },
+        {
+          "pointer": "/schemes/3/quiz/1",
+          "sha256": "2c9da9c30f53563cbf68a196557941fbe23df28e135c4ec7a401503efed540ed"
+        },
+        {
+          "pointer": "/schemes/4/quiz/0",
+          "sha256": "6dcd9a8addd4b1df39a7e101d9d8adce81a512689fc59f32584e1b91dbbffd32"
+        },
+        {
+          "pointer": "/schemes/4/quiz/1",
+          "sha256": "144e6bd92a19f787856bc6add71fc45df8d12ef687dadb792ed6c771ba6e9abb"
+        },
+        {
+          "pointer": "/schemes/5/quiz/0",
+          "sha256": "6d43df791e564bc1c26d1377da1ba96a454a673b5ebad15c9395974a8cda1257"
+        },
+        {
+          "pointer": "/schemes/5/quiz/1",
+          "sha256": "6687c49e0f1c57a9207f7fb581bdeae5b5387f3f2958af07b33cf3e51581b8d7"
+        },
+        {
+          "pointer": "/schemes/6/quiz/0",
+          "sha256": "cfa4e736933d4a2c4690eb2699d7cef0a68ca8c7cbbe85aa0abc5f2b67f37dbb"
+        },
+        {
+          "pointer": "/schemes/7/quiz/0",
+          "sha256": "16e56944e9604a9e473f8451f94fa87e23ae4dc27051f4fab9539c4a60a3ed7c"
+        }
+      ]
+    },
+    {
+      "sha256": "980eeaf61022b98810d11d1b6a6338e03b6c9d9d20015fcae9c39c2c95a2847f",
+      "bytes": 1451,
+      "locations": [
+        "/workspace/Mi-Espa-ol/experimental/pre-audit-draft/src/shell.html"
+      ],
+      "classifications": [
+        "NEW_SESSION_DRAFT_NOT_HISTORICAL"
+      ],
+      "title": [
+        "Mi Español — снова говорить"
+      ],
+      "script_blocks": 2,
+      "has_DB": false
+    }
+  ],
+  "not_found_expected_artifacts": [
+    {
+      "name": "source_candidates/Mi_Espanol_4_4_REBUILT_iPhone.html",
+      "expected_sha256": "02696b413cfbfbf82509b7a3049ca5c831aadbc77717282ff20656d62b5433c4",
+      "status": "NOT_FOUND_IN_AVAILABLE_BYTES_NOT_PROOF_OF_PERMANENT_DELETION"
+    },
+    {
+      "name": "source_candidates/Mi_Espanol_Integrated_Review_2026-11-02.html",
+      "expected_sha256": "2841c65f0df98a0608eddc9415ca389474bf48b6348b1baa69d510b061f03ebe",
+      "status": "NOT_FOUND_IN_AVAILABLE_BYTES_NOT_PROOF_OF_PERMANENT_DELETION"
+    },
+    {
+      "name": "source_candidates/Mi_Espanol_Personal_Complete_Review.html",
+      "expected_sha256": "09c69a5c130e14f1f58b31bd23e80c6fbe8ef547e4e250e09c29a71f745a16ac",
+      "status": "NOT_FOUND_IN_AVAILABLE_BYTES_NOT_PROOF_OF_PERMANENT_DELETION"
+    }
+  ],
+  "git_history_for_source_artifacts": [
+    "1fa9c9ca22abd36ce2f0720c8b2a21461d5ae676 Restore complete scheme audio and hidden exercises; add traceable routes and resumable learning engine",
+    "8576b3573a405bd45ab50922de820de05303d6d2 Provide verified GitHub ZIP delivery and prioritize three-day technical specification sprint",
+    "d48d4401ba4fa45d4254c262ab6fa8a7c3f4f044 Replace unmeasured calendar with personal-study sprint and deliver byte-identical R2 pilot",
+    "e09b70910102b9c44b39f5e3bd7896f2457d6fda Restore modular baseline and repair audio, grammar controls and recall priority",
+    "16e50e260ffed982f88c77b5cb964fcc323b98db Preserve supplied Mi Espanol recovery artifacts and isolate pre-audit draft"
+  ],
+  "new_unintegrated_draft": {
+    "path": "experimental/pre-audit-draft/course.json",
+    "records": 12,
+    "classification": "NEWLY_CREATED_IN_THIS_SESSION_NOT_RECOVERED_HISTORICAL_LESSONS",
+    "integrated": false
+  },
+  "large_archive": {
+    "sediment_id": "file_0000000019d08210a8f9fe3e7aa45091",
+    "status": "POINTER_ONLY_TRANSFER_LIMIT_32_MIB_NOT_READ",
+    "user_previously_reported_no_other_sources": true
+  },
+  "standalone_development_regulation": {
+    "found": false,
+    "status": "No standalone titled file identified; current user instructions and MASTER SPECIFICATION are available"
+  }
+}

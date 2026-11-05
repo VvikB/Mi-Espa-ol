@@ -1,0 +1,1474 @@
+{
+  "artifact_sha256": "975f48d72234d9cb748aebde89c3fbd3a8673a1c156d81b05f4031faea028acb",
+  "summary": {
+    "PASS": 366
+  },
+  "tests": [
+    {
+      "test": "original_vocab_prefix_exact",
+      "status": "PASS"
+    },
+    {
+      "test": "all_other_original_content_exact",
+      "status": "PASS"
+    },
+    {
+      "test": "new_records_equal_transcription",
+      "status": "PASS"
+    },
+    {
+      "test": "all_rows_source_hashes",
+      "status": "PASS"
+    },
+    {
+      "test": "held_rows_not_integrated",
+      "status": "PASS"
+    },
+    {
+      "test": "no_duplicate_headwords",
+      "status": "PASS"
+    },
+    {
+      "test": "no_invented_examples",
+      "status": "PASS"
+    },
+    {
+      "test": "browser_vocabulary_count",
+      "status": "PASS"
+    },
+    {
+      "test": "navigation_today",
+      "status": "PASS"
+    },
+    {
+      "test": "navigation_library",
+      "status": "PASS"
+    },
+    {
+      "test": "navigation_words",
+      "status": "PASS"
+    },
+    {
+      "test": "navigation_practice",
+      "status": "PASS"
+    },
+    {
+      "test": "navigation_progress",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_0",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_1",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_2",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_3",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_4",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_5",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_6",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_7",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_8",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_9",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_10",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_11",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_12",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_13",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_14",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_15",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_16",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_17",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_18",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_19",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_20",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_21",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_22",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_23",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_24",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_25",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_26",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_27",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_28",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_29",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_30",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_31",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_32",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_33",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_34",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_35",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_36",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_37",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_38",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_39",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_40",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_41",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_42",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_43",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_44",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_45",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_46",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_47",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_48",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_49",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_50",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_51",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_52",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_53",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_54",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_55",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_56",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_57",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_58",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_59",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_60",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_61",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_62",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_63",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_64",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_65",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_66",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_67",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_68",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_69",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_70",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_71",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_72",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_73",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_74",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_75",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_76",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_77",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_78",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_79",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_80",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_81",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_82",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_83",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_84",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_85",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_86",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_87",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_88",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_89",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_90",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_91",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_92",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_93",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_94",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_95",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_96",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_97",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_98",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_99",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_100",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_101",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_102",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_103",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_104",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_105",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_106",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_107",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_108",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_109",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_110",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_111",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_112",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_113",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_114",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_115",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_116",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_117",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_118",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_119",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_120",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_121",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_122",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_123",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_124",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_125",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_126",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_127",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_128",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_129",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_130",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_131",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_132",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_133",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_134",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_135",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_136",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_137",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_138",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_139",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_140",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_141",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_142",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_143",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_144",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_145",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_146",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_147",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_148",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_149",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_150",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_151",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_152",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_153",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_154",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_155",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_156",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_157",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_158",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_159",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_160",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_161",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_162",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_163",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_164",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_165",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_166",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_167",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_168",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_169",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_170",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_171",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_172",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_173",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_174",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_175",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_176",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_177",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_178",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_179",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_180",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_181",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_182",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_183",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_184",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_185",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_186",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_187",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_188",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_189",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_190",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_191",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_192",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_193",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_194",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_195",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_196",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_197",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_198",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_199",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_200",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_201",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_202",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_203",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_204",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_205",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_206",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_207",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_208",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_209",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_210",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_211",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_212",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_213",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_214",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_215",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_216",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_217",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_218",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_219",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_220",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_221",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_222",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_223",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_224",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_225",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_226",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_227",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_228",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_229",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_230",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_231",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_232",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_233",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_234",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_235",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_236",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_237",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_238",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_239",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_240",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_241",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_242",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_243",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_244",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_245",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_246",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_247",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_248",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_249",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_250",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_251",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_252",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_253",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_254",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_255",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_256",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_257",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_258",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_259",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_260",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_261",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_262",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_263",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_264",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_265",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_266",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_267",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_268",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_269",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_270",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_271",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_272",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_273",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_274",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_275",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_276",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_277",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_278",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_279",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_280",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_281",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_282",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_283",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_284",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_285",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_286",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_287",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_288",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_289",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_290",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_291",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_292",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_293",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_294",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_295",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_296",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_297",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_298",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_299",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_300",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_301",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_302",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_303",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_304",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_305",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_306",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_307",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_308",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_309",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_310",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_311",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_312",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_313",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_314",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_315",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_316",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_317",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_318",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_319",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_320",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_321",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_322",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_323",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_324",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_325",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_326",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_327",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_328",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_329",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_330",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_331",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_332",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_333",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_334",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_335",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_336",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_337",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_338",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_339",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_340",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_341",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_342",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_343",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_344",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_345",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_346",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_347",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_348",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_349",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_350",
+      "status": "PASS"
+    },
+    {
+      "test": "restored_audio_351",
+      "status": "PASS"
+    },
+    {
+      "test": "no_browser_exceptions",
+      "status": "PASS"
+    }
+  ],
+  "physical_iPhone": "PENDING",
+  "audio_scope": "Mock Spanish voice dispatch; audibility on iOS not tested"
+}

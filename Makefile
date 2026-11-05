@@ -25,3 +25,12 @@ backup-test:
 
 journey-test:
 	python tools/test_journey.py
+
+.PHONY: r4-internal r4-test r4-package
+r4-internal:
+	python -c 'import sys;sys.path.insert(0,"tools");from build import build;build(revision="R4")'
+r4-test:
+	python tools/test_r4.py
+	python tools/test_r4_regressions.py
+r4-package:
+	python tools/package_r4.py
