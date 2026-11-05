@@ -11,8 +11,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 4515,
-    "sha256": "131e0963c3359760b27a6a5ff36eb5d89d5502f3bfe9bbd0d10f3eedc46324ec"
+    "bytes": 4407,
+    "sha256": "c88fb02a6a4c455306ac0a70b2b4e01060cea4d10d5804d85b8e8e72e3aa236e"
   },
   {
     "path": "assets/pages/7529.webp",
@@ -358,6 +358,11 @@
     "path": "docs/G0_AUDIT.md",
     "bytes": 26753,
     "sha256": "5ad310301668f26f902f2af980d4acc5c6bb4c4b6165bdf5ff4f3a8702db558a"
+  },
+  {
+    "path": "docs/JOINT_WORK_PLAN.md",
+    "bytes": 22514,
+    "sha256": "0e31378867a9c635a75e2924e7cb64c9fdbd6063b819383ebc48f5a1cfcc6fec"
   },
   {
     "path": "docs/RECOVERY_PLAN.md",
