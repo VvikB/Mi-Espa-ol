@@ -1,0 +1,595 @@
+{
+  "artifact_sha256": "3324aa91a8d0fbca5abc42894e1e1c02049c13d7ed5b4c15bedc34a3fb0736a2",
+  "scope": "R6 content acceptance fixes; no independent ELE or direct PCIC verification",
+  "summary": {
+    "PASS": 112
+  },
+  "results": [
+    {
+      "test": "R6_user_progress_byte_semantics_preserved",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "word_recall_keys_preserved",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "all_previous_IDs_retained",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "DB_entirely_unchanged",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "legacy_saved_session_not_falsely_upgraded",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "legacy_lesson_review_unchanged",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "correct_controls_do_not_mask_reading_error",
+      "status": "PASS",
+      "evidence": {
+        "steps": 0,
+        "next": 1794007574015,
+        "passed": false,
+        "correct": 3,
+        "total": 3,
+        "custom": "keep",
+        "controlCorrect": 7,
+        "controlTotal": 7,
+        "controlPassed": true,
+        "comprehensionCorrect": 4,
+        "comprehensionTotal": 5,
+        "comprehensionPassed": false,
+        "assessmentVersion": 2,
+        "cycleCompletedAt": 1793921174015,
+        "at": 1793921174015,
+        "priorAssessment": {
+          "steps": 3,
+          "next": 4102444800000,
+          "passed": true,
+          "correct": 3,
+          "total": 3,
+          "custom": "keep"
+        }
+      }
+    },
+    {
+      "test": "old_review_archived_with_unknown_fields",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "error_log_in_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "specific_error_only_queued",
+      "status": "PASS",
+      "evidence": [
+        "A1-01:task:07"
+      ]
+    },
+    {
+      "test": "targeted_session_contains_only_failed_ID",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "repair_updates_actual_result",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "targeted_repeat_not_full_cycle_claim",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "task_backup_roundtrip",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "early_correct_does_not_inflate_interval",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "due_correct_advances_interval",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "failure_schedules_specific_task_soon",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-01:task:04",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-01:task:05",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-01:task:06",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-01:task:07",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-01:task:08",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-01:task:09",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-01:task:10",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-01:task:11",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-01:task:14",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-01:task:15",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-01:task:16",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-01:task:17",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-01:task:18",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-01:task:19",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-01:task:20",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-02:task:04",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-02:task:05",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-02:task:06",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-02:task:07",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-02:task:08",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-02:task:09",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-02:task:10",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-02:task:11",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-02:task:14",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-02:task:15",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-02:task:16",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-02:task:17",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-02:task:18",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-02:task:19",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-02:task:20",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-03:task:04",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-03:task:05",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-03:task:06",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-03:task:07",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-03:task:08",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-03:task:09",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-03:task:10",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-03:task:11",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-03:task:14",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-03:task:15",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-03:task:16",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-03:task:17",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-03:task:18",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-03:task:19",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-03:task:20",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-04:task:04",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-04:task:05",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-04:task:06",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-04:task:07",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-04:task:08",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-04:task:09",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-04:task:10",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-04:task:11",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-04:task:14",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-04:task:15",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-04:task:16",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-04:task:17",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-04:task:18",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-04:task:19",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-04:task:20",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-05:task:04",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-05:task:05",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-05:task:06",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-05:task:07",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-05:task:08",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-05:task:09",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-05:task:10",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-05:task:11",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-05:task:14",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-05:task:15",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-05:task:16",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-05:task:17",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-05:task:18",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-05:task:19",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-05:task:20",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-06:task:04",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-06:task:05",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-06:task:06",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-06:task:07",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-06:task:08",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-06:task:09",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-06:task:10",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-06:task:11",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-06:task:14",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-06:task:15",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-06:task:16",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-06:task:17",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-06:task:18",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-06:task:19",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "key_and_variants_A1-06:task:20",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "shuffled_positions_and_source_immutable",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "enter_requires_question_signs",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "all_answer_rules_resolve",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "support_and_reference_visible",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "no_js_errors",
+      "status": "PASS",
+      "evidence": []
+    }
+  ]
+}

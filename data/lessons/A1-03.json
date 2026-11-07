@@ -20,7 +20,7 @@
   ],
   "tableRefs": [],
   "nextLesson": "A1-04",
-  "estimatedMinutes": 40,
+  "estimatedMinutes": 45,
   "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
   "languageReview": "ASSISTANT_EDITED",
   "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
@@ -47,7 +47,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "Presente: привычка и настоящее",
-      "text": "Регулярные глаголы имеют окончания -ar, -er, -ir. Hablar: hablo, hablas, habla, hablamos, habláis, hablan; comer: como, comes, come, comemos, coméis, comen; vivir: vivo, vives, vive, vivimos, vivís, viven. Presente описывает привычки и события настоящего: Trabajo por la mañana. Не добавляйте отдельное «есть» по русской/английской модели: Yo trabajo, а не yo soy trabajo. Вопрос часто отличается порядком слов/интонацией и знаками, а отрицание ставит no перед формой: No trabajo los domingos."
+      "text": "Начните с нужных действий: estudio — учусь, trabajo — работаю, como — ем, hablo — говорю. Для nosotros: estudiamos, trabajamos, comemos, hablamos. Для Ana: estudia, trabaja, come, habla. Три полные регулярные парадигмы доступны в справке; сейчас не требуется заучить все формы всех глаголов. Presente описывает привычку: Trabajo por la mañana. Отрицание: No trabajo los domingos.",
+      "referenceText": "Регулярные глаголы имеют окончания -ar, -er, -ir. Hablar: hablo, hablas, habla, hablamos, habláis, hablan; comer: como, comes, come, comemos, coméis, comen; vivir: vivo, vives, vive, vivimos, vivís, viven. Presente описывает привычки и события настоящего: Trabajo por la mañana. Не добавляйте отдельное «есть» по русской/английской модели: Yo trabajo, а не yo soy trabajo. Вопрос часто отличается порядком слов/интонацией и знаками, а отрицание ставит no перед формой: No trabajo los domingos.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     },
     {
       "id": "A1-03:explanation:2",
@@ -71,7 +73,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "TENER и IR в повседневной речи",
-      "text": "Tener: tengo, tienes, tiene, tenemos, tenéis, tienen. Tengo tiempo — у меня есть время; tengo hambre — я голоден/голодна. Ir: voy, vas, va, vamos, vais, van. Voy al trabajo — я иду/еду на работу; a + el сливается в al. Ir не означает только движение пешком. Пока описываем обычное направление; планы ir a + infinitivo подробно будут в A1-06. Дни с повторяемостью: los lunes, los fines de semana. По порядку действий помогают primero, después, luego; это готовые связки."
+      "text": "Нужные формы tener: tengo — у меня есть, tienes — у тебя есть, tiene — у него/неё есть; tenemos — у нас есть. Tengo tiempo — у меня есть время; tengo hambre — я голоден/голодна. Ir: voy, vas, va, vamos. Voy al trabajo — иду/еду на работу; a + el даёт al. Планы ir a + infinitivo будут в A1-06. Полные парадигмы сохраняются в справке.",
+      "referenceText": "Tener: tengo, tienes, tiene, tenemos, tenéis, tienen. Tengo tiempo — у меня есть время; tengo hambre — я голоден/голодна. Ir: voy, vas, va, vamos, vais, van. Voy al trabajo — я иду/еду на работу; a + el сливается в al. Ir не означает только движение пешком. Пока описываем обычное направление; планы ir a + infinitivo подробно будут в A1-06. Дни с повторяемостью: los lunes, los fines de semana. По порядку действий помогают primero, después, luego; это готовые связки.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     },
     {
       "id": "A1-03:explanation:3",
@@ -95,7 +99,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "Возвратная форма и свой распорядок",
-      "text": "Levantarse: me levanto, te levantas, se levanta, nos levantamos, os levantáis, se levantan. Местоимение изменяется вместе с лицом: Ana se levanta, не Ana me levanta, если речь о ней самой. Me levanto — я встаю; levanto la caja — поднимаю коробку: не любой глагол обязан быть возвратным. В отрицании no ставится перед местоимением: No me levanto tarde. Для точного времени достаточно готовой формулы a las siete. Не переносите русское окончание -ся на все слова: tengo hambre не возвратная конструкция."
+      "text": "Me levanto — я встаю; te levantas — ты встаёшь; Ana se levanta — Ана встаёт. Меняются местоимение и глагол. ¿A qué hora te levantas? — готовый вопрос «Во сколько ты встаёшь?». A las siete — «в семь». No me levanto tarde — «я не встаю поздно». Слова primero (сначала), después (потом), a veces (иногда) помогают связать рассказ. Остальные возвратные формы пока справочные.",
+      "referenceText": "Levantarse: me levanto, te levantas, se levanta, nos levantamos, os levantáis, se levantan. Местоимение изменяется вместе с лицом: Ana se levanta, не Ana me levanta, если речь о ней самой. Me levanto — я встаю; levanto la caja — поднимаю коробку: не любой глагол обязан быть возвратным. В отрицании no ставится перед местоимением: No me levanto tarde. Для точного времени достаточно готовой формулы a las siete. Не переносите русское окончание -ся на все слова: tengo hambre не возвратная конструкция.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     }
   ],
   "lexicon": [
@@ -123,7 +129,8 @@
       "wordIndex": 384,
       "es": "levantarse",
       "ru": "вставать",
-      "note": "me levanto / se levanta"
+      "note": "me levanto / se levanta",
+      "requiredForProduction": true
     },
     {
       "id": "A1-03:lexicon:2",
@@ -149,7 +156,8 @@
       "wordIndex": 25,
       "es": "el trabajo",
       "ru": "работа",
-      "note": "voy al trabajo"
+      "note": "voy al trabajo",
+      "requiredForProduction": true
     },
     {
       "id": "A1-03:lexicon:3",
@@ -175,7 +183,8 @@
       "wordIndex": 88,
       "es": "ir",
       "ru": "идти/ехать",
-      "note": "voy / vamos"
+      "note": "voy / vamos",
+      "requiredForProduction": true
     },
     {
       "id": "A1-03:lexicon:4",
@@ -201,7 +210,8 @@
       "wordIndex": 85,
       "es": "tener",
       "ru": "иметь",
-      "note": "tengo tiempo / tengo hambre"
+      "note": "tengo tiempo / tengo hambre",
+      "requiredForProduction": true
     },
     {
       "id": "A1-03:lexicon:5",
@@ -227,7 +237,8 @@
       "wordIndex": 372,
       "es": "comer",
       "ru": "есть",
-      "note": "como / comemos"
+      "note": "como / comemos",
+      "requiredForProduction": true
     },
     {
       "id": "A1-03:lexicon:6",
@@ -253,7 +264,8 @@
       "wordIndex": 71,
       "es": "hablar",
       "ru": "говорить",
-      "note": "hablo / hablamos"
+      "note": "hablo / hablamos",
+      "requiredForProduction": false
     },
     {
       "id": "A1-03:lexicon:7",
@@ -279,7 +291,8 @@
       "wordIndex": 432,
       "es": "estudiar",
       "ru": "учиться",
-      "note": "estudio español"
+      "note": "estudio español",
+      "requiredForProduction": true
     },
     {
       "id": "A1-03:lexicon:8",
@@ -305,7 +318,8 @@
       "wordIndex": 51,
       "es": "siempre",
       "ru": "всегда",
-      "note": "наречие"
+      "note": "наречие",
+      "requiredForProduction": false
     },
     {
       "id": "A1-03:lexicon:9",
@@ -331,7 +345,8 @@
       "wordIndex": 53,
       "es": "a veces",
       "ru": "иногда",
-      "note": "выражение частоты"
+      "note": "выражение частоты",
+      "requiredForProduction": false
     },
     {
       "id": "A1-03:lexicon:10",
@@ -357,7 +372,8 @@
       "wordIndex": 457,
       "es": "temprano",
       "ru": "рано",
-      "note": "me levanto temprano"
+      "note": "me levanto temprano",
+      "requiredForProduction": false
     }
   ],
   "dialogue": {
@@ -774,7 +790,10 @@
         "Ana levantarse a las siete."
       ],
       "activityKind": "choice",
-      "contentId": "A1-03:task:04"
+      "contentId": "A1-03:task:04",
+      "explanationRefs": [
+        "A1-03:explanation:3"
+      ]
     },
     {
       "id": "A1-03:task:05",
@@ -805,7 +824,10 @@
       "explanation": "Nosotros: hablar → hablamos.",
       "options": [],
       "activityKind": "input",
-      "contentId": "A1-03:task:05"
+      "contentId": "A1-03:task:05",
+      "explanationRefs": [
+        "A1-03:explanation:3"
+      ]
     },
     {
       "id": "A1-03:task:06",
@@ -836,7 +858,10 @@
       "explanation": "Me levanto → Ana se levanta.",
       "options": [],
       "activityKind": "input",
-      "contentId": "A1-03:task:06"
+      "contentId": "A1-03:task:06",
+      "explanationRefs": [
+        "A1-03:explanation:3"
+      ]
     },
     {
       "id": "A1-03:task:07",
@@ -873,7 +898,10 @@
       "text": "Los días de trabajo me levanto a las siete. Primero desayuno y después voy al trabajo. Trabajo en una oficina y hablo con muchos clientes. Como a las dos y vuelvo a casa a las seis. Por la tarde estudio español durante media hora. Mi hermano se levanta más tarde porque trabaja por la noche. Los domingos no trabajo y a veces paseo con mi familia.",
       "activityKind": "reading",
       "meaning": "Он работает ночью",
-      "contentId": "A1-03:task:07"
+      "contentId": "A1-03:task:07",
+      "explanationRefs": [
+        "A1-03:reading:1"
+      ]
     },
     {
       "id": "A1-03:task:08",
@@ -910,7 +938,10 @@
       "text": "Los días de trabajo me levanto a las siete. Primero desayuno y después voy al trabajo. Trabajo en una oficina y hablo con muchos clientes. Como a las dos y vuelvo a casa a las seis. Por la tarde estudio español durante media hora. Mi hermano se levanta más tarde porque trabaja por la noche. Los domingos no trabajo y a veces paseo con mi familia.",
       "activityKind": "reading",
       "meaning": "Полчаса",
-      "contentId": "A1-03:task:08"
+      "contentId": "A1-03:task:08",
+      "explanationRefs": [
+        "A1-03:reading:1"
+      ]
     },
     {
       "id": "A1-03:task:09",
@@ -947,7 +978,10 @@
       "text": "Soy Julia. Normalmente me levanto a las ocho y estudio en casa por la mañana. A las doce voy a la biblioteca. Como con mi hermana a las dos. Por la tarde trabajo en una tienda. Los sábados no trabajo: tengo tiempo para nadar y ver a mis amigos.",
       "activityKind": "listening",
       "meaning": "В библиотеку",
-      "contentId": "A1-03:task:09"
+      "contentId": "A1-03:task:09",
+      "explanationRefs": [
+        "A1-03:listening:1"
+      ]
     },
     {
       "id": "A1-03:task:10",
@@ -984,7 +1018,10 @@
       "text": "Soy Julia. Normalmente me levanto a las ocho y estudio en casa por la mañana. A las doce voy a la biblioteca. Como con mi hermana a las dos. Por la tarde trabajo en una tienda. Los sábados no trabajo: tengo tiempo para nadar y ver a mis amigos.",
       "activityKind": "listening",
       "meaning": "По субботам",
-      "contentId": "A1-03:task:10"
+      "contentId": "A1-03:task:10",
+      "explanationRefs": [
+        "A1-03:listening:1"
+      ]
     },
     {
       "id": "A1-03:task:11",
@@ -1016,7 +1053,10 @@
       "options": [],
       "activityKind": "input",
       "transfer": true,
-      "contentId": "A1-03:task:11"
+      "contentId": "A1-03:task:11",
+      "explanationRefs": [
+        "A1-03:explanation:2"
+      ]
     },
     {
       "id": "A1-03:task:12",
@@ -1115,7 +1155,10 @@
       "options": [],
       "control": true,
       "activityKind": "input",
-      "contentId": "A1-03:task:14"
+      "contentId": "A1-03:task:14",
+      "explanationRefs": [
+        "A1-03:explanation:3"
+      ]
     },
     {
       "id": "A1-03:task:15",
@@ -1151,7 +1194,10 @@
       ],
       "control": true,
       "activityKind": "choice",
-      "contentId": "A1-03:task:15"
+      "contentId": "A1-03:task:15",
+      "explanationRefs": [
+        "A1-03:explanation:3"
+      ]
     },
     {
       "id": "A1-03:task:16",
@@ -1183,7 +1229,166 @@
       "options": [],
       "control": true,
       "activityKind": "input",
-      "contentId": "A1-03:task:16"
+      "contentId": "A1-03:task:16",
+      "explanationRefs": [
+        "A1-03:explanation:3"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Мой день",
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "id": "A1-03:task:17",
+      "contentId": "A1-03:task:17",
+      "type": "input",
+      "activityKind": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: спросите собеседника, во сколько он встаёт. Используйте только A qué hora / te / levantarse (tú), со знаками вопроса.",
+      "expected": "¿A qué hora te levantas?",
+      "alternatives": [],
+      "options": [],
+      "explanation": "Te levantas соответствует tú. Нужна тильда в qué.",
+      "control": true,
+      "addedInReview": true,
+      "strictPunctuation": true,
+      "explanationRefs": [
+        "A1-03:explanation:3"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Мой день",
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "id": "A1-03:task:18",
+      "contentId": "A1-03:task:18",
+      "type": "input",
+      "activityKind": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: замените me на лицо Ana и начните с Ana: Me levanto a las siete.",
+      "expected": "Ana se levanta a las siete.",
+      "alternatives": [],
+      "options": [],
+      "explanation": "Me levanto → Ana se levanta.",
+      "control": true,
+      "addedInReview": true,
+      "explanationRefs": [
+        "A1-03:explanation:3"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Мой день",
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "id": "A1-03:task:19",
+      "contentId": "A1-03:task:19",
+      "type": "input",
+      "activityKind": "choice",
+      "skill": "grammar",
+      "prompt": "Контроль: выберите связный распорядок с правильными формами yo.",
+      "expected": "Me levanto, desayuno y voy al trabajo.",
+      "alternatives": [],
+      "options": [
+        "Me levanto, desayuno y voy al trabajo.",
+        "Se levanto, desayuna y vamos al trabajo.",
+        "Me levantar, desayuno y va al trabajo."
+      ],
+      "explanation": "Все три формы соответствуют yo.",
+      "control": true,
+      "addedInReview": true,
+      "explanationRefs": [
+        "A1-03:explanation:3"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Мой день",
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "id": "A1-03:task:20",
+      "contentId": "A1-03:task:20",
+      "type": "listening",
+      "activityKind": "listening",
+      "skill": "listening",
+      "prompt": "Контроль без текста: во сколько рассказчица встаёт?",
+      "expected": "a las seis",
+      "alternatives": [],
+      "options": [
+        "a las seis",
+        "a las siete",
+        "a las ocho"
+      ],
+      "explanation": "В записи: me levanto a las seis.",
+      "control": true,
+      "addedInReview": true,
+      "text": "Hola, soy Julia. Los lunes me levanto a las seis. Desayuno en casa y después voy al trabajo. Mi hermana se levanta a las ocho.",
+      "meaning": "a las seis",
+      "sourceItem": "A1-03:listening:final",
+      "explanationRefs": [
+        "A1-03:listening:final"
+      ]
     }
   ],
   "repetitionDays": [
@@ -1196,6 +1401,121 @@
   "alphabet": null,
   "durationRangeMinutes": [
     35,
-    50
-  ]
+    60
+  ],
+  "assessmentVersion": 2,
+  "loadGuidance": {
+    "coreGrammarTargets": [
+      "Presente: привычка и настоящее",
+      "TENER и IR в повседневной речи",
+      "Возвратная форма и свой распорядок"
+    ],
+    "coreLexiconIds": [
+      "A1-03:lexicon:1",
+      "A1-03:lexicon:2",
+      "A1-03:lexicon:3",
+      "A1-03:lexicon:4",
+      "A1-03:lexicon:5",
+      "A1-03:lexicon:7"
+    ],
+    "referencePolicy": "Полные парадигмы и исключения — по желанию; они не обязательны для основного результата.",
+    "suggestedPause": "После переноса можно вернуться к плану и продолжить письмо, речь и контроль позже.",
+    "status": "EDITORIAL_LOAD_HEURISTIC_NOT_VALIDATED_ELE_THRESHOLD"
+  },
+  "scaffolding": [
+    {
+      "level": "A1",
+      "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-08",
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-01",
+        "NOTES-03"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Мой день",
+      "cefr": [
+        "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+      ],
+      "id": "A1-03:support:01",
+      "title": "Опоры для диалога, чтения и аудирования",
+      "entries": [
+        [
+          "¿A qué hora…? / a las siete / de nueve a dos",
+          "во сколько? / в семь / с девяти до двух"
+        ],
+        [
+          "desayuno / como / estudio / trabajo",
+          "завтракаю / ем / учусь / работаю"
+        ],
+        [
+          "primero / después / luego",
+          "сначала / потом / затем"
+        ],
+        [
+          "por la mañana / por la tarde / por la noche",
+          "утром / после обеда или вечером / ночью"
+        ],
+        [
+          "normalmente / siempre / a veces / los domingos",
+          "обычно / всегда / иногда / по воскресеньям"
+        ],
+        [
+          "vuelvo a casa / veo a mis amigos",
+          "возвращаюсь домой / вижусь с друзьями; готовые сочетания"
+        ],
+        [
+          "una oficina / una tienda / una compañera / clientes",
+          "офис / магазин / коллега / клиенты"
+        ],
+        [
+          "mi hermano / más tarde / porque",
+          "мой брат / позже / потому что"
+        ],
+        [
+          "media hora / durante / tengo tiempo",
+          "полчаса / в течение / у меня есть время"
+        ],
+        [
+          "¿Tienes tiempo? / de acuerdo / nos vemos allí",
+          "у тебя есть время? / договорились / увидимся там"
+        ],
+        [
+          "para nadar / el sábado / el lunes",
+          "чтобы плавать / суббота / понедельник"
+        ]
+      ],
+      "note": "Узнавайте эти сочетания по смыслу; все их формы не требуется воспроизводить наизусть."
+    }
+  ],
+  "finalListening": {
+    "level": "A1",
+    "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-08",
+      "GRAMMAR-09",
+      "GRAMMAR-11",
+      "NOTES-01",
+      "NOTES-03"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "topic": "Мой день",
+    "cefr": [
+      "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+    ],
+    "id": "A1-03:listening:final",
+    "text": "Hola, soy Julia. Los lunes me levanto a las seis. Desayuno en casa y después voy al trabajo. Mi hermana se levanta a las ocho.",
+    "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+  }
 }

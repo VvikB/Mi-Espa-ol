@@ -19,7 +19,7 @@
   ],
   "tableRefs": [],
   "nextLesson": "A1-03",
-  "estimatedMinutes": 40,
+  "estimatedMinutes": 45,
   "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
   "languageReview": "ASSISTANT_EDITED",
   "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
@@ -45,7 +45,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "SER и ESTAR: выбор по смыслу",
-      "text": "Ser связывает человека с именем, происхождением или профессией: Soy Ana. Soy de Rusia. Soy profesora. Estar показывает местонахождение и состояние: Estoy en el aula. Hoy estoy cansada. Правило «постоянное/временное» ненадёжно: Madrid está en España, хотя город никуда не переехал. На этом уроке тренируем именно идентификацию, профессию, состояние и место. Место проведения события обычно выражают с ser: La clase es en el aula dos; это отдельный случай, а не повод менять estar у человека."
+      "text": "Профессия и происхождение: Soy estudiante. Soy de Rusia. Место и состояние: Estoy en casa. Hoy estoy cansada. Для другого человека: Ana es estudiante; Ana está en casa. Не заменяйте это правилом «постоянное/временное»: Madrid está en España. Особый случай места события оставлен в справке; фразу La clase es aquí в диалоге пока используйте как готовую.",
+      "referenceText": "Ser связывает человека с именем, происхождением или профессией: Soy Ana. Soy de Rusia. Soy profesora. Estar показывает местонахождение и состояние: Estoy en el aula. Hoy estoy cansada. Правило «постоянное/временное» ненадёжно: Madrid está en España, хотя город никуда не переехал. На этом уроке тренируем именно идентификацию, профессию, состояние и место. Место проведения события обычно выражают с ser: La clase es en el aula dos; это отдельный случай, а не повод менять estar у человека.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     },
     {
       "id": "A1-02:explanation:2",
@@ -68,7 +70,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "Лицо и согласование",
-      "text": "Ser: soy, eres, es, somos, sois, son. Estar: estoy, estás, está, estamos, estáis, están. Usted грамматически требует третьего лица: Usted es profesor. Ustedes — третьего лица множественного. Yo/tú часто опускаются, потому что форма уже показывает лицо: Soy estudiante. Женщина говорит Estoy cansada, мужчина — Estoy cansado; род не меняет форму estoy. В множественном числе: Estamos cansados/cansadas. Не называйте это объективной оценкой личности: состояние сегодня — не постоянная характеристика."
+      "text": "Обязательные формы: yo soy / estoy, tú eres / estás, él/ella es / está; для совместной ситуации — nosotros somos / estamos. Yo и nosotros можно опустить: Soy estudiante, Estamos en casa. Женщина говорит cansada, мужчина cansado. Полные парадигмы, vosotros/ustedes и дополнительные случаи — справочный материал, не отдельная задача этого урока.",
+      "referenceText": "Ser: soy, eres, es, somos, sois, son. Estar: estoy, estás, está, estamos, estáis, están. Usted грамматически требует третьего лица: Usted es profesor. Ustedes — третьего лица множественного. Yo/tú часто опускаются, потому что форма уже показывает лицо: Soy estudiante. Женщина говорит Estoy cansada, мужчина — Estoy cansado; род не меняет форму estoy. В множественном числе: Estamos cansados/cansadas. Не называйте это объективной оценкой личности: состояние сегодня — не постоянная характеристика.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     },
     {
       "id": "A1-02:explanation:3",
@@ -91,7 +95,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "Артикль, род и число",
-      "text": "El libro / la casa, los libros / las casas; un libro / una casa, unos libros / unas casas. Не угадывайте род только по последней букве: учите слово вместе с артиклем. El agua — существительное женского рода: el agua fría, las aguas frías. После ser профессию в нейтральной конструкции обычно называют без артикля: Soy profesora, не Soy una profesora как обязательную форму. При дополнительной характеристике una возможен: Es una profesora excelente. Для неизвестной книги: un libro; для уже названной: el libro. Прилагательное согласуется с существительным, а не с артиклем el в исключении agua."
+      "text": "Учите существительное с артиклем: el libro / la casa; множественное число los libros / las casas. Неизвестный предмет: un libro / una casa. Профессия после ser в нейтральной фразе обычно без артикля: Soy profesora. Обычное согласование: la casa blanca, los libros nuevos. Исключение el agua fría остаётся доступным, но вынесено за обязательный контроль этого урока.",
+      "referenceText": "El libro / la casa, los libros / las casas; un libro / una casa, unos libros / unas casas. Не угадывайте род только по последней букве: учите слово вместе с артиклем. El agua — существительное женского рода: el agua fría, las aguas frías. После ser профессию в нейтральной конструкции обычно называют без артикля: Soy profesora, не Soy una profesora как обязательную форму. При дополнительной характеристике una возможен: Es una profesora excelente. Для неизвестной книги: un libro; для уже названной: el libro. Прилагательное согласуется с существительным, а не с артиклем el в исключении agua.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     }
   ],
   "lexicon": [
@@ -118,7 +124,8 @@
       "wordIndex": 0,
       "es": "hola",
       "ru": "привет",
-      "note": "приветствие"
+      "note": "приветствие",
+      "requiredForProduction": false
     },
     {
       "id": "A1-02:lexicon:2",
@@ -143,7 +150,8 @@
       "wordIndex": 35,
       "es": "la casa",
       "ru": "дом",
-      "note": "Estoy en casa"
+      "note": "Estoy en casa",
+      "requiredForProduction": true
     },
     {
       "id": "A1-02:lexicon:3",
@@ -168,7 +176,8 @@
       "wordIndex": 18,
       "es": "la ciudad",
       "ru": "город",
-      "note": "la ciudad / las ciudades"
+      "note": "la ciudad / las ciudades",
+      "requiredForProduction": false
     },
     {
       "id": "A1-02:lexicon:4",
@@ -193,7 +202,8 @@
       "wordIndex": 264,
       "es": "el profesor",
       "ru": "преподаватель",
-      "note": "la profesora — преподавательница"
+      "note": "la profesora — преподавательница",
+      "requiredForProduction": true
     },
     {
       "id": "A1-02:lexicon:5",
@@ -218,7 +228,8 @@
       "wordIndex": 255,
       "es": "el libro",
       "ru": "книга",
-      "note": "el libro / los libros"
+      "note": "el libro / los libros",
+      "requiredForProduction": true
     },
     {
       "id": "A1-02:lexicon:6",
@@ -243,7 +254,8 @@
       "wordIndex": 86,
       "es": "estar",
       "ru": "быть, находиться",
-      "note": "Estoy en el aula"
+      "note": "Estoy en el aula",
+      "requiredForProduction": true
     },
     {
       "id": "A1-02:lexicon:7",
@@ -268,7 +280,8 @@
       "wordIndex": 87,
       "es": "ser",
       "ru": "быть: идентификация",
-      "note": "Soy estudiante"
+      "note": "Soy estudiante",
+      "requiredForProduction": true
     },
     {
       "id": "A1-02:lexicon:8",
@@ -293,7 +306,8 @@
       "wordIndex": 36,
       "es": "la familia",
       "ru": "семья",
-      "note": "Mi familia es grande"
+      "note": "Mi familia es grande",
+      "requiredForProduction": false
     },
     {
       "id": "A1-02:lexicon:9",
@@ -318,7 +332,8 @@
       "wordIndex": 61,
       "es": "importante",
       "ru": "важный",
-      "note": "Одна форма для обоих родов"
+      "note": "Одна форма для обоих родов",
+      "requiredForProduction": false
     },
     {
       "id": "A1-02:lexicon:10",
@@ -343,7 +358,8 @@
       "wordIndex": 482,
       "es": "joven",
       "ru": "молодой/молодая",
-      "note": "множественное jóvenes"
+      "note": "множественное jóvenes",
+      "requiredForProduction": false
     }
   ],
   "dialogue": {
@@ -745,7 +761,10 @@
         "Soy en profesora."
       ],
       "activityKind": "choice",
-      "contentId": "A1-02:task:04"
+      "contentId": "A1-02:task:04",
+      "explanationRefs": [
+        "A1-02:explanation:1"
+      ]
     },
     {
       "id": "A1-02:task:05",
@@ -775,7 +794,10 @@
       "explanation": "Luis — третье лицо; местонахождение: está, с тильдой.",
       "options": [],
       "activityKind": "input",
-      "contentId": "A1-02:task:05"
+      "contentId": "A1-02:task:05",
+      "explanationRefs": [
+        "A1-02:explanation:1"
+      ]
     },
     {
       "id": "A1-02:task:06",
@@ -805,7 +827,10 @@
       "explanation": "El → los, libro → libros.",
       "options": [],
       "activityKind": "input",
-      "contentId": "A1-02:task:06"
+      "contentId": "A1-02:task:06",
+      "explanationRefs": [
+        "A1-02:explanation:3"
+      ]
     },
     {
       "id": "A1-02:task:07",
@@ -841,7 +866,10 @@
       "text": "Soy Diego y soy de México. Ahora estoy en Valencia. Soy estudiante y mi hermana es médica. Hoy estamos en una biblioteca. Ella está tranquila y yo estoy un poco nervioso. En la mesa hay un libro y dos documentos. El libro es para mi hermana. La reunión es en una sala pequeña. Nuestro profesor es joven y muy amable. Estamos listos para empezar.",
       "activityKind": "reading",
       "meaning": "Сестра Диего",
-      "contentId": "A1-02:task:07"
+      "contentId": "A1-02:task:07",
+      "explanationRefs": [
+        "A1-02:reading:1"
+      ]
     },
     {
       "id": "A1-02:task:08",
@@ -877,7 +905,10 @@
       "text": "Soy Diego y soy de México. Ahora estoy en Valencia. Soy estudiante y mi hermana es médica. Hoy estamos en una biblioteca. Ella está tranquila y yo estoy un poco nervioso. En la mesa hay un libro y dos documentos. El libro es para mi hermana. La reunión es en una sala pequeña. Nuestro profesor es joven y muy amable. Estamos listos para empezar.",
       "activityKind": "reading",
       "meaning": "Сестре Диего",
-      "contentId": "A1-02:task:08"
+      "contentId": "A1-02:task:08",
+      "explanationRefs": [
+        "A1-02:reading:1"
+      ]
     },
     {
       "id": "A1-02:task:09",
@@ -913,7 +944,10 @@
       "text": "Hola, soy Clara. Soy de Chile y soy profesora. Hoy estoy en Madrid, en casa de una amiga. Mi amiga se llama Laura y es médica. Ahora está en el trabajo. Yo estoy en casa y estoy contenta porque mañana empieza mi curso de español.",
       "activityKind": "listening",
       "meaning": "В Мадриде, дома у подруги",
-      "contentId": "A1-02:task:09"
+      "contentId": "A1-02:task:09",
+      "explanationRefs": [
+        "A1-02:listening:1"
+      ]
     },
     {
       "id": "A1-02:task:10",
@@ -949,7 +983,10 @@
       "text": "Hola, soy Clara. Soy de Chile y soy profesora. Hoy estoy en Madrid, en casa de una amiga. Mi amiga se llama Laura y es médica. Ahora está en el trabajo. Yo estoy en casa y estoy contenta porque mañana empieza mi curso de español.",
       "activityKind": "listening",
       "meaning": "médica",
-      "contentId": "A1-02:task:10"
+      "contentId": "A1-02:task:10",
+      "explanationRefs": [
+        "A1-02:listening:1"
+      ]
     },
     {
       "id": "A1-02:task:11",
@@ -976,13 +1013,17 @@
       "prompt": "Новая ситуация: женщина рассказывает, что сегодня устала. Составьте фразу из Hoy / estar (yo) / cansada.",
       "expected": "Hoy estoy cansada.",
       "alternatives": [
-        "Estoy cansada hoy."
+        "Estoy cansada hoy.",
+        "Estoy hoy cansada."
       ],
       "explanation": "Состояние: estoy; cansada согласуется с говорящей женщиной.",
       "options": [],
       "activityKind": "input",
       "transfer": true,
-      "contentId": "A1-02:task:11"
+      "contentId": "A1-02:task:11",
+      "explanationRefs": [
+        "A1-02:explanation:1"
+      ]
     },
     {
       "id": "A1-02:task:12",
@@ -1078,7 +1119,10 @@
       "options": [],
       "control": true,
       "activityKind": "input",
-      "contentId": "A1-02:task:14"
+      "contentId": "A1-02:task:14",
+      "explanationRefs": [
+        "A1-02:explanation:1"
+      ]
     },
     {
       "id": "A1-02:task:15",
@@ -1111,9 +1155,13 @@
         "el agua frío",
         "la agua frío"
       ],
-      "control": true,
+      "control": false,
       "activityKind": "choice",
-      "contentId": "A1-02:task:15"
+      "contentId": "A1-02:task:15",
+      "extension": true,
+      "explanationRefs": [
+        "A1-02:explanation:3"
+      ]
     },
     {
       "id": "A1-02:task:16",
@@ -1144,7 +1192,162 @@
       "options": [],
       "control": true,
       "activityKind": "input",
-      "contentId": "A1-02:task:16"
+      "contentId": "A1-02:task:16",
+      "explanationRefs": [
+        "A1-02:explanation:2"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Кто я и где я",
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "id": "A1-02:task:17",
+      "contentId": "A1-02:task:17",
+      "type": "input",
+      "activityKind": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: из Soy / de / Rusia составьте сообщение о происхождении.",
+      "expected": "Soy de Rusia.",
+      "alternatives": [],
+      "options": [],
+      "explanation": "Для происхождения: ser de + страна.",
+      "control": true,
+      "addedInReview": true,
+      "explanationRefs": [
+        "A1-02:explanation:1"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Кто я и где я",
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "id": "A1-02:task:18",
+      "contentId": "A1-02:task:18",
+      "type": "input",
+      "activityKind": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: спросите, где Ана. Используйте только dónde + estar + Ana и знаки вопроса.",
+      "expected": "¿Dónde está Ana?",
+      "alternatives": [],
+      "options": [],
+      "explanation": "Где человек находится: dónde está; тильды и ¿? обязательны.",
+      "control": true,
+      "addedInReview": true,
+      "strictPunctuation": true,
+      "explanationRefs": [
+        "A1-02:explanation:1"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Кто я и где я",
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "id": "A1-02:task:19",
+      "contentId": "A1-02:task:19",
+      "type": "input",
+      "activityKind": "choice",
+      "skill": "grammar",
+      "prompt": "Контроль: какая пара верно сообщает профессию Марии и её место сегодня?",
+      "expected": "María es estudiante. Hoy está en casa.",
+      "alternatives": [],
+      "options": [
+        "María es estudiante. Hoy está en casa.",
+        "María está estudiante. Hoy es en casa.",
+        "María es estudiante. Hoy son en casa."
+      ],
+      "explanation": "Профессия es, местонахождение está.",
+      "control": true,
+      "addedInReview": true,
+      "explanationRefs": [
+        "A1-02:explanation:1"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Кто я и где я",
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "id": "A1-02:task:20",
+      "contentId": "A1-02:task:20",
+      "type": "listening",
+      "activityKind": "listening",
+      "skill": "listening",
+      "prompt": "Контроль без текста: где Луис сейчас?",
+      "expected": "В библиотеке",
+      "alternatives": [],
+      "options": [
+        "В библиотеке",
+        "Дома",
+        "В кафе"
+      ],
+      "explanation": "В записи: estoy en la biblioteca.",
+      "control": true,
+      "addedInReview": true,
+      "text": "Hola, soy Luis. Soy profesor y soy de España. Hoy estoy en la biblioteca. Mi hermana está en casa. Nos vemos luego.",
+      "meaning": "В библиотеке",
+      "sourceItem": "A1-02:listening:final",
+      "explanationRefs": [
+        "A1-02:listening:final"
+      ]
     }
   ],
   "repetitionDays": [
@@ -1157,6 +1360,122 @@
   "alphabet": null,
   "durationRangeMinutes": [
     35,
-    50
-  ]
+    60
+  ],
+  "assessmentVersion": 2,
+  "loadGuidance": {
+    "coreGrammarTargets": [
+      "SER и ESTAR: выбор по смыслу",
+      "Лицо и согласование",
+      "Артикль, род и число"
+    ],
+    "coreLexiconIds": [
+      "A1-02:lexicon:2",
+      "A1-02:lexicon:4",
+      "A1-02:lexicon:5",
+      "A1-02:lexicon:6",
+      "A1-02:lexicon:7"
+    ],
+    "referencePolicy": "Полные парадигмы и исключения — по желанию; они не обязательны для основного результата.",
+    "suggestedPause": "После переноса можно вернуться к плану и продолжить письмо, речь и контроль позже.",
+    "status": "EDITORIAL_LOAD_HEURISTIC_NOT_VALIDATED_ELE_THRESHOLD"
+  },
+  "scaffolding": [
+    {
+      "level": "A1",
+      "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-05",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Кто я и где я",
+      "cefr": [
+        "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+      ],
+      "id": "A1-02:support:01",
+      "title": "Опоры для диалога, чтения и аудирования",
+      "entries": [
+        [
+          "me llamo / se llama",
+          "меня зовут / его или её зовут"
+        ],
+        [
+          "el aula dos / la clase es aquí",
+          "аудитория два / занятие здесь; классный кабинет и само занятие — разные вещи"
+        ],
+        [
+          "este libro / estos son los libros",
+          "эта книга / это книги; готовые указательные формулы"
+        ],
+        [
+          "para mí / para mi hermana",
+          "для меня / для моей сестры"
+        ],
+        [
+          "mi / su / nuestro",
+          "мой / его, её или ваш / наш; смысл уточняется владельцем"
+        ],
+        [
+          "una biblioteca / una sala pequeña",
+          "библиотека / небольшая комната"
+        ],
+        [
+          "tranquilo, tranquila / nervioso, nerviosa / contento, contenta",
+          "спокойный / нервничающий / довольный; выбираем род"
+        ],
+        [
+          "un poco / muy / todos / estamos listos",
+          "немного / очень / все / мы готовы"
+        ],
+        [
+          "hay un libro / porque / mañana empieza mi curso",
+          "есть книга / потому что / завтра начинается мой курс; готовые опоры чтения/аудио"
+        ],
+        [
+          "encantado, encantada / amable / joven",
+          "очень приятно / любезный / молодой; joven одинаково для обоих родов"
+        ],
+        [
+          "médico / médica / estudiante",
+          "врач (мужчина/женщина) / студент или студентка"
+        ],
+        [
+          "en casa de una amiga / en el trabajo",
+          "дома у подруги / на работе"
+        ]
+      ],
+      "note": "Узнавайте эти сочетания по смыслу; все их формы не требуется воспроизводить наизусть."
+    }
+  ],
+  "finalListening": {
+    "level": "A1",
+    "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-02",
+      "GRAMMAR-05",
+      "NOTES-05",
+      "NOTES-06"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "topic": "Кто я и где я",
+    "cefr": [
+      "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+    ],
+    "id": "A1-02:listening:final",
+    "text": "Hola, soy Luis. Soy profesor y soy de España. Hoy estoy en la biblioteca. Mi hermana está en casa. Nos vemos luego.",
+    "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+  }
 }

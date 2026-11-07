@@ -16,7 +16,7 @@
   ],
   "tableRefs": [],
   "nextLesson": "A1-02",
-  "estimatedMinutes": 40,
+  "estimatedMinutes": 45,
   "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
   "languageReview": "ASSISTANT_EDITED",
   "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
@@ -39,7 +39,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "Алфавит и опора на звук",
-      "text": "В современном испанском алфавите 27 букв, включая ñ. Ch и ll — сочетания букв, а не отдельные буквы алфавита. Название буквы помогает продиктовать имя, но не заменяет её звук в слове. Сначала прослушайте слово целиком, затем повторите. Гласные a, e, i, o, u обычно произносятся ясно; не превращайте безударное o в русское «а». Hola начинается с немой h. В año буква ñ обозначает один мягкий носовой звук, а не обычное n: замена меняет слово."
+      "text": "В алфавите 27 букв, включая ñ. Сейчас не нужно заучивать все названия: таблица ниже служит справочником для имени по буквам. Обязательные опоры: hola — h не звучит; año — ñ не равно n; queso — qu перед e/i звучит [k]. Гласные a, e, i, o, u произносите ясно. Сначала слушайте целое слово, затем повторите.",
+      "referenceText": "В современном испанском алфавите 27 букв, включая ñ. Ch и ll — сочетания букв, а не отдельные буквы алфавита. Название буквы помогает продиктовать имя, но не заменяет её звук в слове. Сначала прослушайте слово целиком, затем повторите. Гласные a, e, i, o, u обычно произносятся ясно; не превращайте безударное o в русское «а». Hola начинается с немой h. В año буква ñ обозначает один мягкий носовой звук, а не обычное n: замена меняет слово.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     },
     {
       "id": "A1-01:explanation:2",
@@ -59,7 +61,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "Сочетания и региональные варианты",
-      "text": "Qu перед e/i передаёт [k], а u не произносится: queso, quince. В gue/gui буква u обычно не звучит; в güe/güi знак ¨ показывает, что u нужно произнести: pingüino. Ch близко к русскому «ч». J обычно передаёт звук, близкий к «х», с региональными вариантами. Между гласными r и rr различают слова: pero — «но», perro — «собака»; короткое r не равно русскому многократному «р». В Испании c перед e/i и z могут звучать иначе, чем s; в большинстве Латинской Америки и части Испании они совпадают с s. Это варианты нормы, а не ошибка. Ll и y также имеют региональные варианты."
+      "text": "Для этого урока достаточно qu в queso и различия n/ñ. Ch близко к русскому «ч». Остальные сочетания и региональные варианты оставлены в справке: их не нужно воспроизводить в итоговом контроле. Если звук пока не получается, используйте просьбу повторить; автоматической оценки произношения нет.",
+      "referenceText": "Qu перед e/i передаёт [k], а u не произносится: queso, quince. В gue/gui буква u обычно не звучит; в güe/güi знак ¨ показывает, что u нужно произнести: pingüino. Ch близко к русскому «ч». J обычно передаёт звук, близкий к «х», с региональными вариантами. Между гласными r и rr различают слова: pero — «но», perro — «собака»; короткое r не равно русскому многократному «р». В Испании c перед e/i и z могут звучать иначе, чем s; в большинстве Латинской Америки и части Испании они совпадают с s. Это варианты нормы, а не ошибка. Ll и y также имеют региональные варианты.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     },
     {
       "id": "A1-01:explanation:3",
@@ -79,7 +83,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "Ударение и смысл",
-      "text": "У слова, оканчивающегося на гласную, n или s, в базовых моделях ударение обычно на предпоследнем слоге: ca-sa, ha-blan. При другой согласной обычно на последнем: ciu-dad. Тильда указывает ударный слог вопреки этому правилу: ca-fé, lá-piz. Правило имеет уточнения для сочетаний гласных и некоторых окончаний: здесь тренируем только указанные модели. Вопросительные слова qué, cómo, dónde имеют тильду и в косвенных вопросах. Ñ — отдельная буква, её нельзя заменять n. Прописные буквы сохраняют нужные ударения: MÉXICO."
+      "text": "Тренируем три модели: CA-sa (гласная на конце — обычно предпоследний слог), ciu-DAD (другая согласная — обычно последний), ca-FÉ (тильда указывает ударение). Для этих слов правило достаточно; исключения и сочетания гласных сейчас не изучаем. Клавиши é и ñ есть под полем ответа. Прописные сохраняют нужные тильды.",
+      "referenceText": "У слова, оканчивающегося на гласную, n или s, в базовых моделях ударение обычно на предпоследнем слоге: ca-sa, ha-blan. При другой согласной обычно на последнем: ciu-dad. Тильда указывает ударный слог вопреки этому правилу: ca-fé, lá-piz. Правило имеет уточнения для сочетаний гласных и некоторых окончаний: здесь тренируем только указанные модели. Вопросительные слова qué, cómo, dónde имеют тильду и в косвенных вопросах. Ñ — отдельная буква, её нельзя заменять n. Прописные буквы сохраняют нужные ударения: MÉXICO.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     },
     {
       "id": "A1-01:explanation:4",
@@ -99,7 +105,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "Как переспросить и проверить интонацию",
-      "text": "¿Cómo te llamas? — «Как тебя зовут?»; ¿Puedes repetir? — «Можешь повторить?». Учите их пока как готовые речевые формулы. Вопрос пишется с ¿ и ?. В общем вопросе интонация часто повышается к концу, но у вопроса со специальным словом и в разных регионах контур может отличаться: одного универсального правила нет. В No entiendo отрицание no стоит перед глаголом; отдельной обязательной «отрицательной интонации» нет. Сравните утверждение Entiendo и No entiendo, затем произнесите просьбу переспросить спокойно и вежливо. TTS даёт образец, но приложение не оценивает ваше произношение."
+      "text": "¿Cómo te llamas? — «Как тебя зовут?»; Me llamo… — «Меня зовут…». ¿Puedes repetir más despacio? — «Можешь повторить помедленнее?». No entiendo — «Я не понимаю». Это готовые формулы: их полную грамматику пока разбирать не нужно. В вопросе ставят ¿ и ?; в специально помеченном письменном контроле нужны оба знака. Контур вопроса зависит от его типа и региона. У отрицания нет отдельной обязательной интонации; no ставится перед entiendo.",
+      "referenceText": "¿Cómo te llamas? — «Как тебя зовут?»; ¿Puedes repetir? — «Можешь повторить?». Учите их пока как готовые речевые формулы. Вопрос пишется с ¿ и ?. В общем вопросе интонация часто повышается к концу, но у вопроса со специальным словом и в разных регионах контур может отличаться: одного универсального правила нет. В No entiendo отрицание no стоит перед глаголом; отдельной обязательной «отрицательной интонации» нет. Сравните утверждение Entiendo и No entiendo, затем произнесите просьбу переспросить спокойно и вежливо. TTS даёт образец, но приложение не оценивает ваше произношение.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     }
   ],
   "lexicon": [
@@ -123,7 +131,8 @@
       "wordIndex": 0,
       "es": "hola",
       "ru": "привет",
-      "note": "h не произносится"
+      "note": "h не произносится",
+      "requiredForProduction": true
     },
     {
       "id": "A1-01:lexicon:2",
@@ -145,7 +154,8 @@
       "wordIndex": 8,
       "es": "¿Qué tal?",
       "ru": "Как дела?",
-      "note": "тильда в qué"
+      "note": "тильда в qué",
+      "requiredForProduction": false
     },
     {
       "id": "A1-01:lexicon:3",
@@ -167,7 +177,8 @@
       "wordIndex": 10,
       "es": "¿Puedes repetir?",
       "ru": "Можешь повторить?",
-      "note": "переспрос"
+      "note": "переспрос",
+      "requiredForProduction": true
     },
     {
       "id": "A1-01:lexicon:4",
@@ -189,7 +200,8 @@
       "wordIndex": 11,
       "es": "más despacio",
       "ru": "помедленнее",
-      "note": "тильда в más"
+      "note": "тильда в más",
+      "requiredForProduction": true
     },
     {
       "id": "A1-01:lexicon:5",
@@ -211,7 +223,8 @@
       "wordIndex": 9,
       "es": "No entiendo.",
       "ru": "Я не понимаю.",
-      "note": "no перед глаголом"
+      "note": "no перед глаголом",
+      "requiredForProduction": true
     },
     {
       "id": "A1-01:lexicon:6",
@@ -233,7 +246,8 @@
       "wordIndex": 17,
       "es": "la calle",
       "ru": "улица",
-      "note": "ll — сочетание букв"
+      "note": "ll — сочетание букв",
+      "requiredForProduction": false
     },
     {
       "id": "A1-01:lexicon:7",
@@ -255,7 +269,8 @@
       "wordIndex": 18,
       "es": "la ciudad",
       "ru": "город",
-      "note": "ударение ciu-DAD"
+      "note": "ударение ciu-DAD",
+      "requiredForProduction": false
     },
     {
       "id": "A1-01:lexicon:8",
@@ -277,7 +292,8 @@
       "wordIndex": 35,
       "es": "la casa",
       "ru": "дом",
-      "note": "ударение CA-sa"
+      "note": "ударение CA-sa",
+      "requiredForProduction": false
     },
     {
       "id": "A1-01:lexicon:9",
@@ -299,7 +315,8 @@
       "wordIndex": 41,
       "es": "el café",
       "ru": "кофе",
-      "note": "ударение ca-FÉ"
+      "note": "ударение ca-FÉ",
+      "requiredForProduction": true
     },
     {
       "id": "A1-01:lexicon:10",
@@ -321,7 +338,8 @@
       "wordIndex": 289,
       "es": "el queso",
       "ru": "сыр",
-      "note": "qu = [k]"
+      "note": "qu = [k]",
+      "requiredForProduction": true
     }
   ],
   "dialogue": {
@@ -636,7 +654,10 @@
         "o"
       ],
       "activityKind": "choice",
-      "contentId": "A1-01:task:04"
+      "contentId": "A1-01:task:04",
+      "explanationRefs": [
+        "A1-01:explanation:1"
+      ]
     },
     {
       "id": "A1-01:task:05",
@@ -664,7 +685,10 @@
       "options": [],
       "activityKind": "input",
       "contentId": "A1-01:task:05",
-      "wordIndex": 41
+      "wordIndex": 41,
+      "explanationRefs": [
+        "A1-01:explanation:3"
+      ]
     },
     {
       "id": "A1-01:task:06",
@@ -691,7 +715,10 @@
       "explanation": "Нужна отдельная буква ñ. Ano — другое слово.",
       "options": [],
       "activityKind": "input",
-      "contentId": "A1-01:task:06"
+      "contentId": "A1-01:task:06",
+      "explanationRefs": [
+        "A1-01:explanation:1"
+      ]
     },
     {
       "id": "A1-01:task:07",
@@ -724,7 +751,10 @@
       "text": "Hola. Me llamo Ana. Hoy voy a una reunión de español. En la puerta veo «Café Mayor». Un chico dice su nombre, pero no entiendo. Digo: «¿Puedes repetir más despacio?». Se llama Pablo. En mi cuaderno escribo su nombre y la dirección. La calle se llama Mayor y el número es quince. Ahora entiendo y digo «gracias».",
       "activityKind": "reading",
       "meaning": "Просьба повторить медленнее",
-      "contentId": "A1-01:task:07"
+      "contentId": "A1-01:task:07",
+      "explanationRefs": [
+        "A1-01:reading:1"
+      ]
     },
     {
       "id": "A1-01:task:08",
@@ -757,7 +787,10 @@
       "text": "Hola. Me llamo Ana. Hoy voy a una reunión de español. En la puerta veo «Café Mayor». Un chico dice su nombre, pero no entiendo. Digo: «¿Puedes repetir más despacio?». Se llama Pablo. En mi cuaderno escribo su nombre y la dirección. La calle se llama Mayor y el número es quince. Ahora entiendo y digo «gracias».",
       "activityKind": "reading",
       "meaning": "quince",
-      "contentId": "A1-01:task:08"
+      "contentId": "A1-01:task:08",
+      "explanationRefs": [
+        "A1-01:reading:1"
+      ]
     },
     {
       "id": "A1-01:task:09",
@@ -790,7 +823,10 @@
       "text": "Hola, me llamo Elena. La reunión es en el Café Luna, en la calle Sol, número doce. Si no entiendes mi nombre, puedo repetir: e, ele, e, ene, a. Nos vemos en la puerta. Gracias.",
       "activityKind": "listening",
       "meaning": "Café Luna",
-      "contentId": "A1-01:task:09"
+      "contentId": "A1-01:task:09",
+      "explanationRefs": [
+        "A1-01:listening:1"
+      ]
     },
     {
       "id": "A1-01:task:10",
@@ -823,7 +859,10 @@
       "text": "Hola, me llamo Elena. La reunión es en el Café Luna, en la calle Sol, número doce. Si no entiendes mi nombre, puedo repetir: e, ele, e, ene, a. Nos vemos en la puerta. Gracias.",
       "activityKind": "listening",
       "meaning": "doce",
-      "contentId": "A1-01:task:10"
+      "contentId": "A1-01:task:10",
+      "explanationRefs": [
+        "A1-01:listening:1"
+      ]
     },
     {
       "id": "A1-01:task:11",
@@ -851,7 +890,10 @@
       "options": [],
       "activityKind": "input",
       "transfer": true,
-      "contentId": "A1-01:task:11"
+      "contentId": "A1-01:task:11",
+      "explanationRefs": [
+        "A1-01:explanation:1"
+      ]
     },
     {
       "id": "A1-01:task:12",
@@ -939,7 +981,10 @@
       "control": true,
       "activityKind": "input",
       "contentId": "A1-01:task:14",
-      "wordIndex": 41
+      "wordIndex": 41,
+      "explanationRefs": [
+        "A1-01:explanation:3"
+      ]
     },
     {
       "id": "A1-01:task:15",
@@ -971,7 +1016,10 @@
       ],
       "control": true,
       "activityKind": "choice",
-      "contentId": "A1-01:task:15"
+      "contentId": "A1-01:task:15",
+      "explanationRefs": [
+        "A1-01:explanation:3"
+      ]
     },
     {
       "id": "A1-01:task:16",
@@ -995,11 +1043,154 @@
       "prompt": "Контроль: запишите ровно эти слова как вопрос: puedes repetir.",
       "expected": "¿Puedes repetir?",
       "alternatives": [],
-      "explanation": "Готовая формула переспроса. Знаки ¿? полезны в письме; при проверке они нормализуются.",
+      "explanation": "Это письменный контроль вопроса: нужны оба знака ¿ и ?. Регистр букв не влияет на результат.",
       "options": [],
       "control": true,
       "activityKind": "input",
-      "contentId": "A1-01:task:16"
+      "contentId": "A1-01:task:16",
+      "strictPunctuation": true,
+      "explanationRefs": [
+        "A1-01:explanation:4"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-01"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Звуки и чтение",
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "id": "A1-01:task:17",
+      "contentId": "A1-01:task:17",
+      "type": "input",
+      "activityKind": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: введите по-испански «сыр» одним словом.",
+      "expected": "queso",
+      "alternatives": [],
+      "options": [],
+      "explanation": "Qu перед e/i даёт [k], u не читается.",
+      "control": true,
+      "addedInReview": true,
+      "explanationRefs": [
+        "A1-01:explanation:1"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-01"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Звуки и чтение",
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "id": "A1-01:task:18",
+      "contentId": "A1-01:task:18",
+      "type": "input",
+      "activityKind": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: введите «год» одним словом, с отдельной буквой ñ.",
+      "expected": "año",
+      "alternatives": [],
+      "options": [],
+      "explanation": "Año с ñ; n — другая буква.",
+      "control": true,
+      "addedInReview": true,
+      "explanationRefs": [
+        "A1-01:explanation:1"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-01"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Звуки и чтение",
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "id": "A1-01:task:19",
+      "contentId": "A1-01:task:19",
+      "type": "input",
+      "activityKind": "choice",
+      "skill": "grammar",
+      "prompt": "Контроль: вы не разобрали имя. Выберите просьбу повторить медленнее.",
+      "expected": "¿Puedes repetir más despacio?",
+      "alternatives": [],
+      "options": [
+        "¿Puedes repetir más despacio?",
+        "¿Dónde está la casa?",
+        "¿Qué hora es?"
+      ],
+      "explanation": "Для переспроса подходит просьба повторить, а не вопрос о месте/времени.",
+      "control": true,
+      "addedInReview": true,
+      "explanationRefs": [
+        "A1-01:explanation:4"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-01"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Звуки и чтение",
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "id": "A1-01:task:20",
+      "contentId": "A1-01:task:20",
+      "type": "listening",
+      "activityKind": "listening",
+      "skill": "listening",
+      "prompt": "Контроль без текста: как называется кафе?",
+      "expected": "Café Sol",
+      "alternatives": [],
+      "options": [
+        "Café Sol",
+        "Café Luna",
+        "Café Mayor"
+      ],
+      "explanation": "В записи назван Café Sol.",
+      "control": true,
+      "addedInReview": true,
+      "text": "Hola, soy Rosa. La reunión es en el Café Sol, en la calle Luna, número tres. Nos vemos en la puerta. Hasta luego.",
+      "meaning": "Café Sol",
+      "sourceItem": "A1-01:listening:final",
+      "explanationRefs": [
+        "A1-01:listening:final"
+      ]
     }
   ],
   "repetitionDays": [
@@ -1121,6 +1312,113 @@
   ],
   "durationRangeMinutes": [
     35,
-    50
-  ]
+    60
+  ],
+  "assessmentVersion": 2,
+  "loadGuidance": {
+    "coreGrammarTargets": [
+      "Опорные h, ñ и qu",
+      "Ударение casa/café/ciudad",
+      "Готовая формула переспроса и оформление вопроса"
+    ],
+    "coreLexiconIds": [
+      "A1-01:lexicon:1",
+      "A1-01:lexicon:3",
+      "A1-01:lexicon:4",
+      "A1-01:lexicon:5",
+      "A1-01:lexicon:9",
+      "A1-01:lexicon:10"
+    ],
+    "referencePolicy": "Полные парадигмы и исключения — по желанию; они не обязательны для основного результата.",
+    "suggestedPause": "После переноса можно вернуться к плану и продолжить письмо, речь и контроль позже.",
+    "status": "EDITORIAL_LOAD_HEURISTIC_NOT_VALIDATED_ELE_THRESHOLD"
+  },
+  "scaffolding": [
+    {
+      "level": "A1",
+      "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-01"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Звуки и чтение",
+      "cefr": [
+        "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+      ],
+      "id": "A1-01:support:01",
+      "title": "Опоры для диалога, чтения и аудирования",
+      "entries": [
+        [
+          "soy Lucía / me llamo… / se llama…",
+          "я — Лусия / меня зовут… / его или её зовут…"
+        ],
+        [
+          "hoy / ahora / aquí / allí",
+          "сегодня / сейчас / здесь / там"
+        ],
+        [
+          "y / pero / en / de",
+          "и / но / в / из, о (по сочетанию)"
+        ],
+        [
+          "una reunión de español / la reunión es en…",
+          "встреча по испанскому / встреча проходит в…"
+        ],
+        [
+          "la puerta / un chico / mi amigo",
+          "вход / парень / мой друг"
+        ],
+        [
+          "su nombre / la dirección / la calle",
+          "его или её имя / адрес / улица"
+        ],
+        [
+          "veo / dice / digo / escribo",
+          "вижу / говорит / говорю / пишу; здесь узнаём по значению, не спрягаем"
+        ],
+        [
+          "¿Puedes repetir? / más despacio / no entiendo",
+          "можешь повторить? / помедленнее / не понимаю"
+        ],
+        [
+          "número doce / quince / tres",
+          "номер двенадцать / пятнадцать / три; пока узнаём как часть адреса"
+        ],
+        [
+          "sí / gracias / nos vemos",
+          "да / спасибо / увидимся"
+        ],
+        [
+          "si no entiendes mi nombre / puedo repetir",
+          "если ты не понимаешь моё имя / могу повторить; готовые опоры"
+        ]
+      ],
+      "note": "Узнавайте эти сочетания по смыслу; все их формы не требуется воспроизводить наизусть."
+    }
+  ],
+  "finalListening": {
+    "level": "A1",
+    "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-01"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "topic": "Звуки и чтение",
+    "cefr": [
+      "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+    ],
+    "id": "A1-01:listening:final",
+    "text": "Hola, soy Rosa. La reunión es en el Café Sol, en la calle Luna, número tres. Nos vemos en la puerta. Hasta luego.",
+    "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+  }
 }

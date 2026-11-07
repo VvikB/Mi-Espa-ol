@@ -19,7 +19,7 @@
   ],
   "tableRefs": [],
   "nextLesson": "A1-05",
-  "estimatedMinutes": 40,
+  "estimatedMinutes": 45,
   "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
   "languageReview": "ASSISTANT_EDITED",
   "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
@@ -45,7 +45,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "Числа и количество",
-      "text": "Для покупок нужны cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez; дальше once, doce, trece, catorce, quince, dieciséis, diecisiete, dieciocho, diecinueve, veinte. Десятки: treinta, cuarenta, cincuenta; treinta y dos — 32. Перед мужским существительным uno сокращается: un café, veintiún euros; перед женским: una mesa, veintiuna manzanas. Два кофе: dos cafés, с тильдой. Для базовой цены можно сказать dos euros или dos euros con cincuenta; способ озвучивания цифр голосом устройства может отличаться."
+      "text": "Для обязательной покупки используем 0–10: cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez. Un café — один кофе, dos cafés — два кофе. В простой цене: dos euros; un euro con cincuenta — 1,50 евро. Числа до 20, десятки и veintiún оставлены в справке; задание на dieciséis теперь дополнительное, а не условие успеха этого урока.",
+      "referenceText": "Для покупок нужны cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez; дальше once, doce, trece, catorce, quince, dieciséis, diecisiete, dieciocho, diecinueve, veinte. Десятки: treinta, cuarenta, cincuenta; treinta y dos — 32. Перед мужским существительным uno сокращается: un café, veintiún euros; перед женским: una mesa, veintiuna manzanas. Два кофе: dos cafés, с тильдой. Для базовой цены можно сказать dos euros или dos euros con cincuenta; способ озвучивания цифр голосом устройства может отличаться.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     },
     {
       "id": "A1-04:explanation:2",
@@ -68,7 +70,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "HAY и определённое место",
-      "text": "Hay сообщает, что что-то есть в ситуации: Hay pan. Hay dos mesas libres. Форма hay одна для единственного и множественного числа; не нужно hayn. Вопрос: ¿Hay agua? Отрицание: No hay queso. Если речь об уже определённом предмете, его местоположение обычно выражают с estar: El queso está en la nevera. На этом уроке различаем наличие/неопределённое количество и место известного предмета. Неисчисляемое количество часто без неопределённого артикля: Quiero agua, не обязательное una agua."
+      "text": "Hay сообщает о наличии: Hay pan. Hay dos mesas libres. ¿Hay agua? No hay queso. Форма hay не меняется по числу. Известный предмет в определённом месте: El queso está en la nevera. Для заказа воды достаточно Quiero agua. Неисчисляемую воду не нужно обязательно превращать в «одну воду»; можно уточнить un vaso de agua — стакан воды.",
+      "referenceText": "Hay сообщает, что что-то есть в ситуации: Hay pan. Hay dos mesas libres. Форма hay одна для единственного и множественного числа; не нужно hayn. Вопрос: ¿Hay agua? Отрицание: No hay queso. Если речь об уже определённом предмете, его местоположение обычно выражают с estar: El queso está en la nevera. На этом уроке различаем наличие/неопределённое количество и место известного предмета. Неисчисляемое количество часто без неопределённого артикля: Quiero agua, не обязательное una agua.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     },
     {
       "id": "A1-04:explanation:3",
@@ -91,7 +95,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "Заказ и проверка счёта",
-      "text": "Un café, por favor — достаточный простой заказ. Me gustaría pedir una ensalada — более развёрнутая вежливая формула; её можно использовать как готовое выражение, не изучая сейчас всю систему condicional. ¿Cuánto cuesta? спрашивает цену, ¿Cuánto es? — итог. La cuenta, por favor просит счёт. Sin azúcar / con leche уточняют заказ. Полезно повторить сумму: ¿Siete euros en total? Не считать чаевые или оплату картой универсальным правилом страны: спросите ¿Puedo pagar con tarjeta?"
+      "text": "Un café, por favor — простой заказ. Con leche / sin azúcar — с молоком / без сахара. ¿Cuánto cuesta? — цена; ¿Cuánto es en total? — итог; La cuenta, por favor — просьба о счёте. ¿Puedo pagar con tarjeta? — можно оплатить картой? Me gustaría pedir… оставлено как дополнительная вежливая формула: полный condicional здесь не требуется.",
+      "referenceText": "Un café, por favor — достаточный простой заказ. Me gustaría pedir una ensalada — более развёрнутая вежливая формула; её можно использовать как готовое выражение, не изучая сейчас всю систему condicional. ¿Cuánto cuesta? спрашивает цену, ¿Cuánto es? — итог. La cuenta, por favor просит счёт. Sin azúcar / con leche уточняют заказ. Полезно повторить сумму: ¿Siete euros en total? Не считать чаевые или оплату картой универсальным правилом страны: спросите ¿Puedo pagar con tarjeta?",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     }
   ],
   "lexicon": [
@@ -118,7 +124,8 @@
       "wordIndex": 41,
       "es": "el café",
       "ru": "кофе",
-      "note": "un café / dos cafés"
+      "note": "un café / dos cafés",
+      "requiredForProduction": true
     },
     {
       "id": "A1-04:lexicon:2",
@@ -143,7 +150,8 @@
       "wordIndex": 289,
       "es": "el queso",
       "ru": "сыр",
-      "note": "¿Hay queso?"
+      "note": "¿Hay queso?",
+      "requiredForProduction": false
     },
     {
       "id": "A1-04:lexicon:3",
@@ -168,7 +176,8 @@
       "wordIndex": 40,
       "es": "el pan",
       "ru": "хлеб",
-      "note": "Хлеб как продукт часто без артикля после hay"
+      "note": "Хлеб как продукт часто без артикля после hay",
+      "requiredForProduction": true
     },
     {
       "id": "A1-04:lexicon:4",
@@ -193,7 +202,8 @@
       "wordIndex": 39,
       "es": "el agua",
       "ru": "вода",
-      "note": "Quiero agua"
+      "note": "Quiero agua",
+      "requiredForProduction": true
     },
     {
       "id": "A1-04:lexicon:5",
@@ -218,7 +228,8 @@
       "wordIndex": 43,
       "es": "la cuenta",
       "ru": "счёт",
-      "note": "La cuenta, por favor"
+      "note": "La cuenta, por favor",
+      "requiredForProduction": true
     },
     {
       "id": "A1-04:lexicon:6",
@@ -243,7 +254,8 @@
       "wordIndex": 15,
       "es": "¿Cuánto cuesta?",
       "ru": "Сколько стоит?",
-      "note": "вопрос о цене"
+      "note": "вопрос о цене",
+      "requiredForProduction": true
     },
     {
       "id": "A1-04:lexicon:7",
@@ -268,7 +280,8 @@
       "wordIndex": 177,
       "es": "pagar la cuenta",
       "ru": "оплатить счёт",
-      "note": "перед уходом"
+      "note": "перед уходом",
+      "requiredForProduction": false
     },
     {
       "id": "A1-04:lexicon:8",
@@ -293,7 +306,8 @@
       "wordIndex": 284,
       "es": "el aceite",
       "ru": "растительное масло",
-      "note": "aceite de oliva"
+      "note": "aceite de oliva",
+      "requiredForProduction": false
     },
     {
       "id": "A1-04:lexicon:9",
@@ -318,7 +332,8 @@
       "wordIndex": 45,
       "es": "sin",
       "ru": "без",
-      "note": "sin azúcar"
+      "note": "sin azúcar",
+      "requiredForProduction": true
     },
     {
       "id": "A1-04:lexicon:10",
@@ -343,7 +358,8 @@
       "wordIndex": 46,
       "es": "con",
       "ru": "с",
-      "note": "con leche"
+      "note": "con leche",
+      "requiredForProduction": true
     }
   ],
   "dialogue": {
@@ -581,7 +597,7 @@
     ],
     "languageReview": "ASSISTANT_EDITED",
     "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
-    "text": "Ana entra en una tienda pequeña. Necesita pan y fruta para el desayuno. Hay manzanas y naranjas, pero no hay fresas. Compra un kilo de manzanas por dos euros y una barra de pan por un euro. En total paga tres euros. Después entra en un café y pide agua. Antes de pagar, pregunta si puede usar la tarjeta. La dependienta dice que sí.",
+    "text": "Ana entra en una tienda pequeña. Necesita pan y fruta para el desayuno. Hay manzanas y naranjas, pero no hay fresas. Compra un kilo de manzanas por dos euros y una barra de pan por un euro. Antes de pagar, pregunta si puede usar la tarjeta. La dependienta dice que sí. En total paga tres euros. Después entra en un café y pide agua.",
     "support": [
       "tienda — магазин",
       "barra de pan — батон/буханка хлеба",
@@ -745,7 +761,10 @@
         "Están dos mesas libres hay."
       ],
       "activityKind": "choice",
-      "contentId": "A1-04:task:04"
+      "contentId": "A1-04:task:04",
+      "explanationRefs": [
+        "A1-04:explanation:2"
+      ]
     },
     {
       "id": "A1-04:task:05",
@@ -775,7 +794,11 @@
       "explanation": "Современная слитная форма dieciséis; тильда обязательна.",
       "options": [],
       "activityKind": "input",
-      "contentId": "A1-04:task:05"
+      "contentId": "A1-04:task:05",
+      "extension": true,
+      "explanationRefs": [
+        "A1-04:explanation:1"
+      ]
     },
     {
       "id": "A1-04:task:06",
@@ -805,7 +828,10 @@
       "explanation": "Dos + множественное cafés.",
       "options": [],
       "activityKind": "input",
-      "contentId": "A1-04:task:06"
+      "contentId": "A1-04:task:06",
+      "explanationRefs": [
+        "A1-04:explanation:1"
+      ]
     },
     {
       "id": "A1-04:task:07",
@@ -838,10 +864,13 @@
         "manzanas",
         "naranjas"
       ],
-      "text": "Ana entra en una tienda pequeña. Necesita pan y fruta para el desayuno. Hay manzanas y naranjas, pero no hay fresas. Compra un kilo de manzanas por dos euros y una barra de pan por un euro. En total paga tres euros. Después entra en un café y pide agua. Antes de pagar, pregunta si puede usar la tarjeta. La dependienta dice que sí.",
+      "text": "Ana entra en una tienda pequeña. Necesita pan y fruta para el desayuno. Hay manzanas y naranjas, pero no hay fresas. Compra un kilo de manzanas por dos euros y una barra de pan por un euro. Antes de pagar, pregunta si puede usar la tarjeta. La dependienta dice que sí. En total paga tres euros. Después entra en un café y pide agua.",
       "activityKind": "reading",
       "meaning": "fresas",
-      "contentId": "A1-04:task:07"
+      "contentId": "A1-04:task:07",
+      "explanationRefs": [
+        "A1-04:reading:1"
+      ]
     },
     {
       "id": "A1-04:task:08",
@@ -874,10 +903,13 @@
         "dos euros",
         "cuatro euros"
       ],
-      "text": "Ana entra en una tienda pequeña. Necesita pan y fruta para el desayuno. Hay manzanas y naranjas, pero no hay fresas. Compra un kilo de manzanas por dos euros y una barra de pan por un euro. En total paga tres euros. Después entra en un café y pide agua. Antes de pagar, pregunta si puede usar la tarjeta. La dependienta dice que sí.",
+      "text": "Ana entra en una tienda pequeña. Necesita pan y fruta para el desayuno. Hay manzanas y naranjas, pero no hay fresas. Compra un kilo de manzanas por dos euros y una barra de pan por un euro. Antes de pagar, pregunta si puede usar la tarjeta. La dependienta dice que sí. En total paga tres euros. Después entra en un café y pide agua.",
       "activityKind": "reading",
       "meaning": "tres euros",
-      "contentId": "A1-04:task:08"
+      "contentId": "A1-04:task:08",
+      "explanationRefs": [
+        "A1-04:reading:1"
+      ]
     },
     {
       "id": "A1-04:task:09",
@@ -913,7 +945,10 @@
       "text": "Buenas tardes. Hoy tenemos té y tortilla, pero no hay bocadillos. Cada té cuesta un euro con cincuenta. Una porción de tortilla cuesta cuatro euros. Si pide dos tés y una porción de tortilla, son siete euros en total. Puede pagar en efectivo o con tarjeta.",
       "activityKind": "listening",
       "meaning": "bocadillos",
-      "contentId": "A1-04:task:09"
+      "contentId": "A1-04:task:09",
+      "explanationRefs": [
+        "A1-04:listening:1"
+      ]
     },
     {
       "id": "A1-04:task:10",
@@ -949,7 +984,10 @@
       "text": "Buenas tardes. Hoy tenemos té y tortilla, pero no hay bocadillos. Cada té cuesta un euro con cincuenta. Una porción de tortilla cuesta cuatro euros. Si pide dos tés y una porción de tortilla, son siete euros en total. Puede pagar en efectivo o con tarjeta.",
       "activityKind": "listening",
       "meaning": "siete euros",
-      "contentId": "A1-04:task:10"
+      "contentId": "A1-04:task:10",
+      "explanationRefs": [
+        "A1-04:listening:1"
+      ]
     },
     {
       "id": "A1-04:task:11",
@@ -973,7 +1011,7 @@
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "type": "input",
       "skill": "grammar",
-      "prompt": "Новая ситуация: покупатель просит воду без газа. Составьте фразу ровно из Un / vaso de agua / sin gas / por favor.",
+      "prompt": "Новая ситуация: попросите воду без газа. Используйте порядок Un vaso de agua sin gas; por favor можно поставить в начале или в конце.",
       "expected": "Un vaso de agua sin gas, por favor.",
       "alternatives": [
         "Por favor, un vaso de agua sin gas."
@@ -982,7 +1020,10 @@
       "options": [],
       "activityKind": "input",
       "transfer": true,
-      "contentId": "A1-04:task:11"
+      "contentId": "A1-04:task:11",
+      "explanationRefs": [
+        "A1-04:explanation:3"
+      ]
     },
     {
       "id": "A1-04:task:12",
@@ -1078,7 +1119,10 @@
       "options": [],
       "control": true,
       "activityKind": "input",
-      "contentId": "A1-04:task:14"
+      "contentId": "A1-04:task:14",
+      "explanationRefs": [
+        "A1-04:explanation:2"
+      ]
     },
     {
       "id": "A1-04:task:15",
@@ -1113,7 +1157,10 @@
       ],
       "control": true,
       "activityKind": "choice",
-      "contentId": "A1-04:task:15"
+      "contentId": "A1-04:task:15",
+      "explanationRefs": [
+        "A1-04:explanation:1"
+      ]
     },
     {
       "id": "A1-04:task:16",
@@ -1144,7 +1191,163 @@
       "options": [],
       "control": true,
       "activityKind": "input",
-      "contentId": "A1-04:task:16"
+      "contentId": "A1-04:task:16",
+      "explanationRefs": [
+        "A1-04:explanation:1"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Покупки и еда",
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "id": "A1-04:task:17",
+      "contentId": "A1-04:task:17",
+      "type": "input",
+      "activityKind": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: закажите кофе с молоком. Используйте порядок un café con leche; por favor в начале или в конце.",
+      "expected": "Un café con leche, por favor.",
+      "alternatives": [
+        "Por favor, un café con leche."
+      ],
+      "options": [],
+      "explanation": "Con leche — с молоком; por favor может стоять и в начале.",
+      "control": true,
+      "addedInReview": true,
+      "explanationRefs": [
+        "A1-04:explanation:3"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Покупки и еда",
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "id": "A1-04:task:18",
+      "contentId": "A1-04:task:18",
+      "type": "input",
+      "activityKind": "choice",
+      "skill": "grammar",
+      "prompt": "Контроль: вы хотите узнать цену. Выберите нужный вопрос.",
+      "expected": "¿Cuánto cuesta?",
+      "alternatives": [],
+      "options": [
+        "¿Cuánto cuesta?",
+        "¿Dónde está?",
+        "¿Cómo te llamas?"
+      ],
+      "explanation": "Cuánto cuesta — вопрос о цене.",
+      "control": true,
+      "addedInReview": true,
+      "explanationRefs": [
+        "A1-04:explanation:3"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Покупки и еда",
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "id": "A1-04:task:19",
+      "contentId": "A1-04:task:19",
+      "type": "input",
+      "activityKind": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: попросите два кофе, записав количество словом и правильное множественное число.",
+      "expected": "dos cafés",
+      "alternatives": [],
+      "options": [],
+      "explanation": "Dos cafés: сохраняется тильда.",
+      "control": true,
+      "addedInReview": true,
+      "explanationRefs": [
+        "A1-04:explanation:3"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Покупки и еда",
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "id": "A1-04:task:20",
+      "contentId": "A1-04:task:20",
+      "type": "listening",
+      "activityKind": "listening",
+      "skill": "listening",
+      "prompt": "Контроль без текста: сколько стоит весь заказ?",
+      "expected": "cinco euros",
+      "alternatives": [],
+      "options": [
+        "cinco euros",
+        "tres euros",
+        "seis euros"
+      ],
+      "explanation": "В записи: два кофе по два евро и хлеб за один евро = пять.",
+      "control": true,
+      "addedInReview": true,
+      "text": "Dos cafés cuestan cuatro euros. Una barra de pan cuesta un euro. Son cinco euros en total. ¿Paga con tarjeta?",
+      "meaning": "cinco euros",
+      "sourceItem": "A1-04:listening:final",
+      "explanationRefs": [
+        "A1-04:listening:final"
+      ]
     }
   ],
   "repetitionDays": [
@@ -1157,6 +1360,120 @@
   "alphabet": null,
   "durationRangeMinutes": [
     35,
-    50
-  ]
+    60
+  ],
+  "assessmentVersion": 2,
+  "loadGuidance": {
+    "coreGrammarTargets": [
+      "Числа и количество",
+      "HAY и определённое место",
+      "Заказ и проверка счёта"
+    ],
+    "coreLexiconIds": [
+      "A1-04:lexicon:1",
+      "A1-04:lexicon:3",
+      "A1-04:lexicon:4",
+      "A1-04:lexicon:5",
+      "A1-04:lexicon:6",
+      "A1-04:lexicon:9",
+      "A1-04:lexicon:10"
+    ],
+    "referencePolicy": "Полные парадигмы и исключения — по желанию; они не обязательны для основного результата.",
+    "suggestedPause": "После переноса можно вернуться к плану и продолжить письмо, речь и контроль позже.",
+    "status": "EDITORIAL_LOAD_HEURISTIC_NOT_VALIDATED_ELE_THRESHOLD"
+  },
+  "scaffolding": [
+    {
+      "level": "A1",
+      "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-02",
+        "GRAMMAR-16",
+        7529,
+        7530
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Покупки и еда",
+      "cefr": [
+        "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+      ],
+      "id": "A1-04:support:01",
+      "title": "Опоры для диалога, чтения и аудирования",
+      "entries": [
+        [
+          "una tostada / un bocadillo / una porción de tortilla",
+          "тост / бутерброд / порция испанской картофельной тортильи"
+        ],
+        [
+          "con leche / solo / sin azúcar",
+          "с молоком / чёрный кофе без молока / без сахара"
+        ],
+        [
+          "cada / cuesta / son… en total",
+          "каждый / стоит / всего…"
+        ],
+        [
+          "un kilo / una barra de pan / fruta",
+          "килограмм / батон или буханка хлеба / фрукты"
+        ],
+        [
+          "manzanas / naranjas / fresas",
+          "яблоки / апельсины / клубника"
+        ],
+        [
+          "la dependienta / una tienda / pequeña",
+          "продавщица / магазин / небольшая"
+        ],
+        [
+          "entra / necesita / compra / pide",
+          "входит / ей нужно / покупает / просит или заказывает"
+        ],
+        [
+          "antes de pagar / después / dice que sí",
+          "перед оплатой / потом / говорит, что да"
+        ],
+        [
+          "en efectivo / con tarjeta / usar la tarjeta",
+          "наличными / картой / пользоваться картой"
+        ],
+        [
+          "un vaso de agua sin gas / té",
+          "стакан воды без газа / чай"
+        ],
+        [
+          "la nevera / aceite de oliva / ¿Hay…?",
+          "холодильник / оливковое масло / есть ли…?"
+        ]
+      ],
+      "note": "Узнавайте эти сочетания по смыслу; все их формы не требуется воспроизводить наизусть."
+    }
+  ],
+  "finalListening": {
+    "level": "A1",
+    "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-02",
+      "GRAMMAR-16",
+      7529,
+      7530
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "topic": "Покупки и еда",
+    "cefr": [
+      "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+    ],
+    "id": "A1-04:listening:final",
+    "text": "Dos cafés cuestan cuatro euros. Una barra de pan cuesta un euro. Son cinco euros en total. ¿Paga con tarjeta?",
+    "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+  }
 }

@@ -3,7 +3,7 @@ import json
 from audit import ROOT,canonical,sha
 TABLES={1:[(0,0),(0,1),(0,2)],2:[(10,0),(1,1),(2,4)],3:[(8,0),(10,2),(7,4)],4:[(15,0),(15,3)],5:[(6,2)],6:[(10,0)]}
 def elements(lesson):
-    return lesson['explanations']+lesson['lexicon']+[lesson['dialogue'],lesson['reading'],lesson['listening']]+lesson['dialogue']['turns']+lesson['tasks']
+    return lesson['explanations']+lesson['lexicon']+[lesson['dialogue'],lesson['reading'],lesson['listening']]+lesson['dialogue']['turns']+lesson['tasks']+lesson.get('scaffolding',[])+([lesson['finalListening']] if lesson.get('finalListening') else [])
 def prepare(catalog,db):
     lessons=[json.loads(p.read_text()) for p in sorted((ROOT/'data/lessons').glob('A1-*.json'))]
     ids={r['id'] for kind in ['words','tables','schemes','images','exercises','schemeExercises'] for r in catalog[kind]};images={r['fields']['id']:r for r in json.loads((ROOT/'data/images.json').read_text())}

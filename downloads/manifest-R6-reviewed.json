@@ -1,0 +1,31 @@
+{
+  "classification": "CORRECTED_R6_REVIEW_BUILD_NOT_R7_NOT_FINAL",
+  "base_commit": "a6ffd4f36c2ab89c4c94e470dc14e73e5a732f9b",
+  "branch": "r6-a1-lessons",
+  "html_sha256": "3324aa91a8d0fbca5abc42894e1e1c02049c13d7ed5b4c15bedc34a3fb0736a2",
+  "zip_sha256": "71d4eb2b9c2852ae550910e1e79a0b57981a82e3693967612d9b92113265fc34",
+  "html_bytes": 10942958,
+  "zip_bytes": 7622146,
+  "verification_directory": "audit/r6-quality-review/verification-2026-11-07",
+  "tests": {
+    "quality-tests.json": {
+      "PASS": 112
+    },
+    "lesson-tests.json": {
+      "PASS": 266
+    },
+    "regression-tests.json": {
+      "PASS": 612
+    },
+    "backup-tests.json": {
+      "PASS": 26
+    },
+    "journey-tests.json": {
+      "PASS": 184
+    }
+  },
+  "original_R6_user_functional_report": "POSITIVE_LAUNCH_AND_OPERATION",
+  "corrected_R6_device_acceptance": "PENDING",
+  "independent_ELE_acceptance": "NOT_PERFORMED",
+  "direct_PCIC_CEFR_comparison": "NOT_PERFORMED"
+}

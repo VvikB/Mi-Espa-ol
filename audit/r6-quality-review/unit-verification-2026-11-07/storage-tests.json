@@ -1,0 +1,109 @@
+{
+  "runner": "node:vm + real storage module; deterministic synthetic localStorage",
+  "summary": {
+    "PASS": 25,
+    "FAIL": 0
+  },
+  "results": [
+    {
+      "test": "migrate_legacy_without_rewriting_old_key",
+      "status": "PASS"
+    },
+    {
+      "test": "reject_invalid_week",
+      "status": "PASS"
+    },
+    {
+      "test": "reject_array_namespace",
+      "status": "PASS"
+    },
+    {
+      "test": "reject_negative_timestamp",
+      "status": "PASS"
+    },
+    {
+      "test": "reject_prototype_key",
+      "status": "PASS"
+    },
+    {
+      "test": "reject_deep_structure",
+      "status": "PASS"
+    },
+    {
+      "test": "newer_known_timestamp_wins_even_after_failure",
+      "status": "PASS"
+    },
+    {
+      "test": "old_snapshot_does_not_rollback_current",
+      "status": "PASS"
+    },
+    {
+      "test": "unknown_order_keeps_current_and_archives_other",
+      "status": "PASS"
+    },
+    {
+      "test": "newer_record_does_not_discard_unknown_fields",
+      "status": "PASS"
+    },
+    {
+      "test": "empty_profile_restores_week_and_unknown_namespace",
+      "status": "PASS"
+    },
+    {
+      "test": "save_adds_timestamp_to_changed_records_only",
+      "status": "PASS"
+    },
+    {
+      "test": "unchanged_legacy_record_stays_valid_after_repeated_save",
+      "status": "PASS"
+    },
+    {
+      "test": "malformed_raw_progress_is_preserved_and_writes_blocked",
+      "status": "PASS"
+    },
+    {
+      "test": "malformed_new_snapshot_does_not_fallback_and_overwrite",
+      "status": "PASS"
+    },
+    {
+      "test": "quota_failure_preserves_previous_snapshot",
+      "status": "PASS"
+    },
+    {
+      "test": "new_backup_settings_replace_unconfigured_defaults",
+      "status": "PASS"
+    },
+    {
+      "test": "older_backup_settings_do_not_rollback_current",
+      "status": "PASS"
+    },
+    {
+      "test": "repeated_import_deduplicates_conflict_archive",
+      "status": "PASS"
+    },
+    {
+      "test": "unknown_snapshot_and_settings_fields_preserved",
+      "status": "PASS"
+    },
+    {
+      "test": "newer_accessibility_keeps_existing_extension_fields",
+      "status": "PASS"
+    },
+    {
+      "test": "new_journey_events_merge_by_id_without_loss",
+      "status": "PASS"
+    },
+    {
+      "test": "reimport_journey_event_is_idempotent",
+      "status": "PASS"
+    },
+    {
+      "test": "malformed_journey_task_rejected",
+      "status": "PASS"
+    },
+    {
+      "test": "new_scheme_practice_timestamps_are_validated",
+      "status": "PASS"
+    }
+  ]
+}

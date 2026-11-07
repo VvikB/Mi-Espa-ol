@@ -53,3 +53,14 @@ r6-test:
 	python tools/test_r6_regressions.py
 r6-package:
 	python tools/package_r6.py
+
+.PHONY: r6-reviewed-internal r6-reviewed-test r6-reviewed-package
+VERIFY_DIR ?= audit/r6-quality-review/verification-2026-11-07
+r6-reviewed-internal:
+	python tools/build_r6_review.py
+r6-reviewed-test:
+	python tools/verify_r6_review.py
+	python -m unittest tests/test_catalog.py -v
+	node tools/test_storage_r6_review.cjs
+r6-reviewed-package:
+	python tools/package_r6_review.py --verification-dir $(VERIFY_DIR)

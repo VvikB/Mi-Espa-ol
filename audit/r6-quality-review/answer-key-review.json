@@ -1,0 +1,1362 @@
+{
+  "scope": "All 90 constrained answer keys and allowed variants examined; free production has rubrics rather than a single answer",
+  "records": [
+    {
+      "id": "A1-01:task:04",
+      "type": "input",
+      "prompt": "Какая буква в hola обычно не произносится?",
+      "expected": "h",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "h в hola немая; слышны гласные и l.",
+      "rule_refs": [
+        "A1-01:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-01:task:05",
+      "type": "input",
+      "prompt": "В слове café поставьте нужную тильду. Введите всё слово: cafe.",
+      "expected": "café",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Ударение на последнем слоге; без тильды базовое правило дало бы предпоследний.",
+      "rule_refs": [
+        "A1-01:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-01:task:06",
+      "type": "input",
+      "prompt": "Запишите слово «год» по-испански: a_o. Введите только слово.",
+      "expected": "año",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Нужна отдельная буква ñ. Ano — другое слово.",
+      "rule_refs": [
+        "A1-01:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-01:task:07",
+      "type": "reading",
+      "prompt": "Что помогает Ане понять имя?",
+      "expected": "Просьба повторить медленнее",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Ana говорит «¿Puedes repetir más despacio?».",
+      "rule_refs": [
+        "A1-01:reading:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-01:task:08",
+      "type": "reading",
+      "prompt": "Какой номер указан в прочитанном тексте?",
+      "expected": "quince",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "В тексте: el número es quince.",
+      "rule_refs": [
+        "A1-01:reading:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-01:task:09",
+      "type": "listening",
+      "prompt": "Послушайте: как называется кафе?",
+      "expected": "Café Luna",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "В аудиотексте назван Café Luna.",
+      "rule_refs": [
+        "A1-01:listening:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-01:task:10",
+      "type": "listening",
+      "prompt": "Послушайте: какой номер дома?",
+      "expected": "doce",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "В аудиотексте: número doce.",
+      "rule_refs": [
+        "A1-01:listening:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-01:task:11",
+      "type": "input",
+      "prompt": "Новая ситуация: вы не поняли собеседника. Из слов No / entiendo составьте фразу с отрицанием.",
+      "expected": "No entiendo.",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "No стоит перед entiendo; пунктуация и регистр не меняют результат.",
+      "rule_refs": [
+        "A1-01:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-01:task:14",
+      "type": "input",
+      "prompt": "Контроль без подсказки. Запишите «кофе» одним словом по-испански.",
+      "expected": "café",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Нужна тильда на é.",
+      "rule_refs": [
+        "A1-01:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-01:task:15",
+      "type": "input",
+      "prompt": "Контроль: в каком слове ударение на последнем слоге?",
+      "expected": "ciudad",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "ciudad оканчивается на d: базовое ударение на последнем слоге.",
+      "rule_refs": [
+        "A1-01:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-01:task:16",
+      "type": "input",
+      "prompt": "Контроль: запишите ровно эти слова как вопрос: puedes repetir.",
+      "expected": "¿Puedes repetir?",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": true,
+      "reason": "Это письменный контроль вопроса: нужны оба знака ¿ и ?. Регистр букв не влияет на результат.",
+      "rule_refs": [
+        "A1-01:explanation:4"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-01:task:17",
+      "type": "input",
+      "prompt": "Контроль: введите по-испански «сыр» одним словом.",
+      "expected": "queso",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Qu перед e/i даёт [k], u не читается.",
+      "rule_refs": [
+        "A1-01:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-01:task:18",
+      "type": "input",
+      "prompt": "Контроль: введите «год» одним словом, с отдельной буквой ñ.",
+      "expected": "año",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Año с ñ; n — другая буква.",
+      "rule_refs": [
+        "A1-01:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-01:task:19",
+      "type": "input",
+      "prompt": "Контроль: вы не разобрали имя. Выберите просьбу повторить медленнее.",
+      "expected": "¿Puedes repetir más despacio?",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Для переспроса подходит просьба повторить, а не вопрос о месте/времени.",
+      "rule_refs": [
+        "A1-01:explanation:4"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-01:task:20",
+      "type": "listening",
+      "prompt": "Контроль без текста: как называется кафе?",
+      "expected": "Café Sol",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "В записи назван Café Sol.",
+      "rule_refs": [
+        "A1-01:listening:final"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-02:task:04",
+      "type": "input",
+      "prompt": "Выберите фразу о профессии.",
+      "expected": "Soy profesora.",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Профессия в нейтральной конструкции: ser без обязательного артикля.",
+      "rule_refs": [
+        "A1-02:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-02:task:05",
+      "type": "input",
+      "prompt": "Вставьте только форму estar: Luis ___ en el café.",
+      "expected": "está",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Luis — третье лицо; местонахождение: está, с тильдой.",
+      "rule_refs": [
+        "A1-02:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-02:task:06",
+      "type": "input",
+      "prompt": "Трансформация: замените el libro на множественное число. Введите артикль и существительное.",
+      "expected": "los libros",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "El → los, libro → libros.",
+      "rule_refs": [
+        "A1-02:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-02:task:07",
+      "type": "reading",
+      "prompt": "Кто в тексте работает врачом?",
+      "expected": "Сестра Диего",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Mi hermana es médica.",
+      "rule_refs": [
+        "A1-02:reading:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-02:task:08",
+      "type": "reading",
+      "prompt": "Кому предназначена книга?",
+      "expected": "Сестре Диего",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "El libro es para mi hermana.",
+      "rule_refs": [
+        "A1-02:reading:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-02:task:09",
+      "type": "listening",
+      "prompt": "Где Клара находится сейчас?",
+      "expected": "В Мадриде, дома у подруги",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Clara говорит estoy en Madrid, en casa de una amiga.",
+      "rule_refs": [
+        "A1-02:listening:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-02:task:10",
+      "type": "listening",
+      "prompt": "Какая профессия у Лауры?",
+      "expected": "médica",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Mi amiga ... es médica; profesora — сама Клара.",
+      "rule_refs": [
+        "A1-02:listening:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-02:task:11",
+      "type": "input",
+      "prompt": "Новая ситуация: женщина рассказывает, что сегодня устала. Составьте фразу из Hoy / estar (yo) / cansada.",
+      "expected": "Hoy estoy cansada.",
+      "alternatives": [
+        "Estoy cansada hoy.",
+        "Estoy hoy cansada."
+      ],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Состояние: estoy; cansada согласуется с говорящей женщиной.",
+      "rule_refs": [
+        "A1-02:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-02:task:14",
+      "type": "input",
+      "prompt": "Контроль: вставьте только ser: Mi hermana ___ médica.",
+      "expected": "es",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Профессия: es médica.",
+      "rule_refs": [
+        "A1-02:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-02:task:15",
+      "type": "input",
+      "prompt": "Контроль: выберите правильное согласование.",
+      "expected": "el agua fría",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Agua — женский род, несмотря на el перед ударным a-.",
+      "rule_refs": [
+        "A1-02:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-02:task:16",
+      "type": "input",
+      "prompt": "Контроль: замените Estoy en casa на nosotros. Введите фразу без местоимения.",
+      "expected": "Estamos en casa.",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Nosotros: estamos.",
+      "rule_refs": [
+        "A1-02:explanation:2"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-02:task:17",
+      "type": "input",
+      "prompt": "Контроль: из Soy / de / Rusia составьте сообщение о происхождении.",
+      "expected": "Soy de Rusia.",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Для происхождения: ser de + страна.",
+      "rule_refs": [
+        "A1-02:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-02:task:18",
+      "type": "input",
+      "prompt": "Контроль: спросите, где Ана. Используйте только dónde + estar + Ana и знаки вопроса.",
+      "expected": "¿Dónde está Ana?",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": true,
+      "reason": "Где человек находится: dónde está; тильды и ¿? обязательны.",
+      "rule_refs": [
+        "A1-02:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-02:task:19",
+      "type": "input",
+      "prompt": "Контроль: какая пара верно сообщает профессию Марии и её место сегодня?",
+      "expected": "María es estudiante. Hoy está en casa.",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Профессия es, местонахождение está.",
+      "rule_refs": [
+        "A1-02:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-02:task:20",
+      "type": "listening",
+      "prompt": "Контроль без текста: где Луис сейчас?",
+      "expected": "В библиотеке",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "В записи: estoy en la biblioteca.",
+      "rule_refs": [
+        "A1-02:listening:final"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-03:task:04",
+      "type": "input",
+      "prompt": "Как сказать, что Ана сама встаёт в семь?",
+      "expected": "Ana se levanta a las siete.",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Se согласуется с Ana; levanta — третье лицо.",
+      "rule_refs": [
+        "A1-03:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-03:task:05",
+      "type": "input",
+      "prompt": "Вставьте только hablar: Nosotros ___ español.",
+      "expected": "hablamos",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Nosotros: hablar → hablamos.",
+      "rule_refs": [
+        "A1-03:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-03:task:06",
+      "type": "input",
+      "prompt": "Замените yo на Ana и начните с Ana: Me levanto temprano.",
+      "expected": "Ana se levanta temprano.",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Me levanto → Ana se levanta.",
+      "rule_refs": [
+        "A1-03:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-03:task:07",
+      "type": "reading",
+      "prompt": "Почему брат встаёт позже?",
+      "expected": "Он работает ночью",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Porque trabaja por la noche.",
+      "rule_refs": [
+        "A1-03:reading:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-03:task:08",
+      "type": "reading",
+      "prompt": "Сколько времени рассказчик учит испанский вечером?",
+      "expected": "Полчаса",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Durante media hora — полчаса.",
+      "rule_refs": [
+        "A1-03:reading:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-03:task:09",
+      "type": "listening",
+      "prompt": "Куда Хулия идёт в двенадцать?",
+      "expected": "В библиотеку",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "A las doce voy a la biblioteca.",
+      "rule_refs": [
+        "A1-03:listening:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-03:task:10",
+      "type": "listening",
+      "prompt": "Когда Хулия не работает?",
+      "expected": "По субботам",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Los sábados no trabajo.",
+      "rule_refs": [
+        "A1-03:listening:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-03:task:11",
+      "type": "input",
+      "prompt": "Новая ситуация: вы с другом идёте на работу. Составьте фразу без местоимения: ir (nosotros) / al trabajo.",
+      "expected": "Vamos al trabajo.",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Ir, nosotros: vamos. Сохраняем al.",
+      "rule_refs": [
+        "A1-03:explanation:2"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-03:task:14",
+      "type": "input",
+      "prompt": "Контроль: вставьте только tener: Yo ___ tiempo.",
+      "expected": "tengo",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Неправильная форма yo: tengo.",
+      "rule_refs": [
+        "A1-03:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-03:task:15",
+      "type": "input",
+      "prompt": "Контроль: выберите отрицание привычки.",
+      "expected": "No me levanto tarde.",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "No перед местоимением и личной формой.",
+      "rule_refs": [
+        "A1-03:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-03:task:16",
+      "type": "input",
+      "prompt": "Контроль: вставьте только comer: Nosotros ___ a las dos.",
+      "expected": "comemos",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Comer, nosotros: comemos.",
+      "rule_refs": [
+        "A1-03:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-03:task:17",
+      "type": "input",
+      "prompt": "Контроль: спросите собеседника, во сколько он встаёт. Используйте только A qué hora / te / levantarse (tú), со знаками вопроса.",
+      "expected": "¿A qué hora te levantas?",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": true,
+      "reason": "Te levantas соответствует tú. Нужна тильда в qué.",
+      "rule_refs": [
+        "A1-03:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-03:task:18",
+      "type": "input",
+      "prompt": "Контроль: замените me на лицо Ana и начните с Ana: Me levanto a las siete.",
+      "expected": "Ana se levanta a las siete.",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Me levanto → Ana se levanta.",
+      "rule_refs": [
+        "A1-03:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-03:task:19",
+      "type": "input",
+      "prompt": "Контроль: выберите связный распорядок с правильными формами yo.",
+      "expected": "Me levanto, desayuno y voy al trabajo.",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Все три формы соответствуют yo.",
+      "rule_refs": [
+        "A1-03:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-03:task:20",
+      "type": "listening",
+      "prompt": "Контроль без текста: во сколько рассказчица встаёт?",
+      "expected": "a las seis",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "В записи: me levanto a las seis.",
+      "rule_refs": [
+        "A1-03:listening:final"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-04:task:04",
+      "type": "input",
+      "prompt": "Выберите сообщение о наличии двух свободных столов.",
+      "expected": "Hay dos mesas libres.",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Hay не меняется по числу.",
+      "rule_refs": [
+        "A1-04:explanation:2"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-04:task:05",
+      "type": "input",
+      "prompt": "Введите число 16 по-испански одним словом с нужным ударением.",
+      "expected": "dieciséis",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Современная слитная форма dieciséis; тильда обязательна.",
+      "rule_refs": [
+        "A1-04:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-04:task:06",
+      "type": "input",
+      "prompt": "Замените un café на два кофе. Введите количество и существительное словами.",
+      "expected": "dos cafés",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Dos + множественное cafés.",
+      "rule_refs": [
+        "A1-04:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-04:task:07",
+      "type": "reading",
+      "prompt": "Чего нет в магазине?",
+      "expected": "fresas",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "В тексте: no hay fresas.",
+      "rule_refs": [
+        "A1-04:reading:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-04:task:08",
+      "type": "reading",
+      "prompt": "Сколько Ана платит в магазине за яблоки и хлеб?",
+      "expected": "tres euros",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Два евро за яблоки плюс один евро за хлеб.",
+      "rule_refs": [
+        "A1-04:reading:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-04:task:09",
+      "type": "listening",
+      "prompt": "Чего нет сегодня?",
+      "expected": "bocadillos",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "В аудиотексте no hay bocadillos.",
+      "rule_refs": [
+        "A1-04:listening:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-04:task:10",
+      "type": "listening",
+      "prompt": "Сколько стоят два чая и порция тортильи?",
+      "expected": "siete euros",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Два раза по 1,50 и ещё 4 = 7 евро.",
+      "rule_refs": [
+        "A1-04:listening:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-04:task:11",
+      "type": "input",
+      "prompt": "Новая ситуация: попросите воду без газа. Используйте порядок Un vaso de agua sin gas; por favor можно поставить в начале или в конце.",
+      "expected": "Un vaso de agua sin gas, por favor.",
+      "alternatives": [
+        "Por favor, un vaso de agua sin gas."
+      ],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Sin gas — без газа; заданный набор слов ограничивает ответ.",
+      "rule_refs": [
+        "A1-04:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-04:task:14",
+      "type": "input",
+      "prompt": "Контроль: вставьте одно слово о наличии: No ___ pan.",
+      "expected": "hay",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Отрицательное наличие: no hay.",
+      "rule_refs": [
+        "A1-04:explanation:2"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-04:task:15",
+      "type": "input",
+      "prompt": "Контроль: как назвать количество перед café?",
+      "expected": "un café",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Café мужского рода; uno → un.",
+      "rule_refs": [
+        "A1-04:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-04:task:16",
+      "type": "input",
+      "prompt": "Контроль: два товара стоят два и три евро. Введите итог словами с euros.",
+      "expected": "cinco euros",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Два плюс три — cinco euros.",
+      "rule_refs": [
+        "A1-04:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-04:task:17",
+      "type": "input",
+      "prompt": "Контроль: закажите кофе с молоком. Используйте порядок un café con leche; por favor в начале или в конце.",
+      "expected": "Un café con leche, por favor.",
+      "alternatives": [
+        "Por favor, un café con leche."
+      ],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Con leche — с молоком; por favor может стоять и в начале.",
+      "rule_refs": [
+        "A1-04:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-04:task:18",
+      "type": "input",
+      "prompt": "Контроль: вы хотите узнать цену. Выберите нужный вопрос.",
+      "expected": "¿Cuánto cuesta?",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Cuánto cuesta — вопрос о цене.",
+      "rule_refs": [
+        "A1-04:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-04:task:19",
+      "type": "input",
+      "prompt": "Контроль: попросите два кофе, записав количество словом и правильное множественное число.",
+      "expected": "dos cafés",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Dos cafés: сохраняется тильда.",
+      "rule_refs": [
+        "A1-04:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-04:task:20",
+      "type": "listening",
+      "prompt": "Контроль без текста: сколько стоит весь заказ?",
+      "expected": "cinco euros",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "В записи: два кофе по два евро и хлеб за один евро = пять.",
+      "rule_refs": [
+        "A1-04:listening:final"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-05:task:04",
+      "type": "input",
+      "prompt": "Как спросить время отправления?",
+      "expected": "¿A qué hora sale el tren?",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "A qué hora — вопрос о времени события.",
+      "rule_refs": [
+        "A1-05:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-05:task:05",
+      "type": "input",
+      "prompt": "Вставьте только estar: La estación ___ cerca.",
+      "expected": "está",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Конкретное здание: está.",
+      "rule_refs": [
+        "A1-05:explanation:2"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-05:task:06",
+      "type": "input",
+      "prompt": "Объедините de + el в сочетании cerca de el banco. Введите исправленное сочетание.",
+      "expected": "cerca del banco",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "De + el → del.",
+      "rule_refs": [
+        "A1-05:explanation:2"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-05:task:07",
+      "type": "reading",
+      "prompt": "Где находится кафе?",
+      "expected": "Рядом с библиотекой",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "El café está al lado de la biblioteca.",
+      "rule_refs": [
+        "A1-05:reading:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-05:task:08",
+      "type": "reading",
+      "prompt": "Во сколько назначена встреча?",
+      "expected": "a las cinco y cuarto",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Una cita ... a las cinco y cuarto.",
+      "rule_refs": [
+        "A1-05:reading:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-05:task:09",
+      "type": "listening",
+      "prompt": "Во сколько отправляется автобус?",
+      "expected": "a las seis y media",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Автобус в 6:30; встреча раньше, в 6:15.",
+      "rule_refs": [
+        "A1-05:listening:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-05:task:10",
+      "type": "listening",
+      "prompt": "Где остановка относительно входа?",
+      "expected": "Справа",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "A la derecha de la entrada.",
+      "rule_refs": [
+        "A1-05:listening:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-05:task:11",
+      "type": "input",
+      "prompt": "Новая ситуация: встреча в 15:30. Запишите время с a, используя tres и media (12-часовая форма).",
+      "expected": "a las tres y media",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Заданный формат исключает другие допустимые варианты расписания.",
+      "rule_refs": [
+        "A1-05:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-05:task:14",
+      "type": "input",
+      "prompt": "Контроль: вставьте только es/son: ___ la una.",
+      "expected": "Es",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "La una — единственное число.",
+      "rule_refs": [
+        "A1-05:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-05:task:15",
+      "type": "input",
+      "prompt": "Контроль: что значит mañana por la mañana?",
+      "expected": "Завтра утром",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Mañana — завтра, por la mañana — утром.",
+      "rule_refs": [
+        "A1-05:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-05:task:16",
+      "type": "input",
+      "prompt": "Контроль: вставьте только артикль: a ___ dos.",
+      "expected": "las",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "A las dos.",
+      "rule_refs": [
+        "A1-05:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-05:task:17",
+      "type": "input",
+      "prompt": "Контроль: спросите, где станция. Используйте только dónde / estar / la estación, со знаками вопроса.",
+      "expected": "¿Dónde está la estación?",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": true,
+      "reason": "Для места здания: está; вопросительные знаки и тильды нужны.",
+      "rule_refs": [
+        "A1-05:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-05:task:18",
+      "type": "input",
+      "prompt": "Контроль: вы услышали Gira a la derecha. Куда повернуть?",
+      "expected": "Направо",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "A la derecha — направо.",
+      "rule_refs": [
+        "A1-05:explanation:2"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-05:task:19",
+      "type": "input",
+      "prompt": "Контроль: встреча в 15:30. Используйте a / las / tres / y / media, в заданном порядке.",
+      "expected": "a las tres y media",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Это разговорная 12-часовая модель времени события.",
+      "rule_refs": [
+        "A1-05:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-05:task:20",
+      "type": "listening",
+      "prompt": "Контроль без текста: во сколько встреча у станции?",
+      "expected": "a las seis y cuarto",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Встреча в 6:15, поезд позже — в 6:30.",
+      "rule_refs": [
+        "A1-05:listening:final"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-06:task:04",
+      "type": "input",
+      "prompt": "Как выразить план учиться?",
+      "expected": "Voy a estudiar.",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Ir в личной форме + a + инфинитив.",
+      "rule_refs": [
+        "A1-06:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-06:task:05",
+      "type": "input",
+      "prompt": "Вставьте только gusta/gustan: Me ___ los libros.",
+      "expected": "gustan",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Los libros — множественное число.",
+      "rule_refs": [
+        "A1-06:explanation:2"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-06:task:06",
+      "type": "input",
+      "prompt": "Замените yo на nosotros и введите фразу без местоимения: Voy a pasear.",
+      "expected": "Vamos a pasear.",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Voy → vamos; a pasear не меняется.",
+      "rule_refs": [
+        "A1-06:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-06:task:07",
+      "type": "reading",
+      "prompt": "Что больше нравится подруге Аны?",
+      "expected": "Гулять",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "A su amiga le gusta más pasear.",
+      "rule_refs": [
+        "A1-06:reading:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-06:task:08",
+      "type": "reading",
+      "prompt": "Что они не планируют делать?",
+      "expected": "Идти в кино",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "No van a ir al cine.",
+      "rule_refs": [
+        "A1-06:reading:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-06:task:09",
+      "type": "listening",
+      "prompt": "Почему собеседник не может в субботу?",
+      "expected": "Он собирается работать",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Porque voy a trabajar.",
+      "rule_refs": [
+        "A1-06:listening:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-06:task:10",
+      "type": "listening",
+      "prompt": "На какое время предложен кофе в воскресенье?",
+      "expected": "a las cuatro",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Podemos tomar un café a las cuatro.",
+      "rule_refs": [
+        "A1-06:listening:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-06:task:11",
+      "type": "input",
+      "prompt": "Новая ситуация: вам нравится читать. Используйте только Me + форму gustar + leer.",
+      "expected": "Me gusta leer.",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Инфинитив leer согласуется с gusta, не gustan.",
+      "rule_refs": [
+        "A1-06:explanation:2"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-06:task:14",
+      "type": "input",
+      "prompt": "Контроль: заполните только пропуск: Vamos ___ comer.",
+      "expected": "a",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Ir a + infinitivo.",
+      "rule_refs": [
+        "A1-06:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-06:task:15",
+      "type": "input",
+      "prompt": "Контроль: выберите фразу о нескольких городах.",
+      "expected": "Me gustan estas ciudades.",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Estas ciudades — множественное число.",
+      "rule_refs": [
+        "A1-06:explanation:2"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-06:task:16",
+      "type": "input",
+      "prompt": "Контроль: замените voy на ella и начните с Ella: Voy a descansar.",
+      "expected": "Ella va a descansar.",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Ella va; a descansar остаётся инфинитивом.",
+      "rule_refs": [
+        "A1-06:explanation:1"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-06:task:17",
+      "type": "input",
+      "prompt": "Контроль: выберите приглашение выпить кофе.",
+      "expected": "¿Quieres tomar un café?",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "Quieres + infinitivo приглашает к действию.",
+      "rule_refs": [
+        "A1-06:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-06:task:18",
+      "type": "input",
+      "prompt": "Контроль: сегодня не получается. Предложите завтра вопросом ровно из Y / mañana.",
+      "expected": "¿Y mañana?",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": true,
+      "reason": "Короткая естественная альтернатива; в этом контроле проверяются ¿?.",
+      "rule_refs": [
+        "A1-06:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-06:task:19",
+      "type": "input",
+      "prompt": "Контроль: подтвердите договорённость ровно в порядке Entonces / el domingo / a las cuatro / en el café Sol.",
+      "expected": "Entonces, el domingo a las cuatro en el café Sol.",
+      "alternatives": [],
+      "option_key_count": null,
+      "constraint": "EXPLICIT_SHORT_RESPONSE_MODEL",
+      "strict_question_signs": false,
+      "reason": "Подтверждены день, время и место; запятые не влияют на результат.",
+      "rule_refs": [
+        "A1-06:explanation:3"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    },
+    {
+      "id": "A1-06:task:20",
+      "type": "listening",
+      "prompt": "Контроль без текста: на какой день предложена встреча вместо субботы?",
+      "expected": "На воскресенье",
+      "alternatives": [],
+      "option_key_count": 1,
+      "constraint": "UNIQUE_IN_CONTEXT_CHOICE",
+      "strict_question_signs": false,
+      "reason": "В записи no puedo el sábado; ¿y el domingo?",
+      "rule_refs": [
+        "A1-06:listening:final"
+      ],
+      "status": "ASSISTANT_LANGUAGE_PASS_NOT_INDEPENDENT_ELE"
+    }
+  ]
+}

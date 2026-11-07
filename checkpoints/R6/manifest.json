@@ -1,0 +1,24 @@
+{
+  "commit": "a6ffd4f36c2ab89c4c94e470dc14e73e5a732f9b",
+  "tag": "r6-checkpoint-2026-11-06",
+  "user_report": {
+    "statement": "Приложение запускается и работает",
+    "classification": "POSITIVE_USER_FUNCTIONAL_CHECK",
+    "specific_device_iOS_speech_persistence": "NOT_SPECIFIED_IN_THIS_REPORT",
+    "language_methodical_ELE_acceptance": false
+  },
+  "artifacts": [
+    {
+      "path": "pilot/Mi_Espanol_Pilot_R6.html",
+      "sha256": "e912901af046236b2809f46b2edcc85018083920fe35e5067bd214cc155affea"
+    },
+    {
+      "path": "downloads/Mi_Espanol_Pilot_R6.zip",
+      "sha256": "9943303653ba609fabc8bc6bd5ea8fdf3bafbdcad12f2874a8025f94a14769f8"
+    },
+    {
+      "path": "audit/restoration-r6/build.json",
+      "sha256": "de2f171d2d9ad8cfcb2fe0ecb557086b4951c668c5baced689351dace0261729"
+    }
+  ]
+}

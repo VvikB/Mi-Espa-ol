@@ -1,0 +1,1003 @@
+{
+  "run_at_utc": "2026-11-07T08:41:28.241053+00:00",
+  "artifact_sha256": "3324aa91a8d0fbca5abc42894e1e1c02049c13d7ed5b4c15bedc34a3fb0736a2",
+  "browser": "155.0.8059.79",
+  "audio": "Mocked Spanish voice/output. User reported R2 launch/dictionary sound works on iPhone; R6 physical iPhone/Safari check pending.",
+  "scheme_audio_buttons_clicked": 79,
+  "summary": {
+    "PASS": 184
+  },
+  "results": [
+    {
+      "test": "startup",
+      "status": "PASS",
+      "evidence": []
+    },
+    {
+      "test": "catalog_complete",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_0_rows_visible",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_0_sound_0",
+      "status": "PASS",
+      "evidence": "Ser. yo soy. tú eres. él es. nosotros somos. vosotros sois. ellos son. Soy de Rusia.. Soy ingeniero.. Es importante practicar.. Somos amigos."
+    },
+    {
+      "test": "scheme_0_sound_1",
+      "status": "PASS",
+      "evidence": "yo soy"
+    },
+    {
+      "test": "scheme_0_sound_2",
+      "status": "PASS",
+      "evidence": "tú eres"
+    },
+    {
+      "test": "scheme_0_sound_3",
+      "status": "PASS",
+      "evidence": "él es"
+    },
+    {
+      "test": "scheme_0_sound_4",
+      "status": "PASS",
+      "evidence": "nosotros somos"
+    },
+    {
+      "test": "scheme_0_sound_5",
+      "status": "PASS",
+      "evidence": "vosotros sois"
+    },
+    {
+      "test": "scheme_0_sound_6",
+      "status": "PASS",
+      "evidence": "ellos son"
+    },
+    {
+      "test": "scheme_0_sound_7",
+      "status": "PASS",
+      "evidence": "Soy de Rusia."
+    },
+    {
+      "test": "scheme_0_sound_8",
+      "status": "PASS",
+      "evidence": "Soy ingeniero."
+    },
+    {
+      "test": "scheme_0_sound_9",
+      "status": "PASS",
+      "evidence": "Es importante practicar."
+    },
+    {
+      "test": "scheme_0_sound_10",
+      "status": "PASS",
+      "evidence": "Somos amigos."
+    },
+    {
+      "test": "scheme_0_whole_includes_examples",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_0_exercise_0",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_0_exercise_1",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_1_rows_visible",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_1_sound_0",
+      "status": "PASS",
+      "evidence": "Estar. yo estoy. tú estás. él está. nosotros estamos. vosotros estáis. ellos están. Estoy cansado.. Estamos en casa.. Estoy aprendiendo español.. La puerta está abierta."
+    },
+    {
+      "test": "scheme_1_sound_1",
+      "status": "PASS",
+      "evidence": "yo estoy"
+    },
+    {
+      "test": "scheme_1_sound_2",
+      "status": "PASS",
+      "evidence": "tú estás"
+    },
+    {
+      "test": "scheme_1_sound_3",
+      "status": "PASS",
+      "evidence": "él está"
+    },
+    {
+      "test": "scheme_1_sound_4",
+      "status": "PASS",
+      "evidence": "nosotros estamos"
+    },
+    {
+      "test": "scheme_1_sound_5",
+      "status": "PASS",
+      "evidence": "vosotros estáis"
+    },
+    {
+      "test": "scheme_1_sound_6",
+      "status": "PASS",
+      "evidence": "ellos están"
+    },
+    {
+      "test": "scheme_1_sound_7",
+      "status": "PASS",
+      "evidence": "Estoy cansado."
+    },
+    {
+      "test": "scheme_1_sound_8",
+      "status": "PASS",
+      "evidence": "Estamos en casa."
+    },
+    {
+      "test": "scheme_1_sound_9",
+      "status": "PASS",
+      "evidence": "Estoy aprendiendo español."
+    },
+    {
+      "test": "scheme_1_sound_10",
+      "status": "PASS",
+      "evidence": "La puerta está abierta."
+    },
+    {
+      "test": "scheme_1_whole_includes_examples",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_1_exercise_0",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_1_exercise_1",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_2_rows_visible",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_2_sound_0",
+      "status": "PASS",
+      "evidence": "Tener. yo tengo. tú tienes. él tiene. nosotros tenemos. vosotros tenéis. ellos tienen. Tengo hambre / sed.. Tengo sueño / frío / calor.. Tengo prisa / miedo / razón.. Tengo que salir."
+    },
+    {
+      "test": "scheme_2_sound_1",
+      "status": "PASS",
+      "evidence": "yo tengo"
+    },
+    {
+      "test": "scheme_2_sound_2",
+      "status": "PASS",
+      "evidence": "tú tienes"
+    },
+    {
+      "test": "scheme_2_sound_3",
+      "status": "PASS",
+      "evidence": "él tiene"
+    },
+    {
+      "test": "scheme_2_sound_4",
+      "status": "PASS",
+      "evidence": "nosotros tenemos"
+    },
+    {
+      "test": "scheme_2_sound_5",
+      "status": "PASS",
+      "evidence": "vosotros tenéis"
+    },
+    {
+      "test": "scheme_2_sound_6",
+      "status": "PASS",
+      "evidence": "ellos tienen"
+    },
+    {
+      "test": "scheme_2_sound_7",
+      "status": "PASS",
+      "evidence": "Tengo hambre / sed."
+    },
+    {
+      "test": "scheme_2_sound_8",
+      "status": "PASS",
+      "evidence": "Tengo sueño / frío / calor."
+    },
+    {
+      "test": "scheme_2_sound_9",
+      "status": "PASS",
+      "evidence": "Tengo prisa / miedo / razón."
+    },
+    {
+      "test": "scheme_2_sound_10",
+      "status": "PASS",
+      "evidence": "Tengo que salir."
+    },
+    {
+      "test": "scheme_2_whole_includes_examples",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_2_exercise_0",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_2_exercise_1",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_3_rows_visible",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_3_sound_0",
+      "status": "PASS",
+      "evidence": "Ir. yo voy. tú vas. él va. nosotros vamos. vosotros vais. ellos van. Voy a Valencia.. Vamos al centro.. Voy a llamar mañana.. ¿Adónde vas?"
+    },
+    {
+      "test": "scheme_3_sound_1",
+      "status": "PASS",
+      "evidence": "yo voy"
+    },
+    {
+      "test": "scheme_3_sound_2",
+      "status": "PASS",
+      "evidence": "tú vas"
+    },
+    {
+      "test": "scheme_3_sound_3",
+      "status": "PASS",
+      "evidence": "él va"
+    },
+    {
+      "test": "scheme_3_sound_4",
+      "status": "PASS",
+      "evidence": "nosotros vamos"
+    },
+    {
+      "test": "scheme_3_sound_5",
+      "status": "PASS",
+      "evidence": "vosotros vais"
+    },
+    {
+      "test": "scheme_3_sound_6",
+      "status": "PASS",
+      "evidence": "ellos van"
+    },
+    {
+      "test": "scheme_3_sound_7",
+      "status": "PASS",
+      "evidence": "Voy a Valencia."
+    },
+    {
+      "test": "scheme_3_sound_8",
+      "status": "PASS",
+      "evidence": "Vamos al centro."
+    },
+    {
+      "test": "scheme_3_sound_9",
+      "status": "PASS",
+      "evidence": "Voy a llamar mañana."
+    },
+    {
+      "test": "scheme_3_sound_10",
+      "status": "PASS",
+      "evidence": "¿Adónde vas?"
+    },
+    {
+      "test": "scheme_3_whole_includes_examples",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_3_exercise_0",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_3_exercise_1",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_4_rows_visible",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_4_sound_0",
+      "status": "PASS",
+      "evidence": "Preguntas. ¿Qué?. ¿Quién?. ¿Dónde?, ¿Adónde?. ¿Cuándo?, ¿Cómo?. ¿Por qué?. ¿Cuánto cuesta?. ¿Qué quieres hacer?. ¿Dónde vives?. ¿Por qué estudias español?"
+    },
+    {
+      "test": "scheme_4_sound_1",
+      "status": "PASS",
+      "evidence": "¿Qué?"
+    },
+    {
+      "test": "scheme_4_sound_2",
+      "status": "PASS",
+      "evidence": "¿Quién?"
+    },
+    {
+      "test": "scheme_4_sound_3",
+      "status": "PASS",
+      "evidence": "¿Dónde?, ¿Adónde?"
+    },
+    {
+      "test": "scheme_4_sound_4",
+      "status": "PASS",
+      "evidence": "¿Cuándo?, ¿Cómo?"
+    },
+    {
+      "test": "scheme_4_sound_5",
+      "status": "PASS",
+      "evidence": "¿Por qué?"
+    },
+    {
+      "test": "scheme_4_sound_6",
+      "status": "PASS",
+      "evidence": "¿Cuánto cuesta?"
+    },
+    {
+      "test": "scheme_4_sound_7",
+      "status": "PASS",
+      "evidence": "¿Qué quieres hacer?"
+    },
+    {
+      "test": "scheme_4_sound_8",
+      "status": "PASS",
+      "evidence": "¿Dónde vives?"
+    },
+    {
+      "test": "scheme_4_sound_9",
+      "status": "PASS",
+      "evidence": "¿Por qué estudias español?"
+    },
+    {
+      "test": "scheme_4_whole_includes_examples",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_4_exercise_0",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_4_exercise_1",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_5_rows_visible",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_5_sound_0",
+      "status": "PASS",
+      "evidence": "El tiempo. a las tres. de lunes a viernes. desde enero. desde hace dos años. hace una hora. por la mañana. Trabajo de nueve a seis.. Vivo aquí desde hace dos años.. Llegué hace una hora."
+    },
+    {
+      "test": "scheme_5_sound_1",
+      "status": "PASS",
+      "evidence": "a las tres"
+    },
+    {
+      "test": "scheme_5_sound_2",
+      "status": "PASS",
+      "evidence": "de lunes a viernes"
+    },
+    {
+      "test": "scheme_5_sound_3",
+      "status": "PASS",
+      "evidence": "desde enero"
+    },
+    {
+      "test": "scheme_5_sound_4",
+      "status": "PASS",
+      "evidence": "desde hace dos años"
+    },
+    {
+      "test": "scheme_5_sound_5",
+      "status": "PASS",
+      "evidence": "hace una hora"
+    },
+    {
+      "test": "scheme_5_sound_6",
+      "status": "PASS",
+      "evidence": "por la mañana"
+    },
+    {
+      "test": "scheme_5_sound_7",
+      "status": "PASS",
+      "evidence": "Trabajo de nueve a seis."
+    },
+    {
+      "test": "scheme_5_sound_8",
+      "status": "PASS",
+      "evidence": "Vivo aquí desde hace dos años."
+    },
+    {
+      "test": "scheme_5_sound_9",
+      "status": "PASS",
+      "evidence": "Llegué hace una hora."
+    },
+    {
+      "test": "scheme_5_whole_includes_examples",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_5_exercise_0",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_5_exercise_1",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_6_rows_visible",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_6_sound_0",
+      "status": "PASS",
+      "evidence": "El lugar. delante de, detrás de. a la izquierda de, a la derecha de. al lado de. enfrente de. encima de, debajo de. entre. El banco está al lado de la farmacia.. La mesa está delante de la ventana."
+    },
+    {
+      "test": "scheme_6_sound_1",
+      "status": "PASS",
+      "evidence": "delante de, detrás de"
+    },
+    {
+      "test": "scheme_6_sound_2",
+      "status": "PASS",
+      "evidence": "a la izquierda de, a la derecha de"
+    },
+    {
+      "test": "scheme_6_sound_3",
+      "status": "PASS",
+      "evidence": "al lado de"
+    },
+    {
+      "test": "scheme_6_sound_4",
+      "status": "PASS",
+      "evidence": "enfrente de"
+    },
+    {
+      "test": "scheme_6_sound_5",
+      "status": "PASS",
+      "evidence": "encima de, debajo de"
+    },
+    {
+      "test": "scheme_6_sound_6",
+      "status": "PASS",
+      "evidence": "entre"
+    },
+    {
+      "test": "scheme_6_sound_7",
+      "status": "PASS",
+      "evidence": "El banco está al lado de la farmacia."
+    },
+    {
+      "test": "scheme_6_sound_8",
+      "status": "PASS",
+      "evidence": "La mesa está delante de la ventana."
+    },
+    {
+      "test": "scheme_6_whole_includes_examples",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_6_exercise_0",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_7_rows_visible",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_7_sound_0",
+      "status": "PASS",
+      "evidence": "Habilidades. Se me da bien cocinar.. No se me dan bien los idiomas.. ¿Se te da bien nadar?. Se me da bien aprender palabras.. No se me da muy bien cantar."
+    },
+    {
+      "test": "scheme_7_sound_1",
+      "status": "PASS",
+      "evidence": "Se me da bien cocinar."
+    },
+    {
+      "test": "scheme_7_sound_2",
+      "status": "PASS",
+      "evidence": "No se me dan bien los idiomas."
+    },
+    {
+      "test": "scheme_7_sound_3",
+      "status": "PASS",
+      "evidence": "¿Se te da bien nadar?"
+    },
+    {
+      "test": "scheme_7_sound_4",
+      "status": "PASS",
+      "evidence": "Se me da bien aprender palabras."
+    },
+    {
+      "test": "scheme_7_sound_5",
+      "status": "PASS",
+      "evidence": "No se me da muy bien cantar."
+    },
+    {
+      "test": "scheme_7_whole_includes_examples",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_7_exercise_0",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_accent_negative",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "scheme_hint_not_independent",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "own_scheme_phrase_survives_reload",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "verified_tener_source",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "route_week-01",
+      "status": "PASS",
+      "evidence": {
+        "id": "week-01",
+        "days": 7,
+        "refs": true,
+        "gaps": 1
+      }
+    },
+    {
+      "test": "route_week-02",
+      "status": "PASS",
+      "evidence": {
+        "id": "week-02",
+        "days": 7,
+        "refs": true,
+        "gaps": 1
+      }
+    },
+    {
+      "test": "route_week-03",
+      "status": "PASS",
+      "evidence": {
+        "id": "week-03",
+        "days": 7,
+        "refs": true,
+        "gaps": 1
+      }
+    },
+    {
+      "test": "route_week-04",
+      "status": "PASS",
+      "evidence": {
+        "id": "week-04",
+        "days": 7,
+        "refs": true,
+        "gaps": 1
+      }
+    },
+    {
+      "test": "route_week-05",
+      "status": "PASS",
+      "evidence": {
+        "id": "week-05",
+        "days": 7,
+        "refs": true,
+        "gaps": 1
+      }
+    },
+    {
+      "test": "route_week-06",
+      "status": "PASS",
+      "evidence": {
+        "id": "week-06",
+        "days": 7,
+        "refs": true,
+        "gaps": 1
+      }
+    },
+    {
+      "test": "route_week-07",
+      "status": "PASS",
+      "evidence": {
+        "id": "week-07",
+        "days": 7,
+        "refs": true,
+        "gaps": 1
+      }
+    },
+    {
+      "test": "route_week-08",
+      "status": "PASS",
+      "evidence": {
+        "id": "week-08",
+        "days": 7,
+        "refs": true,
+        "gaps": 1
+      }
+    },
+    {
+      "test": "route_week-09",
+      "status": "PASS",
+      "evidence": {
+        "id": "week-09",
+        "days": 7,
+        "refs": true,
+        "gaps": 1
+      }
+    },
+    {
+      "test": "route_week-10",
+      "status": "PASS",
+      "evidence": {
+        "id": "week-10",
+        "days": 7,
+        "refs": true,
+        "gaps": 1
+      }
+    },
+    {
+      "test": "route_week-11",
+      "status": "PASS",
+      "evidence": {
+        "id": "week-11",
+        "days": 7,
+        "refs": true,
+        "gaps": 1
+      }
+    },
+    {
+      "test": "route_week-12",
+      "status": "PASS",
+      "evidence": {
+        "id": "week-12",
+        "days": 7,
+        "refs": true,
+        "gaps": 1
+      }
+    },
+    {
+      "test": "week1_uses_ser_estar",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "week1_opens_correct_table",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "duration_10",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "duration_20",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "duration_30",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "duration_changes_plan_size",
+      "status": "PASS",
+      "evidence": [
+        6,
+        8,
+        10
+      ]
+    },
+    {
+      "test": "unfinished_draft_resumes_after_reload",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "no_view_credit",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "listen_answer_disabled_before_audio",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "full_cycle_six_skills",
+      "status": "PASS",
+      "evidence": [
+        "input",
+        "input",
+        "reading",
+        "listening",
+        "writing",
+        "speaking"
+      ]
+    },
+    {
+      "test": "completed_day_recorded",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "self_assessment_not_objective",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "transcript_is_reading",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "content_gaps_explicit",
+      "status": "PASS",
+      "evidence": 2
+    },
+    {
+      "test": "backup_restores_active_lesson",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "visual_word_list_click",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_320_today",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_320_library",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_320_words",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_320_practice",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_320_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_375_today",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_375_library",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_375_words",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_375_practice",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_375_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_428_today",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_428_library",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_428_words",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_428_practice",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_428_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_430_today",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_430_library",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_430_words",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_430_practice",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_light_430_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_320_today",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_320_library",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_320_words",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_320_practice",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_320_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_375_today",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_375_library",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_375_words",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_375_practice",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_375_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_428_today",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_428_library",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_428_words",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_428_practice",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_428_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_430_today",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_430_library",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_430_words",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_430_practice",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "layout_dark_430_progress",
+      "status": "PASS",
+      "evidence": null
+    },
+    {
+      "test": "no_javascript_errors",
+      "status": "PASS",
+      "evidence": []
+    }
+  ]
+}

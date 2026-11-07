@@ -19,7 +19,7 @@ def load_data(root=ROOT):
     if db!=baseline:raise ValueError('R1 no-loss gate: source content differs from immutable baseline')
     return db
 
-def build(output=None,revision="R3"):
+def build(output=None,revision="R3",audit_dir=None):
     if revision not in ("R3","R4","R5","R6"):raise ValueError("Unknown revision")
     output=output or ROOT/f'.audit/working/Mi_Espanol_{revision}_INTERNAL.html'
     db=load_data()
@@ -32,7 +32,7 @@ def build(output=None,revision="R3"):
         from r5_content import review
         review_meta=review(db)
     modules=MODULES+(['recovered-content.js'] if revision in ('R4','R5','R6') else [])+(['reviewed-content.js'] if revision in ('R5','R6') else [])
-    if revision=='R6':modules+=['lessons.js']
+    if revision=='R6':modules+=['lesson-assessment.js','lessons.js']
     module_texts={name:(ROOT/'src'/name).read_text() for name in modules}
     if revision!='R6':module_texts['journey.js']=module_texts['journey.js'].replace('checkInput,next,append,flushDraft};','checkInput,next};').replace("t.type==='gap'&&!t.stage","t.type==='gap'")
     runtime='\n'.join(module_texts[name] for name in modules)+'\nrender();\n'
@@ -81,9 +81,9 @@ def build(output=None,revision="R3"):
     if revision in ('R4','R5','R6'):manifest.update(revision=revision,original_data_unchanged=True)
     if revision in ('R5','R6'):manifest.update(editorial_overlay=True,review_summary=review_meta['summary'])
     if revision=='R6':
-        manifest['course_counts']={'lessons':len(lessons),'dialogues':len(lessons),'reading_texts':len(lessons),'listening_scenarios':len(lessons),'tasks':sum(len(l['tasks']) for l in lessons),'new_global_vocabulary_records':0,'new_catalog_elements':len(catalog['lessonElements'])}
-        write_json(ROOT/'audit/restoration-r6/catalog.json',catalog)
-    write_json(ROOT/f'audit/restoration-{revision.lower()}/build.json',manifest)
+        manifest['course_counts']={'lessons':len(lessons),'dialogues':len(lessons),'reading_texts':len(lessons),'listening_scenarios':len(lessons)+sum(bool(l.get('finalListening')) for l in lessons),'tasks':sum(len(l['tasks']) for l in lessons),'new_global_vocabulary_records':0,'new_catalog_elements':len(catalog['lessonElements'])}
+        write_json((audit_dir or ROOT/'audit/restoration-r6')/'catalog.json',catalog)
+    write_json((audit_dir or ROOT/f'audit/restoration-{revision.lower()}')/'build.json',manifest)
     print('INTERNAL build:',output.relative_to(ROOT),'original data retained; SHA-256',manifest['artifact_sha256'])
     return output,manifest
 if __name__=='__main__':build()

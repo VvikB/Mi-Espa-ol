@@ -1,0 +1,8 @@
+test_84_plans_have_explicit_source_refs_and_gaps (tests.test_catalog.CatalogTests.test_84_plans_have_explicit_source_refs_and_gaps) ... ok
+test_all_catalog_sources_match_and_ids_are_unique (tests.test_catalog.CatalogTests.test_all_catalog_sources_match_and_ids_are_unique) ... ok
+test_recovered_scheme_tasks_are_separate_from_main_quiz (tests.test_catalog.CatalogTests.test_recovered_scheme_tasks_are_separate_from_main_quiz) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.834s
+
+OK

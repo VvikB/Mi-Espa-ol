@@ -1,3 +1,17 @@
+# Mi Español — исправленный R6
+
+[Скачать исправленный ZIP](https://github.com/VvikB/Mi-Espa-ol/raw/refs/heads/r6-a1-lessons/downloads/Mi_Espanol_R6_Reviewed.zip) · [HTML](https://github.com/VvikB/Mi-Espa-ol/raw/refs/heads/r6-a1-lessons/pilot/Mi_Espanol_R6_Reviewed.html)
+
+Ветка r6-a1-lessons. Завершена сохранённая содержательная проверка шести уроков, R7 не начинался. Прежние ID, 483 словарные записи, 73 таблицы и прогресс сохранены. Перед переходом экспортируйте копию прогресса. Исходный R6 закреплён тегом r6-checkpoint-2026-11-06; прежний HTML/ZIP остаются в репозитории.
+
+Уточнены обязательное ядро/справка, опоры, варианты ответов и контроль целей. Ошибки понимания учитываются отдельно, повтор привязан к конкретным заданиям и виден в Прогрессе. Старый результат не получает автоматически зачёт обновлённой проверки. Пользователь подтвердил запуск и работу исходного R6; исправленный пакет требует отдельной проверки на устройстве. Независимая ELE-приёмка и прямая сверка PCIC/CEFR не заявляются.
+
+[Отчёт исправлений](docs/r6-quality-review/REPORT.md) · [Матрица замечаний](docs/r6-quality-review/REVIEW_MATRIX.md) · [Исправленные уроки и ключи](docs/r6-quality-review/LESSONS_FOR_REVIEW.md) · [Контрольные суммы](audit/r6-quality-review/SHA256SUMS)
+
+Воспроизведение: make r6-reviewed-internal; make r6-reviewed-test; make r6-reviewed-package. Новый прогон создаёт отдельную папку verification-…; если код изменился, укажите её через VERIFY_DIR при пакетировании. Для одной документационной правки тесты заново не нужны. Полный курс A1–B2 не завершён.
+
+---
+
 # Mi Español — R6: первые шесть авторских уроков A1
 
 [Скачать ZIP R6](https://github.com/VvikB/Mi-Espa-ol/raw/refs/heads/r6-a1-lessons/downloads/Mi_Espanol_Pilot_R6.zip) · [Отдельный HTML](https://github.com/VvikB/Mi-Espa-ol/raw/refs/heads/r6-a1-lessons/pilot/Mi_Espanol_Pilot_R6.html)

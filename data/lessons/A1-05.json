@@ -19,7 +19,7 @@
   ],
   "tableRefs": [],
   "nextLesson": "A1-06",
-  "estimatedMinutes": 40,
+  "estimatedMinutes": 45,
   "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
   "languageReview": "ASSISTANT_EDITED",
   "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
@@ -45,7 +45,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "Вопросы для ориентирования",
-      "text": "¿Dónde está la estación? — где находится станция? ¿Adónde vas? — куда ты идёшь/едешь? ¿A qué hora sale el tren? — во сколько отправляется поезд? У вопросительных qué/dónde/adónde сохраняется тильда. Для места конкретного здания используется estar: La estación está cerca. Название события и его место — особый случай ser, но здесь мы ищем здания и людей. El autobús и el tren можно сначала учить как готовые слова в транспортной ситуации."
+      "text": "¿Dónde está la estación? — где станция? ¿A qué hora sale el tren? — во сколько отправляется поезд? La estación está cerca — станция близко. Тильды в dónde/qué обязательны. В диалоге использовано неформальное tú: Sigue… — иди дальше…, Gira… — поверни…. Это готовые инструкции для понимания, а не полная тема императива.",
+      "referenceText": "¿Dónde está la estación? — где находится станция? ¿Adónde vas? — куда ты идёшь/едешь? ¿A qué hora sale el tren? — во сколько отправляется поезд? У вопросительных qué/dónde/adónde сохраняется тильда. Для места конкретного здания используется estar: La estación está cerca. Название события и его место — особый случай ser, но здесь мы ищем здания и людей. El autobús и el tren можно сначала учить как готовые слова в транспортной ситуации.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     },
     {
       "id": "A1-05:explanation:2",
@@ -68,7 +70,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "Место и направление",
-      "text": "Cerca de — близко от, lejos de — далеко от, al lado de — рядом с, delante de — перед, detrás de — позади. De + el даёт del: cerca del banco. A la derecha / a la izquierda — направо/налево или справа/слева по контексту. Чтобы сказать «справа от станции», нужен de: a la derecha de la estación. Между двумя ориентирами: entre el banco y la farmacia. Не путайте enfrente de — напротив и delante de — перед. Следуйте по одному ориентиру за раз и при необходимости повторите маршрут собеседнику."
+      "text": "Обязательные опоры: cerca de — близко от, al lado de — рядом с, a la derecha — направо/справа, a la izquierda — налево/слева. Cerca de + el banco → cerca del banco. В диалоге enfrente de — напротив; delante de — перед, это разные положения. Остальные предлоги можно посмотреть в справке и личном конспекте.",
+      "referenceText": "Cerca de — близко от, lejos de — далеко от, al lado de — рядом с, delante de — перед, detrás de — позади. De + el даёт del: cerca del banco. A la derecha / a la izquierda — направо/налево или справа/слева по контексту. Чтобы сказать «справа от станции», нужен de: a la derecha de la estación. Между двумя ориентирами: entre el banco y la farmacia. Не путайте enfrente de — напротив и delante de — перед. Следуйте по одному ориентиру за раз и при необходимости повторите маршрут собеседнику.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     },
     {
       "id": "A1-05:explanation:3",
@@ -91,7 +95,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "Часы и время встречи",
-      "text": "¿Qué hora es? — который час? Es la una; son las dos. Для времени события: a la una, a las dos. A las tres y media — в половине четвёртого; a las tres y cuarto — в четверть четвёртого; a las cuatro menos cuarto — без четверти четыре. В расписаниях есть 24-часовая запись: 15:30. В заданиях мы указываем, требуется ли разговорная 12-часовая форма. Mañana — завтра, por la mañana — утром. Desde las nueve — начиная с девяти, hasta las seis — до шести. Временные предлоги выбираются по смыслу, не по одному русскому слову «в»."
+      "text": "Es la una — час; son las dos — два часа. Время события: a la una / a las dos. A las tres y media — в 15:30 (половине четвёртого); a las cinco y cuarto — в 17:15. Для этого урока достаточно media и cuarto; menos cuarto и развёрнутые временные предлоги — справка. Mañana — завтра, por la mañana — утром.",
+      "referenceText": "¿Qué hora es? — который час? Es la una; son las dos. Для времени события: a la una, a las dos. A las tres y media — в половине четвёртого; a las tres y cuarto — в четверть четвёртого; a las cuatro menos cuarto — без четверти четыре. В расписаниях есть 24-часовая запись: 15:30. В заданиях мы указываем, требуется ли разговорная 12-часовая форма. Mañana — завтра, por la mañana — утром. Desde las nueve — начиная с девяти, hasta las seis — до шести. Временные предлоги выбираются по смыслу, не по одному русскому слову «в».",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     }
   ],
   "lexicon": [
@@ -118,7 +124,8 @@
       "wordIndex": 19,
       "es": "la estación",
       "ru": "станция",
-      "note": "¿Dónde está la estación?"
+      "note": "¿Dónde está la estación?",
+      "requiredForProduction": true
     },
     {
       "id": "A1-05:lexicon:2",
@@ -143,7 +150,8 @@
       "wordIndex": 17,
       "es": "la calle",
       "ru": "улица",
-      "note": "por esta calle"
+      "note": "por esta calle",
+      "requiredForProduction": true
     },
     {
       "id": "A1-05:lexicon:3",
@@ -168,7 +176,8 @@
       "wordIndex": 20,
       "es": "el billete",
       "ru": "билет",
-      "note": "un billete de tren"
+      "note": "un billete de tren",
+      "requiredForProduction": false
     },
     {
       "id": "A1-05:lexicon:4",
@@ -193,7 +202,8 @@
       "wordIndex": 21,
       "es": "la izquierda",
       "ru": "левая сторона",
-      "note": "a la izquierda"
+      "note": "a la izquierda",
+      "requiredForProduction": true
     },
     {
       "id": "A1-05:lexicon:5",
@@ -218,7 +228,8 @@
       "wordIndex": 22,
       "es": "la derecha",
       "ru": "правая сторона",
-      "note": "a la derecha"
+      "note": "a la derecha",
+      "requiredForProduction": true
     },
     {
       "id": "A1-05:lexicon:6",
@@ -243,7 +254,8 @@
       "wordIndex": 23,
       "es": "cerca",
       "ru": "близко",
-      "note": "cerca de / cerca del"
+      "note": "cerca de / cerca del",
+      "requiredForProduction": true
     },
     {
       "id": "A1-05:lexicon:7",
@@ -268,7 +280,8 @@
       "wordIndex": 24,
       "es": "lejos",
       "ru": "далеко",
-      "note": "lejos de"
+      "note": "lejos de",
+      "requiredForProduction": true
     },
     {
       "id": "A1-05:lexicon:8",
@@ -293,7 +306,8 @@
       "wordIndex": 62,
       "es": "el tiempo",
       "ru": "время/погода",
-      "note": "Для часа суток нужна формула ¿Qué hora es?"
+      "note": "Для часа суток нужна формула ¿Qué hora es?",
+      "requiredForProduction": false
     },
     {
       "id": "A1-05:lexicon:9",
@@ -318,7 +332,8 @@
       "wordIndex": 47,
       "es": "hoy",
       "ru": "сегодня",
-      "note": "hoy a las tres"
+      "note": "hoy a las tres",
+      "requiredForProduction": false
     },
     {
       "id": "A1-05:lexicon:10",
@@ -343,7 +358,8 @@
       "wordIndex": 49,
       "es": "mañana",
       "ru": "завтра/утро",
-      "note": "mañana por la mañana"
+      "note": "mañana por la mañana",
+      "requiredForProduction": false
     }
   ],
   "dialogue": {
@@ -370,7 +386,7 @@
       {
         "speaker": "Clara",
         "es": "Perdón, ¿dónde está la estación?",
-        "ru": "Извините, где станция?",
+        "ru": "Извини, где станция?",
         "id": "A1-05:dialogue:1:turn:01",
         "level": "A1",
         "topic": "Город и время",
@@ -394,7 +410,7 @@
       {
         "speaker": "Vecino",
         "es": "Está cerca. Sigue por esta calle y gira a la derecha.",
-        "ru": "Она близко. Идите по этой улице и поверните направо.",
+        "ru": "Она близко. Иди по этой улице и поверни направо.",
         "id": "A1-05:dialogue:1:turn:02",
         "level": "A1",
         "topic": "Город и время",
@@ -610,7 +626,7 @@
     ],
     "languageReview": "ASSISTANT_EDITED",
     "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
-    "text": "Hola, Ana. Soy Luis. Nuestro autobús sale a las seis y media de la estación del centro. La parada está a la derecha de la entrada, junto a una farmacia. Nos vemos allí a las seis y cuarto. Trae el billete, por favor. Si no encuentras la parada, llámame.",
+    "text": "Hola, Ana. Soy Luis. Nuestro autobús sale a las seis y media de la estación del centro. La parada está a la derecha de la entrada, junto a una farmacia. Nos vemos allí a las seis y cuarto. Yo tengo los billetes. Hasta luego.",
     "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
   },
   "typicalErrors": [
@@ -745,7 +761,10 @@
         "¿Cuánto lugar sale el tren?"
       ],
       "activityKind": "choice",
-      "contentId": "A1-05:task:04"
+      "contentId": "A1-05:task:04",
+      "explanationRefs": [
+        "A1-05:explanation:1"
+      ]
     },
     {
       "id": "A1-05:task:05",
@@ -775,7 +794,10 @@
       "explanation": "Конкретное здание: está.",
       "options": [],
       "activityKind": "input",
-      "contentId": "A1-05:task:05"
+      "contentId": "A1-05:task:05",
+      "explanationRefs": [
+        "A1-05:explanation:2"
+      ]
     },
     {
       "id": "A1-05:task:06",
@@ -805,7 +827,10 @@
       "explanation": "De + el → del.",
       "options": [],
       "activityKind": "input",
-      "contentId": "A1-05:task:06"
+      "contentId": "A1-05:task:06",
+      "explanationRefs": [
+        "A1-05:explanation:2"
+      ]
     },
     {
       "id": "A1-05:task:07",
@@ -841,7 +866,10 @@
       "text": "Luis tiene una cita con Ana a las cinco y cuarto. El café está al lado de la biblioteca, no dentro de la estación. Luis sale de casa a las cinco y va a pie. Primero sigue por la calle Mayor. Después gira a la izquierda. La biblioteca está entre el banco y la farmacia. Ana llega antes y espera delante del café. Luis tiene quince minutos para llegar.",
       "activityKind": "reading",
       "meaning": "Рядом с библиотекой",
-      "contentId": "A1-05:task:07"
+      "contentId": "A1-05:task:07",
+      "explanationRefs": [
+        "A1-05:reading:1"
+      ]
     },
     {
       "id": "A1-05:task:08",
@@ -877,7 +905,10 @@
       "text": "Luis tiene una cita con Ana a las cinco y cuarto. El café está al lado de la biblioteca, no dentro de la estación. Luis sale de casa a las cinco y va a pie. Primero sigue por la calle Mayor. Después gira a la izquierda. La biblioteca está entre el banco y la farmacia. Ana llega antes y espera delante del café. Luis tiene quince minutos para llegar.",
       "activityKind": "reading",
       "meaning": "a las cinco y cuarto",
-      "contentId": "A1-05:task:08"
+      "contentId": "A1-05:task:08",
+      "explanationRefs": [
+        "A1-05:reading:1"
+      ]
     },
     {
       "id": "A1-05:task:09",
@@ -910,10 +941,13 @@
         "a las seis y cuarto",
         "a las cinco y media"
       ],
-      "text": "Hola, Ana. Soy Luis. Nuestro autobús sale a las seis y media de la estación del centro. La parada está a la derecha de la entrada, junto a una farmacia. Nos vemos allí a las seis y cuarto. Trae el billete, por favor. Si no encuentras la parada, llámame.",
+      "text": "Hola, Ana. Soy Luis. Nuestro autobús sale a las seis y media de la estación del centro. La parada está a la derecha de la entrada, junto a una farmacia. Nos vemos allí a las seis y cuarto. Yo tengo los billetes. Hasta luego.",
       "activityKind": "listening",
       "meaning": "a las seis y media",
-      "contentId": "A1-05:task:09"
+      "contentId": "A1-05:task:09",
+      "explanationRefs": [
+        "A1-05:listening:1"
+      ]
     },
     {
       "id": "A1-05:task:10",
@@ -946,10 +980,13 @@
         "Слева",
         "Внутри входа"
       ],
-      "text": "Hola, Ana. Soy Luis. Nuestro autobús sale a las seis y media de la estación del centro. La parada está a la derecha de la entrada, junto a una farmacia. Nos vemos allí a las seis y cuarto. Trae el billete, por favor. Si no encuentras la parada, llámame.",
+      "text": "Hola, Ana. Soy Luis. Nuestro autobús sale a las seis y media de la estación del centro. La parada está a la derecha de la entrada, junto a una farmacia. Nos vemos allí a las seis y cuarto. Yo tengo los billetes. Hasta luego.",
       "activityKind": "listening",
       "meaning": "Справа",
-      "contentId": "A1-05:task:10"
+      "contentId": "A1-05:task:10",
+      "explanationRefs": [
+        "A1-05:listening:1"
+      ]
     },
     {
       "id": "A1-05:task:11",
@@ -980,7 +1017,10 @@
       "options": [],
       "activityKind": "input",
       "transfer": true,
-      "contentId": "A1-05:task:11"
+      "contentId": "A1-05:task:11",
+      "explanationRefs": [
+        "A1-05:explanation:3"
+      ]
     },
     {
       "id": "A1-05:task:12",
@@ -1076,7 +1116,10 @@
       "options": [],
       "control": true,
       "activityKind": "input",
-      "contentId": "A1-05:task:14"
+      "contentId": "A1-05:task:14",
+      "explanationRefs": [
+        "A1-05:explanation:3"
+      ]
     },
     {
       "id": "A1-05:task:15",
@@ -1111,7 +1154,10 @@
       ],
       "control": true,
       "activityKind": "choice",
-      "contentId": "A1-05:task:15"
+      "contentId": "A1-05:task:15",
+      "explanationRefs": [
+        "A1-05:explanation:3"
+      ]
     },
     {
       "id": "A1-05:task:16",
@@ -1142,7 +1188,162 @@
       "options": [],
       "control": true,
       "activityKind": "input",
-      "contentId": "A1-05:task:16"
+      "contentId": "A1-05:task:16",
+      "explanationRefs": [
+        "A1-05:explanation:3"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Город и время",
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "id": "A1-05:task:17",
+      "contentId": "A1-05:task:17",
+      "type": "input",
+      "activityKind": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: спросите, где станция. Используйте только dónde / estar / la estación, со знаками вопроса.",
+      "expected": "¿Dónde está la estación?",
+      "alternatives": [],
+      "options": [],
+      "explanation": "Для места здания: está; вопросительные знаки и тильды нужны.",
+      "control": true,
+      "addedInReview": true,
+      "strictPunctuation": true,
+      "explanationRefs": [
+        "A1-05:explanation:1"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Город и время",
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "id": "A1-05:task:18",
+      "contentId": "A1-05:task:18",
+      "type": "input",
+      "activityKind": "choice",
+      "skill": "grammar",
+      "prompt": "Контроль: вы услышали Gira a la derecha. Куда повернуть?",
+      "expected": "Направо",
+      "alternatives": [],
+      "options": [
+        "Направо",
+        "Налево",
+        "Идти прямо без поворота"
+      ],
+      "explanation": "A la derecha — направо.",
+      "control": true,
+      "addedInReview": true,
+      "explanationRefs": [
+        "A1-05:explanation:2"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Город и время",
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "id": "A1-05:task:19",
+      "contentId": "A1-05:task:19",
+      "type": "input",
+      "activityKind": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: встреча в 15:30. Используйте a / las / tres / y / media, в заданном порядке.",
+      "expected": "a las tres y media",
+      "alternatives": [],
+      "options": [],
+      "explanation": "Это разговорная 12-часовая модель времени события.",
+      "control": true,
+      "addedInReview": true,
+      "explanationRefs": [
+        "A1-05:explanation:3"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Город и время",
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "id": "A1-05:task:20",
+      "contentId": "A1-05:task:20",
+      "type": "listening",
+      "activityKind": "listening",
+      "skill": "listening",
+      "prompt": "Контроль без текста: во сколько встреча у станции?",
+      "expected": "a las seis y cuarto",
+      "alternatives": [],
+      "options": [
+        "a las seis y cuarto",
+        "a las seis y media",
+        "a las cinco y cuarto"
+      ],
+      "explanation": "Встреча в 6:15, поезд позже — в 6:30.",
+      "control": true,
+      "addedInReview": true,
+      "text": "El tren sale a las seis y media. Nos vemos en la estación a las seis y cuarto. La entrada está al lado del banco. Tenemos quince minutos.",
+      "meaning": "a las seis y cuarto",
+      "sourceItem": "A1-05:listening:final",
+      "explanationRefs": [
+        "A1-05:listening:final"
+      ]
     }
   ],
   "repetitionDays": [
@@ -1155,6 +1356,119 @@
   "alphabet": null,
   "durationRangeMinutes": [
     35,
-    50
-  ]
+    60
+  ],
+  "assessmentVersion": 2,
+  "loadGuidance": {
+    "coreGrammarTargets": [
+      "Вопросы для ориентирования",
+      "Место и направление",
+      "Часы и время встречи"
+    ],
+    "coreLexiconIds": [
+      "A1-05:lexicon:1",
+      "A1-05:lexicon:2",
+      "A1-05:lexicon:4",
+      "A1-05:lexicon:5",
+      "A1-05:lexicon:6",
+      "A1-05:lexicon:7"
+    ],
+    "referencePolicy": "Полные парадигмы и исключения — по желанию; они не обязательны для основного результата.",
+    "suggestedPause": "После переноса можно вернуться к плану и продолжить письмо, речь и контроль позже.",
+    "status": "EDITORIAL_LOAD_HEURISTIC_NOT_VALIDATED_ELE_THRESHOLD"
+  },
+  "scaffolding": [
+    {
+      "level": "A1",
+      "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-07",
+        "NOTES-02",
+        "NOTES-04",
+        "NOTES-07"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Город и время",
+      "cefr": [
+        "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+      ],
+      "id": "A1-05:support:01",
+      "title": "Опоры для диалога, чтения и аудирования",
+      "entries": [
+        [
+          "la estación / la parada / la entrada",
+          "станция / остановка / вход"
+        ],
+        [
+          "el tren / el autobús / el billete",
+          "поезд / автобус / билет"
+        ],
+        [
+          "sigue por esta calle / gira a la derecha",
+          "иди дальше по этой улице / поверни направо; tú, готовые инструкции"
+        ],
+        [
+          "enfrente de / delante de / junto a / entre… y…",
+          "напротив / перед / рядом с / между… и…"
+        ],
+        [
+          "a pie / voy andando / son diez minutos",
+          "пешком / иду пешком / это десять минут"
+        ],
+        [
+          "sale / llega / espera / tengo tiempo",
+          "отправляется или выходит / приходит / ждёт / успеваю"
+        ],
+        [
+          "una cita / dentro de / primero / después",
+          "встреча / внутри / сначала / потом"
+        ],
+        [
+          "el banco / la farmacia / la biblioteca",
+          "банк / аптека / библиотека"
+        ],
+        [
+          "tres y media / cinco y cuarto / seis y cuarto",
+          "3:30 / 5:15 / 6:15 в 12-часовой модели"
+        ],
+        [
+          "sale de casa / nuestro autobús / nos vemos allí",
+          "выходит из дома / наш автобус / увидимся там"
+        ],
+        [
+          "quince / treinta / hasta luego",
+          "пятнадцать / тридцать / до встречи"
+        ]
+      ],
+      "note": "Узнавайте эти сочетания по смыслу; все их формы не требуется воспроизводить наизусть."
+    }
+  ],
+  "finalListening": {
+    "level": "A1",
+    "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-07",
+      "NOTES-02",
+      "NOTES-04",
+      "NOTES-07"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "topic": "Город и время",
+    "cefr": [
+      "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+    ],
+    "id": "A1-05:listening:final",
+    "text": "El tren sale a las seis y media. Nos vemos en la estación a las seis y cuarto. La entrada está al lado del banco. Tenemos quince minutos.",
+    "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+  }
 }

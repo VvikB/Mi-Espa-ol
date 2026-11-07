@@ -1,0 +1,3288 @@
+{
+  "base_commit": "a6ffd4f36c2ab89c4c94e470dc14e73e5a732f9b",
+  "scope": "Corrected R6, no R7",
+  "changes": [
+    {
+      "lesson": "A1-01",
+      "path": "/assessmentVersion",
+      "status": "ADDED",
+      "after": 2
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/durationRangeMinutes/1",
+      "status": "CORRECTED",
+      "before": 50,
+      "after": 60
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/estimatedMinutes",
+      "status": "CORRECTED",
+      "before": 40,
+      "after": 45
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/explanations/0/referenceText",
+      "status": "ADDED",
+      "after": "В современном испанском алфавите 27 букв, включая ñ. Ch и ll — сочетания букв, а не отдельные буквы алфавита. Название буквы помогает продиктовать имя, но не заменяет её звук в слове. Сначала прослушайте слово целиком, затем повторите. Гласные a, e, i, o, u обычно произносятся ясно; не превращайте безударное o в русское «а». Hola начинается с немой h. В año буква ñ обозначает один мягкий носовой звук, а не обычное n: замена меняет слово."
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/explanations/0/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/explanations/0/text",
+      "status": "CORRECTED",
+      "before": "В современном испанском алфавите 27 букв, включая ñ. Ch и ll — сочетания букв, а не отдельные буквы алфавита. Название буквы помогает продиктовать имя, но не заменяет её звук в слове. Сначала прослушайте слово целиком, затем повторите. Гласные a, e, i, o, u обычно произносятся ясно; не превращайте безударное o в русское «а». Hola начинается с немой h. В año буква ñ обозначает один мягкий носовой звук, а не обычное n: замена меняет слово.",
+      "after": "В алфавите 27 букв, включая ñ. Сейчас не нужно заучивать все названия: таблица ниже служит справочником для имени по буквам. Обязательные опоры: hola — h не звучит; año — ñ не равно n; queso — qu перед e/i звучит [k]. Гласные a, e, i, o, u произносите ясно. Сначала слушайте целое слово, затем повторите."
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/explanations/1/referenceText",
+      "status": "ADDED",
+      "after": "Qu перед e/i передаёт [k], а u не произносится: queso, quince. В gue/gui буква u обычно не звучит; в güe/güi знак ¨ показывает, что u нужно произнести: pingüino. Ch близко к русскому «ч». J обычно передаёт звук, близкий к «х», с региональными вариантами. Между гласными r и rr различают слова: pero — «но», perro — «собака»; короткое r не равно русскому многократному «р». В Испании c перед e/i и z могут звучать иначе, чем s; в большинстве Латинской Америки и части Испании они совпадают с s. Это варианты нормы, а не ошибка. Ll и y также имеют региональные варианты."
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/explanations/1/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/explanations/1/text",
+      "status": "CORRECTED",
+      "before": "Qu перед e/i передаёт [k], а u не произносится: queso, quince. В gue/gui буква u обычно не звучит; в güe/güi знак ¨ показывает, что u нужно произнести: pingüino. Ch близко к русскому «ч». J обычно передаёт звук, близкий к «х», с региональными вариантами. Между гласными r и rr различают слова: pero — «но», perro — «собака»; короткое r не равно русскому многократному «р». В Испании c перед e/i и z могут звучать иначе, чем s; в большинстве Латинской Америки и части Испании они совпадают с s. Это варианты нормы, а не ошибка. Ll и y также имеют региональные варианты.",
+      "after": "Для этого урока достаточно qu в queso и различия n/ñ. Ch близко к русскому «ч». Остальные сочетания и региональные варианты оставлены в справке: их не нужно воспроизводить в итоговом контроле. Если звук пока не получается, используйте просьбу повторить; автоматической оценки произношения нет."
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/explanations/2/referenceText",
+      "status": "ADDED",
+      "after": "У слова, оканчивающегося на гласную, n или s, в базовых моделях ударение обычно на предпоследнем слоге: ca-sa, ha-blan. При другой согласной обычно на последнем: ciu-dad. Тильда указывает ударный слог вопреки этому правилу: ca-fé, lá-piz. Правило имеет уточнения для сочетаний гласных и некоторых окончаний: здесь тренируем только указанные модели. Вопросительные слова qué, cómo, dónde имеют тильду и в косвенных вопросах. Ñ — отдельная буква, её нельзя заменять n. Прописные буквы сохраняют нужные ударения: MÉXICO."
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/explanations/2/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/explanations/2/text",
+      "status": "CORRECTED",
+      "before": "У слова, оканчивающегося на гласную, n или s, в базовых моделях ударение обычно на предпоследнем слоге: ca-sa, ha-blan. При другой согласной обычно на последнем: ciu-dad. Тильда указывает ударный слог вопреки этому правилу: ca-fé, lá-piz. Правило имеет уточнения для сочетаний гласных и некоторых окончаний: здесь тренируем только указанные модели. Вопросительные слова qué, cómo, dónde имеют тильду и в косвенных вопросах. Ñ — отдельная буква, её нельзя заменять n. Прописные буквы сохраняют нужные ударения: MÉXICO.",
+      "after": "Тренируем три модели: CA-sa (гласная на конце — обычно предпоследний слог), ciu-DAD (другая согласная — обычно последний), ca-FÉ (тильда указывает ударение). Для этих слов правило достаточно; исключения и сочетания гласных сейчас не изучаем. Клавиши é и ñ есть под полем ответа. Прописные сохраняют нужные тильды."
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/explanations/3/referenceText",
+      "status": "ADDED",
+      "after": "¿Cómo te llamas? — «Как тебя зовут?»; ¿Puedes repetir? — «Можешь повторить?». Учите их пока как готовые речевые формулы. Вопрос пишется с ¿ и ?. В общем вопросе интонация часто повышается к концу, но у вопроса со специальным словом и в разных регионах контур может отличаться: одного универсального правила нет. В No entiendo отрицание no стоит перед глаголом; отдельной обязательной «отрицательной интонации» нет. Сравните утверждение Entiendo и No entiendo, затем произнесите просьбу переспросить спокойно и вежливо. TTS даёт образец, но приложение не оценивает ваше произношение."
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/explanations/3/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/explanations/3/text",
+      "status": "CORRECTED",
+      "before": "¿Cómo te llamas? — «Как тебя зовут?»; ¿Puedes repetir? — «Можешь повторить?». Учите их пока как готовые речевые формулы. Вопрос пишется с ¿ и ?. В общем вопросе интонация часто повышается к концу, но у вопроса со специальным словом и в разных регионах контур может отличаться: одного универсального правила нет. В No entiendo отрицание no стоит перед глаголом; отдельной обязательной «отрицательной интонации» нет. Сравните утверждение Entiendo и No entiendo, затем произнесите просьбу переспросить спокойно и вежливо. TTS даёт образец, но приложение не оценивает ваше произношение.",
+      "after": "¿Cómo te llamas? — «Как тебя зовут?»; Me llamo… — «Меня зовут…». ¿Puedes repetir más despacio? — «Можешь повторить помедленнее?». No entiendo — «Я не понимаю». Это готовые формулы: их полную грамматику пока разбирать не нужно. В вопросе ставят ¿ и ?; в специально помеченном письменном контроле нужны оба знака. Контур вопроса зависит от его типа и региона. У отрицания нет отдельной обязательной интонации; no ставится перед entiendo."
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/finalListening",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-01"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Звуки и чтение",
+        "cefr": [
+          "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+        ],
+        "id": "A1-01:listening:final",
+        "text": "Hola, soy Rosa. La reunión es en el Café Sol, en la calle Luna, número tres. Nos vemos en la puerta. Hasta luego.",
+        "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+      }
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/lexicon/0/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/lexicon/1/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/lexicon/2/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/lexicon/3/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/lexicon/4/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/lexicon/5/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/lexicon/6/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/lexicon/7/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/lexicon/8/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/lexicon/9/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/loadGuidance",
+      "status": "ADDED",
+      "after": {
+        "coreGrammarTargets": [
+          "Опорные h, ñ и qu",
+          "Ударение casa/café/ciudad",
+          "Готовая формула переспроса и оформление вопроса"
+        ],
+        "coreLexiconIds": [
+          "A1-01:lexicon:1",
+          "A1-01:lexicon:3",
+          "A1-01:lexicon:4",
+          "A1-01:lexicon:5",
+          "A1-01:lexicon:9",
+          "A1-01:lexicon:10"
+        ],
+        "referencePolicy": "Полные парадигмы и исключения — по желанию; они не обязательны для основного результата.",
+        "suggestedPause": "После переноса можно вернуться к плану и продолжить письмо, речь и контроль позже.",
+        "status": "EDITORIAL_LOAD_HEURISTIC_NOT_VALIDATED_ELE_THRESHOLD"
+      }
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/scaffolding",
+      "status": "ADDED",
+      "after": [
+        {
+          "level": "A1",
+          "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+          "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+          "pcic": [
+            "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+          ],
+          "originalMaterials": [
+            "GRAMMAR-01"
+          ],
+          "languageReview": "ASSISTANT_EDITED",
+          "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+          "topic": "Звуки и чтение",
+          "cefr": [
+            "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+          ],
+          "id": "A1-01:support:01",
+          "title": "Опоры для диалога, чтения и аудирования",
+          "entries": [
+            [
+              "soy Lucía / me llamo… / se llama…",
+              "я — Лусия / меня зовут… / его или её зовут…"
+            ],
+            [
+              "hoy / ahora / aquí / allí",
+              "сегодня / сейчас / здесь / там"
+            ],
+            [
+              "y / pero / en / de",
+              "и / но / в / из, о (по сочетанию)"
+            ],
+            [
+              "una reunión de español / la reunión es en…",
+              "встреча по испанскому / встреча проходит в…"
+            ],
+            [
+              "la puerta / un chico / mi amigo",
+              "вход / парень / мой друг"
+            ],
+            [
+              "su nombre / la dirección / la calle",
+              "его или её имя / адрес / улица"
+            ],
+            [
+              "veo / dice / digo / escribo",
+              "вижу / говорит / говорю / пишу; здесь узнаём по значению, не спрягаем"
+            ],
+            [
+              "¿Puedes repetir? / más despacio / no entiendo",
+              "можешь повторить? / помедленнее / не понимаю"
+            ],
+            [
+              "número doce / quince / tres",
+              "номер двенадцать / пятнадцать / три; пока узнаём как часть адреса"
+            ],
+            [
+              "sí / gracias / nos vemos",
+              "да / спасибо / увидимся"
+            ],
+            [
+              "si no entiendes mi nombre / puedo repetir",
+              "если ты не понимаешь моё имя / могу повторить; готовые опоры"
+            ]
+          ],
+          "note": "Узнавайте эти сочетания по смыслу; все их формы не требуется воспроизводить наизусть."
+        }
+      ]
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/3/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-01:explanation:1"
+      ]
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/4/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-01:explanation:3"
+      ]
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/5/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-01:explanation:1"
+      ]
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/6/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-01:reading:1"
+      ]
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/7/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-01:reading:1"
+      ]
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/8/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-01:listening:1"
+      ]
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/9/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-01:listening:1"
+      ]
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/10/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-01:explanation:1"
+      ]
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/13/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-01:explanation:3"
+      ]
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/14/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-01:explanation:3"
+      ]
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/15/explanation",
+      "status": "CORRECTED",
+      "before": "Готовая формула переспроса. Знаки ¿? полезны в письме; при проверке они нормализуются.",
+      "after": "Это письменный контроль вопроса: нужны оба знака ¿ и ?. Регистр букв не влияет на результат."
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/15/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-01:explanation:4"
+      ]
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/15/strictPunctuation",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/16",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-01"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Звуки и чтение",
+        "cefr": [
+          "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+        ],
+        "id": "A1-01:task:17",
+        "contentId": "A1-01:task:17",
+        "type": "input",
+        "activityKind": "input",
+        "skill": "grammar",
+        "prompt": "Контроль: введите по-испански «сыр» одним словом.",
+        "expected": "queso",
+        "alternatives": [],
+        "options": [],
+        "explanation": "Qu перед e/i даёт [k], u не читается.",
+        "control": true,
+        "addedInReview": true,
+        "explanationRefs": [
+          "A1-01:explanation:1"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/17",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-01"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Звуки и чтение",
+        "cefr": [
+          "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+        ],
+        "id": "A1-01:task:18",
+        "contentId": "A1-01:task:18",
+        "type": "input",
+        "activityKind": "input",
+        "skill": "grammar",
+        "prompt": "Контроль: введите «год» одним словом, с отдельной буквой ñ.",
+        "expected": "año",
+        "alternatives": [],
+        "options": [],
+        "explanation": "Año с ñ; n — другая буква.",
+        "control": true,
+        "addedInReview": true,
+        "explanationRefs": [
+          "A1-01:explanation:1"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/18",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-01"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Звуки и чтение",
+        "cefr": [
+          "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+        ],
+        "id": "A1-01:task:19",
+        "contentId": "A1-01:task:19",
+        "type": "input",
+        "activityKind": "choice",
+        "skill": "grammar",
+        "prompt": "Контроль: вы не разобрали имя. Выберите просьбу повторить медленнее.",
+        "expected": "¿Puedes repetir más despacio?",
+        "alternatives": [],
+        "options": [
+          "¿Puedes repetir más despacio?",
+          "¿Dónde está la casa?",
+          "¿Qué hora es?"
+        ],
+        "explanation": "Для переспроса подходит просьба повторить, а не вопрос о месте/времени.",
+        "control": true,
+        "addedInReview": true,
+        "explanationRefs": [
+          "A1-01:explanation:4"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-01",
+      "path": "/tasks/19",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Прочитать знакомые слова, выделить ударный слог и переспросить имя или адрес, если речь непонятна.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Pronunciación y prosodia; Ortografía; Funciones: pedir confirmación y repetición"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-01"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Звуки и чтение",
+        "cefr": [
+          "CEFR A1: понимать знакомые слова при медленной чёткой речи; просить повторить; сообщать личные данные"
+        ],
+        "id": "A1-01:task:20",
+        "contentId": "A1-01:task:20",
+        "type": "listening",
+        "activityKind": "listening",
+        "skill": "listening",
+        "prompt": "Контроль без текста: как называется кафе?",
+        "expected": "Café Sol",
+        "alternatives": [],
+        "options": [
+          "Café Sol",
+          "Café Luna",
+          "Café Mayor"
+        ],
+        "explanation": "В записи назван Café Sol.",
+        "control": true,
+        "addedInReview": true,
+        "text": "Hola, soy Rosa. La reunión es en el Café Sol, en la calle Luna, número tres. Nos vemos en la puerta. Hasta luego.",
+        "meaning": "Café Sol",
+        "sourceItem": "A1-01:listening:final",
+        "explanationRefs": [
+          "A1-01:listening:final"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/assessmentVersion",
+      "status": "ADDED",
+      "after": 2
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/durationRangeMinutes/1",
+      "status": "CORRECTED",
+      "before": 50,
+      "after": 60
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/estimatedMinutes",
+      "status": "CORRECTED",
+      "before": 40,
+      "after": 45
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/explanations/0/referenceText",
+      "status": "ADDED",
+      "after": "Ser связывает человека с именем, происхождением или профессией: Soy Ana. Soy de Rusia. Soy profesora. Estar показывает местонахождение и состояние: Estoy en el aula. Hoy estoy cansada. Правило «постоянное/временное» ненадёжно: Madrid está en España, хотя город никуда не переехал. На этом уроке тренируем именно идентификацию, профессию, состояние и место. Место проведения события обычно выражают с ser: La clase es en el aula dos; это отдельный случай, а не повод менять estar у человека."
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/explanations/0/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/explanations/0/text",
+      "status": "CORRECTED",
+      "before": "Ser связывает человека с именем, происхождением или профессией: Soy Ana. Soy de Rusia. Soy profesora. Estar показывает местонахождение и состояние: Estoy en el aula. Hoy estoy cansada. Правило «постоянное/временное» ненадёжно: Madrid está en España, хотя город никуда не переехал. На этом уроке тренируем именно идентификацию, профессию, состояние и место. Место проведения события обычно выражают с ser: La clase es en el aula dos; это отдельный случай, а не повод менять estar у человека.",
+      "after": "Профессия и происхождение: Soy estudiante. Soy de Rusia. Место и состояние: Estoy en casa. Hoy estoy cansada. Для другого человека: Ana es estudiante; Ana está en casa. Не заменяйте это правилом «постоянное/временное»: Madrid está en España. Особый случай места события оставлен в справке; фразу La clase es aquí в диалоге пока используйте как готовую."
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/explanations/1/referenceText",
+      "status": "ADDED",
+      "after": "Ser: soy, eres, es, somos, sois, son. Estar: estoy, estás, está, estamos, estáis, están. Usted грамматически требует третьего лица: Usted es profesor. Ustedes — третьего лица множественного. Yo/tú часто опускаются, потому что форма уже показывает лицо: Soy estudiante. Женщина говорит Estoy cansada, мужчина — Estoy cansado; род не меняет форму estoy. В множественном числе: Estamos cansados/cansadas. Не называйте это объективной оценкой личности: состояние сегодня — не постоянная характеристика."
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/explanations/1/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/explanations/1/text",
+      "status": "CORRECTED",
+      "before": "Ser: soy, eres, es, somos, sois, son. Estar: estoy, estás, está, estamos, estáis, están. Usted грамматически требует третьего лица: Usted es profesor. Ustedes — третьего лица множественного. Yo/tú часто опускаются, потому что форма уже показывает лицо: Soy estudiante. Женщина говорит Estoy cansada, мужчина — Estoy cansado; род не меняет форму estoy. В множественном числе: Estamos cansados/cansadas. Не называйте это объективной оценкой личности: состояние сегодня — не постоянная характеристика.",
+      "after": "Обязательные формы: yo soy / estoy, tú eres / estás, él/ella es / está; для совместной ситуации — nosotros somos / estamos. Yo и nosotros можно опустить: Soy estudiante, Estamos en casa. Женщина говорит cansada, мужчина cansado. Полные парадигмы, vosotros/ustedes и дополнительные случаи — справочный материал, не отдельная задача этого урока."
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/explanations/2/referenceText",
+      "status": "ADDED",
+      "after": "El libro / la casa, los libros / las casas; un libro / una casa, unos libros / unas casas. Не угадывайте род только по последней букве: учите слово вместе с артиклем. El agua — существительное женского рода: el agua fría, las aguas frías. После ser профессию в нейтральной конструкции обычно называют без артикля: Soy profesora, не Soy una profesora как обязательную форму. При дополнительной характеристике una возможен: Es una profesora excelente. Для неизвестной книги: un libro; для уже названной: el libro. Прилагательное согласуется с существительным, а не с артиклем el в исключении agua."
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/explanations/2/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/explanations/2/text",
+      "status": "CORRECTED",
+      "before": "El libro / la casa, los libros / las casas; un libro / una casa, unos libros / unas casas. Не угадывайте род только по последней букве: учите слово вместе с артиклем. El agua — существительное женского рода: el agua fría, las aguas frías. После ser профессию в нейтральной конструкции обычно называют без артикля: Soy profesora, не Soy una profesora как обязательную форму. При дополнительной характеристике una возможен: Es una profesora excelente. Для неизвестной книги: un libro; для уже названной: el libro. Прилагательное согласуется с существительным, а не с артиклем el в исключении agua.",
+      "after": "Учите существительное с артиклем: el libro / la casa; множественное число los libros / las casas. Неизвестный предмет: un libro / una casa. Профессия после ser в нейтральной фразе обычно без артикля: Soy profesora. Обычное согласование: la casa blanca, los libros nuevos. Исключение el agua fría остаётся доступным, но вынесено за обязательный контроль этого урока."
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/finalListening",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-05",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Кто я и где я",
+        "cefr": [
+          "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+        ],
+        "id": "A1-02:listening:final",
+        "text": "Hola, soy Luis. Soy profesor y soy de España. Hoy estoy en la biblioteca. Mi hermana está en casa. Nos vemos luego.",
+        "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+      }
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/lexicon/0/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/lexicon/1/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/lexicon/2/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/lexicon/3/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/lexicon/4/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/lexicon/5/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/lexicon/6/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/lexicon/7/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/lexicon/8/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/lexicon/9/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/loadGuidance",
+      "status": "ADDED",
+      "after": {
+        "coreGrammarTargets": [
+          "SER и ESTAR: выбор по смыслу",
+          "Лицо и согласование",
+          "Артикль, род и число"
+        ],
+        "coreLexiconIds": [
+          "A1-02:lexicon:2",
+          "A1-02:lexicon:4",
+          "A1-02:lexicon:5",
+          "A1-02:lexicon:6",
+          "A1-02:lexicon:7"
+        ],
+        "referencePolicy": "Полные парадигмы и исключения — по желанию; они не обязательны для основного результата.",
+        "suggestedPause": "После переноса можно вернуться к плану и продолжить письмо, речь и контроль позже.",
+        "status": "EDITORIAL_LOAD_HEURISTIC_NOT_VALIDATED_ELE_THRESHOLD"
+      }
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/scaffolding",
+      "status": "ADDED",
+      "after": [
+        {
+          "level": "A1",
+          "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+          "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+          "pcic": [
+            "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+          ],
+          "originalMaterials": [
+            "GRAMMAR-02",
+            "GRAMMAR-05",
+            "NOTES-05",
+            "NOTES-06"
+          ],
+          "languageReview": "ASSISTANT_EDITED",
+          "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+          "topic": "Кто я и где я",
+          "cefr": [
+            "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+          ],
+          "id": "A1-02:support:01",
+          "title": "Опоры для диалога, чтения и аудирования",
+          "entries": [
+            [
+              "me llamo / se llama",
+              "меня зовут / его или её зовут"
+            ],
+            [
+              "el aula dos / la clase es aquí",
+              "аудитория два / занятие здесь; классный кабинет и само занятие — разные вещи"
+            ],
+            [
+              "este libro / estos son los libros",
+              "эта книга / это книги; готовые указательные формулы"
+            ],
+            [
+              "para mí / para mi hermana",
+              "для меня / для моей сестры"
+            ],
+            [
+              "mi / su / nuestro",
+              "мой / его, её или ваш / наш; смысл уточняется владельцем"
+            ],
+            [
+              "una biblioteca / una sala pequeña",
+              "библиотека / небольшая комната"
+            ],
+            [
+              "tranquilo, tranquila / nervioso, nerviosa / contento, contenta",
+              "спокойный / нервничающий / довольный; выбираем род"
+            ],
+            [
+              "un poco / muy / todos / estamos listos",
+              "немного / очень / все / мы готовы"
+            ],
+            [
+              "hay un libro / porque / mañana empieza mi curso",
+              "есть книга / потому что / завтра начинается мой курс; готовые опоры чтения/аудио"
+            ],
+            [
+              "encantado, encantada / amable / joven",
+              "очень приятно / любезный / молодой; joven одинаково для обоих родов"
+            ],
+            [
+              "médico / médica / estudiante",
+              "врач (мужчина/женщина) / студент или студентка"
+            ],
+            [
+              "en casa de una amiga / en el trabajo",
+              "дома у подруги / на работе"
+            ]
+          ],
+          "note": "Узнавайте эти сочетания по смыслу; все их формы не требуется воспроизводить наизусть."
+        }
+      ]
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/3/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-02:explanation:1"
+      ]
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/4/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-02:explanation:1"
+      ]
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/5/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-02:explanation:3"
+      ]
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/6/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-02:reading:1"
+      ]
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/7/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-02:reading:1"
+      ]
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/8/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-02:listening:1"
+      ]
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/9/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-02:listening:1"
+      ]
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/10/alternatives/1",
+      "status": "ADDED",
+      "after": "Estoy hoy cansada."
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/10/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-02:explanation:1"
+      ]
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/13/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-02:explanation:1"
+      ]
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/14/control",
+      "status": "CORRECTED",
+      "before": true,
+      "after": false
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/14/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-02:explanation:3"
+      ]
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/14/extension",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/15/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-02:explanation:2"
+      ]
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/16",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-05",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Кто я и где я",
+        "cefr": [
+          "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+        ],
+        "id": "A1-02:task:17",
+        "contentId": "A1-02:task:17",
+        "type": "input",
+        "activityKind": "input",
+        "skill": "grammar",
+        "prompt": "Контроль: из Soy / de / Rusia составьте сообщение о происхождении.",
+        "expected": "Soy de Rusia.",
+        "alternatives": [],
+        "options": [],
+        "explanation": "Для происхождения: ser de + страна.",
+        "control": true,
+        "addedInReview": true,
+        "explanationRefs": [
+          "A1-02:explanation:1"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/17",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-05",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Кто я и где я",
+        "cefr": [
+          "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+        ],
+        "id": "A1-02:task:18",
+        "contentId": "A1-02:task:18",
+        "type": "input",
+        "activityKind": "input",
+        "skill": "grammar",
+        "prompt": "Контроль: спросите, где Ана. Используйте только dónde + estar + Ana и знаки вопроса.",
+        "expected": "¿Dónde está Ana?",
+        "alternatives": [],
+        "options": [],
+        "explanation": "Где человек находится: dónde está; тильды и ¿? обязательны.",
+        "control": true,
+        "addedInReview": true,
+        "strictPunctuation": true,
+        "explanationRefs": [
+          "A1-02:explanation:1"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/18",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-05",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Кто я и где я",
+        "cefr": [
+          "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+        ],
+        "id": "A1-02:task:19",
+        "contentId": "A1-02:task:19",
+        "type": "input",
+        "activityKind": "choice",
+        "skill": "grammar",
+        "prompt": "Контроль: какая пара верно сообщает профессию Марии и её место сегодня?",
+        "expected": "María es estudiante. Hoy está en casa.",
+        "alternatives": [],
+        "options": [
+          "María es estudiante. Hoy está en casa.",
+          "María está estudiante. Hoy es en casa.",
+          "María es estudiante. Hoy son en casa."
+        ],
+        "explanation": "Профессия es, местонахождение está.",
+        "control": true,
+        "addedInReview": true,
+        "explanationRefs": [
+          "A1-02:explanation:1"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-02",
+      "path": "/tasks/19",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Представиться и представить другого человека; сообщить профессию/происхождение и различить личность, состояние и местонахождение.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — ser/estar, género, número, artículos; Funciones — dar información personal"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-05",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Кто я и где я",
+        "cefr": [
+          "CEFR A1: представиться, сообщить простые личные сведения и местонахождение"
+        ],
+        "id": "A1-02:task:20",
+        "contentId": "A1-02:task:20",
+        "type": "listening",
+        "activityKind": "listening",
+        "skill": "listening",
+        "prompt": "Контроль без текста: где Луис сейчас?",
+        "expected": "В библиотеке",
+        "alternatives": [],
+        "options": [
+          "В библиотеке",
+          "Дома",
+          "В кафе"
+        ],
+        "explanation": "В записи: estoy en la biblioteca.",
+        "control": true,
+        "addedInReview": true,
+        "text": "Hola, soy Luis. Soy profesor y soy de España. Hoy estoy en la biblioteca. Mi hermana está en casa. Nos vemos luego.",
+        "meaning": "В библиотеке",
+        "sourceItem": "A1-02:listening:final",
+        "explanationRefs": [
+          "A1-02:listening:final"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/assessmentVersion",
+      "status": "ADDED",
+      "after": 2
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/durationRangeMinutes/1",
+      "status": "CORRECTED",
+      "before": 50,
+      "after": 60
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/estimatedMinutes",
+      "status": "CORRECTED",
+      "before": 40,
+      "after": 45
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/explanations/0/referenceText",
+      "status": "ADDED",
+      "after": "Регулярные глаголы имеют окончания -ar, -er, -ir. Hablar: hablo, hablas, habla, hablamos, habláis, hablan; comer: como, comes, come, comemos, coméis, comen; vivir: vivo, vives, vive, vivimos, vivís, viven. Presente описывает привычки и события настоящего: Trabajo por la mañana. Не добавляйте отдельное «есть» по русской/английской модели: Yo trabajo, а не yo soy trabajo. Вопрос часто отличается порядком слов/интонацией и знаками, а отрицание ставит no перед формой: No trabajo los domingos."
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/explanations/0/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/explanations/0/text",
+      "status": "CORRECTED",
+      "before": "Регулярные глаголы имеют окончания -ar, -er, -ir. Hablar: hablo, hablas, habla, hablamos, habláis, hablan; comer: como, comes, come, comemos, coméis, comen; vivir: vivo, vives, vive, vivimos, vivís, viven. Presente описывает привычки и события настоящего: Trabajo por la mañana. Не добавляйте отдельное «есть» по русской/английской модели: Yo trabajo, а не yo soy trabajo. Вопрос часто отличается порядком слов/интонацией и знаками, а отрицание ставит no перед формой: No trabajo los domingos.",
+      "after": "Начните с нужных действий: estudio — учусь, trabajo — работаю, como — ем, hablo — говорю. Для nosotros: estudiamos, trabajamos, comemos, hablamos. Для Ana: estudia, trabaja, come, habla. Три полные регулярные парадигмы доступны в справке; сейчас не требуется заучить все формы всех глаголов. Presente описывает привычку: Trabajo por la mañana. Отрицание: No trabajo los domingos."
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/explanations/1/referenceText",
+      "status": "ADDED",
+      "after": "Tener: tengo, tienes, tiene, tenemos, tenéis, tienen. Tengo tiempo — у меня есть время; tengo hambre — я голоден/голодна. Ir: voy, vas, va, vamos, vais, van. Voy al trabajo — я иду/еду на работу; a + el сливается в al. Ir не означает только движение пешком. Пока описываем обычное направление; планы ir a + infinitivo подробно будут в A1-06. Дни с повторяемостью: los lunes, los fines de semana. По порядку действий помогают primero, después, luego; это готовые связки."
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/explanations/1/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/explanations/1/text",
+      "status": "CORRECTED",
+      "before": "Tener: tengo, tienes, tiene, tenemos, tenéis, tienen. Tengo tiempo — у меня есть время; tengo hambre — я голоден/голодна. Ir: voy, vas, va, vamos, vais, van. Voy al trabajo — я иду/еду на работу; a + el сливается в al. Ir не означает только движение пешком. Пока описываем обычное направление; планы ir a + infinitivo подробно будут в A1-06. Дни с повторяемостью: los lunes, los fines de semana. По порядку действий помогают primero, después, luego; это готовые связки.",
+      "after": "Нужные формы tener: tengo — у меня есть, tienes — у тебя есть, tiene — у него/неё есть; tenemos — у нас есть. Tengo tiempo — у меня есть время; tengo hambre — я голоден/голодна. Ir: voy, vas, va, vamos. Voy al trabajo — иду/еду на работу; a + el даёт al. Планы ir a + infinitivo будут в A1-06. Полные парадигмы сохраняются в справке."
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/explanations/2/referenceText",
+      "status": "ADDED",
+      "after": "Levantarse: me levanto, te levantas, se levanta, nos levantamos, os levantáis, se levantan. Местоимение изменяется вместе с лицом: Ana se levanta, не Ana me levanta, если речь о ней самой. Me levanto — я встаю; levanto la caja — поднимаю коробку: не любой глагол обязан быть возвратным. В отрицании no ставится перед местоимением: No me levanto tarde. Для точного времени достаточно готовой формулы a las siete. Не переносите русское окончание -ся на все слова: tengo hambre не возвратная конструкция."
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/explanations/2/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/explanations/2/text",
+      "status": "CORRECTED",
+      "before": "Levantarse: me levanto, te levantas, se levanta, nos levantamos, os levantáis, se levantan. Местоимение изменяется вместе с лицом: Ana se levanta, не Ana me levanta, если речь о ней самой. Me levanto — я встаю; levanto la caja — поднимаю коробку: не любой глагол обязан быть возвратным. В отрицании no ставится перед местоимением: No me levanto tarde. Для точного времени достаточно готовой формулы a las siete. Не переносите русское окончание -ся на все слова: tengo hambre не возвратная конструкция.",
+      "after": "Me levanto — я встаю; te levantas — ты встаёшь; Ana se levanta — Ана встаёт. Меняются местоимение и глагол. ¿A qué hora te levantas? — готовый вопрос «Во сколько ты встаёшь?». A las siete — «в семь». No me levanto tarde — «я не встаю поздно». Слова primero (сначала), después (потом), a veces (иногда) помогают связать рассказ. Остальные возвратные формы пока справочные."
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/finalListening",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-08",
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-01",
+          "NOTES-03"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Мой день",
+        "cefr": [
+          "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+        ],
+        "id": "A1-03:listening:final",
+        "text": "Hola, soy Julia. Los lunes me levanto a las seis. Desayuno en casa y después voy al trabajo. Mi hermana se levanta a las ocho.",
+        "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+      }
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/lexicon/0/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/lexicon/1/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/lexicon/2/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/lexicon/3/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/lexicon/4/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/lexicon/5/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/lexicon/6/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/lexicon/7/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/lexicon/8/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/lexicon/9/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/loadGuidance",
+      "status": "ADDED",
+      "after": {
+        "coreGrammarTargets": [
+          "Presente: привычка и настоящее",
+          "TENER и IR в повседневной речи",
+          "Возвратная форма и свой распорядок"
+        ],
+        "coreLexiconIds": [
+          "A1-03:lexicon:1",
+          "A1-03:lexicon:2",
+          "A1-03:lexicon:3",
+          "A1-03:lexicon:4",
+          "A1-03:lexicon:5",
+          "A1-03:lexicon:7"
+        ],
+        "referencePolicy": "Полные парадигмы и исключения — по желанию; они не обязательны для основного результата.",
+        "suggestedPause": "После переноса можно вернуться к плану и продолжить письмо, речь и контроль позже.",
+        "status": "EDITORIAL_LOAD_HEURISTIC_NOT_VALIDATED_ELE_THRESHOLD"
+      }
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/scaffolding",
+      "status": "ADDED",
+      "after": [
+        {
+          "level": "A1",
+          "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+          "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+          "pcic": [
+            "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+          ],
+          "originalMaterials": [
+            "GRAMMAR-08",
+            "GRAMMAR-09",
+            "GRAMMAR-11",
+            "NOTES-01",
+            "NOTES-03"
+          ],
+          "languageReview": "ASSISTANT_EDITED",
+          "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+          "topic": "Мой день",
+          "cefr": [
+            "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+          ],
+          "id": "A1-03:support:01",
+          "title": "Опоры для диалога, чтения и аудирования",
+          "entries": [
+            [
+              "¿A qué hora…? / a las siete / de nueve a dos",
+              "во сколько? / в семь / с девяти до двух"
+            ],
+            [
+              "desayuno / como / estudio / trabajo",
+              "завтракаю / ем / учусь / работаю"
+            ],
+            [
+              "primero / después / luego",
+              "сначала / потом / затем"
+            ],
+            [
+              "por la mañana / por la tarde / por la noche",
+              "утром / после обеда или вечером / ночью"
+            ],
+            [
+              "normalmente / siempre / a veces / los domingos",
+              "обычно / всегда / иногда / по воскресеньям"
+            ],
+            [
+              "vuelvo a casa / veo a mis amigos",
+              "возвращаюсь домой / вижусь с друзьями; готовые сочетания"
+            ],
+            [
+              "una oficina / una tienda / una compañera / clientes",
+              "офис / магазин / коллега / клиенты"
+            ],
+            [
+              "mi hermano / más tarde / porque",
+              "мой брат / позже / потому что"
+            ],
+            [
+              "media hora / durante / tengo tiempo",
+              "полчаса / в течение / у меня есть время"
+            ],
+            [
+              "¿Tienes tiempo? / de acuerdo / nos vemos allí",
+              "у тебя есть время? / договорились / увидимся там"
+            ],
+            [
+              "para nadar / el sábado / el lunes",
+              "чтобы плавать / суббота / понедельник"
+            ]
+          ],
+          "note": "Узнавайте эти сочетания по смыслу; все их формы не требуется воспроизводить наизусть."
+        }
+      ]
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/tasks/3/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-03:explanation:3"
+      ]
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/tasks/4/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-03:explanation:3"
+      ]
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/tasks/5/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-03:explanation:3"
+      ]
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/tasks/6/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-03:reading:1"
+      ]
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/tasks/7/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-03:reading:1"
+      ]
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/tasks/8/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-03:listening:1"
+      ]
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/tasks/9/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-03:listening:1"
+      ]
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/tasks/10/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-03:explanation:2"
+      ]
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/tasks/13/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-03:explanation:3"
+      ]
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/tasks/14/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-03:explanation:3"
+      ]
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/tasks/15/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-03:explanation:3"
+      ]
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/tasks/16",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-08",
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-01",
+          "NOTES-03"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Мой день",
+        "cefr": [
+          "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+        ],
+        "id": "A1-03:task:17",
+        "contentId": "A1-03:task:17",
+        "type": "input",
+        "activityKind": "input",
+        "skill": "grammar",
+        "prompt": "Контроль: спросите собеседника, во сколько он встаёт. Используйте только A qué hora / te / levantarse (tú), со знаками вопроса.",
+        "expected": "¿A qué hora te levantas?",
+        "alternatives": [],
+        "options": [],
+        "explanation": "Te levantas соответствует tú. Нужна тильда в qué.",
+        "control": true,
+        "addedInReview": true,
+        "strictPunctuation": true,
+        "explanationRefs": [
+          "A1-03:explanation:3"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/tasks/17",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-08",
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-01",
+          "NOTES-03"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Мой день",
+        "cefr": [
+          "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+        ],
+        "id": "A1-03:task:18",
+        "contentId": "A1-03:task:18",
+        "type": "input",
+        "activityKind": "input",
+        "skill": "grammar",
+        "prompt": "Контроль: замените me на лицо Ana и начните с Ana: Me levanto a las siete.",
+        "expected": "Ana se levanta a las siete.",
+        "alternatives": [],
+        "options": [],
+        "explanation": "Me levanto → Ana se levanta.",
+        "control": true,
+        "addedInReview": true,
+        "explanationRefs": [
+          "A1-03:explanation:3"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/tasks/18",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-08",
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-01",
+          "NOTES-03"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Мой день",
+        "cefr": [
+          "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+        ],
+        "id": "A1-03:task:19",
+        "contentId": "A1-03:task:19",
+        "type": "input",
+        "activityKind": "choice",
+        "skill": "grammar",
+        "prompt": "Контроль: выберите связный распорядок с правильными формами yo.",
+        "expected": "Me levanto, desayuno y voy al trabajo.",
+        "alternatives": [],
+        "options": [
+          "Me levanto, desayuno y voy al trabajo.",
+          "Se levanto, desayuna y vamos al trabajo.",
+          "Me levantar, desayuno y va al trabajo."
+        ],
+        "explanation": "Все три формы соответствуют yo.",
+        "control": true,
+        "addedInReview": true,
+        "explanationRefs": [
+          "A1-03:explanation:3"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-03",
+      "path": "/tasks/19",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Описать обычный день в настоящем времени, спросить о привычке и преобразовать рассказ от первого лица к третьему.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — presente, verbos frecuentes, pronombres reflexivos; Funciones — describir hábitos"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-08",
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-01",
+          "NOTES-03"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Мой день",
+        "cefr": [
+          "CEFR A1: дать простое описание своего дня и спросить о знакомой повседневной информации"
+        ],
+        "id": "A1-03:task:20",
+        "contentId": "A1-03:task:20",
+        "type": "listening",
+        "activityKind": "listening",
+        "skill": "listening",
+        "prompt": "Контроль без текста: во сколько рассказчица встаёт?",
+        "expected": "a las seis",
+        "alternatives": [],
+        "options": [
+          "a las seis",
+          "a las siete",
+          "a las ocho"
+        ],
+        "explanation": "В записи: me levanto a las seis.",
+        "control": true,
+        "addedInReview": true,
+        "text": "Hola, soy Julia. Los lunes me levanto a las seis. Desayuno en casa y después voy al trabajo. Mi hermana se levanta a las ocho.",
+        "meaning": "a las seis",
+        "sourceItem": "A1-03:listening:final",
+        "explanationRefs": [
+          "A1-03:listening:final"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/assessmentVersion",
+      "status": "ADDED",
+      "after": 2
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/durationRangeMinutes/1",
+      "status": "CORRECTED",
+      "before": 50,
+      "after": 60
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/estimatedMinutes",
+      "status": "CORRECTED",
+      "before": 40,
+      "after": 45
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/explanations/0/referenceText",
+      "status": "ADDED",
+      "after": "Для покупок нужны cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez; дальше once, doce, trece, catorce, quince, dieciséis, diecisiete, dieciocho, diecinueve, veinte. Десятки: treinta, cuarenta, cincuenta; treinta y dos — 32. Перед мужским существительным uno сокращается: un café, veintiún euros; перед женским: una mesa, veintiuna manzanas. Два кофе: dos cafés, с тильдой. Для базовой цены можно сказать dos euros или dos euros con cincuenta; способ озвучивания цифр голосом устройства может отличаться."
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/explanations/0/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/explanations/0/text",
+      "status": "CORRECTED",
+      "before": "Для покупок нужны cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez; дальше once, doce, trece, catorce, quince, dieciséis, diecisiete, dieciocho, diecinueve, veinte. Десятки: treinta, cuarenta, cincuenta; treinta y dos — 32. Перед мужским существительным uno сокращается: un café, veintiún euros; перед женским: una mesa, veintiuna manzanas. Два кофе: dos cafés, с тильдой. Для базовой цены можно сказать dos euros или dos euros con cincuenta; способ озвучивания цифр голосом устройства может отличаться.",
+      "after": "Для обязательной покупки используем 0–10: cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez. Un café — один кофе, dos cafés — два кофе. В простой цене: dos euros; un euro con cincuenta — 1,50 евро. Числа до 20, десятки и veintiún оставлены в справке; задание на dieciséis теперь дополнительное, а не условие успеха этого урока."
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/explanations/1/referenceText",
+      "status": "ADDED",
+      "after": "Hay сообщает, что что-то есть в ситуации: Hay pan. Hay dos mesas libres. Форма hay одна для единственного и множественного числа; не нужно hayn. Вопрос: ¿Hay agua? Отрицание: No hay queso. Если речь об уже определённом предмете, его местоположение обычно выражают с estar: El queso está en la nevera. На этом уроке различаем наличие/неопределённое количество и место известного предмета. Неисчисляемое количество часто без неопределённого артикля: Quiero agua, не обязательное una agua."
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/explanations/1/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/explanations/1/text",
+      "status": "CORRECTED",
+      "before": "Hay сообщает, что что-то есть в ситуации: Hay pan. Hay dos mesas libres. Форма hay одна для единственного и множественного числа; не нужно hayn. Вопрос: ¿Hay agua? Отрицание: No hay queso. Если речь об уже определённом предмете, его местоположение обычно выражают с estar: El queso está en la nevera. На этом уроке различаем наличие/неопределённое количество и место известного предмета. Неисчисляемое количество часто без неопределённого артикля: Quiero agua, не обязательное una agua.",
+      "after": "Hay сообщает о наличии: Hay pan. Hay dos mesas libres. ¿Hay agua? No hay queso. Форма hay не меняется по числу. Известный предмет в определённом месте: El queso está en la nevera. Для заказа воды достаточно Quiero agua. Неисчисляемую воду не нужно обязательно превращать в «одну воду»; можно уточнить un vaso de agua — стакан воды."
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/explanations/2/referenceText",
+      "status": "ADDED",
+      "after": "Un café, por favor — достаточный простой заказ. Me gustaría pedir una ensalada — более развёрнутая вежливая формула; её можно использовать как готовое выражение, не изучая сейчас всю систему condicional. ¿Cuánto cuesta? спрашивает цену, ¿Cuánto es? — итог. La cuenta, por favor просит счёт. Sin azúcar / con leche уточняют заказ. Полезно повторить сумму: ¿Siete euros en total? Не считать чаевые или оплату картой универсальным правилом страны: спросите ¿Puedo pagar con tarjeta?"
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/explanations/2/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/explanations/2/text",
+      "status": "CORRECTED",
+      "before": "Un café, por favor — достаточный простой заказ. Me gustaría pedir una ensalada — более развёрнутая вежливая формула; её можно использовать как готовое выражение, не изучая сейчас всю систему condicional. ¿Cuánto cuesta? спрашивает цену, ¿Cuánto es? — итог. La cuenta, por favor просит счёт. Sin azúcar / con leche уточняют заказ. Полезно повторить сумму: ¿Siete euros en total? Не считать чаевые или оплату картой универсальным правилом страны: спросите ¿Puedo pagar con tarjeta?",
+      "after": "Un café, por favor — простой заказ. Con leche / sin azúcar — с молоком / без сахара. ¿Cuánto cuesta? — цена; ¿Cuánto es en total? — итог; La cuenta, por favor — просьба о счёте. ¿Puedo pagar con tarjeta? — можно оплатить картой? Me gustaría pedir… оставлено как дополнительная вежливая формула: полный condicional здесь не требуется."
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/finalListening",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-16",
+          7529,
+          7530
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Покупки и еда",
+        "cefr": [
+          "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+        ],
+        "id": "A1-04:listening:final",
+        "text": "Dos cafés cuestan cuatro euros. Una barra de pan cuesta un euro. Son cinco euros en total. ¿Paga con tarjeta?",
+        "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+      }
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/lexicon/0/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/lexicon/1/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/lexicon/2/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/lexicon/3/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/lexicon/4/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/lexicon/5/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/lexicon/6/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/lexicon/7/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/lexicon/8/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/lexicon/9/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/loadGuidance",
+      "status": "ADDED",
+      "after": {
+        "coreGrammarTargets": [
+          "Числа и количество",
+          "HAY и определённое место",
+          "Заказ и проверка счёта"
+        ],
+        "coreLexiconIds": [
+          "A1-04:lexicon:1",
+          "A1-04:lexicon:3",
+          "A1-04:lexicon:4",
+          "A1-04:lexicon:5",
+          "A1-04:lexicon:6",
+          "A1-04:lexicon:9",
+          "A1-04:lexicon:10"
+        ],
+        "referencePolicy": "Полные парадигмы и исключения — по желанию; они не обязательны для основного результата.",
+        "suggestedPause": "После переноса можно вернуться к плану и продолжить письмо, речь и контроль позже.",
+        "status": "EDITORIAL_LOAD_HEURISTIC_NOT_VALIDATED_ELE_THRESHOLD"
+      }
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/reading/text",
+      "status": "CORRECTED",
+      "before": "Ana entra en una tienda pequeña. Necesita pan y fruta para el desayuno. Hay manzanas y naranjas, pero no hay fresas. Compra un kilo de manzanas por dos euros y una barra de pan por un euro. En total paga tres euros. Después entra en un café y pide agua. Antes de pagar, pregunta si puede usar la tarjeta. La dependienta dice que sí.",
+      "after": "Ana entra en una tienda pequeña. Necesita pan y fruta para el desayuno. Hay manzanas y naranjas, pero no hay fresas. Compra un kilo de manzanas por dos euros y una barra de pan por un euro. Antes de pagar, pregunta si puede usar la tarjeta. La dependienta dice que sí. En total paga tres euros. Después entra en un café y pide agua."
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/scaffolding",
+      "status": "ADDED",
+      "after": [
+        {
+          "level": "A1",
+          "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+          "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+          "pcic": [
+            "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+          ],
+          "originalMaterials": [
+            "GRAMMAR-02",
+            "GRAMMAR-16",
+            7529,
+            7530
+          ],
+          "languageReview": "ASSISTANT_EDITED",
+          "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+          "topic": "Покупки и еда",
+          "cefr": [
+            "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+          ],
+          "id": "A1-04:support:01",
+          "title": "Опоры для диалога, чтения и аудирования",
+          "entries": [
+            [
+              "una tostada / un bocadillo / una porción de tortilla",
+              "тост / бутерброд / порция испанской картофельной тортильи"
+            ],
+            [
+              "con leche / solo / sin azúcar",
+              "с молоком / чёрный кофе без молока / без сахара"
+            ],
+            [
+              "cada / cuesta / son… en total",
+              "каждый / стоит / всего…"
+            ],
+            [
+              "un kilo / una barra de pan / fruta",
+              "килограмм / батон или буханка хлеба / фрукты"
+            ],
+            [
+              "manzanas / naranjas / fresas",
+              "яблоки / апельсины / клубника"
+            ],
+            [
+              "la dependienta / una tienda / pequeña",
+              "продавщица / магазин / небольшая"
+            ],
+            [
+              "entra / necesita / compra / pide",
+              "входит / ей нужно / покупает / просит или заказывает"
+            ],
+            [
+              "antes de pagar / después / dice que sí",
+              "перед оплатой / потом / говорит, что да"
+            ],
+            [
+              "en efectivo / con tarjeta / usar la tarjeta",
+              "наличными / картой / пользоваться картой"
+            ],
+            [
+              "un vaso de agua sin gas / té",
+              "стакан воды без газа / чай"
+            ],
+            [
+              "la nevera / aceite de oliva / ¿Hay…?",
+              "холодильник / оливковое масло / есть ли…?"
+            ]
+          ],
+          "note": "Узнавайте эти сочетания по смыслу; все их формы не требуется воспроизводить наизусть."
+        }
+      ]
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/3/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-04:explanation:2"
+      ]
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/4/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-04:explanation:1"
+      ]
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/4/extension",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/5/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-04:explanation:1"
+      ]
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/6/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-04:reading:1"
+      ]
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/6/text",
+      "status": "CORRECTED",
+      "before": "Ana entra en una tienda pequeña. Necesita pan y fruta para el desayuno. Hay manzanas y naranjas, pero no hay fresas. Compra un kilo de manzanas por dos euros y una barra de pan por un euro. En total paga tres euros. Después entra en un café y pide agua. Antes de pagar, pregunta si puede usar la tarjeta. La dependienta dice que sí.",
+      "after": "Ana entra en una tienda pequeña. Necesita pan y fruta para el desayuno. Hay manzanas y naranjas, pero no hay fresas. Compra un kilo de manzanas por dos euros y una barra de pan por un euro. Antes de pagar, pregunta si puede usar la tarjeta. La dependienta dice que sí. En total paga tres euros. Después entra en un café y pide agua."
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/7/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-04:reading:1"
+      ]
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/7/text",
+      "status": "CORRECTED",
+      "before": "Ana entra en una tienda pequeña. Necesita pan y fruta para el desayuno. Hay manzanas y naranjas, pero no hay fresas. Compra un kilo de manzanas por dos euros y una barra de pan por un euro. En total paga tres euros. Después entra en un café y pide agua. Antes de pagar, pregunta si puede usar la tarjeta. La dependienta dice que sí.",
+      "after": "Ana entra en una tienda pequeña. Necesita pan y fruta para el desayuno. Hay manzanas y naranjas, pero no hay fresas. Compra un kilo de manzanas por dos euros y una barra de pan por un euro. Antes de pagar, pregunta si puede usar la tarjeta. La dependienta dice que sí. En total paga tres euros. Después entra en un café y pide agua."
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/8/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-04:listening:1"
+      ]
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/9/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-04:listening:1"
+      ]
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/10/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-04:explanation:3"
+      ]
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/10/prompt",
+      "status": "CORRECTED",
+      "before": "Новая ситуация: покупатель просит воду без газа. Составьте фразу ровно из Un / vaso de agua / sin gas / por favor.",
+      "after": "Новая ситуация: попросите воду без газа. Используйте порядок Un vaso de agua sin gas; por favor можно поставить в начале или в конце."
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/13/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-04:explanation:2"
+      ]
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/14/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-04:explanation:1"
+      ]
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/15/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-04:explanation:1"
+      ]
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/16",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-16",
+          7529,
+          7530
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Покупки и еда",
+        "cefr": [
+          "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+        ],
+        "id": "A1-04:task:17",
+        "contentId": "A1-04:task:17",
+        "type": "input",
+        "activityKind": "input",
+        "skill": "grammar",
+        "prompt": "Контроль: закажите кофе с молоком. Используйте порядок un café con leche; por favor в начале или в конце.",
+        "expected": "Un café con leche, por favor.",
+        "alternatives": [
+          "Por favor, un café con leche."
+        ],
+        "options": [],
+        "explanation": "Con leche — с молоком; por favor может стоять и в начале.",
+        "control": true,
+        "addedInReview": true,
+        "explanationRefs": [
+          "A1-04:explanation:3"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/17",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-16",
+          7529,
+          7530
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Покупки и еда",
+        "cefr": [
+          "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+        ],
+        "id": "A1-04:task:18",
+        "contentId": "A1-04:task:18",
+        "type": "input",
+        "activityKind": "choice",
+        "skill": "grammar",
+        "prompt": "Контроль: вы хотите узнать цену. Выберите нужный вопрос.",
+        "expected": "¿Cuánto cuesta?",
+        "alternatives": [],
+        "options": [
+          "¿Cuánto cuesta?",
+          "¿Dónde está?",
+          "¿Cómo te llamas?"
+        ],
+        "explanation": "Cuánto cuesta — вопрос о цене.",
+        "control": true,
+        "addedInReview": true,
+        "explanationRefs": [
+          "A1-04:explanation:3"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/18",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-16",
+          7529,
+          7530
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Покупки и еда",
+        "cefr": [
+          "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+        ],
+        "id": "A1-04:task:19",
+        "contentId": "A1-04:task:19",
+        "type": "input",
+        "activityKind": "input",
+        "skill": "grammar",
+        "prompt": "Контроль: попросите два кофе, записав количество словом и правильное множественное число.",
+        "expected": "dos cafés",
+        "alternatives": [],
+        "options": [],
+        "explanation": "Dos cafés: сохраняется тильда.",
+        "control": true,
+        "addedInReview": true,
+        "explanationRefs": [
+          "A1-04:explanation:3"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-04",
+      "path": "/tasks/19",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Заказать еду, спросить о наличии и цене, назвать количество и проверить простой счёт.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Gramática — hay, artículos y numerales; Nociones — alimentación, compras; Funciones — pedir y preguntar precio"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-02",
+          "GRAMMAR-16",
+          7529,
+          7530
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Покупки и еда",
+        "cefr": [
+          "CEFR A1: pedir productos conocidos y desenvolverse en una transacción muy sencilla con apoyo"
+        ],
+        "id": "A1-04:task:20",
+        "contentId": "A1-04:task:20",
+        "type": "listening",
+        "activityKind": "listening",
+        "skill": "listening",
+        "prompt": "Контроль без текста: сколько стоит весь заказ?",
+        "expected": "cinco euros",
+        "alternatives": [],
+        "options": [
+          "cinco euros",
+          "tres euros",
+          "seis euros"
+        ],
+        "explanation": "В записи: два кофе по два евро и хлеб за один евро = пять.",
+        "control": true,
+        "addedInReview": true,
+        "text": "Dos cafés cuestan cuatro euros. Una barra de pan cuesta un euro. Son cinco euros en total. ¿Paga con tarjeta?",
+        "meaning": "cinco euros",
+        "sourceItem": "A1-04:listening:final",
+        "explanationRefs": [
+          "A1-04:listening:final"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/assessmentVersion",
+      "status": "ADDED",
+      "after": 2
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/dialogue/turns/0/ru",
+      "status": "CORRECTED",
+      "before": "Извините, где станция?",
+      "after": "Извини, где станция?"
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/dialogue/turns/1/ru",
+      "status": "CORRECTED",
+      "before": "Она близко. Идите по этой улице и поверните направо.",
+      "after": "Она близко. Иди по этой улице и поверни направо."
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/durationRangeMinutes/1",
+      "status": "CORRECTED",
+      "before": 50,
+      "after": 60
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/estimatedMinutes",
+      "status": "CORRECTED",
+      "before": 40,
+      "after": 45
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/explanations/0/referenceText",
+      "status": "ADDED",
+      "after": "¿Dónde está la estación? — где находится станция? ¿Adónde vas? — куда ты идёшь/едешь? ¿A qué hora sale el tren? — во сколько отправляется поезд? У вопросительных qué/dónde/adónde сохраняется тильда. Для места конкретного здания используется estar: La estación está cerca. Название события и его место — особый случай ser, но здесь мы ищем здания и людей. El autobús и el tren можно сначала учить как готовые слова в транспортной ситуации."
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/explanations/0/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/explanations/0/text",
+      "status": "CORRECTED",
+      "before": "¿Dónde está la estación? — где находится станция? ¿Adónde vas? — куда ты идёшь/едешь? ¿A qué hora sale el tren? — во сколько отправляется поезд? У вопросительных qué/dónde/adónde сохраняется тильда. Для места конкретного здания используется estar: La estación está cerca. Название события и его место — особый случай ser, но здесь мы ищем здания и людей. El autobús и el tren можно сначала учить как готовые слова в транспортной ситуации.",
+      "after": "¿Dónde está la estación? — где станция? ¿A qué hora sale el tren? — во сколько отправляется поезд? La estación está cerca — станция близко. Тильды в dónde/qué обязательны. В диалоге использовано неформальное tú: Sigue… — иди дальше…, Gira… — поверни…. Это готовые инструкции для понимания, а не полная тема императива."
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/explanations/1/referenceText",
+      "status": "ADDED",
+      "after": "Cerca de — близко от, lejos de — далеко от, al lado de — рядом с, delante de — перед, detrás de — позади. De + el даёт del: cerca del banco. A la derecha / a la izquierda — направо/налево или справа/слева по контексту. Чтобы сказать «справа от станции», нужен de: a la derecha de la estación. Между двумя ориентирами: entre el banco y la farmacia. Не путайте enfrente de — напротив и delante de — перед. Следуйте по одному ориентиру за раз и при необходимости повторите маршрут собеседнику."
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/explanations/1/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/explanations/1/text",
+      "status": "CORRECTED",
+      "before": "Cerca de — близко от, lejos de — далеко от, al lado de — рядом с, delante de — перед, detrás de — позади. De + el даёт del: cerca del banco. A la derecha / a la izquierda — направо/налево или справа/слева по контексту. Чтобы сказать «справа от станции», нужен de: a la derecha de la estación. Между двумя ориентирами: entre el banco y la farmacia. Не путайте enfrente de — напротив и delante de — перед. Следуйте по одному ориентиру за раз и при необходимости повторите маршрут собеседнику.",
+      "after": "Обязательные опоры: cerca de — близко от, al lado de — рядом с, a la derecha — направо/справа, a la izquierda — налево/слева. Cerca de + el banco → cerca del banco. В диалоге enfrente de — напротив; delante de — перед, это разные положения. Остальные предлоги можно посмотреть в справке и личном конспекте."
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/explanations/2/referenceText",
+      "status": "ADDED",
+      "after": "¿Qué hora es? — который час? Es la una; son las dos. Для времени события: a la una, a las dos. A las tres y media — в половине четвёртого; a las tres y cuarto — в четверть четвёртого; a las cuatro menos cuarto — без четверти четыре. В расписаниях есть 24-часовая запись: 15:30. В заданиях мы указываем, требуется ли разговорная 12-часовая форма. Mañana — завтра, por la mañana — утром. Desde las nueve — начиная с девяти, hasta las seis — до шести. Временные предлоги выбираются по смыслу, не по одному русскому слову «в»."
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/explanations/2/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/explanations/2/text",
+      "status": "CORRECTED",
+      "before": "¿Qué hora es? — который час? Es la una; son las dos. Для времени события: a la una, a las dos. A las tres y media — в половине четвёртого; a las tres y cuarto — в четверть четвёртого; a las cuatro menos cuarto — без четверти четыре. В расписаниях есть 24-часовая запись: 15:30. В заданиях мы указываем, требуется ли разговорная 12-часовая форма. Mañana — завтра, por la mañana — утром. Desde las nueve — начиная с девяти, hasta las seis — до шести. Временные предлоги выбираются по смыслу, не по одному русскому слову «в».",
+      "after": "Es la una — час; son las dos — два часа. Время события: a la una / a las dos. A las tres y media — в 15:30 (половине четвёртого); a las cinco y cuarto — в 17:15. Для этого урока достаточно media и cuarto; menos cuarto и развёрнутые временные предлоги — справка. Mañana — завтра, por la mañana — утром."
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/finalListening",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-07",
+          "NOTES-02",
+          "NOTES-04",
+          "NOTES-07"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Город и время",
+        "cefr": [
+          "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+        ],
+        "id": "A1-05:listening:final",
+        "text": "El tren sale a las seis y media. Nos vemos en la estación a las seis y cuarto. La entrada está al lado del banco. Tenemos quince minutos.",
+        "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+      }
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/lexicon/0/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/lexicon/1/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/lexicon/2/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/lexicon/3/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/lexicon/4/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/lexicon/5/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/lexicon/6/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/lexicon/7/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/lexicon/8/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/lexicon/9/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/listening/text",
+      "status": "CORRECTED",
+      "before": "Hola, Ana. Soy Luis. Nuestro autobús sale a las seis y media de la estación del centro. La parada está a la derecha de la entrada, junto a una farmacia. Nos vemos allí a las seis y cuarto. Trae el billete, por favor. Si no encuentras la parada, llámame.",
+      "after": "Hola, Ana. Soy Luis. Nuestro autobús sale a las seis y media de la estación del centro. La parada está a la derecha de la entrada, junto a una farmacia. Nos vemos allí a las seis y cuarto. Yo tengo los billetes. Hasta luego."
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/loadGuidance",
+      "status": "ADDED",
+      "after": {
+        "coreGrammarTargets": [
+          "Вопросы для ориентирования",
+          "Место и направление",
+          "Часы и время встречи"
+        ],
+        "coreLexiconIds": [
+          "A1-05:lexicon:1",
+          "A1-05:lexicon:2",
+          "A1-05:lexicon:4",
+          "A1-05:lexicon:5",
+          "A1-05:lexicon:6",
+          "A1-05:lexicon:7"
+        ],
+        "referencePolicy": "Полные парадигмы и исключения — по желанию; они не обязательны для основного результата.",
+        "suggestedPause": "После переноса можно вернуться к плану и продолжить письмо, речь и контроль позже.",
+        "status": "EDITORIAL_LOAD_HEURISTIC_NOT_VALIDATED_ELE_THRESHOLD"
+      }
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/scaffolding",
+      "status": "ADDED",
+      "after": [
+        {
+          "level": "A1",
+          "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+          "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+          "pcic": [
+            "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+          ],
+          "originalMaterials": [
+            "GRAMMAR-07",
+            "NOTES-02",
+            "NOTES-04",
+            "NOTES-07"
+          ],
+          "languageReview": "ASSISTANT_EDITED",
+          "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+          "topic": "Город и время",
+          "cefr": [
+            "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+          ],
+          "id": "A1-05:support:01",
+          "title": "Опоры для диалога, чтения и аудирования",
+          "entries": [
+            [
+              "la estación / la parada / la entrada",
+              "станция / остановка / вход"
+            ],
+            [
+              "el tren / el autobús / el billete",
+              "поезд / автобус / билет"
+            ],
+            [
+              "sigue por esta calle / gira a la derecha",
+              "иди дальше по этой улице / поверни направо; tú, готовые инструкции"
+            ],
+            [
+              "enfrente de / delante de / junto a / entre… y…",
+              "напротив / перед / рядом с / между… и…"
+            ],
+            [
+              "a pie / voy andando / son diez minutos",
+              "пешком / иду пешком / это десять минут"
+            ],
+            [
+              "sale / llega / espera / tengo tiempo",
+              "отправляется или выходит / приходит / ждёт / успеваю"
+            ],
+            [
+              "una cita / dentro de / primero / después",
+              "встреча / внутри / сначала / потом"
+            ],
+            [
+              "el banco / la farmacia / la biblioteca",
+              "банк / аптека / библиотека"
+            ],
+            [
+              "tres y media / cinco y cuarto / seis y cuarto",
+              "3:30 / 5:15 / 6:15 в 12-часовой модели"
+            ],
+            [
+              "sale de casa / nuestro autobús / nos vemos allí",
+              "выходит из дома / наш автобус / увидимся там"
+            ],
+            [
+              "quince / treinta / hasta luego",
+              "пятнадцать / тридцать / до встречи"
+            ]
+          ],
+          "note": "Узнавайте эти сочетания по смыслу; все их формы не требуется воспроизводить наизусть."
+        }
+      ]
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/3/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-05:explanation:1"
+      ]
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/4/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-05:explanation:2"
+      ]
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/5/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-05:explanation:2"
+      ]
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/6/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-05:reading:1"
+      ]
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/7/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-05:reading:1"
+      ]
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/8/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-05:listening:1"
+      ]
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/8/text",
+      "status": "CORRECTED",
+      "before": "Hola, Ana. Soy Luis. Nuestro autobús sale a las seis y media de la estación del centro. La parada está a la derecha de la entrada, junto a una farmacia. Nos vemos allí a las seis y cuarto. Trae el billete, por favor. Si no encuentras la parada, llámame.",
+      "after": "Hola, Ana. Soy Luis. Nuestro autobús sale a las seis y media de la estación del centro. La parada está a la derecha de la entrada, junto a una farmacia. Nos vemos allí a las seis y cuarto. Yo tengo los billetes. Hasta luego."
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/9/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-05:listening:1"
+      ]
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/9/text",
+      "status": "CORRECTED",
+      "before": "Hola, Ana. Soy Luis. Nuestro autobús sale a las seis y media de la estación del centro. La parada está a la derecha de la entrada, junto a una farmacia. Nos vemos allí a las seis y cuarto. Trae el billete, por favor. Si no encuentras la parada, llámame.",
+      "after": "Hola, Ana. Soy Luis. Nuestro autobús sale a las seis y media de la estación del centro. La parada está a la derecha de la entrada, junto a una farmacia. Nos vemos allí a las seis y cuarto. Yo tengo los billetes. Hasta luego."
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/10/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-05:explanation:3"
+      ]
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/13/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-05:explanation:3"
+      ]
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/14/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-05:explanation:3"
+      ]
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/15/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-05:explanation:3"
+      ]
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/16",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-07",
+          "NOTES-02",
+          "NOTES-04",
+          "NOTES-07"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Город и время",
+        "cefr": [
+          "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+        ],
+        "id": "A1-05:task:17",
+        "contentId": "A1-05:task:17",
+        "type": "input",
+        "activityKind": "input",
+        "skill": "grammar",
+        "prompt": "Контроль: спросите, где станция. Используйте только dónde / estar / la estación, со знаками вопроса.",
+        "expected": "¿Dónde está la estación?",
+        "alternatives": [],
+        "options": [],
+        "explanation": "Для места здания: está; вопросительные знаки и тильды нужны.",
+        "control": true,
+        "addedInReview": true,
+        "strictPunctuation": true,
+        "explanationRefs": [
+          "A1-05:explanation:1"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/17",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-07",
+          "NOTES-02",
+          "NOTES-04",
+          "NOTES-07"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Город и время",
+        "cefr": [
+          "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+        ],
+        "id": "A1-05:task:18",
+        "contentId": "A1-05:task:18",
+        "type": "input",
+        "activityKind": "choice",
+        "skill": "grammar",
+        "prompt": "Контроль: вы услышали Gira a la derecha. Куда повернуть?",
+        "expected": "Направо",
+        "alternatives": [],
+        "options": [
+          "Направо",
+          "Налево",
+          "Идти прямо без поворота"
+        ],
+        "explanation": "A la derecha — направо.",
+        "control": true,
+        "addedInReview": true,
+        "explanationRefs": [
+          "A1-05:explanation:2"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/18",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-07",
+          "NOTES-02",
+          "NOTES-04",
+          "NOTES-07"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Город и время",
+        "cefr": [
+          "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+        ],
+        "id": "A1-05:task:19",
+        "contentId": "A1-05:task:19",
+        "type": "input",
+        "activityKind": "input",
+        "skill": "grammar",
+        "prompt": "Контроль: встреча в 15:30. Используйте a / las / tres / y / media, в заданном порядке.",
+        "expected": "a las tres y media",
+        "alternatives": [],
+        "options": [],
+        "explanation": "Это разговорная 12-часовая модель времени события.",
+        "control": true,
+        "addedInReview": true,
+        "explanationRefs": [
+          "A1-05:explanation:3"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-05",
+      "path": "/tasks/19",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Спросить и объяснить простой маршрут, уточнить отправление транспорта и назвать время встречи.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — pedir información; Nociones — espacio, tiempo, transporte; Gramática — interrogativos y preposiciones"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-07",
+          "NOTES-02",
+          "NOTES-04",
+          "NOTES-07"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Город и время",
+        "cefr": [
+          "CEFR A1: понять короткое простое указание пути и спросить о месте и времени"
+        ],
+        "id": "A1-05:task:20",
+        "contentId": "A1-05:task:20",
+        "type": "listening",
+        "activityKind": "listening",
+        "skill": "listening",
+        "prompt": "Контроль без текста: во сколько встреча у станции?",
+        "expected": "a las seis y cuarto",
+        "alternatives": [],
+        "options": [
+          "a las seis y cuarto",
+          "a las seis y media",
+          "a las cinco y cuarto"
+        ],
+        "explanation": "Встреча в 6:15, поезд позже — в 6:30.",
+        "control": true,
+        "addedInReview": true,
+        "text": "El tren sale a las seis y media. Nos vemos en la estación a las seis y cuarto. La entrada está al lado del banco. Tenemos quince minutos.",
+        "meaning": "a las seis y cuarto",
+        "sourceItem": "A1-05:listening:final",
+        "explanationRefs": [
+          "A1-05:listening:final"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/assessmentVersion",
+      "status": "ADDED",
+      "after": 2
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/durationRangeMinutes/1",
+      "status": "CORRECTED",
+      "before": 50,
+      "after": 60
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/estimatedMinutes",
+      "status": "CORRECTED",
+      "before": 40,
+      "after": 45
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/explanations/0/referenceText",
+      "status": "ADDED",
+      "after": "Voy a estudiar — собираюсь учиться; vamos a comer — собираемся поесть. Меняется только ir: voy, vas, va, vamos, vais, van; смысловой глагол остаётся инфинитивом. Между ними обязательно a. Сравните Voy a la biblioteca (a + место) и Voy a estudiar (a + инфинитив). План может быть на завтра или выходные, а не только на ближайшую минуту. Пока не нужна форма estudiaré: организационное будущее выражаем конструкцией ir a."
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/explanations/0/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/explanations/0/text",
+      "status": "CORRECTED",
+      "before": "Voy a estudiar — собираюсь учиться; vamos a comer — собираемся поесть. Меняется только ir: voy, vas, va, vamos, vais, van; смысловой глагол остаётся инфинитивом. Между ними обязательно a. Сравните Voy a la biblioteca (a + место) и Voy a estudiar (a + инфинитив). План может быть на завтра или выходные, а не только на ближайшую минуту. Пока не нужна форма estudiaré: организационное будущее выражаем конструкцией ir a.",
+      "after": "План: voy a estudiar — собираюсь учиться; vas a estudiar, va a estudiar, vamos a estudiar. Между ir и инфинитивом нужно a, а estudiar не изменяется. Различайте voy a la biblioteca (куда) и voy a estudiar (что планирую). Futuro simple пока не нужен; полная парадигма ir доступна в справке."
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/explanations/1/referenceText",
+      "status": "ADDED",
+      "after": "В Me gusta el café грамматическое подлежащее — el café, а me показывает, кому нравится. Единственное число и инфинитив требуют gusta: Me gusta este café. Me gusta caminar. Множественное число требует gustan: Me gustan los libros. Для собеседника: ¿Te gusta leer? Для нас: Nos gusta este lugar. Не стройте Yo gusto el café по русскому образцу «я люблю кофе». Отрицание: No me gusta. Вежливая формула Me gustaría... означает «мне бы хотелось» и не равна простому факту предпочтения; полная тема condicional будет позже."
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/explanations/1/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/explanations/1/text",
+      "status": "CORRECTED",
+      "before": "В Me gusta el café грамматическое подлежащее — el café, а me показывает, кому нравится. Единственное число и инфинитив требуют gusta: Me gusta este café. Me gusta caminar. Множественное число требует gustan: Me gustan los libros. Для собеседника: ¿Te gusta leer? Для нас: Nos gusta este lugar. Не стройте Yo gusto el café по русскому образцу «я люблю кофе». Отрицание: No me gusta. Вежливая формула Me gustaría... означает «мне бы хотелось» и не равна простому факту предпочтения; полная тема condicional будет позже.",
+      "after": "Me gusta el café — мне нравится кофе; me gusta leer — мне нравится читать. Множественное число: me gustan los libros. Собеседнику: ¿Te gusta leer? Для имени: A Ana le gusta cocinar — Ане нравится готовить; a su amiga le gusta pasear — её подруге нравится гулять. Это опорные модели, не весь дательный падеж. No me gusta — не нравится. Me gustaría… — отдельная вежливая формула «мне бы хотелось»."
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/explanations/2/referenceText",
+      "status": "ADDED",
+      "after": "¿Quieres tomar un café? приглашает выпить кофе, ¿Vamos al parque? предлагает пойти в парк. Реакции: Sí, buena idea; Hoy no puedo; ¿Y mañana?; Prefiero por la tarde. Разговор должен прийти к конкретным месту и времени, а не остановиться на «да». Чтобы подтвердить, повторите: Entonces, el domingo a las cinco delante del café. No puedo — достаточно вежливый отказ; не нужно выдумывать причину. В устной задаче учитесь предложить альтернативу и проверить понимание, а не читать готовый диалог."
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/explanations/2/scope",
+      "status": "ADDED",
+      "after": "CORE_WITH_OPTIONAL_REFERENCE"
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/explanations/2/text",
+      "status": "CORRECTED",
+      "before": "¿Quieres tomar un café? приглашает выпить кофе, ¿Vamos al parque? предлагает пойти в парк. Реакции: Sí, buena idea; Hoy no puedo; ¿Y mañana?; Prefiero por la tarde. Разговор должен прийти к конкретным месту и времени, а не остановиться на «да». Чтобы подтвердить, повторите: Entonces, el domingo a las cinco delante del café. No puedo — достаточно вежливый отказ; не нужно выдумывать причину. В устной задаче учитесь предложить альтернативу и проверить понимание, а не читать готовый диалог.",
+      "after": "¿Quieres tomar un café? — приглашение; sí, buena idea — согласие; hoy no puedo — сегодня не могу. ¿Y mañana? — предложение другого дня. Prefiero por la tarde — предпочитаю после обеда. Завершите разговор конкретной договорённостью: Entonces, el domingo a las cuatro en el café Sol. Формулы ¿Nos vemos…? и a mí también объяснены в опорах. Отказ и альтернатива — часть задачи, а не ошибка."
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/finalListening",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-03",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Ближайшие планы",
+        "cefr": [
+          "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+        ],
+        "id": "A1-06:listening:final",
+        "text": "Hola, Marta. El sábado no puedo porque voy a trabajar. ¿Y el domingo? Podemos tomar un café a las cuatro. Nos vemos delante del café Sol.",
+        "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+      }
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/lexicon/0/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/lexicon/1/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/lexicon/2/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/lexicon/3/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/lexicon/4/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/lexicon/5/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/lexicon/6/requiredForProduction",
+      "status": "ADDED",
+      "after": true
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/lexicon/7/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/lexicon/8/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/lexicon/9/requiredForProduction",
+      "status": "ADDED",
+      "after": false
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/listening/text",
+      "status": "CORRECTED",
+      "before": "Hola, Marta. El sábado no puedo ir al parque porque voy a trabajar. ¿Quieres quedar el domingo? Podemos tomar un café a las cuatro y después pasear. Me gustan los sitios tranquilos. Prefiero el café de la plaza, al lado de la biblioteca. Dime si te viene bien esa hora.",
+      "after": "Hola, Marta. El sábado no puedo ir al parque porque voy a trabajar. ¿Quieres quedar el domingo? Podemos tomar un café a las cuatro y después pasear. Me gustan los sitios tranquilos. Prefiero el café de la plaza, al lado de la biblioteca. ¿Puedes venir a las cuatro?"
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/loadGuidance",
+      "status": "ADDED",
+      "after": {
+        "coreGrammarTargets": [
+          "Намерение: IR A + infinitivo",
+          "Предпочтения: GUSTAR",
+          "Приглашение и согласование"
+        ],
+        "coreLexiconIds": [
+          "A1-06:lexicon:1",
+          "A1-06:lexicon:2",
+          "A1-06:lexicon:4",
+          "A1-06:lexicon:5",
+          "A1-06:lexicon:7"
+        ],
+        "referencePolicy": "Полные парадигмы и исключения — по желанию; они не обязательны для основного результата.",
+        "suggestedPause": "После переноса можно вернуться к плану и продолжить письмо, речь и контроль позже.",
+        "status": "EDITORIAL_LOAD_HEURISTIC_NOT_VALIDATED_ELE_THRESHOLD"
+      }
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/scaffolding",
+      "status": "ADDED",
+      "after": [
+        {
+          "level": "A1",
+          "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+          "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+          "pcic": [
+            "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+          ],
+          "originalMaterials": [
+            "GRAMMAR-09",
+            "GRAMMAR-11",
+            "NOTES-03",
+            "NOTES-05",
+            "NOTES-06"
+          ],
+          "languageReview": "ASSISTANT_EDITED",
+          "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+          "topic": "Ближайшие планы",
+          "cefr": [
+            "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+          ],
+          "id": "A1-06:support:01",
+          "title": "Опоры для диалога, чтения и аудирования",
+          "entries": [
+            [
+              "¿Qué vas a hacer…? / voy a… / vamos a…",
+              "что планируешь делать? / собираюсь… / собираемся…"
+            ],
+            [
+              "¿Quieres…? / no puedo / ¿Puedes venir?",
+              "хочешь…? / не могу / можешь прийти?"
+            ],
+            [
+              "me gusta / me gustan / a Ana le gusta",
+              "мне нравится (ед. число/инфинитив) / мне нравятся (мн. число) / Ане нравится"
+            ],
+            [
+              "a mí también / prefiero / buena idea",
+              "мне тоже / предпочитаю / хорошая идея"
+            ],
+            [
+              "¿Nos vemos…? / entonces / de acuerdo",
+              "встретимся…? / тогда / договорились"
+            ],
+            [
+              "el sábado / el domingo / quedar",
+              "суббота / воскресенье / договориться о встрече"
+            ],
+            [
+              "caminar / pasear / hace buen tiempo / hace calor",
+              "ходить пешком / гулять / хорошая погода / жарко"
+            ],
+            [
+              "visitar a una amiga / preparar el desayuno",
+              "навестить подругу / приготовить завтрак"
+            ],
+            [
+              "después del desayuno / por el centro / para estudiar",
+              "после завтрака / по центру / чтобы учиться"
+            ],
+            [
+              "tranquilos / la plaza / llevar agua / volver a casa",
+              "спокойные / площадь / взять с собой воду / вернуться домой"
+            ],
+            [
+              "cuando / si / podemos",
+              "когда / если / мы можем; в этих материалах — готовые опоры"
+            ]
+          ],
+          "note": "Узнавайте эти сочетания по смыслу; все их формы не требуется воспроизводить наизусть."
+        }
+      ]
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/3/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-06:explanation:1"
+      ]
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/4/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-06:explanation:2"
+      ]
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/5/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-06:explanation:1"
+      ]
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/6/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-06:reading:1"
+      ]
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/7/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-06:reading:1"
+      ]
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/8/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-06:listening:1"
+      ]
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/8/text",
+      "status": "CORRECTED",
+      "before": "Hola, Marta. El sábado no puedo ir al parque porque voy a trabajar. ¿Quieres quedar el domingo? Podemos tomar un café a las cuatro y después pasear. Me gustan los sitios tranquilos. Prefiero el café de la plaza, al lado de la biblioteca. Dime si te viene bien esa hora.",
+      "after": "Hola, Marta. El sábado no puedo ir al parque porque voy a trabajar. ¿Quieres quedar el domingo? Podemos tomar un café a las cuatro y después pasear. Me gustan los sitios tranquilos. Prefiero el café de la plaza, al lado de la biblioteca. ¿Puedes venir a las cuatro?"
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/9/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-06:listening:1"
+      ]
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/9/text",
+      "status": "CORRECTED",
+      "before": "Hola, Marta. El sábado no puedo ir al parque porque voy a trabajar. ¿Quieres quedar el domingo? Podemos tomar un café a las cuatro y después pasear. Me gustan los sitios tranquilos. Prefiero el café de la plaza, al lado de la biblioteca. Dime si te viene bien esa hora.",
+      "after": "Hola, Marta. El sábado no puedo ir al parque porque voy a trabajar. ¿Quieres quedar el domingo? Podemos tomar un café a las cuatro y después pasear. Me gustan los sitios tranquilos. Prefiero el café de la plaza, al lado de la biblioteca. ¿Puedes venir a las cuatro?"
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/10/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-06:explanation:2"
+      ]
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/13/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-06:explanation:1"
+      ]
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/14/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-06:explanation:2"
+      ]
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/15/explanationRefs",
+      "status": "ADDED",
+      "after": [
+        "A1-06:explanation:1"
+      ]
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/16",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-03",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Ближайшие планы",
+        "cefr": [
+          "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+        ],
+        "id": "A1-06:task:17",
+        "contentId": "A1-06:task:17",
+        "type": "input",
+        "activityKind": "choice",
+        "skill": "grammar",
+        "prompt": "Контроль: выберите приглашение выпить кофе.",
+        "expected": "¿Quieres tomar un café?",
+        "alternatives": [],
+        "options": [
+          "¿Quieres tomar un café?",
+          "¿Dónde está el café?",
+          "¿Cuánto cuesta el café?"
+        ],
+        "explanation": "Quieres + infinitivo приглашает к действию.",
+        "control": true,
+        "addedInReview": true,
+        "explanationRefs": [
+          "A1-06:explanation:3"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/17",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-03",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Ближайшие планы",
+        "cefr": [
+          "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+        ],
+        "id": "A1-06:task:18",
+        "contentId": "A1-06:task:18",
+        "type": "input",
+        "activityKind": "input",
+        "skill": "grammar",
+        "prompt": "Контроль: сегодня не получается. Предложите завтра вопросом ровно из Y / mañana.",
+        "expected": "¿Y mañana?",
+        "alternatives": [],
+        "options": [],
+        "explanation": "Короткая естественная альтернатива; в этом контроле проверяются ¿?.",
+        "control": true,
+        "addedInReview": true,
+        "strictPunctuation": true,
+        "explanationRefs": [
+          "A1-06:explanation:3"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/18",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-03",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Ближайшие планы",
+        "cefr": [
+          "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+        ],
+        "id": "A1-06:task:19",
+        "contentId": "A1-06:task:19",
+        "type": "input",
+        "activityKind": "input",
+        "skill": "grammar",
+        "prompt": "Контроль: подтвердите договорённость ровно в порядке Entonces / el domingo / a las cuatro / en el café Sol.",
+        "expected": "Entonces, el domingo a las cuatro en el café Sol.",
+        "alternatives": [],
+        "options": [],
+        "explanation": "Подтверждены день, время и место; запятые не влияют на результат.",
+        "control": true,
+        "addedInReview": true,
+        "explanationRefs": [
+          "A1-06:explanation:3"
+        ]
+      }
+    },
+    {
+      "lesson": "A1-06",
+      "path": "/tasks/19",
+      "status": "ADDED",
+      "after": {
+        "level": "A1",
+        "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+        "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+        "pcic": [
+          "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+        ],
+        "originalMaterials": [
+          "GRAMMAR-09",
+          "GRAMMAR-11",
+          "NOTES-03",
+          "NOTES-05",
+          "NOTES-06"
+        ],
+        "languageReview": "ASSISTANT_EDITED",
+        "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+        "topic": "Ближайшие планы",
+        "cefr": [
+          "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+        ],
+        "id": "A1-06:task:20",
+        "contentId": "A1-06:task:20",
+        "type": "listening",
+        "activityKind": "listening",
+        "skill": "listening",
+        "prompt": "Контроль без текста: на какой день предложена встреча вместо субботы?",
+        "expected": "На воскресенье",
+        "alternatives": [],
+        "options": [
+          "На воскресенье",
+          "На субботу",
+          "На понедельник"
+        ],
+        "explanation": "В записи no puedo el sábado; ¿y el domingo?",
+        "control": true,
+        "addedInReview": true,
+        "text": "Hola, Marta. El sábado no puedo porque voy a trabajar. ¿Y el domingo? Podemos tomar un café a las cuatro. Nos vemos delante del café Sol.",
+        "meaning": "На воскресенье",
+        "sourceItem": "A1-06:listening:final",
+        "explanationRefs": [
+          "A1-06:listening:final"
+        ]
+      }
+    }
+  ]
+}

@@ -16,5 +16,23 @@
       "long_term_storage": "NOT_TESTED"
     },
     "R3_recheck": "PENDING: entire TENER scheme, a form and two examples"
+  },
+  {
+    "date": "2026-11-06",
+    "kind": "USER_REPORTED_NOT_INSTRUMENTED",
+    "artifact": "Mi_Espanol_Pilot_R6.html",
+    "source_commit": "a6ffd4f36c2ab89c4c94e470dc14e73e5a732f9b",
+    "device": "Earlier user context: iPhone 13 Pro Max; this report did not restate device/iOS",
+    "iOS_version": null,
+    "statement": "R6 проверен пользователем: приложение запускается и работает.",
+    "results": {
+      "interactive_launch": "PASS_USER_REPORTED",
+      "general_operation": "PASS_USER_REPORTED",
+      "individual_TTS_controls": "NOT_SEPARATELY_REPORTED",
+      "long_term_storage": "NOT_SEPARATELY_REPORTED",
+      "language_and_methodical_acceptance": "NOT_ESTABLISHED",
+      "independent_ELE_acceptance": "NOT_PERFORMED"
+    },
+    "reviewed_R6_recheck": "PENDING_USER_REPORT"
   }
 ]

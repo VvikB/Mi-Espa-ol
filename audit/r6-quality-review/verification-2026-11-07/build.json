@@ -1,0 +1,118 @@
+{
+  "classification": "INTERNAL_REPAIR_BUILD_NOT_FINAL_RELEASE",
+  "baseline_sha256": "19846bc31dd50bcb6bc780709d2206a5f9f0540e65a716f2148306ed00aaf018",
+  "artifact_sha256": "3324aa91a8d0fbca5abc42894e1e1c02049c13d7ed5b4c15bedc34a3fb0736a2",
+  "data_unchanged": false,
+  "technical_counts": {
+    "catalog_ids": 894,
+    "routes": 12,
+    "day_plans": 84,
+    "scheme_exercises": 14
+  },
+  "data_sha256": "9cbdcbc1e920c117ebe0cbd7fee4288a2dbbfbc80dfa0b4f96fa3a3859df190f",
+  "counts": {
+    "vocab": 483,
+    "quiz": 10,
+    "tables": 73,
+    "schemes": 8,
+    "images": 25
+  },
+  "modules": [
+    {
+      "path": "src/audio.js",
+      "sha256": "99e7b748e77cbf8d2605acdfbd6b0dcb78d07b73e66de9a693385d8d457a3e31"
+    },
+    {
+      "path": "src/storage.js",
+      "sha256": "a56af0babae83b68e2df23c703122ef2cd61eabdb8d365d593359cdfddf06789"
+    },
+    {
+      "path": "src/core.js",
+      "sha256": "86265bfd1200075ab38cd7623e74f7bfdaabcaa7bbf99e7c7a6d30fdfd2b4ba5"
+    },
+    {
+      "path": "src/integration.js",
+      "sha256": "c53fa01ccfb0e9c96f5aca840d8b1aa68991421f38d850806ca9c857f561e141"
+    },
+    {
+      "path": "src/visual.js",
+      "sha256": "a941aba4a65459c772ad4fb3e1485d4a2f173a5164132891be6980f79be1c877"
+    },
+    {
+      "path": "src/settings.js",
+      "sha256": "96a76f8c553969f9a60728cdb82bab6099e52ca001c1702a19a304758ccf4e05"
+    },
+    {
+      "path": "src/reliability.js",
+      "sha256": "c3c103ea231993c336f3490e94ded9128fe75c0ffda1c4dfde8c240f2fb1e508"
+    },
+    {
+      "path": "src/visual-extension.js",
+      "sha256": "2c441c1e737a9082b0dec33bd91eff837efa7ad397ef86cc90f3005f2c58d279"
+    },
+    {
+      "path": "src/visual-practice.js",
+      "sha256": "a536ee9c32a8fcd344904a050687392130efed6b7c034a934e95738f5ed705ca"
+    },
+    {
+      "path": "src/recall.js",
+      "sha256": "ca65531eb4daa8ef8411e93a54be1e9f060ffc561657badab2ce91709b16c508"
+    },
+    {
+      "path": "src/backup.js",
+      "sha256": "145e50da16c3d2f17808a133db9689d3c99e58b4981f864ed17f3188edad2201"
+    },
+    {
+      "path": "src/events.js",
+      "sha256": "c62c5808c040ee023b3a6b9dc9948be1b4de946028ba8fe9ec7b553d66c9a473"
+    },
+    {
+      "path": "src/schemes.js",
+      "sha256": "53e12fd035aafa8d6a01a545823714af2a266c0cd1f7d62baef3d80e4ebfa1d7"
+    },
+    {
+      "path": "src/routes.js",
+      "sha256": "d67d555e22405666562a3c26e62680cc9ad6d399eae175b960e9f36006c77733"
+    },
+    {
+      "path": "src/journey.js",
+      "sha256": "7c56552be3a3b902b10b6485337bfbf83c8e75359bb8efeefd043203dce81000"
+    },
+    {
+      "path": "src/recovered-content.js",
+      "sha256": "712ddf8fbce4151d456a39df11e8a3863f2fc64f6b295ba72efb789b506e0aa5"
+    },
+    {
+      "path": "src/reviewed-content.js",
+      "sha256": "91302cdd99d3da4d1392e116ceb73cd376d43ef41a8f4e0dc0bd8b25973f9258"
+    },
+    {
+      "path": "src/lesson-assessment.js",
+      "sha256": "ec727a0bcd31f06fac3fa36225043304135a03837941d42bc76b7d3f748e498b"
+    },
+    {
+      "path": "src/lessons.js",
+      "sha256": "11e6fa8326854d51565c4b432be48e8ccadd65df7cfcf970ff5bf1f6c21a5380"
+    }
+  ],
+  "revision": "R6",
+  "original_data_unchanged": true,
+  "editorial_overlay": true,
+  "review_summary": {
+    "records_reviewed": 483,
+    "changed_headwords": 6,
+    "changed_translations": 56,
+    "new_context_examples": 103,
+    "held_rows_reviewed": 18,
+    "new_vocabulary_indices": 0
+  },
+  "course_counts": {
+    "lessons": 6,
+    "dialogues": 6,
+    "reading_texts": 6,
+    "listening_scenarios": 12,
+    "tasks": 120,
+    "new_global_vocabulary_records": 0,
+    "new_catalog_elements": 275
+  }
+}

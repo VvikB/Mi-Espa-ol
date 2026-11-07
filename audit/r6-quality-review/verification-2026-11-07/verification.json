@@ -1,0 +1,40 @@
+{
+  "classification": "FRESH_R6_REVIEW_VALIDATION_NO_PREVIOUS_EVIDENCE_OVERWRITE",
+  "reports": {
+    "quality-tests": {
+      "summary": {
+        "PASS": 112
+      },
+      "artifact_sha256": "3324aa91a8d0fbca5abc42894e1e1c02049c13d7ed5b4c15bedc34a3fb0736a2"
+    },
+    "lesson-tests": {
+      "summary": {
+        "PASS": 266
+      },
+      "artifact_sha256": "3324aa91a8d0fbca5abc42894e1e1c02049c13d7ed5b4c15bedc34a3fb0736a2"
+    },
+    "regression-tests": {
+      "summary": {
+        "PASS": 612
+      },
+      "artifact_sha256": "3324aa91a8d0fbca5abc42894e1e1c02049c13d7ed5b4c15bedc34a3fb0736a2"
+    },
+    "backup-tests": {
+      "summary": {
+        "PASS": 26
+      },
+      "artifact_sha256": "3324aa91a8d0fbca5abc42894e1e1c02049c13d7ed5b4c15bedc34a3fb0736a2"
+    },
+    "journey-tests": {
+      "summary": {
+        "PASS": 184
+      },
+      "artifact_sha256": "3324aa91a8d0fbca5abc42894e1e1c02049c13d7ed5b4c15bedc34a3fb0736a2"
+    }
+  },
+  "scripts": {
+    "test_r6_quality.py": "4a02aece5f509a6afbe15b77b9fbf2a96b4696f57e0374cb4e509af4650c5e63",
+    "test_r6_review_flow.py": "a9c5c06074b8ddf9d2862bfcf27fcf95bbad9922536b41dd3f4bb05ea1d7d52b",
+    "test_r6_quality_regressions.py": "135a6de6d1b17e0e5f793a4f5dfc748974df3363c5dac3a3e8dd01adfbf48451"
+  }
+}

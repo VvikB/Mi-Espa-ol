@@ -20,7 +20,7 @@
   ],
   "tableRefs": [],
   "nextLesson": "A1-07 (ещё не реализован)",
-  "estimatedMinutes": 40,
+  "estimatedMinutes": 45,
   "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
   "languageReview": "ASSISTANT_EDITED",
   "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
@@ -47,7 +47,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "Намерение: IR A + infinitivo",
-      "text": "Voy a estudiar — собираюсь учиться; vamos a comer — собираемся поесть. Меняется только ir: voy, vas, va, vamos, vais, van; смысловой глагол остаётся инфинитивом. Между ними обязательно a. Сравните Voy a la biblioteca (a + место) и Voy a estudiar (a + инфинитив). План может быть на завтра или выходные, а не только на ближайшую минуту. Пока не нужна форма estudiaré: организационное будущее выражаем конструкцией ir a."
+      "text": "План: voy a estudiar — собираюсь учиться; vas a estudiar, va a estudiar, vamos a estudiar. Между ir и инфинитивом нужно a, а estudiar не изменяется. Различайте voy a la biblioteca (куда) и voy a estudiar (что планирую). Futuro simple пока не нужен; полная парадигма ir доступна в справке.",
+      "referenceText": "Voy a estudiar — собираюсь учиться; vamos a comer — собираемся поесть. Меняется только ir: voy, vas, va, vamos, vais, van; смысловой глагол остаётся инфинитивом. Между ними обязательно a. Сравните Voy a la biblioteca (a + место) и Voy a estudiar (a + инфинитив). План может быть на завтра или выходные, а не только на ближайшую минуту. Пока не нужна форма estudiaré: организационное будущее выражаем конструкцией ir a.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     },
     {
       "id": "A1-06:explanation:2",
@@ -71,7 +73,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "Предпочтения: GUSTAR",
-      "text": "В Me gusta el café грамматическое подлежащее — el café, а me показывает, кому нравится. Единственное число и инфинитив требуют gusta: Me gusta este café. Me gusta caminar. Множественное число требует gustan: Me gustan los libros. Для собеседника: ¿Te gusta leer? Для нас: Nos gusta este lugar. Не стройте Yo gusto el café по русскому образцу «я люблю кофе». Отрицание: No me gusta. Вежливая формула Me gustaría... означает «мне бы хотелось» и не равна простому факту предпочтения; полная тема condicional будет позже."
+      "text": "Me gusta el café — мне нравится кофе; me gusta leer — мне нравится читать. Множественное число: me gustan los libros. Собеседнику: ¿Te gusta leer? Для имени: A Ana le gusta cocinar — Ане нравится готовить; a su amiga le gusta pasear — её подруге нравится гулять. Это опорные модели, не весь дательный падеж. No me gusta — не нравится. Me gustaría… — отдельная вежливая формула «мне бы хотелось».",
+      "referenceText": "В Me gusta el café грамматическое подлежащее — el café, а me показывает, кому нравится. Единственное число и инфинитив требуют gusta: Me gusta este café. Me gusta caminar. Множественное число требует gustan: Me gustan los libros. Для собеседника: ¿Te gusta leer? Для нас: Nos gusta este lugar. Не стройте Yo gusto el café по русскому образцу «я люблю кофе». Отрицание: No me gusta. Вежливая формула Me gustaría... означает «мне бы хотелось» и не равна простому факту предпочтения; полная тема condicional будет позже.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     },
     {
       "id": "A1-06:explanation:3",
@@ -95,7 +99,9 @@
       "languageReview": "ASSISTANT_EDITED",
       "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
       "title": "Приглашение и согласование",
-      "text": "¿Quieres tomar un café? приглашает выпить кофе, ¿Vamos al parque? предлагает пойти в парк. Реакции: Sí, buena idea; Hoy no puedo; ¿Y mañana?; Prefiero por la tarde. Разговор должен прийти к конкретным месту и времени, а не остановиться на «да». Чтобы подтвердить, повторите: Entonces, el domingo a las cinco delante del café. No puedo — достаточно вежливый отказ; не нужно выдумывать причину. В устной задаче учитесь предложить альтернативу и проверить понимание, а не читать готовый диалог."
+      "text": "¿Quieres tomar un café? — приглашение; sí, buena idea — согласие; hoy no puedo — сегодня не могу. ¿Y mañana? — предложение другого дня. Prefiero por la tarde — предпочитаю после обеда. Завершите разговор конкретной договорённостью: Entonces, el domingo a las cuatro en el café Sol. Формулы ¿Nos vemos…? и a mí también объяснены в опорах. Отказ и альтернатива — часть задачи, а не ошибка.",
+      "referenceText": "¿Quieres tomar un café? приглашает выпить кофе, ¿Vamos al parque? предлагает пойти в парк. Реакции: Sí, buena idea; Hoy no puedo; ¿Y mañana?; Prefiero por la tarde. Разговор должен прийти к конкретным месту и времени, а не остановиться на «да». Чтобы подтвердить, повторите: Entonces, el domingo a las cinco delante del café. No puedo — достаточно вежливый отказ; не нужно выдумывать причину. В устной задаче учитесь предложить альтернативу и проверить понимание, а не читать готовый диалог.",
+      "scope": "CORE_WITH_OPTIONAL_REFERENCE"
     }
   ],
   "lexicon": [
@@ -123,7 +129,8 @@
       "wordIndex": 88,
       "es": "ir",
       "ru": "идти/ехать",
-      "note": "voy a + infinitivo"
+      "note": "voy a + infinitivo",
+      "requiredForProduction": true
     },
     {
       "id": "A1-06:lexicon:2",
@@ -149,7 +156,8 @@
       "wordIndex": 90,
       "es": "querer",
       "ru": "хотеть/любить",
-      "note": "¿Quieres tomar un café?"
+      "note": "¿Quieres tomar un café?",
+      "requiredForProduction": true
     },
     {
       "id": "A1-06:lexicon:3",
@@ -175,7 +183,8 @@
       "wordIndex": 14,
       "es": "me gustaría",
       "ru": "мне бы хотелось",
-      "note": "вежливая готовая формула"
+      "note": "вежливая готовая формула",
+      "requiredForProduction": false
     },
     {
       "id": "A1-06:lexicon:4",
@@ -201,7 +210,8 @@
       "wordIndex": 408,
       "es": "preferir",
       "ru": "предпочитать",
-      "note": "prefiero — я предпочитаю"
+      "note": "prefiero — я предпочитаю",
+      "requiredForProduction": true
     },
     {
       "id": "A1-06:lexicon:5",
@@ -227,7 +237,8 @@
       "wordIndex": 89,
       "es": "poder",
       "ru": "мочь",
-      "note": "Hoy no puedo"
+      "note": "Hoy no puedo",
+      "requiredForProduction": true
     },
     {
       "id": "A1-06:lexicon:6",
@@ -253,7 +264,8 @@
       "wordIndex": 391,
       "es": "invitar",
       "ru": "приглашать",
-      "note": "invitar a alguien a tomar algo"
+      "note": "invitar a alguien a tomar algo",
+      "requiredForProduction": false
     },
     {
       "id": "A1-06:lexicon:7",
@@ -279,7 +291,8 @@
       "wordIndex": 444,
       "es": "pasear",
       "ru": "гулять",
-      "note": "vamos a pasear"
+      "note": "vamos a pasear",
+      "requiredForProduction": true
     },
     {
       "id": "A1-06:lexicon:8",
@@ -305,7 +318,8 @@
       "wordIndex": 419,
       "es": "descansar",
       "ru": "отдыхать",
-      "note": "voy a descansar"
+      "note": "voy a descansar",
+      "requiredForProduction": false
     },
     {
       "id": "A1-06:lexicon:9",
@@ -331,7 +345,8 @@
       "wordIndex": 47,
       "es": "hoy",
       "ru": "сегодня",
-      "note": "hoy no puedo"
+      "note": "hoy no puedo",
+      "requiredForProduction": false
     },
     {
       "id": "A1-06:lexicon:10",
@@ -357,7 +372,8 @@
       "wordIndex": 49,
       "es": "mañana",
       "ru": "завтра",
-      "note": "¿Y mañana?"
+      "note": "¿Y mañana?",
+      "requiredForProduction": false
     }
   ],
   "dialogue": {
@@ -635,7 +651,7 @@
     ],
     "languageReview": "ASSISTANT_EDITED",
     "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
-    "text": "Hola, Marta. El sábado no puedo ir al parque porque voy a trabajar. ¿Quieres quedar el domingo? Podemos tomar un café a las cuatro y después pasear. Me gustan los sitios tranquilos. Prefiero el café de la plaza, al lado de la biblioteca. Dime si te viene bien esa hora.",
+    "text": "Hola, Marta. El sábado no puedo ir al parque porque voy a trabajar. ¿Quieres quedar el domingo? Podemos tomar un café a las cuatro y después pasear. Me gustan los sitios tranquilos. Prefiero el café de la plaza, al lado de la biblioteca. ¿Puedes venir a las cuatro?",
     "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
   },
   "typicalErrors": [
@@ -774,7 +790,10 @@
         "Voy a estudio."
       ],
       "activityKind": "choice",
-      "contentId": "A1-06:task:04"
+      "contentId": "A1-06:task:04",
+      "explanationRefs": [
+        "A1-06:explanation:1"
+      ]
     },
     {
       "id": "A1-06:task:05",
@@ -805,7 +824,10 @@
       "explanation": "Los libros — множественное число.",
       "options": [],
       "activityKind": "input",
-      "contentId": "A1-06:task:05"
+      "contentId": "A1-06:task:05",
+      "explanationRefs": [
+        "A1-06:explanation:2"
+      ]
     },
     {
       "id": "A1-06:task:06",
@@ -836,7 +858,10 @@
       "explanation": "Voy → vamos; a pasear не меняется.",
       "options": [],
       "activityKind": "input",
-      "contentId": "A1-06:task:06"
+      "contentId": "A1-06:task:06",
+      "explanationRefs": [
+        "A1-06:explanation:1"
+      ]
     },
     {
       "id": "A1-06:task:07",
@@ -873,7 +898,10 @@
       "text": "El domingo Ana va a visitar a una amiga. Por la mañana van a preparar el desayuno en casa. A Ana le gusta cocinar, pero a su amiga le gusta más pasear. Después del desayuno van a caminar por el centro. Si hace mucho calor, van a descansar en un café. No van a ir al cine. Por la tarde Ana va a volver a casa para estudiar español.",
       "activityKind": "reading",
       "meaning": "Гулять",
-      "contentId": "A1-06:task:07"
+      "contentId": "A1-06:task:07",
+      "explanationRefs": [
+        "A1-06:reading:1"
+      ]
     },
     {
       "id": "A1-06:task:08",
@@ -910,7 +938,10 @@
       "text": "El domingo Ana va a visitar a una amiga. Por la mañana van a preparar el desayuno en casa. A Ana le gusta cocinar, pero a su amiga le gusta más pasear. Después del desayuno van a caminar por el centro. Si hace mucho calor, van a descansar en un café. No van a ir al cine. Por la tarde Ana va a volver a casa para estudiar español.",
       "activityKind": "reading",
       "meaning": "Идти в кино",
-      "contentId": "A1-06:task:08"
+      "contentId": "A1-06:task:08",
+      "explanationRefs": [
+        "A1-06:reading:1"
+      ]
     },
     {
       "id": "A1-06:task:09",
@@ -944,10 +975,13 @@
         "Он едет в другой город",
         "Он не любит парк"
       ],
-      "text": "Hola, Marta. El sábado no puedo ir al parque porque voy a trabajar. ¿Quieres quedar el domingo? Podemos tomar un café a las cuatro y después pasear. Me gustan los sitios tranquilos. Prefiero el café de la plaza, al lado de la biblioteca. Dime si te viene bien esa hora.",
+      "text": "Hola, Marta. El sábado no puedo ir al parque porque voy a trabajar. ¿Quieres quedar el domingo? Podemos tomar un café a las cuatro y después pasear. Me gustan los sitios tranquilos. Prefiero el café de la plaza, al lado de la biblioteca. ¿Puedes venir a las cuatro?",
       "activityKind": "listening",
       "meaning": "Он собирается работать",
-      "contentId": "A1-06:task:09"
+      "contentId": "A1-06:task:09",
+      "explanationRefs": [
+        "A1-06:listening:1"
+      ]
     },
     {
       "id": "A1-06:task:10",
@@ -981,10 +1015,13 @@
         "a las cinco",
         "a las seis"
       ],
-      "text": "Hola, Marta. El sábado no puedo ir al parque porque voy a trabajar. ¿Quieres quedar el domingo? Podemos tomar un café a las cuatro y después pasear. Me gustan los sitios tranquilos. Prefiero el café de la plaza, al lado de la biblioteca. Dime si te viene bien esa hora.",
+      "text": "Hola, Marta. El sábado no puedo ir al parque porque voy a trabajar. ¿Quieres quedar el domingo? Podemos tomar un café a las cuatro y después pasear. Me gustan los sitios tranquilos. Prefiero el café de la plaza, al lado de la biblioteca. ¿Puedes venir a las cuatro?",
       "activityKind": "listening",
       "meaning": "a las cuatro",
-      "contentId": "A1-06:task:10"
+      "contentId": "A1-06:task:10",
+      "explanationRefs": [
+        "A1-06:listening:1"
+      ]
     },
     {
       "id": "A1-06:task:11",
@@ -1016,7 +1053,10 @@
       "options": [],
       "activityKind": "input",
       "transfer": true,
-      "contentId": "A1-06:task:11"
+      "contentId": "A1-06:task:11",
+      "explanationRefs": [
+        "A1-06:explanation:2"
+      ]
     },
     {
       "id": "A1-06:task:12",
@@ -1115,7 +1155,10 @@
       "options": [],
       "control": true,
       "activityKind": "input",
-      "contentId": "A1-06:task:14"
+      "contentId": "A1-06:task:14",
+      "explanationRefs": [
+        "A1-06:explanation:1"
+      ]
     },
     {
       "id": "A1-06:task:15",
@@ -1151,7 +1194,10 @@
       ],
       "control": true,
       "activityKind": "choice",
-      "contentId": "A1-06:task:15"
+      "contentId": "A1-06:task:15",
+      "explanationRefs": [
+        "A1-06:explanation:2"
+      ]
     },
     {
       "id": "A1-06:task:16",
@@ -1183,7 +1229,166 @@
       "options": [],
       "control": true,
       "activityKind": "input",
-      "contentId": "A1-06:task:16"
+      "contentId": "A1-06:task:16",
+      "explanationRefs": [
+        "A1-06:explanation:1"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Ближайшие планы",
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "id": "A1-06:task:17",
+      "contentId": "A1-06:task:17",
+      "type": "input",
+      "activityKind": "choice",
+      "skill": "grammar",
+      "prompt": "Контроль: выберите приглашение выпить кофе.",
+      "expected": "¿Quieres tomar un café?",
+      "alternatives": [],
+      "options": [
+        "¿Quieres tomar un café?",
+        "¿Dónde está el café?",
+        "¿Cuánto cuesta el café?"
+      ],
+      "explanation": "Quieres + infinitivo приглашает к действию.",
+      "control": true,
+      "addedInReview": true,
+      "explanationRefs": [
+        "A1-06:explanation:3"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Ближайшие планы",
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "id": "A1-06:task:18",
+      "contentId": "A1-06:task:18",
+      "type": "input",
+      "activityKind": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: сегодня не получается. Предложите завтра вопросом ровно из Y / mañana.",
+      "expected": "¿Y mañana?",
+      "alternatives": [],
+      "options": [],
+      "explanation": "Короткая естественная альтернатива; в этом контроле проверяются ¿?.",
+      "control": true,
+      "addedInReview": true,
+      "strictPunctuation": true,
+      "explanationRefs": [
+        "A1-06:explanation:3"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Ближайшие планы",
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "id": "A1-06:task:19",
+      "contentId": "A1-06:task:19",
+      "type": "input",
+      "activityKind": "input",
+      "skill": "grammar",
+      "prompt": "Контроль: подтвердите договорённость ровно в порядке Entonces / el domingo / a las cuatro / en el café Sol.",
+      "expected": "Entonces, el domingo a las cuatro en el café Sol.",
+      "alternatives": [],
+      "options": [],
+      "explanation": "Подтверждены день, время и место; запятые не влияют на результат.",
+      "control": true,
+      "addedInReview": true,
+      "explanationRefs": [
+        "A1-06:explanation:3"
+      ]
+    },
+    {
+      "level": "A1",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Ближайшие планы",
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "id": "A1-06:task:20",
+      "contentId": "A1-06:task:20",
+      "type": "listening",
+      "activityKind": "listening",
+      "skill": "listening",
+      "prompt": "Контроль без текста: на какой день предложена встреча вместо субботы?",
+      "expected": "На воскресенье",
+      "alternatives": [],
+      "options": [
+        "На воскресенье",
+        "На субботу",
+        "На понедельник"
+      ],
+      "explanation": "В записи no puedo el sábado; ¿y el domingo?",
+      "control": true,
+      "addedInReview": true,
+      "text": "Hola, Marta. El sábado no puedo porque voy a trabajar. ¿Y el domingo? Podemos tomar un café a las cuatro. Nos vemos delante del café Sol.",
+      "meaning": "На воскресенье",
+      "sourceItem": "A1-06:listening:final",
+      "explanationRefs": [
+        "A1-06:listening:final"
+      ]
     }
   ],
   "repetitionDays": [
@@ -1196,6 +1401,120 @@
   "alphabet": null,
   "durationRangeMinutes": [
     35,
-    50
-  ]
+    60
+  ],
+  "assessmentVersion": 2,
+  "loadGuidance": {
+    "coreGrammarTargets": [
+      "Намерение: IR A + infinitivo",
+      "Предпочтения: GUSTAR",
+      "Приглашение и согласование"
+    ],
+    "coreLexiconIds": [
+      "A1-06:lexicon:1",
+      "A1-06:lexicon:2",
+      "A1-06:lexicon:4",
+      "A1-06:lexicon:5",
+      "A1-06:lexicon:7"
+    ],
+    "referencePolicy": "Полные парадигмы и исключения — по желанию; они не обязательны для основного результата.",
+    "suggestedPause": "После переноса можно вернуться к плану и продолжить письмо, речь и контроль позже.",
+    "status": "EDITORIAL_LOAD_HEURISTIC_NOT_VALIDATED_ELE_THRESHOLD"
+  },
+  "scaffolding": [
+    {
+      "level": "A1",
+      "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+      "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+      "pcic": [
+        "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+      ],
+      "originalMaterials": [
+        "GRAMMAR-09",
+        "GRAMMAR-11",
+        "NOTES-03",
+        "NOTES-05",
+        "NOTES-06"
+      ],
+      "languageReview": "ASSISTANT_EDITED",
+      "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+      "topic": "Ближайшие планы",
+      "cefr": [
+        "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+      ],
+      "id": "A1-06:support:01",
+      "title": "Опоры для диалога, чтения и аудирования",
+      "entries": [
+        [
+          "¿Qué vas a hacer…? / voy a… / vamos a…",
+          "что планируешь делать? / собираюсь… / собираемся…"
+        ],
+        [
+          "¿Quieres…? / no puedo / ¿Puedes venir?",
+          "хочешь…? / не могу / можешь прийти?"
+        ],
+        [
+          "me gusta / me gustan / a Ana le gusta",
+          "мне нравится (ед. число/инфинитив) / мне нравятся (мн. число) / Ане нравится"
+        ],
+        [
+          "a mí también / prefiero / buena idea",
+          "мне тоже / предпочитаю / хорошая идея"
+        ],
+        [
+          "¿Nos vemos…? / entonces / de acuerdo",
+          "встретимся…? / тогда / договорились"
+        ],
+        [
+          "el sábado / el domingo / quedar",
+          "суббота / воскресенье / договориться о встрече"
+        ],
+        [
+          "caminar / pasear / hace buen tiempo / hace calor",
+          "ходить пешком / гулять / хорошая погода / жарко"
+        ],
+        [
+          "visitar a una amiga / preparar el desayuno",
+          "навестить подругу / приготовить завтрак"
+        ],
+        [
+          "después del desayuno / por el centro / para estudiar",
+          "после завтрака / по центру / чтобы учиться"
+        ],
+        [
+          "tranquilos / la plaza / llevar agua / volver a casa",
+          "спокойные / площадь / взять с собой воду / вернуться домой"
+        ],
+        [
+          "cuando / si / podemos",
+          "когда / если / мы можем; в этих материалах — готовые опоры"
+        ]
+      ],
+      "note": "Узнавайте эти сочетания по смыслу; все их формы не требуется воспроизводить наизусть."
+    }
+  ],
+  "finalListening": {
+    "level": "A1",
+    "objective": "Пригласить на встречу, выразить предпочтение и согласовать подходящее время, используя ближайшие планы.",
+    "origin": "NEWLY_AUTHORED_R6_NOT_HISTORICAL",
+    "pcic": [
+      "PCIC A1-A2: Funciones — proponer, aceptar/rechazar, expresar gustos; Gramática — ir a + infinitivo y gustar"
+    ],
+    "originalMaterials": [
+      "GRAMMAR-09",
+      "GRAMMAR-11",
+      "NOTES-03",
+      "NOTES-05",
+      "NOTES-06"
+    ],
+    "languageReview": "ASSISTANT_EDITED",
+    "methodicalReview": "INDEPENDENT_REVIEW_PENDING",
+    "topic": "Ближайшие планы",
+    "cefr": [
+      "CEFR A1: сделать простое предложение встретиться, выразить предпочтение и согласовать время с поддержкой"
+    ],
+    "id": "A1-06:listening:final",
+    "text": "Hola, Marta. El sábado no puedo porque voy a trabajar. ¿Y el domingo? Podemos tomar un café a las cuatro. Nos vemos delante del café Sol.",
+    "voice": "DEVICE_TTS_NOT_HUMAN_RECORDING"
+  }
 }
