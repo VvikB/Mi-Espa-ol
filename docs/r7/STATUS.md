@@ -81,3 +81,18 @@ See [DUAL_PLATFORM_CHECKPOINT.md](DUAL_PLATFORM_CHECKPOINT.md) for the authorita
 - Bottom menu: intentionally text-only, five tabs; do not add icons simply to fill space. Documented in [AUDIO_AND_NAVIGATION.md](AUDIO_AND_NAVIGATION.md).
 - Web R7 unchanged for this specific native audio issue. HTML remains first-class and its browser audio engine is not replaced.
 - GitHub commits verified; audible speech, Expo bundle and real-device acceptance of the fix **not verified yet**. Test after updating and disabling iPhone silent mode.
+
+
+## Major dual-platform checkpoint — cruise update
+Implemented in `r7-adaptive-learning`:
+1. Web cockpit now proposes the next unfinished A1 lesson and launches existing R6 targeted error reviews; original Web R6 sources and backups unchanged.
+2. Expo Today shows actionable optional time-based lessons/word cards/task reviews using shared core calculations.
+3. Expo Progress includes written/reading targeted review with SRS intervals; full-lesson assessment remains independent of short review outcomes.
+4. Native SHA-256 JSON export created using expo-crypto, expo-file-system/legacy and expo-sharing. File verified locally before share sheet; no import yet.
+5. Native backup regression suite added, included in GitHub Actions. Node mobile course tests now assert full lesson grade is unchanged after short review.
+6. Original mobile Expo local storage key unchanged; do not clear app data.
+7. Shared core, lesson IDs, 483 words, 73 tables and 6 A1 lessons preserved.
+
+**Verification level**: Connector writes confirmed; isolated JS smoke for real 20-task lesson / due correction / no mutation and backup payload roundtrip. Web JS syntax confirmed. New Expo JSX and native modules NOT bundled on a connected device or visually accepted in this turn; official Expo SDK documentation consulted for legacy filesystem, sharing, crypto. CI green status NOT confirmed. This checkpoint is implemented code awaiting acceptance, not a released production app.
+
+**Next**: confirm npm/Expo install and Files share workflow on iPhone; add original source image asset library to native with zoom; verify import of local backups through non-destructive schema-checked merge; continue A1 lesson pedagogy and web accessibility.
