@@ -1,0 +1,35 @@
+name: R7 preview and adaptive tests
+on:
+  push:
+    branches: [r7-adaptive-learning]
+  workflow_dispatch:
+
+jobs:
+  r7-preview:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Syntax and adaptive unit tests
+        run: |
+          node --check src/adaptive/core.js
+          node --check src/adaptive/bridge.js
+          node --check src/adaptive/web.js
+          node --test tests/adaptive-core.test.cjs tests/adaptive-bridge.test.cjs
+          python -m py_compile tools/build_r7_preview.py
+      - name: Build browser preview preserving R6
+        run: python tools/build_r7_preview.py
+      - name: Upload R7 HTML preview
+        uses: actions/upload-artifact@v4
+        with:
+          name: Mi-Espanol-R7-Web-Preview
+          path: .audit/working/Mi_Espanol_R7_WEB_PREVIEW.html
+          if-no-files-found: error
+          retention-days: 14
