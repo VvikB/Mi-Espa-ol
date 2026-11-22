@@ -49,6 +49,7 @@ jobs:
       - name: Install Expo dependencies
         run: |
           npm install --no-audit --no-fund
+          npx expo install --fix
           npx expo install --check
       - name: Bundle iOS JavaScript
         run: npx expo export --platform ios --output-dir dist-ci
