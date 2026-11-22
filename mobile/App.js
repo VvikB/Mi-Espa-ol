@@ -1,5 +1,5 @@
-import React, {useEffect,useMemo,useState} from 'react';
-import {View,Text,TextInput,ScrollView,Pressable,StyleSheet,Alert,ActivityIndicator} from 'react-native';
+import React, {useEffect,useMemo,useRef,useState} from 'react';
+import {View,Text,TextInput,ScrollView,Pressable,StyleSheet,Alert,ActivityIndicator,Platform} from 'react-native';
 import {StatusBar} from 'expo-status-bar';
 import * as Speech from 'expo-speech';
 import Storage from 'expo-sqlite/kv-store';
@@ -33,6 +33,9 @@ export default function App(){
  const [answer,setAnswer]=useState('');
  const [feedback,setFeedback]=useState(null);
  const [heard,setHeard]=useState(false);
+ const [speechCompleted,setSpeechCompleted]=useState(false);
+ const [speechStatus,setSpeechStatus]=useState('Нажми «Проверить звук» для диагностики.');
+ const speechSerial=useRef(0);
  const [transcript,setTranscript]=useState(false);
  const [showTranslation,setShowTranslation]=useState(false);
  const [showReference,setShowReference]=useState(false);
@@ -51,7 +54,7 @@ export default function App(){
    bridge.read(next);learning.read(next);
    if(alive){setStore(next);setMinutes(String(bridge.read(next).availableMinutes));}
  }catch(e){if(alive)setLoadError(e.message);}})();
- return()=>{alive=false;Speech.stop();};},[]);
+ return()=>{alive=false;speechSerial.current++;Speech.stop().catch(()=>{});};},[]);
  async function save(next){
   try{
    bridge.read(next);learning.read(next);
@@ -59,20 +62,39 @@ export default function App(){
    setStore(next);return true;
   }catch(e){Alert.alert('Сохранение не выполнено',e.message);return false;}
  }
- function say(text,callback){
+ async function say(text,callback){
   if(!text)return;
-  try{Speech.stop();Speech.speak(text,{language:'es-ES',rate:0.82,onDone:()=>callback?.(),onError:()=>Alert.alert('Озвучка','Голос устройства недоступен. Можно открыть текст для чтения без зачёта аудирования.')});}
-  catch(e){Alert.alert('Озвучка',e.message);}
+  const token=++speechSerial.current;
+  setSpeechStatus('Подготовка испанского голоса…');
+  try{
+   // Stop is asynchronous; await it to prevent stopping the next utterance.
+   await Speech.stop();
+   if(token!==speechSerial.current)return;
+   Speech.speak(text,{language:'es-ES',rate:0.82,
+     onStart:()=>{if(token===speechSerial.current)setSpeechStatus('Воспроизведение запущено. Если тишина — проверь бесшумный режим iPhone.');},
+     onDone:()=>{if(token===speechSerial.current){setSpeechStatus('Синтезатор завершил речь. Подтверди, что действительно слышал(а) её.');callback?.();}},
+     onStopped:()=>{if(token===speechSerial.current)setSpeechStatus('Воспроизведение остановлено.');},
+     onError:e=>{if(token===speechSerial.current){setSpeechStatus('Ошибка воспроизведения: '+String(e?.message||'неизвестная ошибка'));Alert.alert('Озвучка','Проверь звук на iPhone, бесшумный режим и доступность голоса Español.');}}
+   });
+  }catch(e){if(token===speechSerial.current){setSpeechStatus('Не удалось запустить речь: '+e.message);Alert.alert('Озвучка',e.message);}}
+ }
+ async function testVoice(){
+  try{
+   const voices=await Speech.getAvailableVoicesAsync();
+   const spanish=voices.filter(v=>String(v.language||'').toLowerCase().startsWith('es'));
+   setSpeechStatus('Доступных испанских голосов: '+spanish.length+'. '+(Platform.OS==='ios'?'На iPhone отключи бесшумный режим и подними громкость мультимедиа.':'Проверь громкость мультимедиа.'));
+   await say('Hola. Buenos días. Estoy aprendiendo español.');
+  }catch(e){setSpeechStatus('Не удалось проверить голоса: '+e.message);Alert.alert('Диагностика голоса',e.message);}
  }
  function openLesson(id){
-  setLessonId(id);setTab('lessons');setFeedback(null);setAnswer('');setHeard(false);setTranscript(false);
+  setLessonId(id);setTab('lessons');setFeedback(null);setAnswer('');setHeard(false);setSpeechCompleted(false);setTranscript(false);
   setShowTranslation(false);setShowReference(false);
  }
  async function startLesson(id){
   try{const ok=await save(learning.begin(store,id));if(ok)openLesson(id);}
   catch(e){Alert.alert('Урок',e.message);}
  }
- function resetTask(){setAnswer('');setFeedback(null);setHeard(false);setTranscript(false);setShowReference(false);}
+ function resetTask(){speechSerial.current++;Speech.stop().catch(()=>{});setAnswer('');setFeedback(null);setHeard(false);setSpeechCompleted(false);setTranscript(false);setShowReference(false);}
  async function submitTask(task){
   if(!task)return;
   if(!task.stage&&task.type!=='gap'&&!['writing','speaking'].includes(task.type)&&!answer.trim())
@@ -131,6 +153,8 @@ export default function App(){
   <Panel><Heading>Сегодня · {today()}</Heading><Note>Время — ориентир, а не обязательный норматив. Пропущенные занятия не считаются поражением.</Note>
    <View style={s.inline}><TextInput value={minutes} onChangeText={setMinutes} keyboardType="number-pad" accessibilityLabel="Доступные минуты" style={[s.input,{width:90}]}/><Action onPress={()=>{const n=Number(minutes);if(!Number.isInteger(n)||n<0||n>180)return Alert.alert('Время','Введите от 0 до 180 минут');save(bridge.setMinutes(store,n));}}>Сохранить</Action></View>
    <Note>Выделено: {profile.availableMinutes} минут · карточек к повторению: {nextWordReview(course)}</Note>
+   <Action secondary onPress={testVoice}>🔊 Проверить испанский звук</Action>
+   <Note>{speechStatus}</Note>
   </Panel>
   <Panel><Heading>Продолжить обучение</Heading>
    {active?<><Text style={s.body}>Урок {active.lessonId} · шаг {active.step+1}</Text><Action onPress={()=>openLesson(active.lessonId)}>Продолжить урок</Action></>:
@@ -156,9 +180,11 @@ export default function App(){
     {currentTask.stage==='lexicon'&&opened.lexicon.map(x=><View key={x.id} style={s.section}><View style={s.inline}><View style={{flex:1}}><Text style={s.spanish}>{x.es}</Text><Note>{x.ru} · {x.note}</Note></View><Pressable onPress={()=>say(x.es)}><Text style={s.link}>🔊</Text></Pressable></View></View>)}
     {!currentTask.stage&&currentTask.type==='reading'&&<View style={s.section}><Text style={s.spanish}>{currentTask.text}</Text></View>}
     {!currentTask.stage&&currentTask.type==='listening'&&<>
-      <Action secondary onPress={()=>{setHeard(false);say(currentTask.text,()=>setHeard(true));}}>🔊 Прослушать испанский</Action>
-      <Note>{heard?'Прослушивание завершено':'Прослушайте аудио до конца перед проверкой'}</Note>
-      <Pressable onPress={()=>setTranscript(true)}><Text style={s.link}>Нет звука? Открыть текст вместо аудио</Text></Pressable>
+      <Action secondary onPress={()=>{setHeard(false);setSpeechCompleted(false);say(currentTask.text,()=>setSpeechCompleted(true));}}>🔊 Прослушать испанский</Action>
+      <Note>{heard?'Ты подтвердил(а), что услышал(а) запись.':speechCompleted?'Озвучка завершилась. Слышал(а) фразу?':'Прослушай аудио до конца перед проверкой.'}</Note>
+      {speechCompleted&&!transcript&&!heard&&<Action secondary onPress={()=>setHeard(true)}>Да, я услышал(а) запись</Action>}
+      <Note>{speechStatus}</Note>
+      <Pressable onPress={()=>{setTranscript(true);setHeard(false);}}><Text style={s.link}>Нет звука? Открыть текст вместо аудио</Text></Pressable>
       {transcript&&<><Text style={s.spanish}>{currentTask.text}</Text><Note>Результат учитывается как чтение, а не аудирование.</Note></>}
     </>}
     {!currentTask.stage&&['input','reading','listening'].includes(currentTask.type)&&<>
@@ -245,6 +271,7 @@ export default function App(){
     }}>Сохранить фактическое занятие</Action>
     <Note>Ручная запись не повышает показатель проверенных знаний.</Note>
   </Panel>
+  <Panel><Heading>Звук и произношение</Heading><Action secondary onPress={testVoice}>🔊 Проверить испанский голос</Action><Note>{speechStatus}</Note><Note>На физическом iPhone Expo Speech может не звучать, если включён бесшумный режим. Выключи его и проверь громкость мультимедиа. Проигрывание через голос устройства не заменяет запись диктора.</Note></Panel>
   <Panel><Heading>Защита данных</Heading><Note>Нативный прогресс хранится локально в отдельном хранилище. Автоматическая синхронизация с Web R6 пока не реализована; не удаляй приложение без резервной копии.</Note></Panel>
  </>;
  };
@@ -252,7 +279,7 @@ export default function App(){
    {body()}{!!notice&&<Note>{notice}</Note>}
    <Text style={s.footer}>Mi Español · Учись в удобном ритме</Text>
   </ScrollView>
-  <View style={s.nav}>{NAV.map(([id,label])=><Pressable accessibilityRole="tab" accessibilityState={{selected:tab===id}} key={id} onPress={()=>{Speech.stop();setTab(id);setLessonId(null);setNotice('');}} style={[s.navItem,tab===id&&s.navSelected]}><Text numberOfLines={1} style={[s.navLabel,tab===id&&s.navTextSelected]}>{label}</Text></Pressable>)}</View>
+  <View style={s.nav}>{NAV.map(([id,label])=><Pressable accessibilityRole="tab" accessibilityState={{selected:tab===id}} key={id} onPress={()=>{speechSerial.current++;Speech.stop().catch(()=>{});setTab(id);setLessonId(null);setNotice('');}} style={[s.navItem,tab===id&&s.navSelected]}><Text numberOfLines={1} style={[s.navLabel,tab===id&&s.navTextSelected]}>{label}</Text></Pressable>)}</View>
  </View>;
 }
 const s=StyleSheet.create({
