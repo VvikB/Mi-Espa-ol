@@ -5,5 +5,4 @@ const config=getDefaultConfig(root);
 // Shared platform-independent learning code lives one directory above mobile.
 config.watchFolders=[path.resolve(root,'..')];
 config.resolver.nodeModulesPaths=[path.resolve(root,'node_modules')];
-returnConfig=config;
-module.exports=returnConfig;
+module.exports=config;
