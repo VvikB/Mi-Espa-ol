@@ -22,7 +22,7 @@ jobs:
           node --check src/adaptive/core.js
           node --check src/adaptive/bridge.js
           node --check src/adaptive/web.js
-          node --test tests/adaptive-core.test.cjs tests/adaptive-bridge.test.cjs tests/mobile-course.test.cjs
+          node --test tests/adaptive-core.test.cjs tests/adaptive-bridge.test.cjs tests/mobile-course.test.cjs tests/native-backup.test.cjs
           python -m py_compile tools/build_r7_preview.py
       - name: Build browser preview preserving R6
         run: python tools/build_r7_preview.py
