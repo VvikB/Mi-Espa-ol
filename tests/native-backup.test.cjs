@@ -17,7 +17,7 @@ test('tampered native backup rejected without modifying existing state',async()=
  const payload=state(),file=await backup.makeBackup(payload,digest);
  file.payload.miAdaptive7.availableMinutes=99;
  await assert.rejects(backup.validateBackup(file,digest),/Контрольная сумма/);
- assert.equal(payload.miAdaptive7.availableMinutes,99); // export does not own local app state
+ assert.equal(payload.miAdaptive7.availableMinutes,15); // export is a detached copy of app state
 });
 test('wrong backup format cannot be imported by validator',async()=>{
  await assert.rejects(backup.validateBackup({format:'mi-espanol-progress-3',schema:3},digest));
