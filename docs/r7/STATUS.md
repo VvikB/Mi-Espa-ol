@@ -34,3 +34,29 @@ Never replace existing user data with the preview. Export R6 backup first.
 3. Create native Lesson/Library screens with original source assets rather than blank substitutes.
 4. Add real measured task attempts to R7 without double-counting R6 event journal.
 5. Verify Safari and Expo on a real iPhone; resolve mobile build issues; add review and report content.
+
+
+## Major native content package (2026-11-22; subsequent checkpoint)
+
+**Files committed**
+- `mobile/content/course.json`: derived without substituting titles or demo filler from the six original R6 A1 lesson JSONs and original/recovered vocabulary/grammar. Includes 6 lessons × 20 tasks (120), 483 vocabulary entries, 16 grammar sections and 73 tables. This view omits embedded original page images, which remain untouched in `assets/pages`.
+- `mobile/learning.js`: resume, answer checking with exact Spanish accents, self-assessment with no objective credit, listening distinction, latest result per task, spaced word review, immutable state updates.
+- `mobile/App.js`: five-tab academy (Today, Lessons, Words, Grammar, Progress); explanation/dialogue with translation and TTS, reading/listening, six A1 lessons with checks, search/flashcards, grammar tables and manual actual-work reporting.
+- `mobile/package.json`: expo-speech dependency; `mobile/metro.config.js`: corrected configuration export.
+- `tests/mobile-course.test.cjs`: real content and assessment regression tests.
+- GitHub Actions: extends Node verification to native module and adds Expo iOS JS bundle job.
+- `mobile/README.md`: update commands and current caveats.
+
+**Verification actually performed**
+- GitHub files are saved, the compact course bundle parsed and enumerated in tool context: 6 lessons, 120 tasks, 483 vocabulary items, 16 atlas sections, 73 tables.
+- Pure JS portable mobile-learning module evaluated with original extracted course JSON: complete 20-task A1-01 sample cycle finished, 7/7 objective controls counted; zero missing expected answers and zero multiple-choice options without expected answers across all 120 tasks.
+- Not yet demonstrated: workflow PASS, actual Expo bundling on local user's machine, screenshot/visual inspection on device, completed QA on iPhone, R6 backup import or sync. Do not imply completed device testing.
+
+**Known limitations**
+- Native speech uses installed device TTS, not professionally recorded dialogues; listening tests require confirmed TTS completion to count as objective audio tasks; opening transcript does not qualify.
+- Full original scans and image-based vocabulary not yet embedded in native UI. They remain available in original Web R6.
+- New native results are separate from browser R6. No automatic transfer, cloud sync or native export/import yet, so avoid deleting app data.
+- Manual logs can accurately record user-entered work but cannot prove knowledge. Time inside lessons is not automatically metered yet. Objective statistics count only scored tasks.
+- R7 is not a finished release. Independent ELE review, iPhone acceptance, and historical 15-pass reconciliations remain open.
+
+**Next**: obtain green CI including mobile bundle; fix native dependencies/runtime errors; native backup and safe R6 import; add original scanned grammar sheets with zoom, audio reliability and review scheduling; then expand beyond A1-06.
