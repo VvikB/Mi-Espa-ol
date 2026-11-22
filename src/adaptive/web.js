@@ -49,6 +49,7 @@
         '<p style="font-size:12px">Это статистика только новых записей R7, а не всех исторических занятий.</p>'+
         '<h3>Последние 28 дней</h3><div role="list" aria-label="Календарь занятий" style="display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:4px">'+calendar.map(x=>'<span role="listitem" title="'+escape(x.day)+' · '+x.minutes+' мин" aria-label="'+escape(x.day)+' · '+x.minutes+' минут" style="background:'+(x.minutes>0?'#d6eafc':'#f1f5f9')+';border:1px solid #cbd5e1;border-radius:7px;padding:6px 2px;text-align:center;font-size:11px">'+x.day.slice(8)+'</span>').join('')+'</div>'+ 
         '<h3>Навыки · последние 28 дней</h3>'+evidence.map(x=>'<div style="display:flex;justify-content:space-between;gap:8px;padding:4px 0"><span>'+escape(skillNames[x.id])+'</span><span>'+x.attempted+' проверок · '+x.minutes+' мин'+(x.recommendation==='repeat_errors'?' · повторить ошибки':'')+'</span></div>').join('')+
+        '<h3>Оригинальная библиотека</h3><p>Все 16 исходных листов грамматики остаются без изменений и доступны в полноразмерной веб-библиотеке.</p><button type="button" data-r7-originals style="padding:10px;border:1px solid #cbd5e1;border-radius:9px;background:#e7f0f9;color:#173b63">Открыть оригиналы грамматики</button>'+ 
         '<h3>Записать реальное занятие</h3><form data-r7-form>'+
         '<label>Навык <select name="skill"><option value="vocabulary">Слова</option><option value="grammar">Грамматика</option><option value="reading">Чтение</option><option value="listening">Аудирование</option><option value="writing">Письмо</option><option value="speaking">Разговор</option></select></label>'+
         '<label> Минут <input name="minutes" type="number" min="0" max="180" step="1" value="10" required style="max-width:65px"></label>'+
@@ -64,6 +65,7 @@
   mount.addEventListener('click',e=>{
     const b=e.target.closest('button');if(!b)return;
     if(b.hasAttribute('data-r7-toggle')){opened=!opened;notice='';render();return;}
+    if(b.hasAttribute('data-r7-originals')){opened=false;render();if(typeof setLib==='function')setLib('originals');else notice='Оригиналы доступны в разделе Библиотека';return;}
     if(b.dataset.r7NewLesson&&typeof LessonUI!=='undefined'){opened=false;render();LessonUI.show(b.dataset.r7NewLesson);return;}
     if(b.dataset.r7Lesson&&typeof LessonUI!=='undefined') {opened=false;render();LessonUI.start(b.dataset.r7Lesson,true);return;}
     if(b.hasAttribute('data-r7-go-reviews')) {opened=false;render();if(typeof navTo==='function')navTo('progress');return;}
