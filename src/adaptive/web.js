@@ -13,6 +13,7 @@
   mount.id='mi-r7';mount.style.cssText='position:fixed;z-index:9999;right:12px;bottom:12px;max-width:min(420px,calc(100vw - 24px));font:15px system-ui,sans-serif;color:#18293c';
   // Imported data can be malformed: never overwrite them to "repair" automatically.
   let opened=false,notice='';
+  const skillNames={vocabulary:'Слова',grammar:'Грамматика',reading:'Чтение',listening:'Аудирование',writing:'Письмо',speaking:'Разговор'};
   function snapshot() {return StateStore.loadProgress();}
   function persist(next) {StateStore.saveProgress(next); state=StateStore.loadProgress();}
   function render() {
@@ -23,16 +24,22 @@
       const due=bridge.dueFromReviews(progress,day);
       const plan=core.dailyPlan({day,availableMinutes:a.availableMinutes,due,nextLessonId:null});
       const report=core.weekSummary(a.events,day);
+      const calendar=core.activityCalendar(a.events,day,28);
+      const evidence=core.skillEvidence(a.events,day);
+      const todayDue=Object.entries(progress.miJourney3?.taskReviews||{}).filter(([id,r])=>r&&typeof r.next==='number'&&r.next<=Date.now()&&(r.needsWork||r.steps>=0)).length;
       const rows=plan.assignments.map(x=>'<li>'+escape(x.id)+' · повторение ~'+x.estimatedMinutes+' мин</li>').join('');
       mount.innerHTML='<div role="region" aria-label="Mi Español R7" style="background:#fff;border:1px solid #cbd5e1;border-radius:17px;box-shadow:0 10px 35px #0004;padding:16px;max-height:80vh;overflow:auto">'+
         '<div style="display:flex;justify-content:space-between;align-items:center;gap:12px"><b>Mi Español · Мой день</b><button type="button" data-r7-toggle aria-label="Закрыть">✕</button></div>'+
         '<p style="font-size:12px">R7 — экспериментальный адаптивный экран. Прежние уроки и результаты не изменяются.</p>'+
         '<label>Доступное время, минут <input aria-label="Доступные минуты" data-r7-minutes type="number" min="0" max="180" step="1" value="'+a.availableMinutes+'" style="max-width:75px"></label> <button type="button" data-r7-save-minutes>Сохранить</button>'+
         '<h3>Повторения на '+day+'</h3>'+(rows?'<ul>'+rows+'</ul>':'<p>Срок повторения уроков не наступил или данных ещё нет.</p>')+
-        '<p>Отложенные повторения: '+plan.deferredReviews+'. Ничего не списывается за пропуск.</p>'+
+        '<p>Отложенные повторения: '+plan.deferredReviews+'. Ничего не списывается за пропуск. Заданий для адресного повтора: '+todayDue+'.</p>'+ 
+        (todayDue?'<button type="button" data-r7-go-reviews>Открыть ошибки и повторения</button>':'')+
         '<h3>Фактические занятия за 7 дней</h3>'+
         '<p>'+report.minutes+' мин · '+report.activeDays+' дней · '+report.wordsPracticed+' слов в практике · '+report.correct+'/'+report.attempted+' объективно проверенных ответов</p>'+
         '<p style="font-size:12px">Это статистика только новых записей R7, а не всех исторических занятий.</p>'+
+        '<h3>Последние 28 дней</h3><div role="list" aria-label="Календарь занятий" style="display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:4px">'+calendar.map(x=>'<span role="listitem" title="'+escape(x.day)+' · '+x.minutes+' мин" aria-label="'+escape(x.day)+' · '+x.minutes+' минут" style="background:'+(x.minutes>0?'#d6eafc':'#f1f5f9')+';border:1px solid #cbd5e1;border-radius:7px;padding:6px 2px;text-align:center;font-size:11px">'+x.day.slice(8)+'</span>').join('')+'</div>'+ 
+        '<h3>Навыки · последние 28 дней</h3>'+evidence.map(x=>'<div style="display:flex;justify-content:space-between;gap:8px;padding:4px 0"><span>'+escape(skillNames[x.id])+'</span><span>'+x.attempted+' проверок · '+x.minutes+' мин'+(x.recommendation==='repeat_errors'?' · повторить ошибки':'')+'</span></div>').join('')+
         '<h3>Записать реальное занятие</h3><form data-r7-form>'+
         '<label>Навык <select name="skill"><option value="vocabulary">Слова</option><option value="grammar">Грамматика</option><option value="reading">Чтение</option><option value="listening">Аудирование</option><option value="writing">Письмо</option><option value="speaking">Разговор</option></select></label>'+
         '<label> Минут <input name="minutes" type="number" min="0" max="180" step="1" value="10" required style="max-width:65px"></label>'+
@@ -48,6 +55,7 @@
   mount.addEventListener('click',e=>{
     const b=e.target.closest('button');if(!b)return;
     if(b.hasAttribute('data-r7-toggle')){opened=!opened;notice='';render();return;}
+    if(b.hasAttribute('data-r7-go-reviews')) {opened=false;render();if(typeof navTo==='function')navTo('progress');return;}
     if(b.hasAttribute('data-r7-save-minutes')) {
       try {const n=Number(mount.querySelector('[data-r7-minutes]').value);
         if(!Number.isInteger(n))throw Error('Укажите целое количество минут');
