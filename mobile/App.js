@@ -177,6 +177,12 @@ export default function App(){
  const skillEvidence=adaptive.skillEvidence(profile.events,today());
  const skillNames=Object.fromEntries(SKILLS);
  const reviewDue=learning.reviewQueue(store);
+ const dueCards=Object.entries(course.cardReviews||{}).filter(([id,r])=>Number.isFinite(r?.due)&&r.due<=Date.now());
+ const firstPending=learning.COURSE.lessons.find(l=>!learning.lessonProgress(store,l.id)?.completed);
+ const suggested=adaptive.dailyPlan({day:today(),availableMinutes:profile.availableMinutes,
+   due:[...reviewDue.map(x=>({id:'task:'+x.id,dueDay:new Date(x.due).toISOString().slice(0,10),estimatedMinutes:3})),
+     ...dueCards.map(([id,r])=>({id:'word:'+id,dueDay:new Date(r.due).toISOString().slice(0,10),estimatedMinutes:1}))],
+   nextLessonId:firstPending?.id});
  const active=course.active;
  const opened=lessonId&&learning.COURSE.lessons.find(l=>l.id===lessonId);
  const currentTask=opened&&active?.lessonId===opened.id?opened.tasks[active.step]:null;
@@ -194,6 +200,17 @@ export default function App(){
    <Note>Выделено: {profile.availableMinutes} минут · карточек к повторению: {nextWordReview(course)}</Note>
    <Action secondary onPress={testVoice}>🔊 Проверить испанский звук</Action>
    <Note>{speechStatus}</Note>
+  </Panel>
+  <Panel><Heading>Предложение на сегодня</Heading>
+   <Note>Это рекомендация по твоему свободному времени и срокам повторений, не обязательное задание.</Note>
+   {suggested.assignments.length? suggested.assignments.slice(0,5).map((x,i)=><View key={i} style={s.section}>
+      <Text style={s.body}>{x.kind==='lesson'?'Новый урок · '+x.id:x.id.startsWith('word:')?'Карточка словаря':'Повторить ошибку'} · около {x.estimatedMinutes} мин</Text>
+      <Action secondary onPress={()=>{if(x.kind==='lesson'){openLesson(x.id);}
+        else if(x.id.startsWith('word:')){setCardIndex(Number(x.id.slice(5)));setCardRevealed(false);setTab('words');}
+        else {setReviewAnswer('');setReviewResult(null);setTab('progress');}
+      }}>Открыть</Action>
+   </View>):<Note>На выбранное время ничего не назначено. Можно выбрать любую тему самостоятельно.</Note>}
+   {!!suggested.deferredReviews&&<Note>Осталось повторений за пределами плана: {suggested.deferredReviews}. Они не пропадут.</Note>}
   </Panel>
   <Panel><Heading>Повторение по ошибкам</Heading><Text style={s.body}>Заданий к повторению: {reviewDue.length}</Text><Action secondary onPress={()=>setTab('progress')}>Открыть повторение</Action></Panel>
   <Panel><Heading>Продолжить обучение</Heading>
