@@ -14,7 +14,7 @@ function backupBody(state,at=new Date().toISOString()){
  if(typeof at!=='string'||!Number.isFinite(Date.parse(at)))throw Error('Неверная дата');
  return {format:'mi-espanol-native-r7-progress-1',schema:1,exportedAt:at,
   metadata:{lessons:learning.COURSE.lessons.length,words:learning.COURSE.words.length,
-   includesR6WebHistory:false,deviceScope:'local-native-r7'},payload:state};
+   includesR6WebHistory:false,deviceScope:'local-native-r7'},payload:JSON.parse(JSON.stringify(state))};
 }
 async function makeBackup(state,sha256){
  if(typeof sha256!=='function')throw Error('SHA-256 недоступен');
