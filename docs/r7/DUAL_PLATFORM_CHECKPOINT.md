@@ -79,3 +79,21 @@ Expo R7 preview:
 3. Progress -> export JSON -> Save to Files; confirm file actually present. Do not delete app data yet.
 4. Check HTML preview: `python3 tools/build_r7_preview.py` then open `.audit/working/Mi_Espanol_R7_WEB_PREVIEW.html`; use adaptive panel to open R6 lesson and targeted review. Export R6 v3 backup separately.
 5. Run the Node suites; confirm no duplicate task IDs, backup tampering rejected and graded lesson score is preserved after a short review.
+
+
+## R7 original grammar archive restoration in Expo — 2026-11-22
+
+**User requirement:** both HTML Web and native Expo remain first-class. Original scanned grammar pages must be preserved byte-for-byte, not substituted with charts.
+
+**Actual changes saved:**
+- Source manifest `data/images.json` lists 16 grammar WebP images `GRAMMAR-01` through `GRAMMAR-16`, all found via connected GitHub file read.
+- `mobile/originals.js`: exact static Metro requires to `../assets/pages/GRAMMAR-XX.webp`, bundled offline from the existing canonical files. No copying, resizing or base64 duplicate sources.
+- `mobile/OriginalViewer.js`: full-screen viewer with original sheet ID, previous/next, 100%-300% manual zoom, iOS pinch gestures (ScrollView zoom) and a close control; uses `expo-image` for WebP display.
+- `mobile/App.js`: the Grammar tab offers 16 original pages and lesson details link to their real source grammar pages, while preserving the original 73 digital tables and five bottom text-only tabs.
+- `src/adaptive/web.js`: direct navigation to the original scanned sheets section of the existing HTML library.
+- `tests/native-originals.test.cjs`: verifies all 16 static require paths and source file SHA-256 against the R6 image manifest; included in the R7 GitHub Actions test job.
+- `mobile/package.json` declares `expo-image`; local installation needed before native launch.
+
+**Verified:** all 16 assets exist in GitHub; original file names match source manifest; static source mapping enumerates exactly 16 sheets and the pure JS map syntax checked in the isolated environment. **Not verified:** npm/Metro bundling after adding `expo-image`, original scan rendering/zoom on real iPhone and Android, complete GitHub Actions CI status. This checkpoint is code available for user validation, not accepted product release.
+
+**Acceptance actions:** in Expo Grammar, open GRAMMAR-01/06/16, pinch and zoom, switch pages and close; from Lesson A1-01 tap corresponding original. Verify offline (after bundle) while airplane mode enabled. In HTML use the R7 daily cockpit button and confirm original sheets open. Inspect that no lesson/progress history reset.
