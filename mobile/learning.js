@@ -47,6 +47,15 @@ function advance(state,assessment) {
  if(!task)throw Error('Неизвестное задание');
  const prior=p.results[task.id];
  p.results[task.id]={...assessment,at:Date.now(),lessonId:a.lessonId,taskId:task.id,attempts:(prior?.attempts||0)+1};
+ if(['input','reading'].includes(task.type)&&assessment.objective===true){
+  const previous=p.taskReviews?.[task.id];
+  const steps=assessment.ok?Math.min((previous?.steps||0)+1,5):0;
+  p.taskReviews={...(p.taskReviews||{}),[task.id]:{
+   steps,due:Date.now()+[10*60000,86400000,3*86400000,7*86400000,14*86400000,30*86400000][steps],
+   needsWork:!assessment.ok,lastCorrect:assessment.ok,last:Date.now(),
+   attempts:(previous?.attempts||0)+1
+  }};
+ }
  if(a.step===lesson.tasks.length-1) {
   p.completedLessons[a.lessonId]={at:Date.now(),completedTasks:lesson.tasks.length};
   p.active=null;
@@ -75,7 +84,7 @@ function reviewQueue(state,now=Date.now()){
    !t.stage&&['input','reading'].includes(t.type)&&p.results[t.id]?.objective===true).map(t=>{
    const last=p.results[t.id],interval=p.taskReviews?.[t.id];
    const needsWork=last.ok===false||interval?.needsWork===true;
-   const due=interval?.due??(needsWork?last.at:Infinity);
+   const due=interval?.due??(needsWork?last.at:last.at+86400000);
    return {id:t.id,lessonId:l.id,title:l.title,task:t,due,needsWork};
  }));
  return items.filter(x=>x.due<=now).sort((a,b)=>Number(b.needsWork)-Number(a.needsWork)||a.due-b.due||a.id.localeCompare(b.id));
