@@ -2,6 +2,10 @@ import React, {useEffect,useMemo,useRef,useState} from 'react';
 import {View,Text,TextInput,ScrollView,Pressable,StyleSheet,Alert,ActivityIndicator,Platform} from 'react-native';
 import {StatusBar} from 'expo-status-bar';
 import * as Speech from 'expo-speech';
+import * as FileSystem from 'expo-file-system/legacy';
+import * as Sharing from 'expo-sharing';
+import * as Crypto from 'expo-crypto';
+import backup from './backup';
 import Storage from 'expo-sqlite/kv-store';
 import learning from './learning';
 const adaptive=require('../src/adaptive/core.js');
@@ -145,6 +149,21 @@ export default function App(){
      day:today(),skill:item.task.skill||'grammar',minutes:0,words:0,attempted:1,correct:reviewResult.ok?1:0,objective:true,sourceId:item.id},adaptive);
    if(await save(next)){setReviewAnswer('');setReviewResult(null);setNotice('Повторение сохранено.');}
   }catch(e){Alert.alert('Повторение',e.message);}
+ }
+ async function exportNativeProgress(){
+  try{
+   if(!store||!FileSystem.documentDirectory)throw Error('Нет доступа к локальным файлам');
+   const envelope=await backup.makeBackup(store,text=>Crypto.digestStringAsync(Crypto.CryptoDigestAlgorithm.SHA256,text));
+   const name='Mi_Espanol_R7_progress_'+today()+'.json';
+   const uri=FileSystem.documentDirectory+name;
+   await FileSystem.writeAsStringAsync(uri,JSON.stringify(envelope,null,2));
+   // Verify the actual file bytes before presenting an external share.
+   const parsed=JSON.parse(await FileSystem.readAsStringAsync(uri));
+   await backup.validateBackup(parsed,text=>Crypto.digestStringAsync(Crypto.CryptoDigestAlgorithm.SHA256,text));
+   if(!(await Sharing.isAvailableAsync()))throw Error('Системное меню экспорта недоступно. Файл создан локально, но ещё не передан в «Файлы».');
+   await Sharing.shareAsync(uri,{mimeType:'application/json',dialogTitle:'Сохранить резервную копию Mi Español',UTI:'public.json'});
+   setNotice('Открылось системное меню. Выбери «Сохранить в Файлы» или другую надёжную папку. Само открытие меню не гарантирует сохранение копии.');
+  }catch(e){Alert.alert('Резервная копия',String(e.message||e));}
  }
  async function rateCard(remembered){
   try{const next=learning.updateCard(store,cardIndex,remembered);
@@ -306,7 +325,7 @@ export default function App(){
     <Note>Ручная запись не повышает показатель проверенных знаний.</Note>
   </Panel>
   <Panel><Heading>Звук и произношение</Heading><Action secondary onPress={testVoice}>🔊 Проверить испанский голос</Action><Note>{speechStatus}</Note><Note>На физическом iPhone Expo Speech может не звучать, если включён бесшумный режим. Выключи его и проверь громкость мультимедиа. Проигрывание через голос устройства не заменяет запись диктора.</Note></Panel>
-  <Panel><Heading>Защита данных</Heading><Note>Нативный прогресс хранится локально в отдельном хранилище. Автоматическая синхронизация с Web R6 пока не реализована; не удаляй приложение без резервной копии.</Note></Panel>
+  <Panel><Heading>Защита данных</Heading><Note>Нативный прогресс хранится локально и пока не синхронизируется с Web R6.</Note><Action onPress={exportNativeProgress}>Сохранить резервную копию JSON</Action><Note>После нажатия выбери «Сохранить в Файлы» в системном меню. Файл содержит учебную историю, поэтому храни его приватно. Импорт появится после отдельной проверки совместимости.</Note></Panel>
  </>;
  };
  return <View style={s.screen}><StatusBar style="dark"/><ScrollView key={tab+'-'+(lessonId||'')+'-'+(active?.step??'')} style={s.main} contentContainerStyle={s.content} keyboardShouldPersistTaps="handled">
