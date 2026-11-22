@@ -139,7 +139,7 @@ export default function App(){
   </Panel>
  </>;
  if(tab==='lessons')return opened?<>
-   <Pressable onPress={()=>{setLessonId(null);Speech.stop();}}><Text style={s.back}>‹ К списку уроков</Text></Press>
+   <Pressable onPress={()=>{setLessonId(null);Speech.stop();}}><Text style={s.back}>‹ К списку уроков</Text></Pressable>
    <Text style={s.eyebrow}>{opened.id} · A1</Text><Text style={s.title}>{opened.title}</Text>
    <Panel><Heading>Цель урока</Heading><Text style={s.body}>{opened.objective}</Text><Note>{opened.situation}</Note><Note>Исходные материалы: {opened.originalMaterials.join(', ')}</Note></Panel>
    {!currentTask?<Panel><Heading>Учебный материал</Heading><Text style={s.body}>Ты можешь изучить содержание и начать упражнения.</Text>
