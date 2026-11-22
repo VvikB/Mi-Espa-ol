@@ -47,3 +47,35 @@ Expo R7 preview:
 3. Implement native original image sheet display and zoom.
 4. Design safe native backup/import with checksum, non-destructive merge and explicit user approval; never force migration.
 5. Advance both Web and Expo with visual consistency and separate regression evidence.
+
+
+## Next major increment: study flow, spaced review and native backup (2026-11-22)
+
+### Shared contract
+- Both Web/Expo call `src/adaptive/core.js` for a time-constrained daily plan; it recommends practice but does not mark planned minutes as completed.
+- Actual results, manual logs and listening self-confirmation remain distinct. No fake language mastery.
+
+### Web R7
+- `src/adaptive/web.js`: daily recommendation opens the next real A1 lesson directly via the existing R6 `LessonUI`; error-review buttons use the R6 `LessonAssessment.candidates` queue and `LessonUI.start(id,true)`.
+- The original R6 source scans, backup v3, glossary, grading and all legacy progress persist. No new Web import formats or destructive migration.
+- This change affects the separate R7 Web preview, not immutable original R6 artifacts.
+
+### Expo R7
+- `mobile/learning.js`: per-task due review for previously graded text/reading; results of short reviews stored in `taskReviews`, **separately from full lesson results**. Due intervals 10 min on error, then 1 / 3 / 7 / 14 / 30 days for correctly repeated items. No unsupported audio auto-certification.
+- `mobile/App.js`: actionable adaptive Today plan for due tasks, due words, next unfinished A1 lesson; targeted review cards in Progress.
+- `mobile/backup.js`: export-only JSON envelope `mi-espanol-native-r7-progress-1`, with SHA-256 through `expo-crypto`; writing with `expo-file-system/legacy`, local file re-read and checksum verification, sharing via `expo-sharing` and iOS Save to Files menu. Opening the share menu is NOT proof user saved a copy. The exported profile contains personal learning history and should be stored privately. It is not encrypted or digitally signed.
+- Dependencies added to mobile/package.json: expo-file-system, expo-sharing, expo-crypto. Users need `npm install` / `npx expo install --fix` when upgrading.
+- No automatic import yet. A data restore/merge path requires separate verification; do not erase Expo Go local state based only on export.
+
+### Tests / acceptance
+- JS syntax checked with isolated execution for portable modules. Sample 20-task lesson tested with a wrong answer; due item present, short correction saved while **original complete-lesson grade remains intact**. Backup roundtrip tested in pure module with an injected test digest. Node regression tests exist for mobile course and native backup checksum but full GitHub Actions / iPhone runtime acceptance not confirmed for this increment.
+- Real SHA-256 on iPhone, Files share sheet, user-selected file persistence, and re-import remain unverified.
+- Existing user-confirmed Web and Expo operation refers to the PREVIOUS milestone, not this increment.
+- Original scans still absent from Expo native UI.
+
+### Acceptance on Mac + iPhone
+1. `git pull --ff-only`; `cd mobile && npm install --no-audit --no-fund && npx expo install --fix && npx expo start --clear`.
+2. Check Today plan with 0, 5, 15 minutes. Start and finish one lesson, deliberately answer one input incorrectly, then test targeted reviews after the interval.
+3. Progress -> export JSON -> Save to Files; confirm file actually present. Do not delete app data yet.
+4. Check HTML preview: `python3 tools/build_r7_preview.py` then open `.audit/working/Mi_Espanol_R7_WEB_PREVIEW.html`; use adaptive panel to open R6 lesson and targeted review. Export R6 v3 backup separately.
+5. Run the Node suites; confirm no duplicate task IDs, backup tampering rejected and graded lesson score is preserved after a short review.
