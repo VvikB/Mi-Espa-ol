@@ -69,3 +69,28 @@ test('card reviews preserve progress and never silently certify mastery',()=>{
  assert.equal(a.miMobileCourse7,undefined);
  assert.equal(bridge.read(c).events.length,0);
 });
+
+test('a graded mistake enters targeted review without changing the previous course',()=>{
+ let st=learning.begin(root(),'A1-01');
+ const l=COURSE.lessons[0],t=l.tasks.find(x=>x.type==='input');
+ for(const task of l.tasks){
+  const evaluation=task.id===t.id?learning.assess(task,'WRONG'):
+   task.stage?learning.assess(task,''):
+   ['writing','speaking'].includes(task.type)?learning.assess(task,'self',{selfAssessed:true}):
+   learning.assess(task,task.expected||'',{heard:true});
+  st=learning.advance(st,evaluation);
+ }
+ const due=learning.reviewQueue(st,Date.now()+11*60000);
+ assert.ok(due.some(x=>x.id===t.id));
+ const previous=st;
+ st=learning.recordReview(st,t.id,t.expected);
+ assert.equal(learning.read(previous).results[t.id].ok,false);
+ assert.equal(learning.read(st).results[t.id].ok,true);
+ assert.equal(learning.read(st).taskReviews[t.id].needsWork,false);
+ assert.equal(learning.read(st).active,null);
+ assert.equal(learning.lessonProgress(st,'A1-01').completed,true);
+});
+test('unsupported audio cannot be awarded targeted written review score',()=>{
+ const state=root(),t=COURSE.lessons[0].tasks.find(x=>x.type==='listening');
+ assert.throws(()=>learning.recordReview(state,t.id,t.expected));
+});
