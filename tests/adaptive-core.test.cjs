@@ -27,3 +27,21 @@ test('invalid events rejected', () => {
   assert.throws(()=>core.addEvent([],{id:'x',day:'invalid'}));
   assert.throws(()=>core.addEvent([],{id:'x',day:'2026-11-22',attempted:1,correct:2}));
 });
+
+test('28-day activity calendar includes empty days and counted actuals, not fictitious work',()=>{
+ const records=core.addEvent([],{id:'c1',day:'2026-11-22',skill:'grammar',minutes:17,words:5,attempted:1,correct:0,objective:true});
+ const calendar=core.activityCalendar(records,'2026-11-22',28);
+ assert.equal(calendar.length,28);
+ assert.equal(calendar[0].minutes,0);
+ assert.equal(calendar[27].minutes,17);
+ assert.equal(calendar[27].wordsPracticed,5);
+ assert.equal(calendar.reduce((n,x)=>n+x.minutes,0),17);
+});
+test('skill advice is evidence-based and cannot treat speech self-assessment as scored success',()=>{
+ let j=core.addEvent([],{id:'g1',day:'2026-11-22',skill:'grammar',attempted:6,correct:2,objective:true,minutes:12});
+ j=core.addEvent(j,{id:'s1',day:'2026-11-22',skill:'speaking',attempted:6,correct:6,selfAssessed:true,minutes:10});
+ const result=core.skillEvidence(j,'2026-11-22');
+ assert.equal(result.find(x=>x.id==='grammar').recommendation,'repeat_errors');
+ assert.equal(result.find(x=>x.id==='speaking').correct,0);
+ assert.equal(result.find(x=>x.id==='speaking').selfAssessed,1);
+});
