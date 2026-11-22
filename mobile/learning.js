@@ -68,4 +68,17 @@ function lessonProgress(state,id) {
  const correct=checks.filter(t=>p.results[t.id]?.ok).length;
  return {done,total:lesson.tasks.length,correct,checked:checks.length,completed:!!p.completedLessons[id]};
 }
-module.exports={COURSE,fresh,read,withCourse,begin,assess,advance,updateCard,lessonProgress,day,norm};
+function optionsFor(task) {
+ const src=(task?.options||[]).slice();
+ if(src.length<2)return src;
+ // Stable task-specific Fisher-Yates rotation: no in-session reshuffling or first-answer bias.
+ let seed=0;
+ for(const char of String(task.id||''))seed=((seed*33)+char.charCodeAt(0))>>>0;
+ for(let i=src.length-1;i>0;i--){
+  seed=(1664525*seed+1013904223)>>>0;
+  const j=seed%(i+1);
+  [src[i],src[j]]=[src[j],src[i]];
+ }
+ return src;
+}
+module.exports={COURSE,fresh,read,withCourse,begin,assess,advance,updateCard,lessonProgress,optionsFor,day,norm};
