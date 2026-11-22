@@ -113,6 +113,9 @@ export default function App(){
  if(loadError)return <View style={s.loading}><Text style={s.h2}>Не удалось открыть сохранённые данные</Text><Note>{loadError}</Note><Note>Мы не обнуляем и не заменяем неизвестный прогресс. Проверь предыдущую версию или обратись к отчёту разработчика.</Note></View>;
  if(!store)return <View style={s.loading}><ActivityIndicator/><Text>Загрузка Mi Español…</Text></View>;
  const profile=bridge.read(store),course=learning.read(store),report=adaptive.weekSummary(profile.events,today());
+ const calendar=adaptive.activityCalendar(profile.events,today(),28);
+ const skillEvidence=adaptive.skillEvidence(profile.events,today());
+ const skillNames=Object.fromEntries(SKILLS);
  const active=course.active;
  const opened=lessonId&&learning.COURSE.lessons.find(l=>l.id===lessonId);
  const currentTask=opened&&active?.lessonId===opened.id?opened.tasks[active.step]:null;
@@ -218,6 +221,17 @@ export default function App(){
  if(tab==='progress')return <>
   <Text style={s.eyebrow}>MI PROGRESO</Text><Text style={s.title}>Мой прогресс</Text>
   <View style={s.stats}><SmallStat number={format(report.minutes)} caption="минут за неделю"/><SmallStat number={report.activeDays} caption="активных дней"/><SmallStat number={report.wordsPracticed} caption="слов в практике"/></View>
+  <Panel><Heading>Календарь занятий · 28 дней</Heading>
+   <Note>Подсвечены дни, когда ты записывал занятия. Это не оценка знаний.</Note>
+   <View style={s.calendar}>{calendar.map(x=><View key={x.day} accessibilityLabel={x.day+': '+x.minutes+' минут'} style={[s.calendarDay,x.minutes>0&&s.calendarActive]}><Text style={s.calendarText}>{x.day.slice(8)}</Text></View>)}</View>
+  </Panel>
+  <Panel><Heading>Навыки · 28 дней</Heading>
+   {skillEvidence.map(x=><View key={x.id} style={s.section}>
+     <View style={s.inline}><Text style={s.body}>{skillNames[x.id]}</Text><Text style={s.eyebrow}>{x.minutes} мин · {x.activeDays} дней</Text></View>
+     <Note>{x.attempted?x.correct+' из '+x.attempted+' проверенных ответов':'Пока нет объективно проверенных ответов'}{x.selfAssessed?' · самостоятельная практика: '+x.selfAssessed:''}</Note>
+     {x.recommendation==='repeat_errors'&&<Text style={s.link}>Рекомендация: повторить ошибки</Text>}
+   </View>)}
+  </Panel>
   <Panel><Heading>Пройденные уроки</Heading>
    {learning.COURSE.lessons.map(l=>{const p=learning.lessonProgress(store,l.id);return <View key={l.id} style={s.section}><Text style={s.body}>{p.completed?'✓':'○'} {l.id} · {l.title}</Text><Note>Заданий с результатом: {p.done}/{p.total}; проверенных: {p.correct}/{p.checked}</Note></View>;})}
   </Panel>
@@ -269,6 +283,10 @@ const s=StyleSheet.create({
  optionSelected:{borderColor:colors.accent,backgroundColor:colors.sky},
  wordRow:{padding:12,backgroundColor:colors.white,borderRadius:12,flexDirection:'row',alignItems:'center',gap:9},
  table:{paddingVertical:6},tableRow:{flexDirection:'row'},cell:{width:132,borderWidth:1,borderColor:colors.line,padding:10,fontSize:13,color:colors.ink},headerCell:{backgroundColor:colors.sky,fontWeight:'700'},
+ calendar:{flexDirection:'row',flexWrap:'wrap',gap:'1.4%'},
+ calendarDay:{width:'12.8%',backgroundColor:'#eef2f7',minHeight:38,borderRadius:10,alignItems:'center',justifyContent:'center',marginBottom:5},
+ calendarActive:{backgroundColor:'#b7dbfa',borderWidth:1,borderColor:colors.accent},
+ calendarText:{color:colors.navy,fontSize:12,fontWeight:'600'},
  footer:{color:colors.muted,fontSize:11,textAlign:'center',marginTop:14},
  nav:{flexDirection:'row',backgroundColor:colors.white,borderTopWidth:1,borderColor:colors.line,paddingBottom:22,paddingTop:10},
  navItem:{flex:1,alignItems:'center',justifyContent:'center',paddingVertical:6},navSelected:{borderTopWidth:2,borderTopColor:colors.accent},
