@@ -85,7 +85,8 @@ test('a graded mistake enters targeted review without changing the previous cour
  const previous=st;
  st=learning.recordReview(st,t.id,t.expected);
  assert.equal(learning.read(previous).results[t.id].ok,false);
- assert.equal(learning.read(st).results[t.id].ok,true);
+ assert.equal(learning.read(st).results[t.id].ok,false); // full lesson score remains unchanged
+ assert.equal(learning.read(st).taskReviews[t.id].lastCorrect,true);
  assert.equal(learning.read(st).taskReviews[t.id].needsWork,false);
  assert.equal(learning.read(st).active,null);
  assert.equal(learning.lessonProgress(st,'A1-01').completed,true);
