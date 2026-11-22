@@ -14,7 +14,7 @@
   // Imported data can be malformed: never overwrite them to "repair" automatically.
   let opened=false,notice='';
   function snapshot() {return StateStore.loadProgress();}
-  function persist(next) {StateStore.saveProgress(next);}
+  function persist(next) {StateStore.saveProgress(next); state=StateStore.loadProgress();}
   function render() {
     const day=dateLocal();
     if(!opened){mount.innerHTML='<button type="button" data-r7-toggle style="padding:13px 18px;border-radius:30px;background:#173b63;color:white;border:0;box-shadow:0 3px 16px #0003">📚 Мой день · R7</button>';return;}
