@@ -6,6 +6,8 @@ import * as FileSystem from 'expo-file-system/legacy';
 import * as Sharing from 'expo-sharing';
 import * as Crypto from 'expo-crypto';
 import backup from './backup';
+import OriginalViewer from './OriginalViewer';
+import originals from './originals';
 import Storage from 'expo-sqlite/kv-store';
 import learning from './learning';
 const adaptive=require('../src/adaptive/core.js');
@@ -48,6 +50,7 @@ export default function App(){
  const [cardRevealed,setCardRevealed]=useState(false);
  const [section,setSection]=useState(0);
  const [tableIndex,setTableIndex]=useState(0);
+ const [originalId,setOriginalId]=useState(null);
  const [manualSkill,setManualSkill]=useState('vocabulary');
  const [manualMinutes,setManualMinutes]=useState('10');
  const [manualWords,setManualWords]=useState('0');
@@ -225,7 +228,8 @@ export default function App(){
  if(tab==='lessons')return opened?<>
    <Pressable onPress={()=>{setLessonId(null);Speech.stop();}}><Text style={s.back}>‹ К списку уроков</Text></Pressable>
    <Text style={s.eyebrow}>{opened.id} · A1</Text><Text style={s.title}>{opened.title}</Text>
-   <Panel><Heading>Цель урока</Heading><Text style={s.body}>{opened.objective}</Text><Note>{opened.situation}</Note><Note>Исходные материалы: {opened.originalMaterials.join(', ')}</Note></Panel>
+   <Panel><Heading>Цель урока</Heading><Text style={s.body}>{opened.objective}</Text><Note>{opened.situation}</Note><Note>Исходные материалы: {opened.originalMaterials.join(', ')}</Note>
+    <View style={s.chips}>{originals.referencesForLesson(opened).map(id=><Pressable key={id} onPress={()=>setOriginalId(id)} style={s.chip}><Text style={s.chipText}>Оригинал {id}</Text></Pressable>)}</View></Panel>
    {!currentTask?<Panel><Heading>Учебный материал</Heading><Text style={s.body}>Ты можешь изучить содержание и начать упражнения.</Text>
      {opened.explanations.map(x=><View key={x.id} style={s.section}><Text style={s.h3}>{x.title}</Text><Text style={s.body}>{x.text}</Text><Pressable onPress={()=>setShowReference(!showReference)}><Text style={s.link}>{showReference?'Скрыть справку':'Дополнительная справка'}</Text></Pressable>{showReference&&<Note>{x.referenceText}</Note>}</View>)}
      <Action onPress={()=>startLesson(opened.id)}>Начать / продолжить упражнения</Action></Panel>
@@ -290,6 +294,7 @@ export default function App(){
  </>;
  if(tab==='grammar')return <>
   <Text style={s.eyebrow}>BIBLIOTECA</Text><Text style={s.title}>Грамматика</Text>
+   <Panel><Heading>Оригинальные страницы · 16</Heading><Note>Все 16 листов из библиотеки. Открываются без интернета, увеличиваются и не заменяют цифровые таблицы.</Note><View style={s.chips}>{originals.IDS.map(id=><Pressable key={id} accessibilityRole="button" onPress={()=>setOriginalId(id)} style={s.chip}><Text style={s.chipText}>{id.replace('GRAMMAR-','Лист ')}</Text></Pressable>)}</View><Action secondary onPress={()=>setOriginalId(originals.IDS[0])}>Открыть первую страницу</Action></Panel>
   <Note>{learning.COURSE.atlas.length} разделов · 73 таблицы. Выбирай тему и изучай формы на примерах.</Note>
   <ScrollView horizontal showsHorizontalScrollIndicator={false} style={{flexGrow:0}} contentContainerStyle={s.chips}>{learning.COURSE.atlas.map((a,i)=>chip((i+1)+'. '+a.title,()=>{setSection(i);setTableIndex(0);},i===section))}</ScrollView>
   <Panel><Heading>{grammar.title}</Heading><View style={s.chips}>{grammar.tables.map((t,i)=>chip(t.title,()=>setTableIndex(i),i===tableIndex))}</View>
@@ -299,7 +304,7 @@ export default function App(){
     {table.rows.map((r,i)=><View key={i} style={s.tableRow}>{r.map((c,j)=><Text key={j} style={s.cell}>{String(c)}</Text>)}</View>)}
    </View></ScrollView>
   </Panel>
-  <Note>Листай таблицу вправо и влево, чтобы увидеть все столбцы. Оригинальные страницы доступны в веб-библиотеке.</Note>
+  <Note>Листай цифровые таблицы вправо и влево. Оригинальные листы доступны выше — офлайн и с увеличением.</Note>
  </>;
  if(tab==='progress')return <>
   <Text style={s.eyebrow}>MI PROGRESO</Text><Text style={s.title}>Мой прогресс</Text>
@@ -345,7 +350,7 @@ export default function App(){
   <Panel><Heading>Защита данных</Heading><Note>Нативный прогресс хранится локально и пока не синхронизируется с Web R6.</Note><Action onPress={exportNativeProgress}>Сохранить резервную копию JSON</Action><Note>После нажатия выбери «Сохранить в Файлы» в системном меню. Файл содержит учебную историю, поэтому храни его приватно. Импорт появится после отдельной проверки совместимости.</Note></Panel>
  </>;
  };
- return <View style={s.screen}><StatusBar style="dark"/><ScrollView key={tab+'-'+(lessonId||'')+'-'+(active?.step??'')} style={s.main} contentContainerStyle={s.content} keyboardShouldPersistTaps="handled">
+ return <View style={s.screen}><StatusBar style="dark"/><OriginalViewer visible={originalId!==null} initialId={originalId} onClose={()=>setOriginalId(null)}/><ScrollView key={tab+'-'+(lessonId||'')+'-'+(active?.step??'')} style={s.main} contentContainerStyle={s.content} keyboardShouldPersistTaps="handled">
    {body()}{!!notice&&<Note>{notice}</Note>}
    <Text style={s.footer}>Mi Español · Учись в удобном ритме</Text>
   </ScrollView>
