@@ -283,7 +283,7 @@ const s=StyleSheet.create({
  optionSelected:{borderColor:colors.accent,backgroundColor:colors.sky},
  wordRow:{padding:12,backgroundColor:colors.white,borderRadius:12,flexDirection:'row',alignItems:'center',gap:9},
  table:{paddingVertical:6},tableRow:{flexDirection:'row'},cell:{width:132,borderWidth:1,borderColor:colors.line,padding:10,fontSize:13,color:colors.ink},headerCell:{backgroundColor:colors.sky,fontWeight:'700'},
- calendar:{flexDirection:'row',flexWrap:'wrap',gap:'1.4%'},
+ calendar:{flexDirection:'row',flexWrap:'wrap',gap:5},
  calendarDay:{width:'12.8%',backgroundColor:'#eef2f7',minHeight:38,borderRadius:10,alignItems:'center',justifyContent:'center',marginBottom:5},
  calendarActive:{backgroundColor:'#b7dbfa',borderWidth:1,borderColor:colors.accent},
  calendarText:{color:colors.navy,fontSize:12,fontWeight:'600'},
