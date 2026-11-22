@@ -68,6 +68,35 @@ function lessonProgress(state,id) {
  const correct=checks.filter(t=>p.results[t.id]?.ok).length;
  return {done,total:lesson.tasks.length,correct,checked:checks.length,completed:!!p.completedLessons[id]};
 }
+// Due-review contract; no migration or rewriting of old R6 task history.
+const REVIEW_MS=[10*60000,86400000,3*86400000,7*86400000,14*86400000,30*86400000];
+function reviewQueue(state,now=Date.now()){
+ const p=read(state),items=COURSE.lessons.flatMap(l=>l.tasks.filter(t=>
+   !t.stage&&['input','reading'].includes(t.type)&&p.results[t.id]?.objective===true).map(t=>{
+   const last=p.results[t.id],interval=p.taskReviews?.[t.id];
+   const needsWork=last.ok===false||interval?.needsWork===true;
+   const due=interval?.due??(needsWork?last.at:Infinity);
+   return {id:t.id,lessonId:l.id,title:l.title,task:t,due,needsWork};
+ }));
+ return items.filter(x=>x.due<=now).sort((a,b)=>Number(b.needsWork)-Number(a.needsWork)||a.due-b.due||a.id.localeCompare(b.id));
+}
+function recordReview(state,taskId,answer,now=Date.now()){
+ const p=clone(read(state)),lesson=COURSE.lessons.find(l=>l.tasks.some(t=>t.id===taskId));
+ const task=lesson?.tasks.find(t=>t.id===taskId);
+ if(!task||!['input','reading'].includes(task.type)||task.stage)throw Error('Это задание нельзя повторить в коротком режиме');
+ if(!p.results[taskId]||p.results[taskId].objective!==true)throw Error('Задание ещё не проверено');
+ const evaluation=assess(task,answer);
+ if(!evaluation.objective)throw Error('Результат не проверен');
+ const prior=p.taskReviews?.[taskId],steps=evaluation.ok?Math.min((prior?.steps||0)+1,5):0;
+ p.taskReviews={...(p.taskReviews||{}),[taskId]:{
+   steps,due:now+REVIEW_MS[steps],last:now,needsWork:!evaluation.ok,
+   lastCorrect:evaluation.ok,attempts:(prior?.attempts||0)+1
+ }};
+ const existing=p.results[taskId];
+ p.results[taskId]={...evaluation,at:now,lessonId:lesson.id,taskId,
+   attempts:(existing.attempts||0)+1};
+ return withCourse(state,p);
+}
 function optionsFor(task) {
  const src=(task?.options||[]).slice();
  if(src.length<2)return src;
@@ -81,4 +110,4 @@ function optionsFor(task) {
  }
  return src;
 }
-module.exports={COURSE,fresh,read,withCourse,begin,assess,advance,updateCard,lessonProgress,optionsFor,day,norm};
+module.exports={COURSE,fresh,read,withCourse,begin,assess,advance,updateCard,lessonProgress,optionsFor,reviewQueue,recordReview,day,norm};
