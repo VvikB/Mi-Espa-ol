@@ -68,5 +68,39 @@
     if (remaining >= 5 && config.nextLessonId) assignments.push({kind:'lesson', id: config.nextLessonId, estimatedMinutes: remaining});
     return {day, availableMinutes: available, assignedMinutes: available - remaining + (remaining >= 5 && config.nextLessonId ? remaining : 0), assignments, deferredReviews: Math.max(0, due.length - assignments.filter(a => a.kind === 'review').length)};
   }
-  return Object.freeze({normalizeEvent, addEvent, weekSummary, dailyPlan});
+
+  // Reporting is based on declared work, not inferred mastery. Every day is local YYYY-MM-DD.
+  function activityCalendar(journal, endDay, days=28) {
+    if (!isDay(endDay) || !Number.isInteger(days) || days<1 || days>90) throw Error('Invalid calendar window');
+    const end=Date.parse(endDay+'T00:00:00Z'),aggregated=new Map();
+    for (const e of Array.isArray(journal)?journal:[]) {
+      if(!isDay(e.day))continue;
+      const cell=aggregated.get(e.day)||{minutes:0,wordsPracticed:0,activities:0};
+      cell.minutes+=nonneg(e.minutes);cell.wordsPracticed+=count(e.words);cell.activities++;
+      aggregated.set(e.day,cell);
+    }
+    return Array.from({length:days},(_,i)=>{
+      const day=new Date(end-(days-1-i)*86400000).toISOString().slice(0,10);
+      return {day,...(aggregated.get(day)||{minutes:0,wordsPracticed:0,activities:0})};
+    });
+  }
+  function skillEvidence(journal, endDay) {
+    if(!isDay(endDay))throw Error('Invalid report day');
+    const min=Date.parse(endDay+'T00:00:00Z')-27*86400000;
+    const data=skills.map(id=>({id,minutes:0,attempted:0,correct:0,selfAssessed:0,activeDays:0}));
+    const seen=new Map(skills.map(id=>[id,new Set()]));
+    for (const e of Array.isArray(journal)?journal:[]) {
+      if(!skills.includes(e.skill)||!isDay(e.day))continue;
+      const d=Date.parse(e.day+'T00:00:00Z');
+      if(d<min||d>Date.parse(endDay+'T00:00:00Z'))continue;
+      const x=data[skills.indexOf(e.skill)];x.minutes+=nonneg(e.minutes);
+      seen.get(e.skill).add(e.day);
+      if(e.selfAssessed)x.selfAssessed++;
+      else if(e.objective===true){x.attempted+=count(e.attempted);x.correct+=count(e.correct);}
+    }
+    return data.map(x=>({...x,activeDays:seen.get(x.id).size,
+      recommendation:x.attempted>=5&&x.correct/x.attempted<.7?'repeat_errors':
+      x.activeDays===0?'try_practice':'continue'}));
+  }
+  return Object.freeze({normalizeEvent, addEvent, weekSummary, dailyPlan, activityCalendar, skillEvidence});
 });
