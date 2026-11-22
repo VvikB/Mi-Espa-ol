@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Mi Español R7 Preview",
+    "slug": "mi-espanol-r7-preview",
+    "version": "0.7.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {"supportsTablet": true},
+    "android": {"edgeToEdgeEnabled": true}
+  }
+}
