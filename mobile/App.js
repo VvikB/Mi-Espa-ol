@@ -123,7 +123,7 @@ export default function App(){
  const body=()=>{
  if(tab==='today')return <>
   <Text style={s.eyebrow}>TU CAMINO · A1</Text><Text style={s.title}>¡Hola! 👋</Text>
-  <Note>Шесть авторских уроков и настоящая библиотека из R6 теперь доступны в нативном прототипе.</Note>
+  <Note>Твой испанский каждый день: выбирай удобный темп, возвращайся к урокам и закрепляй изученное.</Note>
   <View style={s.stats}><SmallStat number={learning.COURSE.words.length} caption="слов в библиотеке"/><SmallStat number={learning.COURSE.lessons.length} caption="уроков A1"/><SmallStat number={report.activeDays} caption="дней практики за 7 дней"/></View>
   <Panel><Heading>Сегодня · {today()}</Heading><Note>Время — ориентир, а не обязательный норматив. Пропущенные занятия не считаются поражением.</Note>
    <View style={s.inline}><TextInput value={minutes} onChangeText={setMinutes} keyboardType="number-pad" accessibilityLabel="Доступные минуты" style={[s.input,{width:90}]}/><Action onPress={()=>{const n=Number(minutes);if(!Number.isInteger(n)||n<0||n>180)return Alert.alert('Время','Введите от 0 до 180 минут');save(bridge.setMinutes(store,n));}}>Сохранить</Action></View>
@@ -135,7 +135,7 @@ export default function App(){
   </Panel>
   <Panel><Heading>Неделя в цифрах</Heading>
    <Text style={s.big}>{format(report.minutes)} мин</Text><Note>{report.wordsPracticed} слов в практике; {report.correct} из {report.attempted} объективно проверенных ответов.</Note>
-   <Note>Счётчик включает только события нового R7, без старых результатов HTML R6.</Note>
+   <Note>История занятий из веб-версии пока не синхронизируется с телефоном.</Note>
   </Panel>
  </>;
  if(tab==='lessons')return opened?<>
@@ -176,7 +176,7 @@ export default function App(){
       <Action onPress={()=>submitTask(currentTask)}>Проверить ответ</Action>}
    </Panel>}
  </>:<>
-   <Text style={s.eyebrow}>ACADEMIA · A1</Text><Text style={s.title}>Мои уроки</Text><Note>Авторский учебный материал R6 сохранён без сокращения тем до демонстрационных заглушек.</Note>
+   <Text style={s.eyebrow}>ACADEMIA · A1</Text><Text style={s.title}>Мои уроки</Text><Note>Учись в своём темпе: сначала познакомься с темой, затем закрепи её упражнениями.</Note>
    {learning.COURSE.lessons.map((l,i)=>{const p=learning.lessonProgress(store,l.id);return <Panel key={l.id}>
      <View style={s.inline}><Text style={s.eyebrow}>{l.id} · {l.estimatedMinutes} мин (ориентир)</Text><Text style={s.eyebrow}>{p.completed?'✓ ПРОЙДЕН':'A1'}</Text></View>
      <Heading>{l.title}</Heading><Text style={s.body}>{l.objective}</Text>
@@ -198,22 +198,22 @@ export default function App(){
    {!cardRevealed?<Action onPress={()=>setCardRevealed(true)}>Показать перевод</Action>:
    <View style={s.inline}><Action secondary onPress={()=>rateCard(false)}>Не помню</Action><Action onPress={()=>rateCard(true)}>Помню</Action></View>}
   </Panel>
-  <TextInput value={wordSearch} onChangeText={setWordSearch} placeholder="Поиск на español или русском" accessibilityLabel="Поиск словаря" style={s.input}/>
-  <Note>Показаны первые {found.length} совпадений. Уточни запрос для остальных.</Note>
+  <TextInput value={wordSearch} onChangeText={setWordSearch} placeholder="Поиск на español или русском" placeholderTextColor="#697d92" accessibilityLabel="Поиск словаря" style={s.input}/>
+  <Note>Найдено по запросу: {found.length} {found.length===80?'(первые 80)': ''}. Введи слово или перевод для точного поиска.</Note>
   {found.map(w=><View key={w.id} style={s.wordRow}><View style={{flex:1}}><Text style={s.spanish}>{w.es}</Text><Note>{w.ru}</Note></View><Pressable onPress={()=>say(w.es)}><Text style={s.link}>🔊</Text></Pressable><Pressable onPress={()=>{setCardIndex(w.id);setCardRevealed(false);}}><Text style={s.link}>Карточка</Text></Pressable></View>)}
  </>;
  if(tab==='grammar')return <>
   <Text style={s.eyebrow}>BIBLIOTECA</Text><Text style={s.title}>Грамматика</Text>
-  <Note>{learning.COURSE.atlas.length} разделов · 73 таблицы из R6. Цифровые таблицы не заменяют оригинальные сканы.</Note>
+  <Note>{learning.COURSE.atlas.length} разделов · 73 таблицы. Выбирай тему и изучай формы на примерах.</Note>
   <ScrollView horizontal showsHorizontalScrollIndicator={false} style={{flexGrow:0}} contentContainerStyle={s.chips}>{learning.COURSE.atlas.map((a,i)=>chip((i+1)+'. '+a.title,()=>{setSection(i);setTableIndex(0);},i===section))}</ScrollView>
   <Panel><Heading>{grammar.title}</Heading><View style={s.chips}>{grammar.tables.map((t,i)=>chip(t.title,()=>setTableIndex(i),i===tableIndex))}</View>
-   <Text style={s.h3}>{table.title}</Text>
-   <ScrollView horizontal nestedScrollEnabled><View style={s.table}>
+   <Text style={s.h3}>{table.title}</Text><Note>Текущий раздел: {grammar.title}. Таблица прокручивается горизонтально →</Note>
+   <ScrollView horizontal nestedScrollEnabled showsHorizontalScrollIndicator={true} indicatorStyle="black"><View style={s.table}>
     <View style={s.tableRow}>{table.headers.map((h,i)=><Text key={i} style={[s.cell,s.headerCell]}>{String(h)}</Text>)}</View>
     {table.rows.map((r,i)=><View key={i} style={s.tableRow}>{r.map((c,j)=><Text key={j} style={s.cell}>{String(c)}</Text>)}</View>)}
    </View></ScrollView>
   </Panel>
-  <Note>Изображения оригинальных 16 грамматических листов остаются в веб-версии. Их просмотр с масштабированием будет отдельным этапом мобильного переноса.</Note>
+  <Note>Листай таблицу вправо и влево, чтобы увидеть все столбцы. Оригинальные страницы доступны в веб-библиотеке.</Note>
  </>;
  if(tab==='progress')return <>
   <Text style={s.eyebrow}>MI PROGRESO</Text><Text style={s.title}>Мой прогресс</Text>
@@ -236,7 +236,7 @@ export default function App(){
  };
  return <View style={s.screen}><StatusBar style="dark"/><ScrollView key={tab+'-'+(lessonId||'')+'-'+(active?.step??'')} style={s.main} contentContainerStyle={s.content} keyboardShouldPersistTaps="handled">
    {body()}{!!notice&&<Note>{notice}</Note>}
-   <Text style={s.footer}>Mi Español · R7 native preview · A1 • Offline content</Text>
+   <Text style={s.footer}>Mi Español · Учись в удобном ритме</Text>
   </ScrollView>
   <View style={s.nav}>{NAV.map(([id,label])=><Pressable accessibilityRole="tab" accessibilityState={{selected:tab===id}} key={id} onPress={()=>{Speech.stop();setTab(id);setLessonId(null);setNotice('');}} style={[s.navItem,tab===id&&s.navSelected]}><Text numberOfLines={1} style={[s.navLabel,tab===id&&s.navTextSelected]}>{label}</Text></Pressable>)}</View>
  </View>;
