@@ -83,7 +83,7 @@ function reviewQueue(state,now=Date.now()){
  const p=read(state),items=COURSE.lessons.flatMap(l=>l.tasks.filter(t=>
    !t.stage&&['input','reading'].includes(t.type)&&p.results[t.id]?.objective===true).map(t=>{
    const last=p.results[t.id],interval=p.taskReviews?.[t.id];
-   const needsWork=last.ok===false||interval?.needsWork===true;
+   const needsWork=interval?interval.needsWork===true:last.ok===false;
    const due=interval?.due??(needsWork?last.at:last.at+86400000);
    return {id:t.id,lessonId:l.id,title:l.title,task:t,due,needsWork};
  }));
@@ -101,9 +101,7 @@ function recordReview(state,taskId,answer,now=Date.now()){
    steps,due:now+REVIEW_MS[steps],last:now,needsWork:!evaluation.ok,
    lastCorrect:evaluation.ok,attempts:(prior?.attempts||0)+1
  }};
- const existing=p.results[taskId];
- p.results[taskId]={...evaluation,at:now,lessonId:lesson.id,taskId,
-   attempts:(existing.attempts||0)+1};
+ // Keep full-lesson assessment immutable: a short review is not a passed full control.
  return withCourse(state,p);
 }
 function optionsFor(task) {
