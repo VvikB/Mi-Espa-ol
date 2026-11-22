@@ -38,3 +38,22 @@ Existing browser R6 is preserved intact. Native and browser records are not sync
 - This is EXPORT ONLY. An R7 import, an R6->native importer and cloud synchronization have not been shipped. Do not uninstall Expo Go or reset the native app's data.
 
 The Web app is also updated in the R7 HTML preview: its daily cockpit links to original R6 lessons and existing error-review queues. See `docs/r7/DUAL_PLATFORM_CHECKPOINT.md`.
+
+
+## New: 16 original grammar page scans in Expo (offline)
+- All images in `assets/pages/GRAMMAR-01.webp`–`GRAMMAR-16.webp` are bundled directly by static imports in `mobile/originals.js`. Original source bytes remain unmodified.
+- `mobile/OriginalViewer.js`: full-screen reader, prev/next navigation, manual 100%–300% enlargement, and iOS `ScrollView` pinch zoom (physical iPhone verification pending).
+- Open any page through Grammar -> **Оригинальные страницы**, or through source sheet buttons inside an A1 lesson.
+- An automated test compares the mobile static require map against original image manifest and checks every original SHA-256 before release. `expo-image` was added as dependency to show WebP sources.
+- No network needed for sheets after a successful bundle. The older HTML library retains its own unchanged originals and source zoom viewer.
+
+**Update after pulling**:
+```sh
+cd ~/Projects/Mi-Espanol-R7
+git pull --ff-only
+cd mobile
+npm install --no-audit --no-fund
+npx expo install --fix
+npx expo start --clear
+```
+Do not delete Expo Go or clear its local storage. Use the already-added JSON export and verify the backup was saved to Files before any migration.
