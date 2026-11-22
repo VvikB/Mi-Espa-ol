@@ -159,7 +159,7 @@ export default function App(){
       {transcript&&<><Text style={s.spanish}>{currentTask.text}</Text><Note>Результат учитывается как чтение, а не аудирование.</Note></>}
     </>}
     {!currentTask.stage&&['input','reading','listening'].includes(currentTask.type)&&<>
-      {!!currentTask.options.length?currentTask.options.map((x,i)=><Pressable key={i} onPress={()=>setAnswer(x)} style={[s.option,answer===x&&s.optionSelected]}><Text style={s.body}>{x}</Text></Pressable>):
+      {!!currentTask.options.length?learning.optionsFor(currentTask).map((x,i)=><Pressable key={i} onPress={()=>setAnswer(x)} style={[s.option,answer===x&&s.optionSelected]}><Text style={s.body}>{x}</Text></Pressable>):
         <><TextInput value={answer} onChangeText={setAnswer} accessibilityLabel="Ответ на испанском" autoCapitalize="none" autoCorrect={false} style={s.input} placeholder="Respuesta en español"/><View style={s.chips}>{'áéíóúüñ¿¡'.split('').map(c=>chip(c,()=>setAnswer(v=>v+c)))}</View></>}
     </>}
     {!currentTask.stage&&['writing','speaking'].includes(currentTask.type)&&<>
