@@ -96,3 +96,12 @@ Implemented in `r7-adaptive-learning`:
 **Verification level**: Connector writes confirmed; isolated JS smoke for real 20-task lesson / due correction / no mutation and backup payload roundtrip. Web JS syntax confirmed. New Expo JSX and native modules NOT bundled on a connected device or visually accepted in this turn; official Expo SDK documentation consulted for legacy filesystem, sharing, crypto. CI green status NOT confirmed. This checkpoint is implemented code awaiting acceptance, not a released production app.
 
 **Next**: confirm npm/Expo install and Files share workflow on iPhone; add original source image asset library to native with zoom; verify import of local backups through non-destructive schema-checked merge; continue A1 lesson pedagogy and web accessibility.
+
+
+## Offline original grammar sheet restoration — checkpoint
+- **Expo**: all 16 canonical `assets/pages/GRAMMAR-XX.webp` files linked by static `require` in `mobile/originals.js`; `mobile/OriginalViewer.js` modal supports page navigation, visible zoom controls and iOS ScrollView pinch zoom design; original-page buttons added to the Grammar library and source references in the six A1 lessons. `expo-image` dependency added. No manual redrawing/recompressed placeholder accepted.
+- **Web**: R7 cockpit now opens the existing original grammar library directly; all R6 originals, progress, export and course work remain preserved.
+- **Protection**: `tests/native-originals.test.cjs` checks asset names, original WEBP signatures, SHA-256 content hashes against `data/images.json`; included in GitHub Actions. Asset source map checked for exactly 16 unique grammar images; GitHub reads confirmed all 16 archive assets exist.
+- **Quality limitations**: the newly added Expo image reader has not been bundled, launched or pinch-zoom tested on the user's iPhone in this turn. No green CI claim. Web R7 cockpit's new original link also needs browser validation.
+- **Dependency update**: after pulling latest branch, run `cd mobile && npm install --no-audit --no-fund && npx expo install --fix` before Expo start.
+- **Acceptance**: check GRAMMAR-01, GRAMMAR-06, GRAMMAR-16; zoom and page-turn, return to lesson, and verify offline availability after bundle; compare the exact scans against Web. Do not clear app data.
