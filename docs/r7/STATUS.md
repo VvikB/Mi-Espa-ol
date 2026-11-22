@@ -60,3 +60,15 @@ Never replace existing user data with the preview. Export R6 backup first.
 - R7 is not a finished release. Independent ELE review, iPhone acceptance, and historical 15-pass reconciliations remain open.
 
 **Next**: obtain green CI including mobile bundle; fix native dependencies/runtime errors; native backup and safe R6 import; add original scanned grammar sheets with zoom, audio reliability and review scheduling; then expand beyond A1-06.
+
+
+## Dual-platform increment — 2026-11-22
+See [DUAL_PLATFORM_CHECKPOINT.md](DUAL_PLATFORM_CHECKPOINT.md) for the authoritative Web/Expo parity matrix and QA evidence.
+
+- **Shared** `src/adaptive/core.js`: added 28-day `activityCalendar` and conservative `skillEvidence` methods. No global data migration.
+- **Web** `src/adaptive/web.js`: 28-day calendar, six-skill breakdown and shortcut to R6 native error-review area. Existing R6 full page content, original scans, and browser backup remain intact; access via the separate R7 Web preview.
+- **Mobile** `mobile/App.js`: same activity calendar and six-skill evidence in Progress tab, retaining earlier five-tab native UI and SQLite state key.
+- Tests extended in `tests/adaptive-core.test.cjs` with missing-days and speaking self-assessment safety checks.
+- Isolated-JS syntax smoke checks of Web modules and sample shared reports PASS. Full Actions, HTML browser UX, Expo bundling and today's iPhone acceptance NOT yet verified.
+- The user's earlier screenshots verified that the previous mobile five-tab screen rendered; they do not prove that this newly added increment renders.
+- No claims of course-completion, two-way sync, Web/native data migration, or additional user-accepted passes.
