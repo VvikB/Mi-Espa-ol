@@ -20,8 +20,8 @@ test('16 original page assets are precisely linked and not substitute artwork',(
   assert.equal(crypto.createHash('sha256').update(b).digest('hex'),page.sha256,page.file);
  }
 });
-test('R6 original source images not present in portable JSON by intentional design',()=>{
+test('scanned image bytes stay separate from portable JSON and are bundled by static source references',()=>{
  const course=require('../mobile/content/course.json');
  assert.equal(course.lessons.length,6);
- assert.equal(course.sourceImages.includes('NOT packaged'),true);
+ assert.equal(course.sourceImages.includes('bundled separately'),true);
 });
