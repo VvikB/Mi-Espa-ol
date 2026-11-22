@@ -18,7 +18,8 @@
     "react-native": "0.88.0",
     "expo-file-system": "*",
     "expo-sharing": "*",
-    "expo-crypto": "*"
+    "expo-crypto": "*",
+    "expo-image": "*"
   },
   "devDependencies": {
     "@babel/core": "^7.25.0"
