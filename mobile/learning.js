@@ -45,9 +45,8 @@ function advance(state,assessment) {
  if(!a)throw Error('Нет активного урока');
  const lesson=COURSE.lessons.find(l=>l.id===a.lessonId),task=lesson?.tasks[a.step];
  if(!task)throw Error('Неизвестное задание');
- if(p.results[task.id]===undefined || task.stage || task.type==='gap') {
-  p.results[task.id]={...assessment,at:Date.now(),lessonId:a.lessonId,taskId:task.id};
- }
+ const prior=p.results[task.id];
+ p.results[task.id]={...assessment,at:Date.now(),lessonId:a.lessonId,taskId:task.id,attempts:(prior?.attempts||0)+1};
  if(a.step===lesson.tasks.length-1) {
   p.completedLessons[a.lessonId]={at:Date.now(),completedTasks:lesson.tasks.length};
   p.active=null;
