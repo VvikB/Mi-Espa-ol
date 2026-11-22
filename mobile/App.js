@@ -167,7 +167,7 @@ export default function App(){
      <Note>Свободный текст и произношение не оцениваются автоматически. Это самопроверка.</Note>
     </>}
     {feedback&&<View style={[s.section,{backgroundColor:colors.sky}]}>
-      <Text style={s.h3}>{feedback.kind==='self'?'Самостоятельная работа записана':feedback.kind==='study'?'Материал просмотрен':feedback.ok?'Верно':'Повтори правило'}</Text>
+      <Text style={s.h3}>{feedback.kind==='self'?'Самостоятельная работа записана':feedback.kind==='study'?'Материал просмотрен':!feedback.objective?'Ответ сохранён без объективной оценки':feedback.ok?'Верно':'Повтори правило'}</Text>
       {!['self','study'].includes(feedback.kind)&&<Text style={s.spanish}>Эталон: {currentTask.expected}</Text>}
       {!!currentTask.explanation&&<Note>{currentTask.explanation}</Note>}
       {feedback.kind==='listening'&&!feedback.objective&&<Note>Оценка аудирования не выставлена.</Note>}
@@ -188,6 +188,10 @@ export default function App(){
  if(tab==='words')return <>
   <Text style={s.eyebrow}>DICCIONARIO</Text><Text style={s.title}>Словарь</Text>
   <Panel><Heading>Карточки · {learning.COURSE.words.length}</Heading>
+   <Action secondary onPress={()=>{const dueIds=Object.entries(course.cardReviews).filter(([id,r])=>r.due<=Date.now()).sort((a,b)=>a[1].due-b[1].due).map(([id])=>Number(id));
+     const unseen=learning.COURSE.words.find(w=>!course.cardReviews[w.id]);
+     const target=dueIds[0]??unseen?.id??0;setCardIndex(target);setCardRevealed(false);
+   }}>Повторить к сроку / новое слово</Action>
    <Text style={s.spanish}>{learning.COURSE.words[cardIndex].es}</Text>
    {cardRevealed&&<><Text style={s.h3}>{learning.COURSE.words[cardIndex].ru}</Text><Note>{learning.COURSE.words[cardIndex].note}</Note></>}
    <Action secondary onPress={()=>say(learning.COURSE.words[cardIndex].es)}>🔊 Произнести</Action>
@@ -230,7 +234,7 @@ export default function App(){
   <Panel><Heading>Защита данных</Heading><Note>Нативный прогресс хранится локально в отдельном хранилище. Автоматическая синхронизация с Web R6 пока не реализована; не удаляй приложение без резервной копии.</Note></Panel>
  </>;
  };
- return <View style={s.screen}><StatusBar style="dark"/><ScrollView key={tab+'-'+(lessonId||'')} style={s.main} contentContainerStyle={s.content} keyboardShouldPersistTaps="handled">
+ return <View style={s.screen}><StatusBar style="dark"/><ScrollView key={tab+'-'+(lessonId||'')+'-'+(active?.step??'')} style={s.main} contentContainerStyle={s.content} keyboardShouldPersistTaps="handled">
    {body()}{!!notice&&<Note>{notice}</Note>}
    <Text style={s.footer}>Mi Español · R7 native preview · A1 • Offline content</Text>
   </ScrollView>
@@ -242,7 +246,7 @@ const s=StyleSheet.create({
  loading:{flex:1,alignItems:'center',justifyContent:'center',padding:30,gap:15},
  eyebrow:{color:colors.accent,fontSize:11,letterSpacing:1.4,fontWeight:'800',textTransform:'uppercase'},
  title:{fontSize:32,fontWeight:'800',color:colors.navy,marginVertical:4},
- h2:{fontSize:20,fontWeight:'750',color:colors.navy,marginBottom:6},
+ h2:{fontSize:20,fontWeight:'700',color:colors.navy,marginBottom:6},
  h3:{fontSize:16,fontWeight:'700',color:colors.ink,marginBottom:5},
  spanish:{fontSize:19,color:colors.navy,lineHeight:28},
  body:{color:colors.ink,fontSize:15,lineHeight:23},
