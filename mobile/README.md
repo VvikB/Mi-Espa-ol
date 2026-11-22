@@ -28,3 +28,13 @@ Run `node --test tests/mobile-course.test.cjs tests/adaptive-core.test.cjs tests
 
 ## Dual platform policy
 Existing browser R6 is preserved intact. Native and browser records are not synchronized. New native screens use a traceable compact view of original R6 course data; this does not claim all original source page assets are ported.
+
+
+## Next milestone: review + protection
+- Today recommends actions based on your chosen minutes, unfinished A1 lessons, due words and due reviewed exercises. This is optional, not an imposed quota.
+- Progress shows **Адресное повторение** for previously graded input/reading tasks. A correct short review is recorded separately; it does **not** convert a failed full-lesson control into a passed full lesson.
+- Progress -> **Сохранить резервную копию JSON** produces a SHA-256 integrity-checked export; choose **Сохранить в Файлы** in the iOS share sheet and verify the file exists. Do not assume sharing was successful just because the sheet opened.
+- New Expo dependencies: `expo-file-system`, `expo-sharing`, `expo-crypto`. After a Git pull, run `npm install --no-audit --no-fund` and `npx expo install --fix` before Expo start.
+- This is EXPORT ONLY. An R7 import, an R6->native importer and cloud synchronization have not been shipped. Do not uninstall Expo Go or reset the native app's data.
+
+The Web app is also updated in the R7 HTML preview: its daily cockpit links to original R6 lessons and existing error-review queues. See `docs/r7/DUAL_PLATFORM_CHECKPOINT.md`.
