@@ -48,6 +48,8 @@ export default function App(){
  const [manualMinutes,setManualMinutes]=useState('10');
  const [manualWords,setManualWords]=useState('0');
  const [notice,setNotice]=useState('');
+ const [reviewAnswer,setReviewAnswer]=useState('');
+ const [reviewResult,setReviewResult]=useState(null);
  useEffect(()=>{let alive=true;(async()=>{try{
    const raw=await Storage.getItem(KEY);
    const next=raw?JSON.parse(raw):initial();
@@ -127,6 +129,23 @@ export default function App(){
    }
   }catch(e){Alert.alert('Сохранение задания',e.message);}
  }
+ async function submitReview(){
+  const item=learning.reviewQueue(store)[0];
+  if(!item)return;
+  if(!reviewAnswer.trim())return Alert.alert('Повторение','Выбери или введи ответ.');
+  const check=learning.assess(item.task,reviewAnswer);
+  setReviewResult({taskId:item.id,ok:check.ok,explanation:item.task.explanation,expected:item.task.expected});
+ }
+ async function finishReview(){
+  const item=learning.reviewQueue(store)[0];
+  if(!item||!reviewResult||reviewResult.taskId!==item.id)return;
+  try{
+   let next=learning.recordReview(store,item.id,reviewAnswer);
+   next=bridge.add(next,{id:'review-'+item.id+'-'+Date.now()+'-'+Math.random().toString(36).slice(2),
+     day:today(),skill:item.task.skill||'grammar',minutes:0,words:0,attempted:1,correct:reviewResult.ok?1:0,objective:true,sourceId:item.id},adaptive);
+   if(await save(next)){setReviewAnswer('');setReviewResult(null);setNotice('Повторение сохранено.');}
+  }catch(e){Alert.alert('Повторение',e.message);}
+ }
  async function rateCard(remembered){
   try{const next=learning.updateCard(store,cardIndex,remembered);
    if(await save(next)){setCardRevealed(false);setCardIndex((cardIndex+1)%learning.COURSE.words.length);}
@@ -138,6 +157,7 @@ export default function App(){
  const calendar=adaptive.activityCalendar(profile.events,today(),28);
  const skillEvidence=adaptive.skillEvidence(profile.events,today());
  const skillNames=Object.fromEntries(SKILLS);
+ const reviewDue=learning.reviewQueue(store);
  const active=course.active;
  const opened=lessonId&&learning.COURSE.lessons.find(l=>l.id===lessonId);
  const currentTask=opened&&active?.lessonId===opened.id?opened.tasks[active.step]:null;
@@ -156,6 +176,7 @@ export default function App(){
    <Action secondary onPress={testVoice}>🔊 Проверить испанский звук</Action>
    <Note>{speechStatus}</Note>
   </Panel>
+  <Panel><Heading>Повторение по ошибкам</Heading><Text style={s.body}>Заданий к повторению: {reviewDue.length}</Text><Action secondary onPress={()=>setTab('progress')}>Открыть повторение</Action></Panel>
   <Panel><Heading>Продолжить обучение</Heading>
    {active?<><Text style={s.body}>Урок {active.lessonId} · шаг {active.step+1}</Text><Action onPress={()=>openLesson(active.lessonId)}>Продолжить урок</Action></>:
     <><Text style={s.body}>{due===0?'Все шесть уроков пройдены. Можно повторять.':'Выбери урок и начни обучение.'}</Text><Action onPress={()=>{setTab('lessons');setLessonId(null);}}>Открыть уроки</Action></>}
@@ -257,6 +278,19 @@ export default function App(){
      <Note>{x.attempted?x.correct+' из '+x.attempted+' проверенных ответов':'Пока нет объективно проверенных ответов'}{x.selfAssessed?' · самостоятельная практика: '+x.selfAssessed:''}</Note>
      {x.recommendation==='repeat_errors'&&<Text style={s.link}>Рекомендация: повторить ошибки</Text>}
    </View>)}
+  </Panel>
+  <Panel><Heading>Адресное повторение</Heading>
+    <Note>Повторяем конкретные ошибки и задания, срок которых наступил. Проверяем только письменные ответы и чтение; аудирование по-прежнему требует подтверждённого звука.</Note>
+    {reviewDue.length===0?<Text style={s.body}>Сейчас нет заданий к повторению. Новые сроки появятся после учебных проверок.</Text>:
+     <><Text style={s.eyebrow}>{reviewDue.length} заданий · {reviewDue[0].lessonId}</Text>
+       <Text style={s.h3}>{reviewDue[0].title}</Text>
+       <Text style={s.body}>{reviewDue[0].task.prompt}</Text>
+       {!!reviewDue[0].task.options?.length?learning.optionsFor(reviewDue[0].task).map((x,i)=>
+        <Pressable key={i} onPress={()=>{setReviewAnswer(x);setReviewResult(null);}} style={[s.option,reviewAnswer===x&&s.optionSelected]}><Text style={s.body}>{x}</Text></Pressable>):
+        <TextInput style={s.input} value={reviewAnswer} onChangeText={v=>{setReviewAnswer(v);setReviewResult(null);}} placeholder="Ответ на испанском" placeholderTextColor={colors.muted} autoCapitalize="none" autoCorrect={false}/>}
+       {reviewResult?.taskId===reviewDue[0].id?<><Text style={s.h3}>{reviewResult.ok?'Верно':'Нужно повторить'}</Text><Text style={s.spanish}>Ответ: {reviewResult.expected}</Text><Note>{reviewResult.explanation}</Note><Action onPress={finishReview}>Записать результат и продолжить</Action></>:
+        <Action onPress={submitReview}>Проверить повторение</Action>}
+     </>}
   </Panel>
   <Panel><Heading>Пройденные уроки</Heading>
    {learning.COURSE.lessons.map(l=>{const p=learning.lessonProgress(store,l.id);return <View key={l.id} style={s.section}><Text style={s.body}>{p.completed?'✓':'○'} {l.id} · {l.title}</Text><Note>Заданий с результатом: {p.done}/{p.total}; проверенных: {p.correct}/{p.checked}</Note></View>;})}
