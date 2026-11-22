@@ -1,0 +1,70 @@
+/* R7 optional web study cockpit; no rewriting R6 views or session state. */
+(function () {
+  'use strict';
+  if (typeof document === 'undefined' || typeof MiAdaptiveCore === 'undefined' ||
+      typeof MiAdaptiveBridge === 'undefined' || typeof StateStore === 'undefined') return;
+  const core=MiAdaptiveCore,bridge=MiAdaptiveBridge;
+  const dateLocal=()=>{
+    const now=new Date(),x=new Date(now.getTime()-now.getTimezoneOffset()*60000);
+    return x.toISOString().slice(0,10);
+  };
+  const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const mount=document.createElement('aside');
+  mount.id='mi-r7';mount.style.cssText='position:fixed;z-index:9999;right:12px;bottom:12px;max-width:min(420px,calc(100vw - 24px));font:15px system-ui,sans-serif;color:#18293c';
+  // Imported data can be malformed: never overwrite them to "repair" automatically.
+  let opened=false,notice='';
+  function snapshot() {return StateStore.loadProgress();}
+  function persist(next) {StateStore.saveProgress(next);}
+  function render() {
+    const day=dateLocal();
+    if(!opened){mount.innerHTML='<button type="button" data-r7-toggle style="padding:13px 18px;border-radius:30px;background:#173b63;color:white;border:0;box-shadow:0 3px 16px #0003">📚 Мой день · R7</button>';return;}
+    try {
+      const progress=snapshot(),a=bridge.read(progress);
+      const due=bridge.dueFromReviews(progress,day);
+      const plan=core.dailyPlan({day,availableMinutes:a.availableMinutes,due,nextLessonId:null});
+      const report=core.weekSummary(a.events,day);
+      const rows=plan.assignments.map(x=>'<li>'+escape(x.id)+' · повторение ~'+x.estimatedMinutes+' мин</li>').join('');
+      mount.innerHTML='<div role="region" aria-label="Mi Español R7" style="background:#fff;border:1px solid #cbd5e1;border-radius:17px;box-shadow:0 10px 35px #0004;padding:16px;max-height:80vh;overflow:auto">'+
+        '<div style="display:flex;justify-content:space-between;align-items:center;gap:12px"><b>Mi Español · Мой день</b><button type="button" data-r7-toggle aria-label="Закрыть">✕</button></div>'+
+        '<p style="font-size:12px">R7 — экспериментальный адаптивный экран. Прежние уроки и результаты не изменяются.</p>'+
+        '<label>Доступное время, минут <input aria-label="Доступные минуты" data-r7-minutes type="number" min="0" max="180" step="1" value="'+a.availableMinutes+'" style="max-width:75px"></label> <button type="button" data-r7-save-minutes>Сохранить</button>'+
+        '<h3>Повторения на '+day+'</h3>'+(rows?'<ul>'+rows+'</ul>':'<p>Срок повторения уроков не наступил или данных ещё нет.</p>')+
+        '<p>Отложенные повторения: '+plan.deferredReviews+'. Ничего не списывается за пропуск.</p>'+
+        '<h3>Фактические занятия за 7 дней</h3>'+
+        '<p>'+report.minutes+' мин · '+report.activeDays+' дней · '+report.wordsPracticed+' слов в практике · '+report.correct+'/'+report.attempted+' объективно проверенных ответов</p>'+
+        '<p style="font-size:12px">Это статистика только новых записей R7, а не всех исторических занятий.</p>'+
+        '<h3>Записать реальное занятие</h3><form data-r7-form>'+
+        '<label>Навык <select name="skill"><option value="vocabulary">Слова</option><option value="grammar">Грамматика</option><option value="reading">Чтение</option><option value="listening">Аудирование</option><option value="writing">Письмо</option><option value="speaking">Разговор</option></select></label>'+
+        '<label> Минут <input name="minutes" type="number" min="0" max="180" step="1" value="10" required style="max-width:65px"></label>'+
+        '<label> Слов в практике <input name="words" type="number" min="0" max="500" step="1" value="0" required style="max-width:65px"></label>'+
+        '<p><button type="submit">Записать фактический результат</button></p></form>'+
+        (notice?'<p role="status">'+escape(notice)+'</p>':'')+
+        '<button type="button" data-r7-toggle>Вернуться к обучению</button></div>';
+    }catch(err){
+      mount.innerHTML='<div style="background:#fff;padding:16px;border:2px solid #b91c1c;border-radius:12px" role="alert">R7 не может прочитать данные: '+escape(err.message)+'. Прежний прогресс не изменён. <button data-r7-toggle>Закрыть</button></div>';
+    }
+  }
+  document.body.appendChild(mount);
+  mount.addEventListener('click',e=>{
+    const b=e.target.closest('button');if(!b)return;
+    if(b.hasAttribute('data-r7-toggle')){opened=!opened;notice='';render();return;}
+    if(b.hasAttribute('data-r7-save-minutes')) {
+      try {const n=Number(mount.querySelector('[data-r7-minutes]').value);
+        if(!Number.isInteger(n))throw Error('Укажите целое количество минут');
+        persist(bridge.setMinutes(snapshot(),n));notice='План обновлён';}
+      catch(err){notice=err.message;}render();
+    }
+  });
+  mount.addEventListener('submit',e=>{
+    if(!e.target.matches('[data-r7-form]'))return;e.preventDefault();
+    try{
+      const form=new FormData(e.target),minutes=Number(form.get('minutes')),words=Number(form.get('words'));
+      if(!Number.isInteger(minutes)||minutes<0||minutes>180||!Number.isInteger(words)||words<0||words>500)throw Error('Проверьте минуты и количество слов');
+      const id='r7-'+(globalThis.crypto?.randomUUID?.()||Date.now()+'-'+Math.random().toString(36).slice(2));
+      const event={id,day:dateLocal(),skill:form.get('skill'),minutes,words,attempted:0,correct:0,objective:false};
+      persist(bridge.add(snapshot(),event,core));notice='Занятие записано; знания не начислены без проверки';}
+    catch(err){notice=err.message;}render();
+  });
+  document.addEventListener('mi-progress-imported',()=>{if(opened)render();});
+  render();
+})();
