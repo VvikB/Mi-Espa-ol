@@ -45,3 +45,46 @@ test('skill advice is evidence-based and cannot treat speech self-assessment as 
  assert.equal(result.find(x=>x.id==='speaking').correct,0);
  assert.equal(result.find(x=>x.id==='speaking').selfAssessed,1);
 });
+
+test('day pulse counts actual work, not assigned work or self-assessed success',()=>{
+ const day='2026-11-23';
+ const journal=[
+  {id:'a',day,skill:'vocabulary',minutes:5,words:30,attempted:0,correct:0,objective:false},
+  {id:'b',day,skill:'speaking',minutes:25,words:0,attempted:4,correct:4,selfAssessed:true},
+  {id:'c',day,skill:'reading',minutes:0,words:0,attempted:3,correct:2,objective:true},
+  {id:'old',day:'2026-11-22',skill:'grammar',minutes:45,words:0}
+ ];
+ const source=JSON.stringify(journal);
+ const pulse=core.dayProgress(journal,day,15);
+ assert.equal(pulse.actualMinutes,30);
+ assert.equal(pulse.wordsPracticed,30);
+ assert.equal(pulse.attempted,3);
+ assert.equal(pulse.correct,2);
+ assert.equal(pulse.exceededSuggestion,true);
+ assert.equal(pulse.remainingSuggestedMinutes,0);
+ assert.equal(JSON.stringify(journal),source);
+});
+test('day pulse records a valid zero-minute day without fabricated credit',()=>{
+ const pulse=core.dayProgress([],'2026-11-23',0);
+ assert.equal(pulse.actualMinutes,0);
+ assert.equal(pulse.activities,0);
+ assert.equal(pulse.exceededSuggestion,false);
+ assert.throws(()=>core.dayProgress([],'2026-11-23',181));
+});
+test('due planner skips oversized review but offers affordable later review',()=>{
+ const plan=core.dailyPlan({day:'2026-11-23',availableMinutes:2,
+ due:[{id:'big',dueDay:'2026-11-20',estimatedMinutes:5},
+      {id:'small',dueDay:'2026-11-21',estimatedMinutes:2}],nextLessonId:'A1-01'});
+ assert.deepEqual(plan.assignments.map(a=>a.id),['small']);
+ assert.equal(plan.assignedMinutes,2);
+ assert.equal(plan.deferredReviews,1);
+});
+test('due planner deduplicates repeated IDs and never overcommits time',()=>{
+ const plan=core.dailyPlan({day:'2026-11-23',availableMinutes:10,
+ due:[{id:'same',dueDay:'2026-11-20',estimatedMinutes:2},
+      {id:'same',dueDay:'2026-11-21',estimatedMinutes:2}],nextLessonId:'A1-01'});
+ assert.equal(plan.assignments.filter(a=>a.id==='same').length,1);
+ assert.equal(plan.deferredReviews,0);
+ assert.equal(plan.assignedMinutes,10);
+ assert.equal(plan.assignments.reduce((n,a)=>n+a.estimatedMinutes,0),10);
+});
