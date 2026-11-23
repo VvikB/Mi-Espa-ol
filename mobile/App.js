@@ -176,6 +176,7 @@ export default function App(){
  if(loadError)return <View style={s.loading}><Text style={s.h2}>Не удалось открыть сохранённые данные</Text><Note>{loadError}</Note><Note>Мы не обнуляем и не заменяем неизвестный прогресс. Проверь предыдущую версию или обратись к отчёту разработчика.</Note></View>;
  if(!store)return <View style={s.loading}><ActivityIndicator/><Text>Загрузка Mi Español…</Text></View>;
  const profile=bridge.read(store),course=learning.read(store),report=adaptive.weekSummary(profile.events,today());
+ const dailyPulse=adaptive.dayProgress(profile.events,today(),profile.availableMinutes);
  const calendar=adaptive.activityCalendar(profile.events,today(),28);
  const skillEvidence=adaptive.skillEvidence(profile.events,today());
  const skillNames=Object.fromEntries(SKILLS);
@@ -201,6 +202,8 @@ export default function App(){
   <Panel><Heading>Сегодня · {today()}</Heading><Note>Время — ориентир, а не обязательный норматив. Пропущенные занятия не считаются поражением.</Note>
    <View style={s.inline}><TextInput value={minutes} onChangeText={setMinutes} keyboardType="number-pad" accessibilityLabel="Доступные минуты" style={[s.input,{width:90}]}/><Action onPress={()=>{const n=Number(minutes);if(!Number.isInteger(n)||n<0||n>180)return Alert.alert('Время','Введите от 0 до 180 минут');save(bridge.setMinutes(store,n));}}>Сохранить</Action></View>
    <Note>Выделено: {profile.availableMinutes} минут · карточек к повторению: {nextWordReview(course)}</Note>
+   <Text style={s.body}>Сегодня: записано {format(dailyPulse.actualMinutes)} мин из ориентировочных {dailyPulse.plannedMinutes} мин · {dailyPulse.wordsPracticed} слов в практике.</Text>
+   <Note>Осталось по ориентиру: {format(dailyPulse.remainingSuggestedMinutes)} мин. Заниматься больше можно; записанное время не подтверждает правильность ответов.</Note>
    <Action secondary onPress={testVoice}>🔊 Проверить испанский звук</Action>
    <Note>{speechStatus}</Note>
   </Panel>
