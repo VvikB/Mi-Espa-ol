@@ -55,18 +55,24 @@
     const day = config && config.day;
     if (!isDay(day)) throw new Error('Daily plan requires day');
     const available = Math.min(180, nonneg(config.availableMinutes === undefined ? 15 : config.availableMinutes));
-    const due = (Array.isArray(config.due) ? config.due : []).filter(x => x && typeof x.id === 'string' && isDay(x.dueDay) && x.dueDay <= day).slice().sort((a,b) => a.dueDay.localeCompare(b.dueDay) || a.id.localeCompare(b.id));
+    const due = (Array.isArray(config.due) ? config.due : []).filter(x => x && typeof x.id === 'string' && x.id.trim() && isDay(x.dueDay) && x.dueDay <= day).slice().sort((a,b) => a.dueDay.localeCompare(b.dueDay) || a.id.localeCompare(b.id));
+    // One task may be surfaced from multiple sources; never assign it twice.
+    const uniqueDue = due.filter((item,index) => due.findIndex(x => x.id === item.id) === index);
     const assignments = [];
     let remaining = available;
-    for (const item of due) {
+    for (const item of uniqueDue) {
       if (remaining <= 0) break;
-      const duration = Math.max(1, Math.min(5, nonneg(item.estimatedMinutes || 2)));
-      if (duration > remaining) break;
+      const duration = Math.max(1, Math.min(5, nonneg(item.estimatedMinutes ?? 2)));
+      // An expensive review must not block a later, shorter due review.
+      if (duration > remaining) continue;
       assignments.push({kind: 'review', id: item.id, estimatedMinutes: duration});
       remaining -= duration;
     }
-    if (remaining >= 5 && config.nextLessonId) assignments.push({kind:'lesson', id: config.nextLessonId, estimatedMinutes: remaining});
-    return {day, availableMinutes: available, assignedMinutes: available - remaining + (remaining >= 5 && config.nextLessonId ? remaining : 0), assignments, deferredReviews: Math.max(0, due.length - assignments.filter(a => a.kind === 'review').length)};
+    if (remaining >= 5 && typeof config.nextLessonId === 'string' && config.nextLessonId.trim()) {
+      assignments.push({kind:'lesson', id: config.nextLessonId, estimatedMinutes: remaining});
+      remaining = 0;
+    }
+    return {day, availableMinutes: available, assignedMinutes: available - remaining, assignments, deferredReviews: Math.max(0, uniqueDue.length - assignments.filter(a => a.kind === 'review').length)};
   }
 
   // Reporting is based on declared work, not inferred mastery. Every day is local YYYY-MM-DD.
@@ -102,5 +108,18 @@
       recommendation:x.attempted>=5&&x.correct/x.attempted<.7?'repeat_errors':
       x.activeDays===0?'try_practice':'continue'}));
   }
-  return Object.freeze({normalizeEvent, addEvent, weekSummary, dailyPlan, activityCalendar, skillEvidence});
+  // Planned time is guidance; it is never treated as completed work.
+  function dayProgress(journal, day, plannedMinutes=15) {
+    if (!isDay(day) || !Number.isInteger(plannedMinutes) || plannedMinutes < 0 || plannedMinutes > 180)
+      throw Error('Invalid daily progress parameters');
+    const events=(Array.isArray(journal)?journal:[]).filter(e=>e && e.day===day);
+    const minutes=events.reduce((sum,e)=>sum+nonneg(e.minutes),0);
+    const wordsPracticed=events.reduce((sum,e)=>sum+count(e.words),0);
+    const attempted=events.reduce((sum,e)=>sum+(e.objective===true&&!e.selfAssessed?count(e.attempted):0),0);
+    const correct=events.reduce((sum,e)=>sum+(e.objective===true&&!e.selfAssessed?count(e.correct):0),0);
+    return {day,plannedMinutes,actualMinutes:minutes,wordsPracticed,activities:events.length,
+      attempted,correct,remainingSuggestedMinutes:Math.max(0,plannedMinutes-minutes),
+      exceededSuggestion:minutes>plannedMinutes};
+  }
+  return Object.freeze({normalizeEvent, addEvent, weekSummary, dailyPlan, dayProgress, activityCalendar, skillEvidence});
 });
