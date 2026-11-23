@@ -26,6 +26,7 @@
       const nextLesson=lessons.find(l=>!progress.miJourney3?.lessonReviews?.[l.id]?.cycleCompletedAt)?.id||null;
       const plan=core.dailyPlan({day,availableMinutes:a.availableMinutes,due,nextLessonId:nextLesson});
       const report=core.weekSummary(a.events,day);
+      const pulse=core.dayProgress(a.events,day,a.availableMinutes);
       const calendar=core.activityCalendar(a.events,day,28);
       const evidence=core.skillEvidence(a.events,day);
       const todayDue=Object.entries(progress.miJourney3?.taskReviews||{}).filter(([id,r])=>r&&typeof r.next==='number'&&r.next<=Date.now()&&(r.needsWork||r.steps>=0)).length;
@@ -44,6 +45,8 @@
         (plan.assignments.some(x=>x.kind==='lesson')?'<button type="button" data-r7-new-lesson="'+escape(nextLesson)+'">Продолжить новый урок</button>':'')+ 
         (lessonReviewButtons?'<h3>Повторить конкретные задания</h3>'+lessonReviewButtons:'')+
         (todayDue?'<button type="button" data-r7-go-reviews>Посмотреть все результаты и ошибки</button>':'')+
+        '<h3>Сегодня: план и факт</h3><p>Ориентир: '+pulse.plannedMinutes+' мин · записано: '+pulse.actualMinutes+' мин · слов в практике: '+pulse.wordsPracticed+'</p>'+
+        '<p style="font-size:12px">Осталось по ориентиру: '+pulse.remainingSuggestedMinutes+' мин. Если занимаешься больше — это нормально. Запись минут не означает успешную сдачу заданий.</p>'+
         '<h3>Фактические занятия за 7 дней</h3>'+
         '<p>'+report.minutes+' мин · '+report.activeDays+' дней · '+report.wordsPracticed+' слов в практике · '+report.correct+'/'+report.attempted+' объективно проверенных ответов</p>'+
         '<p style="font-size:12px">Это статистика только новых записей R7, а не всех исторических занятий.</p>'+
